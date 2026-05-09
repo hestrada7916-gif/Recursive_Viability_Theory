@@ -1,0 +1,141 @@
+{
+  "object_id": "reachable_future_accessibility_structure",
+  "title": "Reachable Future Accessibility Structure",
+  "status": "canonical_kernel",
+  "framework_layer": "recursive_accessibility_geometry",
+  "framework_family": [
+    "RAG",
+    "RVT",
+    "VTFA"
+  ],
+  "layer_order": 1,
+  "canonical_statement": "Adaptive viability is governed by preservation of recursively recoverable future accessibility geometry.",
+  "definition": {
+    "name": "reachable_future_accessibility_structure",
+    "symbol": "\\mathcal R^+(x,t;T)",
+    "statement": "The reachable future accessibility structure is the set of survivably reachable future states accessible from a recursively indexed system state over a finite recursive horizon under admissible dynamics.",
+    "formal_definition": "\\mathcal R^+(x,t;T)\\subseteq\\mathcal X",
+    "domain": {
+      "state_space": "\\mathcal X",
+      "recursive_time_space": "\\mathbb T",
+      "indexed_state": "(x,t)\\in\\mathcal X\\times\\mathbb T",
+      "future_horizon": "T>0"
+    },
+    "terms": {
+      "x": "current system state",
+      "t": "current recursive time",
+      "T": "finite future horizon",
+      "\\mathcal X": "admissible state space",
+      "\\mathbb T": "recursive time index set",
+      "\\mathcal R^+(x,t;T)": "reachable future accessibility structure over horizon T"
+    }
+  },
+  "admissible_reachability": {
+    "statement": "A future state belongs to the reachable future accessibility structure if and only if there exists an admissible trajectory from the current state to that future state satisfying survivability constraints throughout recursive evolution.",
+    "membership_condition": "y\\in\\mathcal R^+(x,t;T)",
+    "trajectory": {
+      "symbol": "\\gamma",
+      "type": "admissible_trajectory",
+      "domain": "[t,t+T]",
+      "codomain": "\\mathcal X",
+      "formal_type": "\\gamma:[t,t+T]\\to\\mathcal X",
+      "boundary_conditions": [
+        "\\gamma(t)=x",
+        "\\gamma(t+T)=y"
+      ]
+    },
+    "survivability_constraint": {
+      "viability_set": "\\mathcal V_s",
+      "condition": "\\gamma(s)\\in\\mathcal V_s\\quad\\forall s\\in[t,t+T]",
+      "interpretation": "The trajectory remains within admissible survivability constraints throughout the recursive horizon."
+    }
+  },
+  "accessibility_measure": {
+    "name": "reachable_future_accessibility_measure",
+    "symbol": "V^+(x,t;T)",
+    "definition": "Reachable future accessibility measure quantifies survivably reachable adaptive future accessibility.",
+    "formal_definition": "V^+(x,t;T)=\\mu(\\mathcal R^+(x,t;T))",
+    "measure": {
+      "symbol": "\\mu",
+      "status": "admissible_measure_class",
+      "interpretation": "An admissible measure over reachable future accessibility structure."
+    },
+    "depends_on": [
+      "\\mathcal R^+(x,t;T)",
+      "\\mu"
+    ]
+  },
+  "accessibility_geometry": {
+    "statement": "The reachable future accessibility structure induces a local accessibility geometry through the gradient of reachable future accessibility measure.",
+    "local_geometry": "\\nabla V^+(x,t;T)",
+    "governs": [
+      "accessibility_expansion",
+      "accessibility_compression",
+      "admissible_transport",
+      "recoverability",
+      "metastability",
+      "accessibility_trapping",
+      "collapse_flow_structure"
+    ]
+  },
+  "recursive_accessibility_fiber_structure": {
+    "statement": "Each recursively indexed state carries a local future accessibility fiber.",
+    "fiber": "\\mathcal R^+(x,t;T)",
+    "base_space": "\\mathcal X\\times\\mathbb T",
+    "interpretation": "Adaptive systems evolve through recursive deformation of recoverable accessibility fibers under recursive constraint.",
+    "persistence_condition": "preservation_of_recoverably_accessible_fiber_continuity",
+    "collapse_condition": "exhaustion_or_degeneration_of_recoverable_future_accessibility_fibers"
+  },
+  "accessibility_evolution": {
+    "evolution_quantity": "\\frac{d}{dt}V^+(x,t;T)",
+    "viability_compression": {
+      "condition": "\\frac{d}{dt}V^+(x,t;T)<0",
+      "interpretation": "Reachable adaptive futures are contracting."
+    },
+    "irreversible_collapse": {
+      "condition": "V^+(x,t;T)\\to0",
+      "interpretation": "Recoverable future accessibility is exhausted."
+    }
+  },
+  "interpretation": {
+    "statement": "The reachable future accessibility structure constitutes the primary geometric object governing recursive adaptive viability.",
+    "meaning": "Adaptive persistence depends fundamentally on preservation of recoverably reachable future-state structure under recursive constraint.",
+    "distinction": "Adaptive viability is governed not merely by instantaneous state retention, but by preservation of recursively recoverable future accessibility geometry."
+  },
+  "deep_compression": [
+    "Adaptive viability is the geometry of recoverable future accessibility.",
+    "Adaptive systems persist by preserving survivably reachable futures.",
+    "Persistence corresponds to preservation of recoverably accessible future structure.",
+    "Collapse begins when reachable futures contract.",
+    "Collapse corresponds to exhaustion of recoverable future accessibility.",
+    "Adaptive systems evolve through deformation of recoverable future accessibility fibers."
+  ],
+  "dependency_position": {
+    "precedes": [
+      "recursive_viability_dynamics",
+      "coordination_phase_dynamics",
+      "empirical_estimators",
+      "interpretive_ontology"
+    ],
+    "supports": [
+      "reachable_future_state_measure",
+      "three_phase_viability_structure",
+      "metastable_coordination_principle",
+      "future_accessibility_reduction_law"
+    ]
+  },
+  "governance_constraints": {
+    "non_teleological": true,
+    "non_deterministic": true,
+    "substrate_invariant": true,
+    "requires_admissibility_conditions": true,
+    "interpretation_is_downstream": true
+  },
+  "open_formalization_items": [
+    "Define viability set \\mathcal V_s explicitly.",
+    "Specify admissible measure class \\mu.",
+    "Formalize accessibility evolution operator.",
+    "Define fiber continuity and degeneracy conditions."
+  ],
+  "one_sentence_lock": "Adaptive viability is governed by preservation of recursively recoverable future accessibility geometry."
+}
