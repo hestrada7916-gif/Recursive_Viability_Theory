@@ -1,0 +1,399 @@
+{
+  "metadata": {
+    "registry_name": "VTFA Canonical Registry",
+    "registry_version": "1.0.0",
+    "framework_name": "Viable Transformation Flow Architecture",
+    "parent_framework": "Recursive Viability Theory",
+    "abbreviation": "VTFA",
+    "status": "phase_1_locked_kernel",
+    "author": "Holly",
+    "date_created": "2026-05-07",
+    "description": "Canonical registry for VTFA observables, symbols, dependencies, phase definitions, empirical interfaces, and implementation governance."
+  },
+  "namespace_conventions": {
+    "theoretical_objects": "no suffix",
+    "estimated_objects": "_hat",
+    "proxy_objects": "_tilde",
+    "empirical_fits": "_emp",
+    "averaged_objects": "_bar",
+    "accumulated_objects": "calligraphic or explicit accumulated name",
+    "phase_labels": "terminal outputs only"
+  },
+  "architecture_layers": {
+    "layer_0": {
+      "name": "Adaptive Viability Geometry",
+      "pipeline": ["R_plus", "V_plus", "grad_V_plus", "v"]
+    },
+    "layer_1": {
+      "name": "Collapse and Alignment Dynamics",
+      "pipeline": ["v_collapse", "Phi_collapse", "A_dot", "A", "lambda_eff"]
+    },
+    "layer_2": {
+      "name": "Interpretive Topology",
+      "pipeline": ["Omega_rec", "V_read_plus", "D_eff", "H_pi"]
+    },
+    "layer_3": {
+      "name": "Collective Coordination Dynamics",
+      "pipeline": ["policy_field", "collective_motion", "coordination_modes"]
+    }
+  },
+  "core_objects": {
+    "R_plus": {
+      "symbol": "\\mathcal{R}^+",
+      "name": "reachable_future_set",
+      "type": "geometric_object",
+      "object_status": "theoretical",
+      "observability_class": "latent",
+      "definition": "Reachable future-state set over horizon T.",
+      "equation": "\\mathcal{R}^+(x,t;T)",
+      "primitive": true,
+      "units": "state-space subset",
+      "owned_by_notebook": "00_canonical",
+      "allowed_aliases": ["reachable futures", "reachable future-state set"],
+      "prohibited_aliases": ["generic possibility space"]
+    },
+    "V_plus": {
+      "symbol": "V^+",
+      "name": "reachable_future_measure",
+      "type": "observable",
+      "object_status": "theoretical",
+      "observability_class": "latent",
+      "definition": "Measure of reachable future-state volume.",
+      "equation": "V^+(x,t;T)=\\mu(\\mathcal{R}^+(x,t;T))",
+      "depends_on": ["R_plus", "mu"],
+      "primitive": false,
+      "units": "measure",
+      "owned_by_notebook": "00_canonical",
+      "allowed_aliases": ["reachable future-state measure", "future accessibility"],
+      "prohibited_aliases": ["Vhat_plus", "proxy accessibility"]
+    },
+    "Vhat_plus": {
+      "symbol": "\\widehat V^+",
+      "name": "reachable_future_proxy",
+      "type": "computational_estimator",
+      "object_status": "estimated",
+      "observability_class": "indirect",
+      "target_object": "V_plus",
+      "definition": "Empirical estimator or proxy for reachable future-state measure.",
+      "owned_by_notebook": "01B_observable_estimation",
+      "serialization_field": "Vhat_plus"
+    },
+    "grad_V_plus": {
+      "symbol": "\\nabla V^+",
+      "name": "accessibility_gradient",
+      "type": "derived_geometric_field",
+      "object_status": "derived",
+      "observability_class": "reconstructed",
+      "definition": "Directional gradient of future accessibility.",
+      "depends_on": ["V_plus"],
+      "owned_by_notebook": "01D_accessibility_geometry"
+    },
+    "v": {
+      "symbol": "v",
+      "name": "system_flow_field",
+      "type": "dynamics_field",
+      "object_status": "empirical_or_model_defined",
+      "observability_class": "direct_or_reconstructed",
+      "definition": "State evolution vector field.",
+      "primitive": true,
+      "owned_by_notebook": "01A_synthetic_accessibility_geometry"
+    },
+    "v_collapse": {
+      "symbol": "v_{\\mathrm{collapse}}",
+      "name": "collapse_flow",
+      "type": "derived_dynamics",
+      "object_status": "derived",
+      "observability_class": "reconstructed",
+      "equation": "v_{\\mathrm{collapse}}\\sim-\\nabla V^+",
+      "depends_on": ["grad_V_plus"],
+      "owned_by_notebook": "01D_accessibility_geometry"
+    },
+    "Phi_collapse": {
+      "symbol": "\\Phi_{\\mathrm{collapse}}",
+      "name": "collapse_alignment",
+      "type": "phase_observable",
+      "object_status": "estimated",
+      "observability_class": "indirect",
+      "definition": "Alignment of realized flow with accessibility contraction geometry.",
+      "equation": "\\Phi_{\\mathrm{collapse}}=\\frac{\\langle v,-\\nabla V^+\\rangle}{\\|v\\|\\,\\|\\nabla V^+\\|}",
+      "depends_on": ["v", "grad_V_plus"],
+      "owned_by_notebook": "01B_observable_estimation",
+      "serialization_field": "Phi_collapse_hat"
+    },
+    "A_dot": {
+      "symbol": "\\dot{\\mathcal{A}}",
+      "name": "alignment_accumulation_rate",
+      "type": "dynamical_observable",
+      "object_status": "derived",
+      "observability_class": "indirect",
+      "equation": "\\dot{\\mathcal A}=F_{\\mathrm{coord}}h_m(\\chi,\\Phi_{\\mathrm{collapse}})",
+      "depends_on": ["F_coord", "chi", "Phi_collapse"],
+      "owned_by_notebook": "01B_observable_estimation"
+    },
+    "A": {
+      "symbol": "\\mathcal{A}",
+      "name": "accumulated_alignment_pressure",
+      "type": "integrated_observable",
+      "object_status": "latent",
+      "observability_class": "indirect",
+      "equation": "\\mathcal A(t)=\\int_0^t \\lambda_{\\mathrm{eff}}(u)du",
+      "depends_on": ["lambda_eff"],
+      "owned_by_notebook": "01B_observable_estimation"
+    },
+    "lambda_eff": {
+      "symbol": "\\lambda_{\\mathrm{eff}}",
+      "name": "effective_collapse_gain",
+      "type": "gain_parameter",
+      "object_status": "estimated_or_model_parameter",
+      "observability_class": "indirect",
+      "depends_on": ["F_coord", "chi", "Phi_collapse"],
+      "owned_by_notebook": "01B_observable_estimation"
+    },
+    "F_coord": {
+      "symbol": "F_{\\mathrm{coord}}",
+      "name": "coordination_stress",
+      "type": "stress_observable",
+      "object_status": "estimated",
+      "observability_class": "indirect",
+      "definition": "Structural stress or coordination curvature.",
+      "owned_by_notebook": "01B_observable_estimation"
+    },
+    "chi": {
+      "symbol": "\\chi",
+      "name": "transport_burden",
+      "type": "load_observable",
+      "object_status": "derived",
+      "observability_class": "indirect",
+      "owned_by_notebook": "01B_observable_estimation"
+    },
+    "Omega_rec": {
+      "symbol": "\\Omega_{\\mathrm{rec}}",
+      "name": "recovery_resistance",
+      "type": "recovery_observable",
+      "object_status": "estimated",
+      "observability_class": "indirect",
+      "definition": "Resistance to reopening accessible futures after compression.",
+      "owned_by_notebook": "01E_recovery_geometry",
+      "serialization_field": "Omega_recovery"
+    },
+    "A_E": {
+      "symbol": "A(E)",
+      "name": "balanced_asymmetry_kernel",
+      "type": "coordination_kernel",
+      "object_status": "derived",
+      "observability_class": "estimated_or_theoretical",
+      "equation": "A(E)=E(1-E)",
+      "depends_on": ["E"],
+      "owned_by_notebook": "00_canonical",
+      "prohibited_aliases": ["accumulated alignment pressure", "alignment pressure"]
+    },
+    "Xi": {
+      "symbol": "\\Xi",
+      "name": "coordination_invariant",
+      "type": "coordination_metric",
+      "object_status": "derived",
+      "observability_class": "indirect",
+      "equation": "\\Xi(E,\\Psi,\\Theta)=\\frac{E(1-E)}{\\Psi(1+\\Theta)}",
+      "reduced_equation": "\\Xi(E,\\Theta)=\\frac{E(1-E)}{1+\\Theta}",
+      "depends_on": ["E", "Psi", "Theta"],
+      "owned_by_notebook": "01B_observable_estimation"
+    }
+  },
+  "coordination_definition": {
+    "symbol": "\\mathcal C",
+    "name": "coordination",
+    "canonical_statement": "Coordination is recoverable differentiated compatibility under recursive burden.",
+    "interpretation": {
+      "recoverable": "Compatibility remains sufficiently preservable or restorable under admissible dynamics.",
+      "differentiated": "Coordination does not require symmetry, uniformity, or identity.",
+      "compatibility": "Interacting structures remain mutually survivable across accessibility dynamics.",
+      "recursive_burden": "Coordination persists under accumulated transport, constraint, and accessibility compression pressures."
+    },
+    "implications": [
+      "Coordination does not eliminate differentiation.",
+      "Coordination does not require equilibrium.",
+      "Coordination may remain metastable.",
+      "Coordination may partially fragment while preserving local recoverability.",
+      "Loss of coordination progressively contracts recoverable accessibility."
+    ]
+  },
+  "kernel_hierarchy": {
+    "deepest_kernel": "Persistence equals recoverable differentiated accessibility.",
+    "dynamical_kernel": "Persistence emerges from coordinated differentiated tension.",
+    "optimization_kernel": "Maximum persistence occurs at balanced asymmetry.",
+    "canonical_principle": "Adaptive persistence requires retained directional asymmetry to exceed recursive constraint burden.",
+    "formal_condition": "\\mathcal P_{\\mathrm{surv}} > \\xi_c",
+    "coordinate_realization": "\\Xi(E,\\Theta)=\\frac{E(1-E)}{1+\\Theta}"
+  },
+  "master_equations": [
+    {
+      "name": "future_accessibility_measure",
+      "equation": "V^+(x,t;T)=\\mu(\\mathcal{R}^+(x,t;T))"
+    },
+    {
+      "name": "future_accessibility_reduction_law",
+      "equation": "\\frac{d}{dt}V^+ = -\\dot{\\mathcal A}V^+"
+    },
+    {
+      "name": "alignment_accumulation_dynamics",
+      "equation": "\\dot{\\mathcal A}=F_{\\mathrm{coord}}h_m(\\chi,\\Phi_{\\mathrm{collapse}})"
+    },
+    {
+      "name": "collapse_flow_relation",
+      "equation": "v_{\\mathrm{collapse}}\\sim-\\nabla V^+"
+    },
+    {
+      "name": "balanced_asymmetry_kernel",
+      "equation": "A(E)=E(1-E)"
+    }
+  ],
+  "accessibility_evolution_law": {
+    "symbol": "\\frac{d}{dt}V^+(x,t;T)",
+    "type": "core_dynamical_law",
+    "definition": "Evolution law governing how survivably reachable future-state accessibility changes under recursive viability dynamics.",
+    "general_form": "\\frac{d}{dt}V^+(x,t;T)=\\mathcal F(\\Theta,\\mathcal A_{\\mathrm{dir}},\\mathcal B_{\\mathrm{rec}},\\chi,\\lambda_{\\mathrm{eff}},E,t)",
+    "compression_condition": "\\frac{d}{dt}V^+(x,t;T)<0",
+    "collapse_limit": "V^+(x,t;T)\\to0"
+  },
+  "phase_taxonomy": {
+    "viable": {
+      "criteria": ["dVhat_plus_dt >= 0", "Vhat_plus high", "Phi_collapse_hat low", "Omega_rec low"],
+      "terminal_label": true
+    },
+    "compressed": {
+      "criteria": ["dVhat_plus_dt < 0", "Vhat_plus > 0", "Omega_rec moderate"],
+      "terminal_label": true
+    },
+    "critical": {
+      "criteria": ["Phi_collapse_hat near 1", "Omega_rec high", "Vhat_plus low_or_rapidly_declining"],
+      "terminal_label": true
+    },
+    "collapsed": {
+      "criteria": ["Vhat_plus approximately_equals 0", "Phi_collapse_hat approximately_equals 1", "Omega_rec very_high"],
+      "terminal_label": true
+    },
+    "recovering": {
+      "criteria": ["dVhat_plus_dt > 0", "dPhi_collapse_hat_dt < 0", "dOmega_rec_dt < 0"],
+      "terminal_label": true
+    }
+  },
+  "empirical_estimators": {
+    "Vhat_plus": {
+      "name": "reachable_future_proxy",
+      "target_object": "V_plus",
+      "type": "computational_estimator",
+      "equation": "\\widehat V^+=(1-\\widehat F_{\\mathrm{coord}})(1-\\widehat A_{\\mathrm{align}})(1-\\widehat\\Phi_{\\mathrm{collapse}})",
+      "depends_on": ["F_coord_hat", "A_align_hat", "Phi_collapse_hat"],
+      "serialization_field": "Vhat_plus"
+    },
+    "Phi_collapse_hat": {
+      "name": "collapse_alignment_estimator",
+      "target_object": "Phi_collapse",
+      "depends_on": ["directional_narrowing", "trajectory_convergence", "attractor_persistence", "basin_locking"],
+      "serialization_field": "Phi_collapse_hat"
+    },
+    "Omega_recovery": {
+      "name": "recovery_resistance_estimator",
+      "target_object": "Omega_rec",
+      "depends_on": ["escape_difficulty", "recovery_delay", "reopening_threshold", "post_compression_branching_gain"],
+      "serialization_field": "Omega_recovery"
+    }
+  },
+  "dependency_rules": {
+    "primitive_objects": ["R_plus", "mu", "v", "x", "t", "T"],
+    "derived_objects": ["V_plus", "grad_V_plus", "v_collapse", "Phi_collapse", "A_dot", "A", "Xi"],
+    "estimated_objects": ["Vhat_plus", "Phi_collapse_hat", "Omega_recovery"],
+    "phase_labels_are_terminal": true,
+    "phase_labels_must_not_feed_estimators": true,
+    "no_circular_dependencies": true,
+    "no_new_object_without_registry_entry": true,
+    "if_not_serializable_not_operational": true
+  },
+  "repo_structure": {
+    "00_canonical": "locked_kernel",
+    "01A_synthetic_accessibility_geometry": "synthetic_system_generation",
+    "01B_observable_estimation": "observable_estimators_only",
+    "01C_phase_detection": "phase_labels_and_transition_times",
+    "01D_accessibility_geometry": "surface_gradient_and_flow_reconstruction",
+    "01E_recovery_geometry": "recovery_and_reopening_analysis",
+    "02_results": "json_summaries_only",
+    "03_analysis": "statistical_and_geometric_analysis",
+    "04_reports": "paper_and_visual_generation",
+    "05_simulations": "runtime_models",
+    "06_observables": "observable_estimators_and_phase_detectors"
+  },
+  "json_schema_targets": {
+    "phase_1A_summary": {
+      "phase": "1A",
+      "system_id": "string",
+      "system_type": "stable_branching | compression | alignment_collapse | recovery_reopening",
+      "seed": "integer",
+      "time_horizon": "integer_or_float",
+      "parameters": "object",
+      "trajectory_summary": "object",
+      "output_files": "array"
+    },
+    "phase_1B_observable_summary": {
+      "phase": "1B",
+      "system_id": "string",
+      "seed": "integer",
+      "observables": {
+        "Vhat_plus": "array",
+        "branching_diversity": "array",
+        "Phi_collapse_hat": "array",
+        "Omega_recovery": "array",
+        "eta_stitch_hat": "array"
+      },
+      "scalar_summary": "object",
+      "normalization": "object",
+      "output_files": "array"
+    },
+    "phase_1C_phase_detection_summary": {
+      "phase": "1C",
+      "system_id": "string",
+      "seed": "integer",
+      "phase_labels": "array",
+      "transition_times": {
+        "t_compress": "number_or_null",
+        "t_commit": "number_or_null",
+        "t_obs": "number_or_null",
+        "t_recover": "number_or_null"
+      },
+      "warning_lags": {
+        "compression_to_observed": "number_or_null",
+        "commitment_to_observed": "number_or_null"
+      },
+      "hidden_collapse_detected": "boolean",
+      "output_files": "array"
+    }
+  },
+  "naming_conflicts": {
+    "A": {
+      "reserved_for": "A(E)=E(1-E), balanced asymmetry kernel",
+      "do_not_use_for": ["alignment pressure", "accessibility", "accumulation"]
+    },
+    "mathcal_A": {
+      "reserved_for": "accumulated alignment pressure",
+      "symbol": "\\mathcal A"
+    },
+    "R": {
+      "reserved_for": "PMM regulatory reserve only",
+      "do_not_use_for": ["residual", "recovery resistance"]
+    },
+    "Omega_rec": {
+      "reserved_for": "recovery resistance"
+    }
+  },
+  "minimal_phase_1_claims": [
+    "Accessibility compression is detectable before obvious collapse in synthetic compression systems.",
+    "Hidden collapse exists when t_compress < t_obs.",
+    "Alignment-driven collapse has a distinct signature through Phi_collapse_hat approaching 1.",
+    "Recovery reopens accessibility when dVhat_plus_dt > 0 after restoration of branching or reduction of alignment lock.",
+    "Recovery is not simply collapse reversal and may exhibit hysteresis."
+  ],
+  "governance_rule": {
+    "statement": "No new theoretical object enters Phase 1 unless it is assigned a symbol, name, object type, dependency role, estimator status, notebook ownership, and JSON serialization field.",
+    "short_form": "If it cannot be serialized, it is not yet operational."
+  },
+  "one_sentence_lock": "VTFA Phase 1 operationalizes the claim that adaptive collapse is preceded by measurable contraction of reachable future-state structure, and that recovery can be detected as reopening of accessibility rather than merely reversal of observed failure."
+}
