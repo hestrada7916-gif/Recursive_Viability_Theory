@@ -1,0 +1,193 @@
+{
+  "registry_name": "RVT Nested Triad Registry",
+  "version": "1.0.0",
+  "framework": "Recursive Viability Theory",
+  "status": "phase_1_structural_registry",
+
+  "master_principle": {
+    "name": "Nested triadic architecture of recursive viability",
+    "statement": "Recursive viability structures organize through nested triads of generation, stabilization, and continuation.",
+    "deep_compression": "Adaptive existence persists through recursively renewed triads of selectable futures, recoverable accessibility, and transformational continuity."
+  },
+
+  "triads": [
+    {
+      "id": "ontological_triad",
+      "name": "Ontological Triad",
+      "status": "canonical_foundation",
+      "terms": [
+        "existence",
+        "persistence",
+        "collapse"
+      ],
+      "definitions": {
+        "existence": "recursive renewal of selectable futures",
+        "persistence": "preservation of recoverable accessibility",
+        "collapse": "exhaustion of recursively renewable futures"
+      },
+      "role": "Defines the primary existence-persistence-collapse ontology of RVT."
+    },
+
+    {
+      "id": "accessibility_motion_triad",
+      "name": "Accessibility–Selection–Motion Triad",
+      "status": "canonical_foundation",
+      "terms": [
+        "possibility",
+        "selection",
+        "motion"
+      ],
+      "formal_chain": "possibility -> selection -> motion",
+      "role": "Defines how accessible futures become realized adaptive dynamics."
+    },
+
+    {
+      "id": "geometric_flow_triad",
+      "name": "Geometric Flow Triad",
+      "status": "formal_geometric",
+      "terms": [
+        "V_plus",
+        "grad_V_plus",
+        "v"
+      ],
+      "formal_chain": "V^+ -> ∇V^+ -> v",
+      "interpretation": {
+        "V_plus": "future accessibility structure",
+        "grad_V_plus": "directional viability geometry",
+        "v": "realized adaptive flow"
+      },
+      "role": "Formalizes the emergence of adaptive flow from accessibility geometry."
+    },
+
+    {
+      "id": "persistence_mechanism_triad",
+      "name": "Persistence Mechanism Triad",
+      "status": "canonical_mechanism",
+      "terms": [
+        "directional differentiation",
+        "survivability",
+        "accessibility preservation"
+      ],
+      "formal_chain": "directional differentiation -> survivability -> accessibility preservation -> persistence",
+      "role": "Explains how differentiated structure becomes persistent through survivability and future-accessibility preservation."
+    },
+
+    {
+      "id": "coordination_triad",
+      "name": "Coordination Triad",
+      "status": "canonical_coordination",
+      "terms": [
+        "differentiation",
+        "compatibility",
+        "recoverability"
+      ],
+      "result": "survivable differentiated coordination",
+      "role": "Defines coordination as recoverable differentiated compatibility under recursive burden."
+    },
+
+    {
+      "id": "recoverability_triad",
+      "name": "Recoverability Triad",
+      "status": "canonical_recovery",
+      "terms": [
+        "continuity",
+        "recoverability",
+        "rewovability"
+      ],
+      "role": "Defines recoverable transformational continuity and recursive reconstitution of accessibility fibers."
+    },
+
+    {
+      "id": "collapse_temporal_triad",
+      "name": "Temporal Collapse Triad",
+      "status": "canonical_collapse",
+      "terms": [
+        "compression",
+        "commitment",
+        "observable collapse"
+      ],
+      "formal_chain": "compression -> commitment -> observable collapse",
+      "role": "Distinguishes viability compression, hidden commitment, and externally observable collapse."
+    },
+
+    {
+      "id": "collapse_inverse_triad",
+      "name": "Collapse Inverse Triad",
+      "status": "collapse_dual",
+      "terms": [
+        "fragmentation",
+        "irrecoverability",
+        "unweavability"
+      ],
+      "role": "Defines the inverse pathway of recoverable accessibility degeneration."
+    },
+
+    {
+      "id": "fiber_geometry_triad",
+      "name": "Fiber Geometry Triad",
+      "status": "formal_geometric",
+      "terms": [
+        "reachable futures",
+        "transformational futures",
+        "recoverable accessibility fibers"
+      ],
+      "formal_objects": [
+        "\\mathcal R^+",
+        "\\mathcal T^+",
+        "\\mathcal F_{\\mathrm{rec}}"
+      ],
+      "role": "Defines the nested geometry of reachable states, admissible transformations, and recoverable continuation fibers."
+    },
+
+    {
+      "id": "regenerative_accessibility_triad",
+      "name": "Regenerative Accessibility Triad",
+      "status": "canonical_regeneration",
+      "terms": [
+        "reopening",
+        "reweaving",
+        "renewal"
+      ],
+      "role": "Defines how adaptive futures remain recursively regenerable after compression or perturbation."
+    }
+  ],
+
+  "dependency_map": {
+    "ontological_triad": [
+      "accessibility_motion_triad",
+      "recoverability_triad"
+    ],
+    "accessibility_motion_triad": [
+      "geometric_flow_triad"
+    ],
+    "geometric_flow_triad": [
+      "persistence_mechanism_triad"
+    ],
+    "persistence_mechanism_triad": [
+      "coordination_triad",
+      "fiber_geometry_triad"
+    ],
+    "coordination_triad": [
+      "metastable_coordination",
+      "survivable_differentiated_coordination"
+    ],
+    "recoverability_triad": [
+      "regenerative_accessibility_triad"
+    ],
+    "collapse_temporal_triad": [
+      "collapse_inverse_triad"
+    ],
+    "fiber_geometry_triad": [
+      "regenerative_accessibility_triad"
+    ]
+  },
+
+  "canonical_compressions": [
+    "Existence = recursive renewal of selectable futures.",
+    "Persistence = preservation of recoverable accessibility.",
+    "Collapse = exhaustion of recursively renewable futures.",
+    "Adaptive viability is the geometry of recoverable future transformational accessibility.",
+    "Recursive viability structures organize through nested triads of generation, stabilization, and continuation.",
+    "Collapse occurs when regenerative accessibility fibers can no longer be rewoven."
+  ]
+}
