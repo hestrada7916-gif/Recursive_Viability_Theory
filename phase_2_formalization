@@ -1,0 +1,108 @@
+{
+  "phase": "phase_2_formalization",
+
+  "title": "Recursive Viability Filtration Geometry",
+
+  "status": "active_research_direction",
+
+  "framework": "Recursive Viability Geometry",
+
+  "canonical_statement": "Recursive adaptive dynamics progressively filter future accessibility through viability-preserving deformation, coordination, fragmentation, collapse, and rewovability processes.",
+
+  "deep_compression": "Not all possible futures remain recoverable, stable, participatory, or viable under recursive deformation.",
+
+  "core_filtration": {
+    "equation": "\\mathcal F_{\\mathrm{active}} \\subseteq \\mathcal F_{\\mathrm{stable}} \\subseteq \\mathcal F_{\\mathrm{recoverable}} \\subseteq \\mathcal F_{\\mathrm{latent}} \\subseteq \\Omega_{\\mathrm{rec}}",
+
+    "interpretation": {
+      "latent": "structurally possible futures",
+      "recoverable": "reopenable futures",
+      "stable": "deformation-resistant futures",
+      "active": "currently participatory futures"
+    }
+  },
+
+  "primary_research_questions": [
+    "How are viable futures recursively filtered under deformation dynamics?",
+    "How do recursive burden and synchronization pressure contract future accessibility?",
+    "How does rewovability restore fragmented future accessibility?",
+    "How do accessibility topology and viability filtration interact?",
+    "What preserves plural stable recoverable future fibers?",
+    "How do observer-induced deformation dynamics alter viability filtration structure?"
+  ],
+
+  "major_formalization_targets": [
+    "accessibility topology",
+    "future accessibility filtration",
+    "rewovability operators",
+    "fragmentation geometry",
+    "topological recovery dynamics",
+    "observer-coupled deformation",
+    "survivable coordination selection",
+    "future-fiber transition dynamics",
+    "phase-regime geometry",
+    "recursive viability operators"
+  ],
+
+  "recursive_operators": {
+    "burden_filtration": "\\mathcal D_{\\mathrm{burden}}",
+    "observer_deformation": "\\mathcal D_{\\mathrm{obs}}",
+    "endogenous_deformation": "\\mathcal D_{\\mathrm{endo}}",
+    "fragmentation_operator": "\\mathcal D_{\\mathrm{frag}}",
+    "rewoven_reintegration_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "coordination_preservation_operator": "\\mathcal D_{\\mathrm{coord}}"
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse corresponds to degenerative filtration of future accessibility continuity.",
+
+    "processes": [
+      "future-fiber contraction",
+      "future-fiber fragmentation",
+      "future-fiber locking",
+      "future-fiber collapse",
+      "dimensional accessibility compression"
+    ]
+  },
+
+  "recovery_interpretation": {
+    "statement": "Recovery corresponds to reconstructive reintegration of recoverable future accessibility continuity.",
+
+    "processes": [
+      "rewovability",
+      "reconnectability restoration",
+      "recursive re-entry",
+      "participatory reintegration",
+      "stable future-fiber regeneration"
+    ]
+  },
+
+  "phase_2_objectives": [
+    "Formalize recursive viability filtration geometry.",
+    "Develop accessibility topology mathematics.",
+    "Construct future-fiber transition dynamics.",
+    "Define collapse and recovery topology operators.",
+    "Formalize synchronization compression dynamics.",
+    "Build toy simulation kernels.",
+    "Develop theorem candidates.",
+    "Bridge RVG with topology and dynamical systems theory."
+  ],
+
+  "theorem_candidates": [
+    "Topological collapse may persist beneath metric recovery.",
+    "Recursive burden progressively filters non-coordinated accessibility geometries from persistent viability.",
+    "Synchronization pressure contracts effective accessibility dimensionality.",
+    "Regenerative abundance corresponds to plural stable recoverable future fibers.",
+    "Recovery requires rewoven accessibility continuity."
+  ],
+
+  "canonical_compression": [
+    "Recursive viability geometry is a filtration geometry of future accessibility.",
+    "Collapse progressively filters viable futures.",
+    "Recovery rewovenly restores viable future accessibility.",
+    "Coordination preserves differentiated accessibility continuity.",
+    "Synchronization compresses accessibility dimensionality."
+  ],
+
+  "one_sentence_lock": "Recursive viability geometry progressively filters future accessibility through recursive deformation, coordination, collapse, and rewovability dynamics."
+}
