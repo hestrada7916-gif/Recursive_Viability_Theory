@@ -1,0 +1,22 @@
+{
+  "registry_name": "Empirical Estimators Registry",
+  "version": "1.0.0",
+  "status": "phase_1_scaffold",
+  "purpose": "Define measurable proxies for accessibility, reopenability, topology, and phase dynamics.",
+  "metric_estimators": {
+    "V_plus_proxy": "Reachable future-state accessibility proxy.",
+    "Omega_reopen_proxy": "Transformational reopenability proxy.",
+    "compression_rate": "Estimated rate of accessibility contraction."
+  },
+  "topological_estimators": {
+    "connected_components": "Estimated number of disconnected recoverable accessibility components.",
+    "bottleneck_width": "Estimated fragility of traversal corridors.",
+    "return_path_availability": "Estimated availability of survivable return pathways.",
+    "rewovability_score": "Estimated ability to restore connectivity after fragmentation."
+  },
+  "phase_estimators": {
+    "metastability_indicator": "Subcritical survivability with nonzero reopenability.",
+    "topological_precollapse_indicator": "Connectivity degeneration prior to metric exhaustion.",
+    "irreversible_collapse_indicator": "Loss of reopenable transformational continuity."
+  }
+}

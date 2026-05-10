@@ -1,0 +1,37 @@
+{
+  "registry_name": "VTFA Phase 1 Framework Index",
+  "version": "1.0.0",
+  "status": "phase_1_canonical_core",
+  "atomic_thesis": "Adaptive viability is the geometry of recoverable future transformational accessibility.",
+  "canonical_stack": [
+    "RAG — Recursive Accessibility Geometry",
+    "RVT — Recursive Viability Theory",
+    "SCT — Spectral Coordination Theory",
+    "PMM — Polyrhythmic Margin Model",
+    "Coordination Phase Dynamics",
+    "Empirical Estimators",
+    "Interpretive Ontology"
+  ],
+  "core_dependency_law": [
+    "Geometry constrains viability.",
+    "Viability constrains coordination.",
+    "Coordination generates phase dynamics.",
+    "Phase dynamics generate observables.",
+    "Observables constrain interpretation."
+  ],
+  "core_files": {
+    "atomic_thesis": "00_canonical/00_atomic_thesis/atomic_thesis_statement_v1.json",
+    "hierarchical_constraint_law": "00_canonical/00_atomic_thesis/hierarchical_constraint_law_v1.json",
+    "rag_registry": "00_canonical/01_recursive_accessibility_geometry/rag_registry_v1.json",
+    "reachable_future_accessibility": "00_canonical/01_recursive_accessibility_geometry/reachable_future_accessibility_structure_v1.json",
+    "reopenable_transformation_geometry": "00_canonical/02_reopenable_transformation_geometry/reopenable_transformation_geometry_v1.json",
+    "accessibility_topology": "00_canonical/03_accessibility_topology/accessibility_topology_registry_v1.json",
+    "rvt_registry": "00_canonical/04_recursive_viability_theory/rvt_registry_v1.json",
+    "nested_triads": "00_canonical/04_recursive_viability_theory/rvt_nested_triad_registry_v1.json",
+    "coordination_definition": "00_canonical/05_coordination_principles/coordination_definition_v1.json",
+    "phase_dynamics": "00_canonical/06_phase_dynamics/phase_dynamics_registry_v1.json",
+    "empirical_estimators": "00_canonical/07_empirical_estimators/empirical_estimators_registry_v1.json",
+    "interpretive_ontology": "00_canonical/08_interpretive_ontology/interpretive_ontology_registry_v1.json",
+    "acg_registry": "03_governance/adaptive_coordination_governance/acg_registry_v1.json"
+  }
+}

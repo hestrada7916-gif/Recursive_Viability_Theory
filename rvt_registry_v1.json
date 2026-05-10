@@ -1,0 +1,27 @@
+{
+  "registry_name": "Recursive Viability Theory Registry",
+  "version": "1.0.0",
+  "framework": "Recursive Viability Theory",
+  "abbreviation": "RVT",
+  "status": "phase_1_canonical_core",
+  "master_principle": "Recursive viability structures organize through nested triads of generation, stabilization, and continuation.",
+  "core_principles": [
+    "Adaptive viability is the geometry of recoverable future transformational accessibility.",
+    "Collapse is not defined by threshold crossing alone, but by exhaustion of reachable adaptive futures.",
+    "Collapse occurs when regenerative accessibility fibers can no longer be rewoven."
+  ],
+  "phase_structure": {
+    "viable_persistence": {
+      "condition": "\\mathcal P_{\\mathrm{surv}}>\\xi_c and \\Omega_{\\mathrm{reopen}}>0",
+      "interpretation": "Survivability exceeds burden and reopenable transformation geometry remains accessible."
+    },
+    "metastable_viability_plateau": {
+      "condition": "\\mathcal P_{\\mathrm{surv}}\\le\\xi_c and \\Omega_{\\mathrm{reopen}}>0",
+      "interpretation": "The system is subcritical but not irreversibly collapsed."
+    },
+    "irreversible_accessibility_collapse": {
+      "condition": "\\Omega_{\\mathrm{reopen}}\\to0",
+      "interpretation": "Recoverable future transformation is no longer reopenably accessible."
+    }
+  }
+}

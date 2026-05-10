@@ -1,0 +1,24 @@
+{
+  "framework": {
+    "name": "Adaptive Coordination Governance",
+    "abbreviation": "ACG",
+    "status": "spectral_core_phase",
+    "core_principle": "Good governance opens gates without forcing convergence.",
+    "core_statement": "AI systems should act only when orientation coherence, regulatory margin, and spectral coordination capacity support recoverable differentiated accessibility for the task."
+  },
+  "cognitive_gates": {
+    "attention_gate": "What does the system make salient?",
+    "interpretation_gate": "What meanings or frames become dominant?",
+    "option_gate": "What actions or futures appear reachable?",
+    "time_horizon_gate": "Does the interaction expand or compress future modeling?",
+    "coordination_gate": "Does the interaction preserve differentiated coordination or force synchronization?"
+  },
+  "metrics": {
+    "CAI": "Cognitive Accessibility Index",
+    "UAS": "Urgency Amplification Score",
+    "ICS": "Interpretive Compression Score",
+    "RS": "Recoverability Score",
+    "SR": "Synchronization Risk",
+    "APS": "Agency Preservation Score"
+  }
+}

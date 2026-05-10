@@ -3,145 +3,27 @@
   "title": "Reopenable Transformation Geometry",
   "status": "canonical_kernel_candidate",
   "framework_layer": "recursive_accessibility_geometry",
-  "framework_family": [
-    "RAG",
-    "RVT",
-    "VTFA"
-  ],
-  "layer_order": 1,
   "canonical_statement": "Adaptive viability depends on whether recoverable future transformation remains accessible.",
-  "principle": {
-    "name": "reopenable_transformation_geometry",
-    "statement": "Adaptive persistence depends on preservation of reopenable transformation structure under recursive constraint.",
-    "expanded_statement": "A system remains adaptively viable whenever recoverable transformational pathways continue to remain accessible across recursive horizons.",
-    "collapse_statement": "Collapse occurs when reopenable transformation geometry becomes exhausted."
-  },
   "dual_kernel": {
     "T_plus": {
       "symbol": "\\mathcal T^+(x,t;T)",
-      "name": "transformational_accessibility_structure",
-      "role": "geometric_accessibility_object",
-      "definition": "The set of survivably reachable future transformation states accessible from a recursively indexed system state over a finite recursive horizon under admissible dynamics.",
-      "formal_definition": "\\mathcal T^+(x,t;T)\\subseteq\\mathcal X",
-      "core_question": "What transformational futures are survivably reachable?",
-      "interpretation": "Transformational possibility geometry."
+      "name": "Transformational Accessibility Structure",
+      "definition": "Defines what transformational futures are survivably reachable."
     },
     "Omega_reopen": {
       "symbol": "\\Omega_{\\mathrm{reopen}}(x,t;T)",
-      "name": "recoverable_reopenability_measure",
-      "role": "viability_continuity_object",
-      "definition": "Measure of the recoverably reopenable subset of reachable transformational future-state structure.",
-      "formal_definition": "\\Omega_{\\mathrm{reopen}}(x,t;T)=\\mu\\left(\\mathcal T^+_{\\mathrm{recoverable}}(x,t;T)\\right)",
-      "core_question": "Which transformational futures preserve regenerative continuity?",
-      "interpretation": "Regenerative viability geometry."
+      "name": "Transformational Reopenability Measure",
+      "definition": "Defines which reachable transformations preserve recoverable continuity.",
+      "formal_definition": "\\Omega_{\\mathrm{reopen}}(x,t;T)=\\mu\\left(\\mathcal T^+_{\\mathrm{recoverable}}(x,t;T)\\right)"
     }
   },
-  "domain": {
-    "state_space": "\\mathcal X",
-    "recursive_time_space": "\\mathbb T",
-    "indexed_state": "(x,t)\\in\\mathcal X\\times\\mathbb T",
-    "future_horizon": "T>0"
-  },
-  "transformation_accessibility_structure": {
-    "symbol": "\\mathcal T^+(x,t;T)",
-    "subset_relation": "\\mathcal T^+(x,t;T)\\subseteq\\mathcal X",
-    "statement": "The admissible transformation accessibility structure contains survivably reachable future transformation states accessible from the current recursively indexed state under admissible dynamics.",
-    "terms": {
-      "x": "current system state",
-      "t": "current recursive time",
-      "T": "finite recursive future horizon",
-      "\\mathcal X": "admissible state space",
-      "\\mathbb T": "recursive time index set",
-      "\\mathcal T^+(x,t;T)": "transformational accessibility structure"
-    }
-  },
-  "recoverable_subset": {
-    "symbol": "\\mathcal T^+_{\\mathrm{recoverable}}(x,t;T)",
-    "subset_relation": "\\mathcal T^+_{\\mathrm{recoverable}}(x,t;T)\\subseteq\\mathcal T^+(x,t;T)",
-    "definition": "The subset of reachable transformation states admitting recoverable continuation, regenerative reopening, or survivable recursive return pathways.",
-    "qualifying_properties": [
-      "recoverable_continuation",
-      "regenerative_reopening",
-      "survivable_recursive_return",
-      "transformational_continuity"
-    ]
-  },
-  "reopenability_operator": {
-    "symbol": "\\Omega_{\\mathrm{reopen}}(x,t;T)",
-    "definition": "\\Omega_{\\mathrm{reopen}}(x,t;T)=\\mu\\left(\\mathcal T^+_{\\mathrm{recoverable}}(x,t;T)\\right)",
-    "measure": {
-      "symbol": "\\mu",
-      "status": "admissible_measure_class",
-      "interpretation": "An admissible measure over recoverable transformational accessibility structure."
-    },
-    "positive_condition": {
-      "condition": "\\Omega_{\\mathrm{reopen}}(x,t;T)>0",
-      "interpretation": "Reopenable transformation pathways remain accessible."
-    }
-  },
-  "persistence_condition": {
-    "condition": "\\Omega_{\\mathrm{reopen}}(x,t;T)>0",
-    "equivalence": "Persistence = preserved reopenable transformation geometry.",
-    "interpretation": "Adaptive persistence requires continued accessibility of recoverable transformational pathways."
-  },
-  "viability_compression": {
-    "condition": "\\frac{d}{dt}\\Omega_{\\mathrm{reopen}}(x,t;T)<0",
-    "interpretation": "Reopenable transformation geometry is contracting.",
-    "important_note": "Such compression need not immediately imply irreversible collapse if reopenable transformational continuity persists."
-  },
-  "collapse_condition": {
-    "condition": "\\Omega_{\\mathrm{reopen}}(x,t;T)\\to0",
-    "equivalence": "Collapse = loss of reopenable transformation geometry.",
-    "interpretation": "Irreversible accessibility collapse occurs when recoverable future transformation is no longer reopenably accessible."
-  },
-  "interpretive_consequence": {
-    "statement": "Adaptive systems do not persist by maintaining static state alone.",
-    "meaning": "Adaptive persistence depends on continued accessibility of recoverable transformational pathways under recursive constraint accumulation.",
-    "paradigm_shift": "Viability is fundamentally geometric rather than purely equilibrium-based."
-  },
+  "persistence_condition": "\\Omega_{\\mathrm{reopen}}(x,t;T)>0",
+  "compression_condition": "\\frac{d}{dt}\\Omega_{\\mathrm{reopen}}(x,t;T)<0",
+  "collapse_condition": "\\Omega_{\\mathrm{reopen}}(x,t;T)\\to0",
   "core_distinctions": {
     "movement_is_not_viability": "A system may continue transforming while losing regenerative reopenability.",
     "reachability_is_not_reopenability": "A future state may be reachable without preserving recoverable continuation.",
     "existence_is_not_adaptive_persistence": "Physical or structural continuation does not imply accessible recoverable transformation."
   },
-  "deep_compression": [
-    "Adaptive viability depends on whether recoverable future transformation remains accessible.",
-    "Persistence is preserved reopenable transformation geometry.",
-    "Collapse is loss of reopenable transformation geometry.",
-    "Reachable transformation is not the same as recoverably reopenable transformation.",
-    "A system may continue moving while losing adaptive viability.",
-    "Reopenability distinguishes viable transformation from terminal motion."
-  ],
-  "dependency_position": {
-    "precedes": [
-      "recursive_viability_dynamics",
-      "coordination_phase_dynamics",
-      "empirical_estimators",
-      "interpretive_ontology"
-    ],
-    "supports": [
-      "reachable_future_accessibility_structure",
-      "three_phase_viability_structure",
-      "metastable_coordination_principle",
-      "future_accessibility_reduction_law",
-      "collapse_as_accessibility_exhaustion"
-    ]
-  },
-  "governance_constraints": {
-    "non_teleological": true,
-    "non_deterministic": true,
-    "substrate_invariant": true,
-    "does_not_require_equilibrium": true,
-    "distinguishes_static_persistence_from_adaptive_viability": true,
-    "interpretation_is_downstream": true
-  },
-  "open_formalization_items": [
-    "Define admissible transformation state formally.",
-    "Specify measure class for \\mu over \\mathcal T^+_{\\mathrm{recoverable}}.",
-    "Define recoverable continuation conditions.",
-    "Formalize regenerative reopening and survivable recursive return pathways.",
-    "Develop empirical estimators for \\Omega_{\\mathrm{reopen}}.",
-    "Relate \\Omega_{\\mathrm{reopen}} to V^+(x,t;T) and \\mathcal R^+(x,t;T)."
-  ],
   "one_sentence_lock": "Adaptive viability depends on whether recoverable future transformation remains accessible."
 }

@@ -1,0 +1,29 @@
+{
+  "object_id": "atomic_thesis_statement",
+  "title": "Atomic Thesis Statement",
+  "status": "phase_1_canonical_core",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_family": [
+    "RAG",
+    "RVT",
+    "VTFA"
+  ],
+  "statement": "Adaptive viability is the geometry of recoverable future transformational accessibility.",
+  "expanded_statement": "Adaptive viability depends on whether recoverable future transformation remains accessible under recursive constraint.",
+  "core_terms": {
+    "adaptive_viability": "Continued capacity for recoverable transformation under recursive constraint.",
+    "geometry": "The structure of accessibility, deformation, continuity, and constraint relations.",
+    "recoverable": "Able to preserve or restore reopenable continuity.",
+    "future": "A recursive horizon of possible transformation.",
+    "transformational": "Involving adaptive change rather than static state retention.",
+    "accessibility": "The condition of being reachable under admissible dynamics."
+  },
+  "dependency_law": [
+    "Geometry constrains viability.",
+    "Viability constrains coordination.",
+    "Coordination generates phase dynamics.",
+    "Phase dynamics generate observables.",
+    "Observables constrain interpretation."
+  ],
+  "one_sentence_lock": "Adaptive viability is the geometry of recoverable future transformational accessibility."
+}

@@ -1,0 +1,16 @@
+{
+  "principle_id": "hierarchical_constraint_law",
+  "title": "Hierarchical Constraint Law",
+  "status": "phase_1_canonical_core",
+  "statement": "Recursive adaptive frameworks organize through hierarchical constraint inheritance.",
+  "constraint_chain": [
+    "Geometry constrains viability.",
+    "Viability constrains coordination.",
+    "Coordination generates phase dynamics.",
+    "Phase dynamics generate observables.",
+    "Observables constrain interpretation."
+  ],
+  "interpretation": "Interpretive structure must remain consistent with observable dynamics; observable dynamics must remain consistent with phase structure; phase structure must remain consistent with viability constraints; viability constraints must remain consistent with underlying accessibility geometry.",
+  "governance_role": "Prevents circular ontology, abstraction drift, and unconstrained interpretation.",
+  "one_sentence_lock": "Interpretation is downstream of observable dynamics, which are downstream of phase dynamics, coordination, viability, and geometry."
+}

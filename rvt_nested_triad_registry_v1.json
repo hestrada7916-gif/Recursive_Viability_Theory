@@ -1,0 +1,68 @@
+{
+  "registry_name": "RVT Nested Triad Registry",
+  "version": "1.0.0",
+  "framework": "Recursive Viability Theory",
+  "status": "phase_1_structural_registry",
+  "master_principle": {
+    "name": "Nested triadic architecture of recursive viability",
+    "statement": "Recursive viability structures organize through nested triads of generation, stabilization, and continuation.",
+    "deep_compression": "Adaptive existence persists through recursively renewed triads of selectable futures, recoverable accessibility, and transformational continuity."
+  },
+  "triads": [
+    {
+      "id": "ontological_triad",
+      "name": "Ontological Triad",
+      "terms": [
+        "existence",
+        "persistence",
+        "collapse"
+      ],
+      "definitions": {
+        "existence": "recursive renewal of selectable futures",
+        "persistence": "preservation of recoverable accessibility",
+        "collapse": "exhaustion of recursively renewable futures"
+      }
+    },
+    {
+      "id": "recoverability_triad",
+      "name": "Recoverability Triad",
+      "terms": [
+        "continuity",
+        "recoverability",
+        "rewovability"
+      ],
+      "role": "Defines recoverable transformational continuity and recursive reconstitution of accessibility fibers."
+    },
+    {
+      "id": "collapse_inverse_triad",
+      "name": "Collapse Inverse Triad",
+      "terms": [
+        "fragmentation",
+        "irrecoverability",
+        "unweavability"
+      ],
+      "role": "Defines the inverse pathway of recoverable accessibility degeneration."
+    },
+    {
+      "id": "fiber_geometry_triad",
+      "name": "Fiber Geometry Triad",
+      "terms": [
+        "reachable futures",
+        "transformational futures",
+        "recoverable accessibility fibers"
+      ],
+      "formal_objects": [
+        "\\mathcal R^+",
+        "\\mathcal T^+",
+        "\\mathcal F_{\\mathrm{rec}}"
+      ]
+    }
+  ],
+  "canonical_compressions": [
+    "Existence = recursive renewal of selectable futures.",
+    "Persistence = preservation of recoverable accessibility.",
+    "Collapse = exhaustion of recursively renewable futures.",
+    "Adaptive viability is the geometry of recoverable future transformational accessibility.",
+    "Collapse occurs when regenerative accessibility fibers can no longer be rewoven."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "registry_name": "Recursive Accessibility Geometry Registry",
+  "version": "1.0.0",
+  "framework": "Recursive Accessibility Geometry",
+  "abbreviation": "RAG",
+  "status": "phase_1_canonical_core",
+  "thesis": "Adaptive viability is the geometry of recoverable future transformational accessibility.",
+  "core_objects": {
+    "R_plus": {
+      "symbol": "\\mathcal R^+(x,t;T)",
+      "name": "Reachable Future Accessibility Structure",
+      "definition": "Set of survivably reachable future states accessible from a recursively indexed state over horizon T under admissible dynamics."
+    },
+    "V_plus": {
+      "symbol": "V^+(x,t;T)",
+      "name": "Reachable Future Accessibility Measure",
+      "definition": "Measure of survivably reachable future-state accessibility.",
+      "formal_definition": "V^+(x,t;T)=\\mu(\\mathcal R^+(x,t;T))"
+    },
+    "T_plus": {
+      "symbol": "\\mathcal T^+(x,t;T)",
+      "name": "Transformational Accessibility Structure",
+      "definition": "Defines what transformational futures are survivably reachable."
+    },
+    "Omega_reopen": {
+      "symbol": "\\Omega_{\\mathrm{reopen}}(x,t;T)",
+      "name": "Transformational Reopenability Measure",
+      "definition": "Defines which reachable transformations preserve recoverable continuity.",
+      "formal_definition": "\\Omega_{\\mathrm{reopen}}(x,t;T)=\\mu(\\mathcal T^+_{\\mathrm{recoverable}}(x,t;T))"
+    }
+  },
+  "canonical_compressions": [
+    "Adaptive systems persist by preserving survivably reachable futures.",
+    "Adaptive viability is the geometry of recoverable future transformational accessibility.",
+    "Persistence is preserved reopenable transformation geometry.",
+    "Collapse is loss of reopenable transformation geometry."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "registry_name": "Coordination Phase Dynamics Registry",
+  "version": "1.0.0",
+  "status": "phase_1_canonical_core",
+  "phases": {
+    "viable_persistence": {
+      "condition": "\\Omega_{\\mathrm{reopen}}>0 and topological connectivity is preserved",
+      "compression": "Recoverable future transformation remains accessible."
+    },
+    "metastable_plateau": {
+      "condition": "subcritical survivability with \\Omega_{\\mathrm{reopen}}>0",
+      "compression": "Some gates remain open."
+    },
+    "topological_precollapse": {
+      "condition": "recoverable accessibility connectivity degenerates while \\Omega_{\\mathrm{reopen}}>0",
+      "compression": "Accessible futures still exist, but no longer form a sufficiently connected recoverable structure."
+    },
+    "metric_collapse": {
+      "condition": "\\Omega_{\\mathrm{reopen}}\\to0",
+      "compression": "Accessibility measure approaches exhaustion."
+    },
+    "irreversible_collapse": {
+      "condition": "degeneration beyond reopenable continuity",
+      "compression": "Regenerative accessibility fibers can no longer be rewoven."
+    }
+  }
+}

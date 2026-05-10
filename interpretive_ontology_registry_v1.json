@@ -1,0 +1,19 @@
+{
+  "registry_name": "Interpretive Ontology Registry",
+  "version": "1.0.0",
+  "status": "phase_1_interpretive_layer",
+  "governance_rule": "Interpretation is downstream of observables.",
+  "purpose": "Provide human-readable semantic compression of formally constrained accessibility dynamics.",
+  "core_compressions": [
+    "Adaptive viability is the geometry of recoverable future transformational accessibility.",
+    "Viability is the rewovability of regenerative accessibility fibers.",
+    "Collapse occurs when regenerative accessibility fibers can no longer be rewoven.",
+    "Good governance opens gates without forcing convergence."
+  ],
+  "anti_drift_constraints": [
+    "Do not treat interpretation as primitive substrate.",
+    "Do not infer teleology from viability dynamics.",
+    "Do not collapse metaphor into mechanism.",
+    "Do not treat phase labels as causes."
+  ]
+}
