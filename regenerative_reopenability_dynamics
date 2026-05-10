@@ -1,0 +1,103 @@
+{
+  "principle_id": "regenerative_reopenability_dynamics",
+
+  "title": "Regenerative Reopenability Dynamics",
+
+  "status": "phase_1_dynamical_closure",
+
+  "framework_layer": "recursive_viability_dynamics",
+
+  "type": "generative_viability_operator",
+
+  "canonical_statement": "Adaptive persistence requires regenerative reopening dynamics sufficient to offset recursive deformation accumulation.",
+
+  "core_reopenability_variable": {
+    "symbol": "\\Omega_{\\mathrm{reopen}}(x,t;T)",
+    "name": "Transformational Reopenability Measure",
+
+    "definition": "Measures recoverable future transformational accessibility over recursive horizon T.",
+
+    "interpretation": "\\Omega_{\\mathrm{reopen}}>0 implies that recoverable transformational pathways remain reopenably accessible."
+  },
+
+  "recursive_temporal_variable": {
+    "symbol": "\\tau_{\\mathrm{rec}}",
+    "name": "recursive temporal evolution",
+
+    "definition": "Recursive temporal evolution parameter governing adaptive continuity under recursive constraint."
+  },
+
+  "dynamical_operator": {
+    "equation": "\\frac{d\\Omega_{\\mathrm{reopen}}}{d\\tau_{\\mathrm{rec}}}=\\mathcal R_{\\mathrm{regen}}-\\mathcal D_{\\mathrm{rec}}",
+
+    "variables": {
+      "\\mathcal R_{\\mathrm{regen}}": "regenerative reopening dynamics",
+
+      "\\mathcal D_{\\mathrm{rec}}": "recursive deformation accumulation"
+    },
+
+    "interpretation": "Recoverable transformational continuity evolves through the balance between regenerative reopening and recursive deformation accumulation."
+  },
+
+  "persistence_condition": {
+    "condition": "\\mathcal R_{\\mathrm{regen}}\\ge\\mathcal D_{\\mathrm{rec}}",
+
+    "equivalent_condition": "\\frac{d\\Omega_{\\mathrm{reopen}}}{d\\tau_{\\mathrm{rec}}}\\ge0",
+
+    "interpretation": "Regenerative reopening preserves or expands recoverable transformational continuity."
+  },
+
+  "viability_compression": {
+    "condition": "\\mathcal R_{\\mathrm{regen}}<\\mathcal D_{\\mathrm{rec}}",
+
+    "equivalent_condition": "\\frac{d\\Omega_{\\mathrm{reopen}}}{d\\tau_{\\mathrm{rec}}}<0",
+
+    "interpretation": "Recoverable transformational accessibility progressively contracts."
+  },
+
+  "collapse_condition": {
+    "condition": "\\Omega_{\\mathrm{reopen}}\\to0",
+
+    "interpretation": "Recoverable transformational continuity becomes exhausted.",
+
+    "collapse_equivalence": "Collapse = loss of reopenable transformational continuity."
+  },
+
+  "geometric_consequence": {
+    "statement": "Adaptive viability is governed dynamically by preservation of reopenable transformational accessibility geometry under recursive constraint.",
+
+    "persistence_equivalence": "Persistence = sustained regenerative reopenability.",
+
+    "collapse_equivalence": "Collapse = recursive degeneration beyond reopenable continuity."
+  },
+
+  "topological_consequence": {
+    "statement": "Metric accessibility alone does not guarantee persistence.",
+
+    "requirements": [
+      "connectedness",
+      "traversability",
+      "reopenability",
+      "rewovability"
+    ],
+
+    "interpretation": "Recoverable transformational accessibility must remain sufficiently connected, traversable, reopenable, and rewovable under recursive deformation dynamics.",
+
+    "important_consequence": "Topological viability may fail before metric accessibility fully vanishes."
+  },
+
+  "deep_compression": [
+    "Adaptive viability depends on whether recoverable future transformation remains accessible.",
+    "Persistence requires regenerative reopening sufficient to offset recursive deformation accumulation.",
+    "Recoverable transformational continuity evolves through regeneration minus recursive deformation accumulation.",
+    "Collapse occurs when regenerative accessibility fibers can no longer be rewoven."
+  ],
+
+  "operator_interpretation": {
+    "statement": "The regenerative reopenability operator provides a dynamically generative persistence law governing adaptive viability under recursive constraint.",
+
+    "important_distinction": "Persistence is not static equilibrium retention, but sustained regenerative reopenability under recursive deformation."
+  },
+
+  "one_sentence_lock": "Adaptive persistence requires regenerative reopening dynamics sufficient to offset recursive deformation accumulation."
+}
