@@ -1,0 +1,106 @@
+{
+  "principle_id": "future_fiber_unification_kernel",
+  "title": "Future-Fiber Unification Kernel",
+  "status": "phase_2_unification_kernel_lock",
+  "framework_layer": "recursive_viability_future_fiber_topology",
+  "type": "future_fiber_operator_admissibility_kernel",
+  "canonical_statement": "Adaptive systems persist through preservation of recursively reopenable participatory continuity within recoverable future-fiber topology under recursive constraint.",
+  "master_compression": "Persistence filters recursive evolution by preserving reopenable participation within recoverable future-fiber topology.",
+  "core_identification": {
+    "recoverable_accessibility_geometry": "\\Omega_{\\mathrm{rec}}",
+    "recoverable_future_fiber_topology": "\\mathcal T_{\\mathrm{fib}}^{+}",
+    "equation": "\\Omega_{\\mathrm{rec}} = \\mathcal T_{\\mathrm{fib}}^{+}",
+    "interpretation": "Recoverable transformational accessibility is identified with the topology of recoverably accessible future fibers."
+  },
+  "unified_primitive_stack": {
+    "kernel_symbol": "\\mathfrak R",
+    "kernel_tuple": "\\mathfrak R=(\\Omega_{\\mathrm{rec}},\\tau_{\\mathrm{rec}},\\mathcal B_{\\mathrm{rec}},\\gamma,\\mathfrak A,\\mathcal O_{\\mathrm{adm}})",
+    "objects": {
+      "Omega_rec": {
+        "symbol": "\\Omega_{\\mathrm{rec}}",
+        "role": "recoverable future-fiber topology"
+      },
+      "tau_rec": {
+        "symbol": "\\tau_{\\mathrm{rec}}",
+        "role": "recursive temporal continuity"
+      },
+      "B_rec": {
+        "symbol": "\\mathcal B_{\\mathrm{rec}}",
+        "role": "accumulated recursive burden"
+      },
+      "gamma": {
+        "symbol": "\\gamma",
+        "role": "recursive deformation flow"
+      },
+      "A_fraktur": {
+        "symbol": "\\mathfrak A",
+        "role": "recursive participation capacity functional"
+      },
+      "O_adm": {
+        "symbol": "\\mathcal O_{\\mathrm{adm}}",
+        "role": "admissible recursive transformation class"
+      }
+    }
+  },
+  "burden_accumulation_law": {
+    "equation": "\\mathcal B_{\\mathrm{rec}}=\\int \\gamma\\,d\\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive burden is accumulated deformation across recursive temporal continuity."
+  },
+  "recursive_participation_capacity": {
+    "type_signature": "\\mathfrak A : \\mathrm{End}(\\Omega_{\\mathrm{rec}}) \\to \\mathbb R_{\\ge0}",
+    "interpretation": "Recursive participation capacity measures the capacity of a recursive transformation to preserve recursively reopenable participatory continuity within recoverable future-fiber topology."
+  },
+  "admissible_operator_class": {
+    "equation": "\\mathcal O_{\\mathrm{adm}}=\\{\\mathcal D\\in\\mathrm{End}(\\Omega_{\\mathrm{rec}}):\\mathfrak A(\\mathcal D)\\ge\\xi_c\\}",
+    "threshold": "\\xi_c>0",
+    "criterion": "\\mathcal D\\in\\mathcal O_{\\mathrm{adm}}\\iff\\mathfrak A(\\mathcal D)\\ge\\xi_c",
+    "interpretation": "A recursive transformation is admissible exactly when it preserves sufficient recursive participation capacity."
+  },
+  "layer_coupling": {
+    "structural_chain": "recursive burden -> transport flow -> accessibility filtration -> admissible continuity",
+    "framework_chain": "PMM -> SCT -> RVT",
+    "interpretation": {
+      "PMM": "recursive pressure and burden geometry",
+      "SCT": "transport and coordination flow geometry",
+      "RVT": "admissible future-fiber continuity geometry"
+    }
+  },
+  "persistence_balance_law": {
+    "equation": "\\frac{d\\Omega_{\\mathrm{reopen}}}{d\\tau_{\\mathrm{rec}}}=\\mathcal R_{\\mathrm{regen}}-\\Gamma_{\\mathrm{deg}}",
+    "terms": {
+      "Omega_reopen": "reopenable future-fiber accessibility",
+      "R_regen": "regenerative reopening flow",
+      "Gamma_deg": "degenerative accessibility loss"
+    },
+    "persistence_condition": "\\mathcal R_{\\mathrm{regen}}\\ge\\Gamma_{\\mathrm{deg}}",
+    "collapse_condition": "\\Gamma_{\\mathrm{deg}}>\\mathcal R_{\\mathrm{regen}}"
+  },
+  "collapse_and_recovery": {
+    "collapse_condition": "\\mathfrak A(\\mathcal D)<\\xi_c",
+    "collapse_operator_condition": "\\mathcal D\\notin\\mathcal O_{\\mathrm{adm}}",
+    "collapse_interpretation": "Collapse corresponds to loss of admissible recursive evolution.",
+    "recovery_condition": "\\mathcal W_{\\mathrm{rew}}\\in\\mathcal O_{\\mathrm{adm}}",
+    "recovery_interpretation": "Recovery restores admissible recursive evolution through reweaving of recoverable future-fiber topology."
+  },
+  "canonical_compression": [
+    "Recoverable accessibility geometry is recoverable future-fiber topology.",
+    "Recursive burden is accumulated deformation across recursive temporal continuity.",
+    "Recursive participation capacity evaluates recursive transformations.",
+    "Admissible evolution preserves reopenable participatory continuity.",
+    "Persistence occurs when regenerative reopening dominates degeneration.",
+    "Collapse occurs when recursive evolution leaves the admissible operator class."
+  ],
+  "connections": [
+    "admissible_recursive_transformation_class",
+    "recursive_participation_capacity",
+    "recoverable_future_fiber_topology",
+    "filtration_preserving_participation_principle",
+    "recursive_accessibility_evolution_equation",
+    "regenerative_abundance_principle",
+    "survivable_coordination_necessity_principle",
+    "observer_coupled_accessibility_deformation_principle",
+    "topological_accessibility_collapse",
+    "polyrhythmic_margin_model",
+    "spectral_coordination_theory"
+  ]
+}
