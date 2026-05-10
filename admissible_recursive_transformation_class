@@ -1,0 +1,63 @@
+{
+  "principle_id": "admissible_recursive_transformation_class",
+  "title": "Admissible Recursive Transformation Class",
+  "status": "phase_1_operator_formalization_lock",
+  "framework_layer": "recursive_viability_operator_theory",
+  "type": "operator_admissibility_principle",
+  "canonical_statement": "Recursive evolution is viability-constrained.",
+  "deep_compression": "Persistence filters recursive evolution through admissible transformations.",
+  "formal_statement": {
+    "statement": "Persistent adaptive systems admit only recursive transformations that preserve sufficiently reopenable participatory continuity within recoverable transformational accessibility geometry.",
+    "operator_class": "\\mathcal O_{\\mathrm{adm}} \\subseteq \\mathrm{End}(\\Omega_{\\mathrm{rec}})",
+    "admissibility_condition": "\\mathcal D \\in \\mathcal O_{\\mathrm{adm}} \\iff \\mathfrak A(\\mathcal D) \\ge \\xi_c"
+  },
+  "core_objects": {
+    "recoverable_transformational_accessibility_geometry": "\\Omega_{\\mathrm{rec}}",
+    "recursive_transformation_space": "\\mathrm{End}(\\Omega_{\\mathrm{rec}})",
+    "recursive_transformation_operator": "\\mathcal D",
+    "admissible_recursive_transformation_class": "\\mathcal O_{\\mathrm{adm}}",
+    "admissibility_functional": "\\mathfrak A(\\mathcal D)",
+    "recursive_viability_threshold": "\\xi_c"
+  },
+  "admissibility_functional": {
+    "equation": "\\mathfrak A(\\mathcal D)=w_1R_{\\mathrm{open}}(\\mathcal D)+w_2R_{\\mathrm{rec}}(\\mathcal D)+w_3P_{\\mathrm{cont}}(\\mathcal D)+w_4A_{\\mathrm{pres}}(\\mathcal D)",
+    "terms": {
+      "R_open": "preservation of recursive reopenability",
+      "R_rec": "preservation of recoverability",
+      "P_cont": "preservation of participatory continuity",
+      "A_pres": "preservation of accessibility structure",
+      "w_i": "positive admissibility weighting coefficients"
+    }
+  },
+  "admissibility_criterion": {
+    "condition": "\\mathcal D \\in \\mathcal O_{\\mathrm{adm}} \\iff \\mathfrak A(\\mathcal D) \\ge \\xi_c",
+    "interpretation": "Recursive transformations remain admissible only while preserving sufficiently reopenable participatory continuity."
+  },
+  "non_admissibility_condition": {
+    "condition": "\\mathfrak A(\\mathcal D)<\\xi_c \\Rightarrow \\mathcal D \\notin \\mathcal O_{\\mathrm{adm}}",
+    "interpretation": "Collapse corresponds to recursive transformation outside the admissible viability-preserving operator class."
+  },
+  "canonical_compression": [
+    "Recursive evolution is viability-constrained.",
+    "Persistence constrains admissible recursive transformations.",
+    "Admissible transformations preserve reopenable participation.",
+    "Collapse corresponds to non-admissible recursive deformation."
+  ],
+  "deep_compression_points": [
+    "Persistence is not merely state survival.",
+    "Persistent systems preserve only admissible recursive evolution.",
+    "Recursive evolution is filtered by viability.",
+    "Admissibility is threshold-constrained.",
+    "Collapse occurs when recursive deformation leaves the admissible operator class."
+  ],
+  "connections": [
+    "atomic_recursive_viability_principle",
+    "participatory_accessibility_principle",
+    "recursive_viability_filtration_geometry",
+    "recursive_accessibility_evolution_equation",
+    "regenerative_counter_dynamics_principle",
+    "topological_recovery_theory",
+    "accessibility_contraction_geometry"
+  ],
+  "one_sentence_lock": "An operator is admissible for persistence iff it preserves sufficiently reopenable participatory continuity within recoverable transformational accessibility geometry."
+}
