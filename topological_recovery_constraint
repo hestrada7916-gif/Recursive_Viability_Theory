@@ -1,0 +1,71 @@
+{
+  "principle_id": "topological_recovery_constraint",
+  "title": "Topological Recovery Constraint",
+  "status": "phase_1_structural_extension",
+  "framework_layer": "accessibility_topology",
+  "type": "topological_recovery_principle",
+  "canonical_statement": "Material resource restoration alone does not guarantee restoration of recoverable transformational accessibility.",
+  "deep_compression": "A system may remain topologically collapsed even after material burden is reduced.",
+  "formal_statement": {
+    "statement": "Systems may remain topologically collapsed after material burden reduction if accessibility connectivity, reopenability, regenerative continuity, or coordinated traversability remain fragmented or synchronization-locked.",
+    "material_recovery_condition": "\\mathcal B_{\\mathrm{mat}} \\downarrow",
+    "topological_recovery_condition": "\\Omega_{\\mathrm{rec}}^{\\mathrm{top}} > 0",
+    "failure_condition": "\\mathcal B_{\\mathrm{mat}} \\downarrow \\nRightarrow \\Omega_{\\mathrm{rec}}^{\\mathrm{top}} > 0"
+  },
+  "core_objects": {
+    "material_burden": "\\mathcal B_{\\mathrm{mat}}",
+    "recoverable_transformational_accessibility": "\\Omega_{\\mathrm{rec}}",
+    "topological_recoverability": "\\Omega_{\\mathrm{rec}}^{\\mathrm{top}}",
+    "accessibility_connectivity": "\\mathcal C_{\\mathrm{conn}}",
+    "regenerative_continuity": "\\mathcal G_{\\mathrm{regen}}",
+    "coordination_traversability": "\\mathcal T_{\\mathrm{coord}}",
+    "synchronization_locking": "\\Lambda_{\\mathrm{sync}}"
+  },
+  "geometric_distinction": {
+    "statement": "Metric or material recovery is not equivalent to topological recovery.",
+    "metric_recovery": "Reduction of material burden or restoration of accessibility volume.",
+    "topological_recovery": "Restoration of connected, traversable, reopenable, and regeneratively continuous accessibility structure.",
+    "importance": "Systems may regain resources while remaining unable to regenerate viable transformational pathways."
+  },
+  "topological_collapse_modes": [
+    "accessibility connectivity loss",
+    "reopenability failure",
+    "regenerative continuity rupture",
+    "coordination traversability failure",
+    "synchronization locking",
+    "fragmented viable basins",
+    "observer-induced topological deformation"
+  ],
+  "recovery_constraint": {
+    "statement": "Recovery requires restoration of reopenable accessibility topology, not merely reduction of burden.",
+    "formal_condition": "\\mathcal C_{\\mathrm{conn}}>0 \\;\\wedge\\; \\mathcal G_{\\mathrm{regen}}>0 \\;\\wedge\\; \\mathcal T_{\\mathrm{coord}}>0 \\;\\wedge\\; \\Lambda_{\\mathrm{sync}}<\\Lambda_c",
+    "interpretation": "Recoverable transformational accessibility is restored only when viable accessibility remains connected, traversable, regenerative, and not synchronization-locked."
+  },
+  "collapse_recovery_asymmetry": {
+    "statement": "Collapse and recovery need not follow symmetric paths.",
+    "interpretation": "A system may lose topological accessibility through fragmentation or locking faster than it can recover connected regenerative continuity.",
+    "hysteresis_implication": "Material restoration may be insufficient if the system has crossed a topological recovery threshold."
+  },
+  "canonical_compression": [
+    "Material recovery does not imply topological recovery.",
+    "Resources can return while reopenable transformational accessibility remains collapsed.",
+    "Recovery requires restoration of connected, traversable, regenerative accessibility topology."
+  ],
+  "deep_compression": [
+    "A system may collapse topologically before collapsing materially.",
+    "A system may remain topologically collapsed after material restoration.",
+    "Recovery requires rewoven accessibility continuity.",
+    "Resource restoration cannot substitute for reopenability restoration.",
+    "Sustainable recovery requires restoration of recoverable transformational accessibility."
+  ],
+  "connections": [
+    "accessibility_topology",
+    "accessibility_contraction_geometry",
+    "recursive_accessibility_evolution_equation",
+    "observer_coupled_accessibility_deformation_principle",
+    "internal_viability_anchoring_principle",
+    "recursive_observer_viability_bridge",
+    "topological_accessibility_collapse"
+  ],
+  "one_sentence_lock": "Recovery requires restoration of reopenable accessibility topology, not merely reduction of material burden."
+}
