@@ -1,0 +1,66 @@
+{
+  "registry_name": "Accessibility Topology Registry",
+  "version": "1.0.0",
+  "framework": "Accessibility Topology",
+  "status": "phase_1_foundational_registry",
+  "branch_thesis_statement": "Accessibility Topology studies whether recoverable transformational futures remain connected, traversable, and rewovable under recursive constraint.",
+  "core_distinction": {
+    "accessibility_geometry": "Concerned with accessibility measure, deformation, gradients, and transformational accessibility volume.",
+    "accessibility_topology": "Concerned with connectivity, traversability, fragmentation, rewovability, bottlenecks, and continuity structure."
+  },
+  "core_objects": {
+    "transformational_accessibility_structure": {
+      "symbol": "\\mathcal T^+",
+      "name": "Transformational Accessibility Structure",
+      "definition": "Defines what transformational futures are survivably reachable."
+    },
+    "transformational_reopenability_measure": {
+      "symbol": "\\Omega_{\\mathrm{reopen}}",
+      "name": "Transformational Reopenability Measure",
+      "definition": "Defines which reachable transformations preserve recoverable continuity."
+    },
+    "recoverable_accessibility_fibers": {
+      "symbol": "\\mathcal F_{\\mathrm{rec}}",
+      "name": "Recoverable Accessibility Fibers",
+      "definition": "Fiber structures carrying recoverable transformational continuity across recursive horizons."
+    },
+    "accessibility_connectivity_topology": {
+      "symbol": "\\mathcal G_{\\mathrm{access}}",
+      "name": "Accessibility Connectivity Topology",
+      "definition": "Connectivity structure governing traversability and rewovability of recoverable transformational accessibility."
+    }
+  },
+  "core_questions": [
+    "Are viable futures sufficiently connected?",
+    "Can recoverable transformational pathways still be traversed?",
+    "Can fragmented accessibility fibers still be rewoven?",
+    "What bottlenecks induce irreversible fragmentation?",
+    "Can local viability persist despite global fragmentation?",
+    "When does topological viability fail before metric viability vanishes?"
+  ],
+  "collapse_duality": {
+    "metric_collapse": {
+      "statement": "Accessibility measure approaches exhaustion.",
+      "formal_direction": "\\Omega_{\\mathrm{reopen}}(x,t;T)\\to0"
+    },
+    "topological_collapse": {
+      "statement": "Recoverable accessibility connectivity degenerates.",
+      "interpretation": "Accessible futures still exist, but they no longer form a sufficiently connected recoverable structure."
+    },
+    "topological_precollapse": {
+      "statement": "Topological viability may fail before metric viability fully vanishes."
+    }
+  },
+  "rewovability_principle": {
+    "statement": "Viability is the rewovability of regenerative accessibility fibers."
+  },
+  "canonical_compressions": [
+    "Accessibility Topology studies whether recoverable transformational futures remain connected, traversable, and rewovable under recursive constraint.",
+    "Topological viability may fail before metric viability fully vanishes.",
+    "Accessible futures still exist, but they no longer form a sufficiently connected recoverable structure.",
+    "Recoverable accessibility connectivity degenerates.",
+    "Collapse occurs when regenerative accessibility fibers can no longer be rewoven.",
+    "Viability is the rewovability of regenerative accessibility fibers."
+  ],
+  "one_sentence_lock": "Accessibility Topology studies whether recoverable transformational futures remain connected, traversable, and rewovable under recursive constraint."
+}
