@@ -1,0 +1,41 @@
+{
+  "registry_name": "Polyrhythmic Margin Model Registry",
+  "version": "1.0.0",
+  "framework": "Polyrhythmic Margin Model",
+  "abbreviation": "PMM",
+  "status": "phase_1_realization_layer",
+  "role_in_stack": "Regulatory-margin realization layer for adaptive viability, synchronization, and phase transition dynamics.",
+  "core_statement": "Stability in bounded adaptive systems depends on persistence-weighted regulatory margin under recursive burden.",
+  "core_objects": {
+    "reserve": "R(t)",
+    "disturbance_load": "D(t)",
+    "instantaneous_margin": "m(t)=R(t)-D(t)",
+    "persistence_weighted_margin": "\\bar M_\\tau(t)",
+    "damping": "\\delta",
+    "coupling": "\\kappa",
+    "effective_dimensionality": "d_{\\mathrm{eff}}"
+  },
+  "canonical_equations": {
+    "instantaneous_margin": "m(t)=R(t)-D(t)",
+    "persistence_weighted_margin": "\\bar M_\\tau(t)=\\frac{1}{\\tau}\\int_{t-\\tau}^{t}m(u)\\,du",
+    "damping_monotonicity": "\\frac{\\partial \\delta}{\\partial M}>0",
+    "coupling_monotonicity": "\\frac{\\partial \\kappa}{\\partial M}<0"
+  },
+  "phase_interpretation": {
+    "high_margin": "Flexible, differentiated, recoverable coordination.",
+    "low_margin": "Increased coupling, reduced damping, synchronization pressure, dimensional compression.",
+    "negative_persistent_margin": "Increased probability of regime transition or collapse."
+  },
+  "connection_to_vtfa": {
+    "accessibility_role": "Regulatory margin constrains which future transformations remain recoverably accessible.",
+    "topology_role": "Low margin may reduce traversability, bottleneck repair, and fragment recoverable accessibility connectivity.",
+    "collapse_role": "Sustained negative margin contributes to loss of reopenable transformation geometry."
+  },
+  "canonical_compressions": [
+    "Margin defines feasible coordination.",
+    "Sustained deficit compresses accessibility.",
+    "Declining margin weakens damping and increases coupling.",
+    "Mode collapse is dimensional compression under sustained deficit."
+  ],
+  "one_sentence_lock": "PMM realizes recursive viability through regulatory margin, damping, coupling, and persistence-weighted burden."
+}

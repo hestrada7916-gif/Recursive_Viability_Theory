@@ -1,0 +1,57 @@
+{
+  "registry_name": "Spectral Coordination Theory Registry",
+  "version": "1.0.0",
+  "framework": "Spectral Coordination Theory",
+  "abbreviation": "SCT",
+  "status": "phase_1_realization_layer",
+  "role_in_stack": "Spectral realization layer for coordination structure within VTFA/RVT.",
+  "core_statement": "Coordination regimes in complex systems arise from the spectral modes of their interaction structure. Stability and regime transitions are governed by regulatory constraints that limit the dimensionality and amplitude of those modes.",
+  "structural_chain": [
+    "interaction graph",
+    "laplacian operator",
+    "eigenmodes",
+    "degenerate eigenspaces",
+    "coordination manifold",
+    "mode amplitude dynamics",
+    "regime stability and transition"
+  ],
+  "core_objects": {
+    "interaction_graph": "G",
+    "laplacian": "L",
+    "eigenvalues": "\\lambda_i",
+    "eigenvectors": "v_i",
+    "coordination_manifold_dimension": "k",
+    "coordination_richness": "\\Phi(G)",
+    "regulatory_margin": "M"
+  },
+  "canonical_equations": {
+    "laplacian_dynamics": "\\frac{dx}{dt}=-Lx",
+    "eigen_equation": "Lv_i=\\lambda_i v_i",
+    "state_expansion": "x=\\sum_i a_i v_i",
+    "modal_dynamics": "\\dot a_i=-\\lambda_i a_i",
+    "coordination_richness": "\\Phi(G)=\\sum_i m_i^2",
+    "margin_constraint": "\\sum_i |a_i|\\le M"
+  },
+  "geometric_realizations": {
+    "hypercube": "orientation state structure",
+    "cross_polytope": "feasible amplitude region",
+    "torus": "oscillatory phase manifold"
+  },
+  "transition_mechanisms": [
+    "spectral shift",
+    "margin compression",
+    "dimensional collapse",
+    "synchronization collapse"
+  ],
+  "connection_to_vtfa": {
+    "accessibility_role": "Spectral coordination determines which differentiated modes remain feasible under constraint.",
+    "viability_role": "Viable coordination requires preservation of recoverable differentiated accessibility.",
+    "collapse_role": "Collapse appears as low-dimensional modal trapping or loss of recoverable coordination richness."
+  },
+  "governance_constraints": {
+    "mathematical_spectral_quantities_are_established": true,
+    "governance_interpretations_are_model_dependent": true,
+    "requires_empirical_validation": true
+  },
+  "one_sentence_lock": "SCT realizes recursive viability through spectral coordination modes constrained by margin, dimensionality, and recoverable accessibility."
+}

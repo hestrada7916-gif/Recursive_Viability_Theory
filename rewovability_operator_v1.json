@@ -1,0 +1,29 @@
+{
+  "object_id": "rewovability_operator",
+  "title": "Rewovability Operator",
+  "status": "phase_1_formalization_candidate",
+  "framework_layer": "accessibility_topology",
+  "symbol": "\\mathcal W_{\\mathrm{reweave}}",
+  "canonical_statement": "Viability is the rewovability of regenerative accessibility fibers.",
+  "definition": "The rewovability operator estimates whether fragmented recoverable accessibility fibers can restore admissible transformational continuity under repair dynamics.",
+  "input_structure": "\\mathcal T^+_{\\mathrm{recoverable}}(x,t;T)",
+  "output_interpretation": {
+    "\\mathcal W_{\\mathrm{reweave}}>0": "Fragmented accessibility fibers remain rewovable.",
+    "\\mathcal W_{\\mathrm{reweave}}\\to0": "Regenerative accessibility fibers can no longer be rewoven."
+  },
+  "governs": [
+    "repair dynamics",
+    "topological recovery",
+    "fiber reconnection",
+    "fragmentation reversal",
+    "regenerative continuity"
+  ],
+  "collapse_condition": "Collapse occurs when regenerative accessibility fibers can no longer be rewoven.",
+  "open_formalization_items": [
+    "Define repair dynamics acting on fragmented accessibility fibers.",
+    "Define admissible reconnection pathways.",
+    "Specify relation between \\mathcal W_{\\mathrm{reweave}} and \\Omega_{\\mathrm{reopen}}.",
+    "Develop empirical estimators for rewovability."
+  ],
+  "one_sentence_lock": "The rewovability operator measures whether regenerative accessibility fibers can be reconnected after fragmentation."
+}

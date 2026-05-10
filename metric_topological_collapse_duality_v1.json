@@ -1,0 +1,23 @@
+{
+  "principle_id": "metric_topological_collapse_duality",
+  "title": "Metric–Topological Collapse Duality",
+  "status": "phase_1_canonical_bridge",
+  "framework_layer": "accessibility_topology",
+  "core_statement": "Topological viability may fail before metric viability fully vanishes.",
+  "metric_collapse": {
+    "definition": "Metric collapse occurs when recoverable transformational accessibility measure approaches exhaustion.",
+    "canonical_condition": "\\Omega_{\\mathrm{reopen}}(x,t;T)\\to0",
+    "compression": "Accessibility measure approaches exhaustion."
+  },
+  "topological_collapse": {
+    "definition": "Topological collapse occurs when recoverable accessibility connectivity degenerates.",
+    "canonical_condition": "recoverable traversability and rewovability fail",
+    "compression": "Recoverable accessibility connectivity degenerates."
+  },
+  "precollapse_condition": {
+    "statement": "Accessible futures may still exist while no longer forming a sufficiently connected recoverable structure.",
+    "formal_intuition": "\\Omega_{\\mathrm{reopen}}>0 while connectivity/traversability of \\mathcal T^+_{\\mathrm{recoverable}} degenerates"
+  },
+  "interpretive_consequence": "A system may appear metrically viable while already losing topological viability through fragmentation, bottlenecks, or loss of return pathways.",
+  "one_sentence_lock": "Accessible futures still exist, but they no longer form a sufficiently connected recoverable structure."
+}
