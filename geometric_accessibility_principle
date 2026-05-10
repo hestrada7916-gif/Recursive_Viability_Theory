@@ -1,0 +1,149 @@
+{
+  "principle_id": "accessibility_contraction_geometry",
+
+  "title": "Accessibility Contraction Geometry",
+
+  "status": "phase_1_locked_kernel",
+
+  "framework_layer": "recursive_viability_geometry",
+
+  "type": "geometric_accessibility_principle",
+
+  "canonical_statement": "Failure of sufficiently critical viability-preserving conditions progressively contracts recoverable transformational accessibility under recursive burden.",
+
+  "formal_statement": {
+    "statement": "Persistent adaptive systems preserve recoverable transformational accessibility under recursive burden, while collapse emerges through progressive contraction and degeneration of recoverable transformational accessibility geometry.",
+
+    "collapse_condition": "\\Omega_{\\mathrm{rec}}(x,t;T) \\to 0"
+  },
+
+  "core_objects": {
+    "recoverable_transformational_accessibility": "\\Omega_{\\mathrm{rec}}(x,t;T)",
+    "reachable_future_accessibility": "V^+(x,t;T)",
+    "reachable_future_state_set": "\\mathcal R^+(x,t;T)",
+    "recursive_burden": "\\mathcal B_{\\mathrm{rec}}",
+    "recursive_time": "\\tau_{\\mathrm{rec}}"
+  },
+
+  "object_definitions": {
+    "Omega_rec": {
+      "symbol": "\\Omega_{\\mathrm{rec}}",
+      "name": "recoverable_transformational_accessibility",
+
+      "definition": "Admissible reopenable transformational continuity accessible from recursively indexed state (x,t) over recursive horizon T.",
+
+      "interpretation": "Quantifies recoverable transformational accessibility geometry rather than merely reachable state accessibility."
+    },
+
+    "V_plus": {
+      "symbol": "V^+",
+      "name": "reachable_future_accessibility",
+
+      "definition": "Measure of survivably reachable future accessibility.",
+
+      "interpretation": "Quantifies accessible future-state structure independent of recoverable reopenability."
+    }
+  },
+
+  "geometric_distinction": {
+    "statement": "Not all accessible futures are recoverably reopenable.",
+
+    "distinction": {
+      "V_plus": "reachable future accessibility",
+      "Omega_rec": "recoverable transformational accessibility"
+    },
+
+    "importance": "Systems may retain accessible futures while losing reopenable transformational continuity."
+  },
+
+  "accessibility_contraction_law": {
+    "statement": "Accessibility contraction occurs whenever recoverable transformational accessibility decreases through recursive evolution.",
+
+    "formal_condition": "\\frac{d}{dt}\\Omega_{\\mathrm{rec}}(x,t;T)<0",
+
+    "interpretation": "Accessibility contraction progressively reduces reopenable transformational pathways, regenerative continuity, and future-generating capacity."
+  },
+
+  "critical_condition_failure": {
+    "statement": "Failure of sufficiently critical viability-preserving conditions generates accessibility contraction.",
+
+    "critical_conditions": [
+      "survivable directional differentiation",
+      "recoverable accessibility coupling",
+      "bounded recursive burden",
+      "regenerative reopenability",
+      "future-generating capacity"
+    ],
+
+    "formal_condition": "\\exists\\,\\mathcal C_i^{\\mathrm{crit}} \\Rightarrow \\frac{d}{dt}\\Omega_{\\mathrm{rec}}<0"
+  },
+
+  "recursive_compression_dynamics": {
+    "statement": "Recursive burden accumulation progressively compresses recoverable transformational accessibility geometry.",
+
+    "formal_condition": "\\mathcal B_{\\mathrm{rec}}\\uparrow \\Rightarrow \\Omega_{\\mathrm{rec}}\\downarrow",
+
+    "interpretation": "Excessive recursive burden progressively contracts viable transformational accessibility structure."
+  },
+
+  "collapse_geometry": {
+    "statement": "Collapse corresponds to degeneration of recoverable transformational accessibility geometry.",
+
+    "irreversible_condition": "\\Omega_{\\mathrm{rec}}(x,t;T)\\to0",
+
+    "equivalent_compression": "Collapse = degeneration of recoverable transformational accessibility."
+  },
+
+  "fiber_geometry_interpretation": {
+    "statement": "Adaptive systems evolve through recursive deformation of recoverable transformational accessibility fibers.",
+
+    "persistence_interpretation": "Persistence corresponds to preservation of reopenable transformational continuity.",
+
+    "collapse_interpretation": "Irreversible collapse corresponds to degeneration of accessibility fibers beyond reopenable continuity."
+  },
+
+  "differential_geometric_structure": {
+    "accessibility_manifold": "\\mathcal R^+",
+    "accessibility_measure": "V^+",
+    "recoverability_geometry": "\\Omega_{\\mathrm{rec}}",
+    "accessibility_gradient": "\\nabla V^+",
+    "transformational_flow": "v",
+    "recursive_temporal_continuity": "\\tau_{\\mathrm{rec}}",
+    "degeneration_dynamics": "\\frac{d}{dt}\\Omega_{\\mathrm{rec}}<0"
+  },
+
+  "future_refinement_opportunities": {
+    "accessibility_fragmentation": {
+      "statement": "Systems may retain accessibility volume while losing accessibility connectivity, reopenability, or coordinated traversability.",
+
+      "future_distinction": [
+        "accessibility contraction",
+        "accessibility fragmentation"
+      ]
+    }
+  },
+
+  "canonical_compression": [
+    "Persistence = preservation of recoverable transformational accessibility.",
+    "Collapse = progressive contraction and degeneration of recoverable transformational accessibility geometry."
+  ],
+
+  "deep_compression": [
+    "Accessibility contraction reduces reopenable futures.",
+    "Recursive burden progressively contracts viable accessibility.",
+    "Persistence preserves recoverable transformational continuity.",
+    "Collapse destroys reopenable transformational accessibility.",
+    "Adaptive viability is governed by recoverable transformational accessibility geometry."
+  ],
+
+  "governance_constraints": {
+    "non_binary_collapse": true,
+    "non_deterministic": true,
+    "substrate_invariant": true,
+    "admits_partial_recoverability": true,
+    "admits_metastability": true,
+    "admits_local_viability": true
+  },
+
+  "one_sentence_lock": "Collapse emerges through progressive contraction and degeneration of recoverable transformational accessibility geometry under recursive burden."
+}
