@@ -1,0 +1,141 @@
+{
+  "principle_id": "recursive_accessibility_evolution_equation",
+  "title": "Recursive Accessibility Evolution Equation",
+  "status": "phase_1_locked_kernel",
+  "framework_layer": "recursive_observer_accessibility_geometry",
+  "type": "recursive_deformation_dynamics_principle",
+
+  "canonical_statement": "Adaptive geometry evolves under coupled endogenous and observer-induced deformation.",
+
+  "deep_compression": "Recoverable transformational accessibility persists only while recursive deformation preserves reopenable continuity.",
+
+  "formal_statement": {
+    "statement": "Recoverable transformational accessibility evolves recursively under coupled endogenous and observer-induced deformation dynamics.",
+    "persistence_condition": "\\Omega_{\\mathrm{rec}}^{(t)} \\neq \\varnothing \\quad \\forall t",
+    "collapse_condition": "\\Omega_{\\mathrm{rec}}^{(t)} \\to \\varnothing",
+    "topological_condition": "\\mathcal T(\\Omega_{\\mathrm{rec}}^{(t+1)}) \\sim_{\\mathrm{rec}} \\mathcal T(\\Omega_{\\mathrm{rec}}^{(t)})"
+  },
+
+  "core_objects": {
+    "recursive_accessibility_state": "\\Omega_{\\mathrm{rec}}^{(t)}",
+    "accessibility_topology_class": "\\mathcal T(\\Omega_{\\mathrm{rec}}^{(t)})",
+    "endogenous_deformation_operator": "\\mathcal D_{\\mathrm{endo}}",
+    "observer_deformation_operator": "\\mathcal D_{\\mathrm{obs}}",
+    "total_deformation_operator": "\\mathcal D_{\\mathrm{total}}",
+    "topology_transition_operator": "\\mathcal K_{\\mathrm{top}}",
+    "external_observation_pressure": "\\mathcal O_{\\mathrm{ext}}",
+    "interpretive_synchronization_intensity": "\\Sigma_{\\mathrm{obs}}",
+    "effective_accessibility_dimensionality": "d_{\\mathrm{eff}}",
+    "persistence_weighted_margin": "\\bar M_\\tau",
+    "coupling_strength": "\\kappa"
+  },
+
+  "recursive_evolution_equation": {
+    "equation": "\\Omega_{\\mathrm{rec}}^{(t+1)} = \\mathcal D_{\\mathrm{obs}}(\\Omega_{\\mathrm{rec}}^{(t)}) \\cap \\mathcal D_{\\mathrm{endo}}(\\Omega_{\\mathrm{rec}}^{(t)})",
+    "interpretation": "Recoverable transformational accessibility evolves through the intersection of observer-induced accessibility deformation and endogenous regenerative accessibility evolution."
+  },
+
+  "total_deformation_structure": {
+    "equation": "\\mathcal D_{\\mathrm{total}} = \\mathcal D_{\\mathrm{endo}} \\circ \\mathcal D_{\\mathrm{obs}}",
+    "interpretation": "Adaptive accessibility geometry evolves under recursively coupled endogenous and observer-induced deformation dynamics."
+  },
+
+  "topology_state_classes": {
+    "open_accessibility": {
+      "class_id": "open",
+      "condition": "V_{\\mathrm{rec}}>V_{\\mathrm{crit}},\\ d_{\\mathrm{eff}}>d_{\\mathrm{crit}},\\ \\Omega_{\\mathrm{rec}}\\neq\\varnothing",
+      "description": "Recoverable future pathways remain plural, differentiated, and reopenable."
+    },
+    "contracted_accessibility": {
+      "class_id": "contracted",
+      "condition": "\\Omega_{\\mathrm{rec}}^{(t+1)} \\subset \\Omega_{\\mathrm{rec}}^{(t)}",
+      "description": "Recoverable accessibility shrinks while remaining connected."
+    },
+    "fragmented_accessibility": {
+      "class_id": "fragmented",
+      "condition": "\\pi_0(\\Omega_{\\mathrm{rec}}^{(t+1)}) > \\pi_0(\\Omega_{\\mathrm{rec}}^{(t)})",
+      "description": "Accessibility splits into disconnected islands of recoverable futures."
+    },
+    "synchronized_accessibility": {
+      "class_id": "synchronized",
+      "condition": "\\Sigma_{\\mathrm{obs}} \\uparrow,\\ d_{\\mathrm{eff}} \\downarrow",
+      "description": "Observer or coupling pressure reduces differentiated accessibility and forces pathway convergence."
+    },
+    "tunneled_accessibility": {
+      "class_id": "tunneled",
+      "condition": "\\exists\\ \\gamma_{\\mathrm{rec}}: \\Omega_i \\to \\Omega_j",
+      "description": "A narrow recoverable pathway remains between otherwise separated accessibility regions."
+    },
+    "reweaving_accessibility": {
+      "class_id": "reweaving",
+      "condition": "\\pi_0(\\Omega_{\\mathrm{rec}}^{(t+1)}) < \\pi_0(\\Omega_{\\mathrm{rec}}^{(t)})",
+      "description": "Previously fragmented accessibility regions reconnect through regenerative pathways."
+    },
+    "locked_accessibility": {
+      "class_id": "locked",
+      "condition": "d_{\\mathrm{eff}} \\to 1,\\ \\Sigma_{\\mathrm{obs}} \\to \\Sigma_{\\mathrm{crit}}",
+      "description": "Accessibility remains nonempty but collapses into a narrow forced trajectory or interpretive monoculture."
+    },
+    "collapsed_accessibility": {
+      "class_id": "collapsed",
+      "condition": "\\Omega_{\\mathrm{rec}}^{(t)} \\to \\varnothing",
+      "description": "Recoverable transformational accessibility is exhausted."
+    }
+  },
+
+  "topology_transition_operator": {
+    "equation": "\\mathcal T_{t+1}=\\mathcal K_{\\mathrm{top}}(\\mathcal T_t,\\mathcal D_{\\mathrm{endo}},\\mathcal D_{\\mathrm{obs}})",
+    "interpretation": "Recursive deformation changes the topology class of recoverable accessibility, not merely its measure."
+  },
+
+  "topological_transition_classes": {
+    "contraction": "\\Omega_{\\mathrm{rec}}^{(t+1)} \\subset \\Omega_{\\mathrm{rec}}^{(t)}",
+    "fragmentation": "\\pi_0(\\Omega_{\\mathrm{rec}}^{(t+1)}) > \\pi_0(\\Omega_{\\mathrm{rec}}^{(t)})",
+    "reconnection": "\\pi_0(\\Omega_{\\mathrm{rec}}^{(t+1)}) < \\pi_0(\\Omega_{\\mathrm{rec}}^{(t)})",
+    "synchronization_locking": "d_{\\mathrm{eff}} \\downarrow\\ \\text{under}\\ \\Sigma_{\\mathrm{obs}} \\uparrow",
+    "tunneling": "\\exists\\ \\gamma_{\\mathrm{rec}}\\ \\text{connecting separated accessibility components}",
+    "collapse": "\\Omega_{\\mathrm{rec}}^{(t)} \\to \\varnothing"
+  },
+
+  "accessibility_contraction_condition": {
+    "condition": "\\Omega_{\\mathrm{rec}}^{(t+1)} \\subset \\Omega_{\\mathrm{rec}}^{(t)}",
+    "interpretation": "Accessibility contraction occurs whenever recursive deformation reduces recoverable transformational accessibility."
+  },
+
+  "observer_induced_compression": {
+    "condition": "\\mathcal O_{\\mathrm{ext}} \\uparrow \\Rightarrow \\mathcal D_{\\mathrm{obs}} \\uparrow \\Rightarrow \\Omega_{\\mathrm{rec}} \\downarrow",
+    "interpretation": "Recursive observation is not dynamically passive; observer pressure can geometrically contract recoverable accessibility."
+  },
+
+  "synchronization_compression_cascade": {
+    "equation": "\\bar M_\\tau \\downarrow \\Longrightarrow \\kappa \\uparrow \\Longrightarrow \\Sigma_{\\mathrm{obs}} \\uparrow \\Longrightarrow d_{\\mathrm{eff}} \\downarrow \\Longrightarrow \\Omega_{\\mathrm{rec}} \\downarrow",
+    "interpretation": "Declining persistence-weighted margin amplifies synchronization coupling and interpretive compression, progressively contracting recoverable transformational accessibility."
+  },
+
+  "canonical_compression": [
+    "Adaptive accessibility evolves through recursively coupled endogenous and observer-induced deformation dynamics.",
+    "Persistence requires recursively reopenable transformational accessibility.",
+    "Collapse corresponds to exhaustion of recoverable transformational accessibility.",
+    "Topology class matters independently of accessibility measure."
+  ],
+
+  "deep_compression": [
+    "Recursive observation reshapes accessibility trajectories.",
+    "Accessibility evolves through coupled deformation dynamics.",
+    "Persistent systems preserve reopenable transformational continuity.",
+    "Synchronization pressure contracts accessibility dimensionality.",
+    "Systems may collapse topologically before collapsing materially.",
+    "Collapse corresponds to exhaustion of recoverable transformational accessibility.",
+    "Reweaving corresponds to regenerative reconnection of fragmented accessibility."
+  ],
+
+  "connections": [
+    "recursive_observer_viability_bridge",
+    "observer_coupled_accessibility_deformation_principle",
+    "accessibility_contraction_geometry",
+    "internal_viability_anchoring_principle",
+    "recursive_viability_geometry",
+    "topological_accessibility_collapse",
+    "regenerative_accessibility_fiber_geometry"
+  ]
+}
