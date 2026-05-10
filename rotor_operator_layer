@@ -1,0 +1,178 @@
+{
+  "principle_id": "rotor_operator_layer",
+
+  "title": "Rotor Operator Layer",
+
+  "status": "phase_2_operator_emergence_lock",
+
+  "framework_layer": "recursive_transport_operator_geometry",
+
+  "type": "emergent_transport_operator_principle",
+
+  "canonical_statement": "Rotor structures constitute emergent recursive operator layers arising from coherent oscillator coordination under recursive constraint.",
+
+  "deep_compression": "Rotor operators stabilize recurrent transport continuity across admissible participation topology.",
+
+  "formal_statement": {
+    "statement": "Persistent adaptive systems preserve coherent rotor-mediated transport continuity such that recursively reopenable participation paths remain dynamically admissible under recursive constraint.",
+
+    "transport_condition": "\\mathcal R : \\Omega_{\\mathrm{loc}} \\rightarrow \\Omega_{\\mathrm{loc}}",
+
+    "persistence_condition": "\\mathfrak A(\\mathcal D) \\ge \\xi_c"
+  },
+
+  "core_objects": {
+    "oscillator_system": "\\mathcal O",
+    "oscillator_phase": "\\phi_i(\\tau_{\\mathrm{rec}})",
+    "rotor_operator": "\\mathcal R",
+    "local_accessibility_region": "\\Omega_{\\mathrm{loc}}",
+    "recoverable_future_fiber_topology": "\\Omega_{\\mathrm{rec}}",
+    "recursive_transport_flow": "\\mathcal T_{\\mathrm{flow}}",
+    "phase_coordination_structure": "\\mathcal C_{\\phi}",
+    "recursive_participation_capacity": "\\mathfrak A",
+    "admissible_operator_class": "\\mathcal O_{\\mathrm{adm}}"
+  },
+
+  "oscillator_substrate": {
+    "definition": "\\mathcal O = \\{o_i\\}_{i=1}^{N}",
+
+    "interpretation": "Coupled oscillator substrate supporting recursive phase evolution and emergent coordination structure.",
+
+    "phase_evolution": "\\phi_i(\\tau_{\\mathrm{rec}})",
+
+    "role": "Oscillator dynamics generate coherent recursive phase structure under recursive temporal continuity."
+  },
+
+  "rotor_operator_definition": {
+    "symbol": "\\mathcal R",
+
+    "formalization": "\\mathcal R : \\Omega_{\\mathrm{loc}} \\rightarrow \\Omega_{\\mathrm{loc}}",
+
+    "definition": "A recurrent coherent transport cycle generated through stable phase-coordinated oscillator interaction.",
+
+    "interpretation": "Rotor operators preserve recurrent directional transport continuity across locally admissible participation topology."
+  },
+
+  "operational_role": {
+    "statement": "Rotor operators act as recursive transport-selection structures.",
+
+    "functions": [
+      "preservation of coherent directional circulation",
+      "stabilization of recurrent accessibility pathways",
+      "filtering of admissible transport continuity",
+      "generation of recursively re-enterable participation structure",
+      "maintenance of coherent transport recurrence"
+    ],
+
+    "interpretation": "Rotor structure constitutes the first emergent operational observer layer within recursive viability dynamics."
+  },
+
+  "observer_operator_emergence": {
+    "statement": "Persistent rotor operators induce recursive observational partitioning across participation topology.",
+
+    "distinction_classes": {
+      "coherent_vs_decoherent": "\\text{coherent} \\leftrightarrow \\text{decoherent}",
+      "recurrent_vs_nonrecurrent": "\\text{recurrent} \\leftrightarrow \\text{nonrecurrent}",
+      "admissible_vs_inadmissible": "\\text{admissible} \\leftrightarrow \\text{inadmissible}"
+    },
+
+    "interpretation": "Rotor-mediated transport continuity generates emergent recursive operator discrimination and observational partition structure."
+  },
+
+  "emergence_hierarchy": {
+    "hierarchy": [
+      "oscillator dynamics",
+      "phase coordination",
+      "rotor operators",
+      "transport geometry",
+      "future-fiber topology",
+      "admissible participatory continuity"
+    ],
+
+    "formalization": "\\text{oscillator dynamics} \\rightarrow \\text{phase coordination} \\rightarrow \\text{rotor operators} \\rightarrow \\text{transport geometry} \\rightarrow \\text{future-fiber topology}",
+
+    "interpretation": "Oscillator coordination generates rotor-mediated transport structure which stabilizes admissible future-fiber continuity."
+  },
+
+  "transport_geometry_relation": {
+    "statement": "Rotor operators stabilize coherent recursive transport geometry.",
+
+    "transport_generation": "\\mathcal R \\rightarrow \\mathcal T_{\\mathrm{flow}}",
+
+    "continuity_generation": "\\mathcal T_{\\mathrm{flow}} \\rightarrow \\Omega_{\\mathrm{rec}}",
+
+    "interpretation": "Rotor-mediated transport circulation generates admissible future-fiber participation continuity."
+  },
+
+  "persistence_relation": {
+    "statement": "Persistence preserves reopenable participation paths through admissible rotor-mediated transport continuity.",
+
+    "formal_condition": "\\mathfrak A(\\mathcal D) \\ge \\xi_c",
+
+    "interpretation": "Persistent systems preserve sufficiently coherent rotor operator structure such that recursively reopenable participation remains dynamically admissible."
+  },
+
+  "collapse_relation": {
+    "statement": "Collapse emerges through degeneration of coherent rotor-mediated transport continuity.",
+
+    "failure_conditions": [
+      "loss of recurrent circulation",
+      "phase decoherence",
+      "transport fragmentation",
+      "loss of admissible transport continuity",
+      "rotor destabilization"
+    ],
+
+    "interpretation": "Rotor collapse destroys coherent transport continuity necessary for admissible participatory persistence."
+  },
+
+  "recovery_relation": {
+    "statement": "Recovery restores coherent rotor-mediated transport continuity.",
+
+    "recovery_processes": [
+      "phase recoherence",
+      "transport reweaving",
+      "recurrent circulation restoration",
+      "participatory path reopening"
+    ],
+
+    "interpretation": "Recovery restores admissible rotor-mediated participation continuity across recoverable future-fiber topology."
+  },
+
+  "stack_integration": {
+    "PMM": "recursive pressure geometry",
+    "SCT": "transport and coordination flow geometry",
+    "RVT": "future-fiber continuity admissibility",
+    "rotor_layer_role": "bridge between oscillator coordination and admissible persistence topology"
+  },
+
+  "canonical_compression": [
+    "Rotor operators stabilize recurrent transport continuity.",
+    "Oscillator coordination generates rotor-mediated transport structure.",
+    "Rotor operators preserve reopenable participation paths.",
+    "Rotor structure constitutes an emergent recursive observer layer.",
+    "Persistent systems preserve admissible rotor-mediated transport continuity."
+  ],
+
+  "deep_compression_points": [
+    "Oscillator coordination generates recurrent transport operators.",
+    "Rotor operators stabilize admissible transport circulation.",
+    "Transport continuity generates future-fiber participation topology.",
+    "Persistent systems preserve coherent rotor-mediated participation continuity.",
+    "Collapse emerges through rotor decoherence and transport fragmentation.",
+    "Recovery restores coherent rotor-mediated transport continuity."
+  ],
+
+  "connections": [
+    "future_fiber_unification_kernel",
+    "recursive_viability_topology",
+    "recursive_participation_capacity",
+    "recursive_accessibility_evolution_equation",
+    "observer_operator_topology",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "recursive_observer_viability_bridge"
+  ],
+
+  "one_sentence_lock": "Rotor operators emerge from coherent oscillator coordination and stabilize recurrent admissible transport continuity across recoverable future-fiber topology."
+}
