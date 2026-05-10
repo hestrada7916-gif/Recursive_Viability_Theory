@@ -1,0 +1,151 @@
+{
+  "principle_id": "admissible_persistence_operator_class",
+
+  "title": "Admissible Persistence Operator Class",
+
+  "status": "phase_1_operator_formalization",
+
+  "framework_layer": "recursive_viability_operator_theory",
+
+  "type": "operator_admissibility_principle",
+
+  "canonical_statement": "Persistent systems admit only transformations that preserve sufficiently reopenable participatory continuity.",
+
+  "deep_compression": "Persistence is constrained by admissible operators on recoverable accessibility geometry.",
+
+  "formal_statement": {
+    "statement": "Let End(Omega_rec) denote the class of all accessibility endomorphisms on recoverable transformational accessibility geometry. The admissible operator class O_adm consists of those operators that preserve sufficiently reopenable participatory continuity under recursive constraint.",
+    "operator_class": "\\mathcal O_{\\mathrm{adm}} \\subseteq \\mathrm{End}(\\Omega_{\\mathrm{rec}})",
+    "admissibility_condition": "\\mathcal D \\in \\mathcal O_{\\mathrm{adm}} \\iff \\mathcal D \\text{ preserves sufficiently reopenable participatory continuity.}"
+  },
+
+  "core_objects": {
+    "recoverable_transformational_accessibility": "\\Omega_{\\mathrm{rec}}",
+    "endomorphism_class": "\\mathrm{End}(\\Omega_{\\mathrm{rec}})",
+    "admissible_operator_class": "\\mathcal O_{\\mathrm{adm}}",
+    "accessibility_operator": "\\mathcal D",
+    "reopenable_participatory_continuity": "\\mathcal C_{\\mathrm{rpc}}",
+    "recursive_constraint": "\\mathcal B_{\\mathrm{rec}}",
+    "recursive_viability_filtration": "\\mathcal F_{\\mathrm{active}} \\subseteq \\mathcal F_{\\mathrm{stable}} \\subseteq \\mathcal F_{\\mathrm{recoverable}} \\subseteq \\mathcal F_{\\mathrm{latent}} \\subseteq \\Omega_{\\mathrm{rec}}"
+  },
+
+  "object_definitions": {
+    "End_Omega_rec": {
+      "symbol": "\\mathrm{End}(\\Omega_{\\mathrm{rec}})",
+      "name": "accessibility_endomorphism_class",
+      "definition": "The class of all endomorphisms acting on recoverable transformational accessibility geometry.",
+      "interpretation": "All transformations from recoverable accessibility geometry into itself, before viability admissibility constraints are imposed."
+    },
+
+    "O_adm": {
+      "symbol": "\\mathcal O_{\\mathrm{adm}}",
+      "name": "admissible_persistence_operator_class",
+      "definition": "The subclass of accessibility endomorphisms that preserve sufficiently reopenable participatory continuity under recursive constraint.",
+      "interpretation": "The viability-preserving transformation class."
+    },
+
+    "D": {
+      "symbol": "\\mathcal D",
+      "name": "accessibility_deformation_operator",
+      "definition": "A transformation acting on recoverable transformational accessibility geometry.",
+      "interpretation": "An operator is admissible only if it preserves sufficient recursively reopenable participatory continuity."
+    },
+
+    "C_rpc": {
+      "symbol": "\\mathcal C_{\\mathrm{rpc}}",
+      "name": "reopenable_participatory_continuity",
+      "definition": "Continuity structure preserving admissible participation within recursively reopenable recoverable accessibility topology.",
+      "interpretation": "The core continuity object that admissible operators must preserve."
+    }
+  },
+
+  "operator_admissibility": {
+    "primary_condition": "\\mathcal D \\in \\mathcal O_{\\mathrm{adm}}",
+    "iff_condition": "\\mathcal D \\in \\mathcal O_{\\mathrm{adm}} \\iff \\mathcal D(\\mathcal C_{\\mathrm{rpc}}) \\text{ remains sufficiently reopenable}",
+    "strong_condition": "\\mathcal D(\\Omega_{\\mathrm{rec}}) \\subseteq \\Omega_{\\mathrm{rec}}",
+    "filtration_condition": "\\mathcal D \\text{ preserves recursive viability filtration structure}",
+    "topological_condition": "\\mathcal T(\\mathcal D(\\Omega_{\\mathrm{rec}})) \\sim_{\\mathrm{rec}} \\mathcal T(\\Omega_{\\mathrm{rec}})"
+  },
+
+  "persistence_interpretation": {
+    "statement": "Persistence is not merely a property of states, but a property of admissible transformations preserving reopenable participatory continuity.",
+    "implication": "A system persists only while its recursive transformations remain within the admissible persistence operator class."
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse corresponds to loss of admissibility under recursive deformation.",
+    "formal_condition": "\\mathcal D \\notin \\mathcal O_{\\mathrm{adm}}",
+    "geometric_condition": "\\mathcal D(\\Omega_{\\mathrm{rec}}) \\to \\varnothing \\quad \\text{or} \\quad \\mathcal D(\\mathcal C_{\\mathrm{rpc}}) \\text{ loses reopenability}",
+    "interpretation": "Collapse occurs when recursive transformation no longer preserves sufficiently reopenable participatory continuity."
+  },
+
+  "recovery_interpretation": {
+    "statement": "Recovery corresponds to restoration of admissible transformation structure.",
+    "formal_condition": "\\exists\\,\\mathcal W_{\\mathrm{rew}} \\in \\mathcal O_{\\mathrm{adm}}",
+    "interpretation": "Recovery restores admissible participation by reweaving fragmented accessibility topology into reopenable continuity."
+  },
+
+  "operator_subclasses": {
+    "endogenous_deformation": "\\mathcal D_{\\mathrm{endo}}",
+    "observer_induced_deformation": "\\mathcal D_{\\mathrm{obs}}",
+    "burden_deformation": "\\mathcal D_{\\mathrm{burden}}",
+    "fragmentation_operator": "\\mathcal D_{\\mathrm{frag}}",
+    "coordination_preservation_operator": "\\mathcal D_{\\mathrm{coord}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "regenerative_reopening_operator": "\\mathcal R_{\\mathrm{regen}}"
+  },
+
+  "universal_persistence_connection": {
+    "statement": "A universal persistence operator requires a constrained admissible operator class preserving recursively reopenable participatory continuity.",
+    "candidate_universal_condition": "\\frac{d\\Omega_{\\mathrm{reopen}}}{d\\tau_{\\mathrm{rec}}}=\\mathcal R_{\\mathrm{regen}}-\\mathcal D_{\\mathrm{rec}}",
+    "persistence_condition": "\\mathcal R_{\\mathrm{regen}} \\ge \\mathcal D_{\\mathrm{rec}}",
+    "operator_condition": "\\mathcal D \\in \\mathcal O_{\\mathrm{adm}}"
+  },
+
+  "category_theoretic_interpretation": {
+    "objects": "\\Omega_{\\mathrm{rec}}",
+    "morphisms": "\\mathrm{End}(\\Omega_{\\mathrm{rec}})",
+    "admissible_morphisms": "\\mathcal O_{\\mathrm{adm}}",
+    "collapse": "loss of admissible morphism preservation",
+    "recovery": "restoration of admissible morphism continuity",
+    "interpretation": "RVT may be formalized as a constrained category of recoverable accessibility geometries and admissible persistence-preserving transformations."
+  },
+
+  "canonical_compression": [
+    "Persistence is constrained by admissible accessibility operators.",
+    "Admissible operators preserve reopenable participatory continuity.",
+    "Collapse is loss of operator admissibility.",
+    "Recovery restores admissible transformation continuity."
+  ],
+
+  "deep_compression_points": [
+    "Persistence is not merely state survival.",
+    "Persistence requires admissible transformations.",
+    "Admissible transformations preserve recursively reopenable participation.",
+    "Collapse occurs when recursive deformation leaves the admissible operator class.",
+    "Recovery re-enters the admissible operator class through rewovability.",
+    "Universal persistence requires operator-level preservation of reopenable continuity."
+  ],
+
+  "connections": [
+    "atomic_recursive_viability_principle",
+    "regenerative_reopenability_dynamics",
+    "recursive_viability_filtration_geometry",
+    "recursive_accessibility_evolution_equation",
+    "participatory_accessibility_principle",
+    "topological_recovery_constraint",
+    "recursive_observer_viability_bridge",
+    "accessibility_contraction_geometry"
+  ],
+
+  "governance_constraints": {
+    "non_deterministic": true,
+    "substrate_invariant": true,
+    "operator_level": true,
+    "topology_preserving_required": true,
+    "phase_labels_are_downstream": true,
+    "interpretation_must_remain_observable_constrained": true
+  },
+
+  "one_sentence_lock": "An operator is admissible for persistence iff it preserves sufficiently reopenable participatory continuity within recoverable transformational accessibility geometry."
+}
