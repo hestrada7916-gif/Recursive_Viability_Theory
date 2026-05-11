@@ -1,0 +1,147 @@
+{
+  "principle_id": "persistence_classification_principle",
+  "title": "Persistence Classification Principle",
+  "status": "phase_1_viability_classification_lock",
+  "framework_layer": "recursive_viability_topology",
+  "type": "viability_phase_classification",
+
+  "canonical_statement": "Persistence regimes classify according to preservation or degeneration of recursive continuity together with preservation or degeneration of recoverable future admissibility structure.",
+
+  "formal_statement": {
+    "statement": "Persistence is not binary, but partitions into distinct viability classes determined by recursive continuity preservation and recoverable future-transformational admissibility.",
+
+    "deep_compression": "Persistence alone does not prove future admissibility."
+  },
+
+  "core_objects": {
+    "recursive_continuity": {
+      "symbol": "\\mathcal C_{\\mathrm{rec}}",
+      "name": "Recursive Continuity",
+      "definition": "Preserved recursively reopenable participatory continuity across recursive transformational participation."
+    },
+
+    "future_admissibility": {
+      "symbol": "\\mathcal R^{+}",
+      "name": "Recoverable Future Admissibility",
+      "definition": "Recoverable future-transformational accessibility structure preserving admissible future participation."
+    },
+
+    "critical_accessibility": {
+      "symbol": "\\mathcal R_{\\mathrm{crit}}",
+      "name": "Critical Accessibility Threshold",
+      "definition": "Minimal recoverable future accessibility required for stable admissible continuation."
+    },
+
+    "recursive_time": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "name": "Recursive Temporal Continuity",
+      "definition": "Preserved reopenable participatory continuity across recursive accessibility topology."
+    }
+  },
+
+  "persistence_classes": {
+    "viable_persistence": {
+      "name": "Viable Persistence",
+
+      "definition": "Viable persistence preserves both recursively reopenable continuity and sufficient recoverable future-transformational admissibility.",
+
+      "formal_condition": {
+        "recursive_continuity": "\\mathcal C_{\\mathrm{rec}} > 0",
+        "future_admissibility": "\\mathcal R^{+} > 0"
+      },
+
+      "interpretation": "The system preserves recursive continuity together with sufficient future accessibility for continued adaptive participation."
+    },
+
+    "degenerative_persistence": {
+      "name": "Degenerative Persistence",
+
+      "definition": "Degenerative persistence preserves recursive continuity while progressively degrading recoverable future admissibility structure.",
+
+      "formal_condition": {
+        "recursive_continuity": "\\mathcal C_{\\mathrm{rec}} > 0",
+        "future_admissibility_decay": "\\frac{d\\mathcal R^{+}}{d\\tau_{\\mathrm{rec}}} < 0"
+      },
+
+      "interpretation": "The system continues to persist locally while progressively exhausting future-transformational accessibility."
+    },
+
+    "fragile_persistence": {
+      "name": "Fragile Persistence",
+
+      "definition": "Fragile persistence temporarily preserves recursive continuity despite critically limited recoverable future accessibility redundancy.",
+
+      "formal_condition": {
+        "recursive_continuity": "\\mathcal C_{\\mathrm{rec}} > 0",
+        "critical_accessibility": "\\mathcal R^{+} \\approx \\mathcal R_{\\mathrm{crit}}"
+      },
+
+      "interpretation": "The system remains temporarily viable but exists near admissibility instability thresholds."
+    },
+
+    "collapsing_persistence": {
+      "name": "Collapsing Persistence",
+
+      "definition": "Collapsing persistence corresponds to degeneration of both recursive continuity and recoverable future admissibility.",
+
+      "formal_condition": {
+        "recursive_continuity": "\\mathcal C_{\\mathrm{rec}} \\rightarrow 0",
+        "future_admissibility": "\\mathcal R^{+} \\rightarrow 0"
+      },
+
+      "interpretation": "Recursive continuity and future-transformational accessibility jointly degenerate toward collapse."
+    }
+  },
+
+  "theorems": {
+    "persistence_viability_separation": {
+      "name": "Persistence–Viability Separation Theorem",
+
+      "statement": "Persistence alone is insufficient to establish adaptive viability.",
+
+      "formal_statement": "Adaptive viability requires simultaneous preservation of recursive continuity and sufficiently recoverable future-transformational admissibility structure.",
+
+      "interpretation": "Systems may continue to persist locally while progressively degrading long-horizon future viability."
+    }
+  },
+
+  "phase_structure": {
+    "classification_axes": [
+      "recursive continuity preservation",
+      "future admissibility preservation"
+    ],
+
+    "regime_types": [
+      "viable",
+      "degenerative",
+      "fragile",
+      "collapsing"
+    ],
+
+    "interpretation": "Persistence regimes form a recursive viability phase structure governed by continuity preservation and future accessibility dynamics."
+  },
+
+  "cross_framework_relations": {
+    "PMM": "Recursive burden accumulation drives admissibility compression and degenerative persistence.",
+
+    "SCT": "Transport coordination stabilizes continuity preservation and future accessibility.",
+
+    "RVT": "Viability topology governs admissible future participation structure.",
+
+    "recursive_time": "Recursive temporal continuity may persist locally despite future accessibility degeneration."
+  },
+
+  "canonical_compressions": [
+    "Persistence alone does not prove future admissibility.",
+    "Viability requires both continuity and future accessibility.",
+    "Degenerative persistence exhausts future viability.",
+    "Collapse destroys both continuity and admissibility."
+  ],
+
+  "deep_compressions": [
+    "Persistence and viability are not identical.",
+    "Systems may persist while destroying future accessibility.",
+    "Future admissibility governs long-horizon viability.",
+    "Recursive continuity without future accessibility is degenerative persistence."
+  ]
+}
