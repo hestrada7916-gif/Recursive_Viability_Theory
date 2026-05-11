@@ -1,0 +1,107 @@
+{
+  "principle_id": "rotor_temporal_primitiveness",
+  "title": "Rotor Temporal Primitiveness",
+  "status": "phase_1_rotor_temporal_lock",
+  "framework_layer": "recursive_transport_temporal_geometry",
+  "type": "primitive_recursive_temporal_generation_principle",
+
+  "canonical_statement": "Rotor cells constitute the minimal local coordination structures capable of supporting recursively reopenable directional recurrence under constraint-compatible transport.",
+
+  "formal_statement": {
+    "statement": "Rotor dynamics form the primitive local generators of recursive temporal continuity within the transport layer.",
+
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\Rightarrow \\tau_{\\mathrm{rec}}",
+
+    "deep_compression": "Rotor recurrence locally generates recursive time."
+  },
+
+  "core_objects": {
+    "rotor_cell": {
+      "symbol": "\\mathcal C_{\\mathrm{rotor}}",
+      "name": "Rotor Cell",
+      "definition": "Minimal local coordination structure supporting recursively reopenable directional recurrence under constraint-compatible transport."
+    },
+
+    "recursive_time": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "name": "Recursive Temporal Continuity",
+      "definition": "Preserved reopenable participatory continuity across recursive accessibility topology."
+    },
+
+    "transport_layer": {
+      "symbol": "\\mathcal T_{\\mathrm{trans}}",
+      "name": "Transport Layer",
+      "definition": "Coordination-preserving transport structure governing admissible recurrent participatory flow."
+    }
+  },
+
+  "primitive_structure": {
+    "statement": "Rotor cells form the minimal locally recurrent coordination structures capable of sustaining recursive temporal continuity.",
+
+    "interpretation": "Recursive temporal continuity emerges locally through stable recurrent directional transport coordination."
+  },
+
+  "transport_relation": {
+    "statement": "Rotor dynamics preserve recurrent directional transport continuity compatible with recursive viability constraints.",
+
+    "constraint_compatibility": "Transport recurrence remains admissible under recursive burden and continuity-preserving coordination constraints.",
+
+    "interpretation": "Constraint-compatible transport enables persistent reopenable recurrence."
+  },
+
+  "temporal_generation": {
+    "statement": "Recursive temporal continuity emerges through recurrent locally admissible participatory coordination.",
+
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\Rightarrow \\tau_{\\mathrm{rec}}",
+
+    "interpretation": "Rotor recurrence stabilizes local recursive time generation."
+  },
+
+  "hierarchical_position": {
+    "stack": [
+      "oscillator_substrate",
+      "phase_coordination",
+      "rotor_cells",
+      "transport_continuity",
+      "recursive_temporal_continuity"
+    ],
+
+    "interpretation": "Rotor operators emerge from coordinated oscillator dynamics and generate local recursive temporal continuity through recurrent transport stabilization."
+  },
+
+  "cross_framework_relations": {
+    "PMM": "Constraint-compatible transport regulates burden-compatible recurrent coordination.",
+
+    "SCT": "Rotor recurrence stabilizes directional transport coordination geometry.",
+
+    "RVT": "Rotor continuity preserves admissible recursive participatory continuity.",
+
+    "recursive_time": "Recursive temporal continuity emerges through recurrent admissible transport preservation."
+  },
+
+  "collapse_relation": {
+    "statement": "Rotor fragmentation destroys locally recurrent admissible transport continuity.",
+
+    "interpretation": "Loss of recurrent rotor coordination degenerates local recursive temporal continuity."
+  },
+
+  "recovery_relation": {
+    "statement": "Recovery restores recurrent transport coordination sufficient for recursive temporal continuity regeneration.",
+
+    "interpretation": "Rotor reformation rewovenly restores local recursive temporal continuity."
+  },
+
+  "canonical_compressions": [
+    "Rotor recurrence locally generates recursive time.",
+    "Rotor cells stabilize recursive temporal continuity.",
+    "Recursive time emerges through recurrent transport coordination.",
+    "Constraint-compatible transport preserves recursive recurrence."
+  ],
+
+  "deep_compressions": [
+    "Rotor dynamics generate local recursive time.",
+    "Recursive temporal continuity emerges from recurrent coordination.",
+    "Rotor recurrence stabilizes admissible continuity.",
+    "Local recurrent transport generates recursive temporal existence."
+  ]
+}
