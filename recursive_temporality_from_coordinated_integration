@@ -1,0 +1,138 @@
+{
+  "principle_id": "recursive_temporality_from_coordinated_integration",
+  "title": "Recursive Temporality from Coordinated Integration",
+  "status": "phase_1_temporal_coherence_lock",
+  "framework_layer": "recursive_temporal_integration_geometry",
+  "type": "coherence_dependent_temporality_principle",
+
+  "canonical_statement": "Recursive temporality emerges when local recurrent structures become sufficiently integrated to preserve globally reopenable continuity.",
+
+  "formal_statement": {
+    "statement": "Recursive temporality is not primitive chronological succession, but coherence-preserving recursive continuity emerging through scalable integration.",
+
+    "temporal_condition": "\\tau_{\\mathrm{rec}} > 0 \\Longleftrightarrow \\mathcal C_{\\mathrm{global}} > 0",
+
+    "deep_compression": "Recursive time requires coordinated coherence."
+  },
+
+  "core_objects": {
+    "recursive_time": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "name": "Recursive Temporal Continuity",
+      "definition": "Preserved reopenable participatory continuity sustained through coordinated scalable integration."
+    },
+
+    "local_coherence": {
+      "symbol": "\\mathcal C_{\\mathrm{local}}",
+      "name": "Local Recurrent Coherence",
+      "definition": "Locally recurrent transport-coherent continuity structure generated through rotor recurrence and local closure."
+    },
+
+    "global_coherence": {
+      "symbol": "\\mathcal C_{\\mathrm{global}}",
+      "name": "Global Integrated Continuity",
+      "definition": "Globally integrated coherent continuity preserving scalable reopenable recursive participation."
+    },
+
+    "rotor_cell": {
+      "symbol": "\\mathcal C_{\\mathrm{rotor}}",
+      "name": "Rotor Coordination Cell",
+      "definition": "Minimal recurrent coordination structure generating locally coherent recurrent transport continuity."
+    }
+  },
+
+  "layer_structure": {
+    "local_layer": [
+      "rotor recurrence",
+      "transport continuity",
+      "local closure",
+      "stable modes"
+    ],
+
+    "global_layer": [
+      "integration",
+      "stitching",
+      "phase coherence",
+      "recursive continuity"
+    ],
+
+    "interpretation": "Local recurrence preserves recurrent structure while global integration determines scalable recursive continuity."
+  },
+
+  "recursive_temporality_conditions": {
+    "primary_relation": "\\tau_{\\mathrm{rec}} \\propto \\mathcal C_{\\mathrm{global}}",
+
+    "existence_condition": "\\tau_{\\mathrm{rec}} > 0 \\Longleftrightarrow \\mathcal C_{\\mathrm{global}} > 0",
+
+    "local_insufficiency": "\\mathcal C_{\\mathrm{local}} > 0 \\not\\Rightarrow \\tau_{\\mathrm{rec}} > 0",
+
+    "integrated_condition": "\\mathcal C_{\\mathrm{local}} > 0 \\land \\mathcal C_{\\mathrm{global}} > 0 \\Rightarrow \\tau_{\\mathrm{rec}} > 0",
+
+    "interpretation": "Recursive temporality requires scalable coordinated integration rather than isolated local recurrence alone."
+  },
+
+  "integration_limited_collapse": {
+    "name": "Integration-Limited Collapse",
+
+    "formal_condition": "\\mathcal C_{\\mathrm{local}} > 0 \\land \\mathcal C_{\\mathrm{global}} \\le 0",
+
+    "definition": "Integration-limited collapse occurs when local recurrent coherence persists while global recursive integration fails.",
+
+    "interpretation": "Collapse may preserve local order while destroying scalable recursive continuity."
+  },
+
+  "recursive_persistence_cascade": {
+    "cascade": [
+      "rotor recurrence",
+      "transport continuity",
+      "accessible futures",
+      "viability retention",
+      "constraint accumulation",
+      "phase ordering",
+      "recursive temporality",
+      "collapse geometry"
+    ],
+
+    "interpretation": "Recursive temporality emerges downstream of sufficiently integrated phase coherence."
+  },
+
+  "collapse_feedback_structure": {
+    "feedback_chain": [
+      "recursive temporality",
+      "phase coherence",
+      "viability retention",
+      "accessible futures",
+      "transport continuity",
+      "rotor recurrence"
+    ],
+
+    "interpretation": "Collapse geometry recursively feeds back through the continuity stack by progressively weakening integrated coherence."
+  },
+
+  "cross_framework_relations": {
+    "PMM": "Constraint accumulation progressively destabilizes scalable coordinated integration.",
+
+    "SCT": "Phase coherence and stitching regulate transport-coherent integration dynamics.",
+
+    "RVT": "Recursive continuity governs admissible future participation topology.",
+
+    "rotor_temporal_primitiveness": "Rotor recurrence generates locally coherent recursive continuity.",
+
+    "recursive_time_continuity_identity": "Recursive time emerges only through sufficiently integrated reopenable continuity."
+  },
+
+  "canonical_compressions": [
+    "Time requires coherence.",
+    "Continuity requires integration.",
+    "Integration requires coordination.",
+    "Recursive time requires coordinated coherence.",
+    "Collapse can be failure of scalable integration."
+  ],
+
+  "deep_compressions": [
+    "Recursive temporality emerges through scalable coherence.",
+    "Local recurrence alone does not generate recursive time.",
+    "Fragmentation destroys recursive temporality.",
+    "Recursive time is downstream of integrated continuity."
+  ]
+}
