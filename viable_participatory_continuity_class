@@ -1,0 +1,107 @@
+{
+  "principle_id": "viable_participatory_continuity_class",
+  "title": "Viable Participatory Continuity Class",
+  "status": "phase_2_topological_operator_lock",
+  "framework_layer": "recursive_viability_operator_topology",
+  "type": "closure_preserving_viability_principle",
+
+  "canonical_statement": "Adaptive persistence requires recursive deformation dynamics to preserve membership within the viable participatory continuity class.",
+
+  "deep_compression": "Persistence preserves closure under recursive deformation.",
+
+  "formal_statement": {
+    "statement": "Persistent adaptive systems remain closed under admissible recursive transformational deformation.",
+    "class_definition": "\\mathcal C_{\\mathrm{vpc}} = \\{\\Omega_{\\mathrm{rec}} : \\exists\\,\\text{reopenable admissible participation paths}\\}",
+    "persistence_condition": "\\mathcal D(\\mathcal C_{\\mathrm{vpc}}) \\subseteq \\mathcal C_{\\mathrm{vpc}}",
+    "collapse_condition": "\\mathcal D(\\mathcal C_{\\mathrm{vpc}}) \\not\\subseteq \\mathcal C_{\\mathrm{vpc}}",
+    "recovery_condition": "\\mathcal D_{\\mathrm{rec}}(\\Omega) \\in \\mathcal C_{\\mathrm{vpc}}"
+  },
+
+  "core_objects": {
+    "viable_participatory_continuity_class": "\\mathcal C_{\\mathrm{vpc}}",
+    "recoverable_accessibility_geometry": "\\Omega_{\\mathrm{rec}}",
+    "recursive_deformation_operator": "\\mathcal D",
+    "regenerative_recovery_operator": "\\mathcal D_{\\mathrm{rec}}",
+    "admissible_operator_class": "\\mathcal O_{\\mathrm{adm}}",
+    "recursive_participation_capacity": "\\mathfrak A",
+    "viability_threshold": "\\xi_c"
+  },
+
+  "viable_participatory_continuity_class_definition": {
+    "equation": "\\mathcal C_{\\mathrm{vpc}} = \\{\\Omega_{\\mathrm{rec}} : \\exists\\,\\text{reopenable admissible participation paths}\\}",
+    "interpretation": "The viable participatory continuity class consists of recursively admissible continuity structures preserving reopenable future-transformational accessibility."
+  },
+
+  "recursive_deformation_operator": {
+    "equation": "\\mathcal D : \\mathcal C \\rightarrow \\mathcal C",
+    "interpretation": "Recursive deformation modifies accessibility topology through constraint accumulation, transport deformation, coordination restructuring, and transformational evolution."
+  },
+
+  "persistence_criterion": {
+    "equation": "\\mathcal D(\\mathcal C_{\\mathrm{vpc}}) \\subseteq \\mathcal C_{\\mathrm{vpc}}",
+    "interpretation": "Recursive deformation preserves viable participatory continuity."
+  },
+
+  "collapse_criterion": {
+    "equation": "\\mathcal D(\\mathcal C_{\\mathrm{vpc}}) \\not\\subseteq \\mathcal C_{\\mathrm{vpc}}",
+    "interpretation": "Recursive deformation exits the viable participatory continuity class.",
+    "deep_form": "Collapse corresponds to loss of closure under recursive deformation."
+  },
+
+  "recovery_criterion": {
+    "equation": "\\mathcal D_{\\mathrm{rec}}(\\Omega) \\in \\mathcal C_{\\mathrm{vpc}}",
+    "interpretation": "Recovery restores reopenable participatory continuity after topological degeneration or continuity rupture."
+  },
+
+  "operator_partition": {
+    "class_preserving": {
+      "condition": "\\mathcal D(\\mathcal C_{\\mathrm{vpc}}) \\subseteq \\mathcal C_{\\mathrm{vpc}}",
+      "meaning": "Persistent admissible recursive deformation."
+    },
+    "class_exiting": {
+      "condition": "\\mathcal D(\\mathcal C_{\\mathrm{vpc}}) \\not\\subseteq \\mathcal C_{\\mathrm{vpc}}",
+      "meaning": "Collapse-generating recursive deformation."
+    }
+  },
+
+  "equivalent_persistence_forms": {
+    "functional_form": "\\mathfrak A(\\mathcal D) \\ge \\xi_c",
+    "operator_form": "\\mathcal D \\in \\mathcal O_{\\mathrm{adm}}",
+    "topological_form": "\\mathcal D(\\mathcal C_{\\mathrm{vpc}}) \\subseteq \\mathcal C_{\\mathrm{vpc}}",
+    "interpretation": "Persistence may be equivalently expressed through viability functionals, admissible operator membership, or closure preservation under recursive deformation."
+  },
+
+  "rotor_relation": {
+    "equation": "\\mathcal R : \\Omega_{\\mathrm{loc}} \\rightarrow \\Omega_{\\mathrm{loc}} \\subseteq \\mathcal C_{\\mathrm{vpc}}",
+    "interpretation": "Rotor operators act as local continuity-preserving recurrent transport operators within recursive accessibility topology."
+  },
+
+  "canonical_compression": [
+    "Persistence preserves closure under recursive deformation.",
+    "Collapse exits the viable participatory continuity class.",
+    "Recovery restores reopenable participatory continuity.",
+    "Persistent systems remain closed under admissible recursive evolution."
+  ],
+
+  "deep_compression_points": [
+    "Persistence is closure preservation under recursive deformation.",
+    "Collapse corresponds to class-exiting recursive evolution.",
+    "Recovery restores viable participatory continuity membership.",
+    "Recursive evolution partitions into class-preserving and class-exiting regimes.",
+    "Rotor operators locally preserve viable participatory continuity.",
+    "Persistence can be expressed functionally, algebraically, or topologically."
+  ],
+
+  "connections": [
+    "admissible_recursive_transformation_class",
+    "recursive_participation_capacity",
+    "recoverable_future_fiber_topology",
+    "reopenable_continuity_principle",
+    "minimal_rotor_admissibility_kernel",
+    "recursive_accessibility_evolution_equation",
+    "filtration_preserving_participation_principle",
+    "topological_recovery_theory"
+  ],
+
+  "one_sentence_lock": "Persistent adaptive systems preserve closure within the viable participatory continuity class under recursive deformation dynamics."
+}
