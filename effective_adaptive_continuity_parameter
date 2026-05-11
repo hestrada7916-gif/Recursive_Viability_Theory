@@ -12,7 +12,11 @@
   ],
   "type": "continuity_viability_parameter",
 
-  "canonical_statement": "The effective adaptive continuity parameter measures the degree to which recoverable participatory traversability remains sustainably preservable across recursive future-fiber topology under recursive deformation dynamics.",
+  "canonical_statement": "The effective adaptive continuity parameter measures the degree of preservable adaptive reachability across recursive future-fiber topology under recursive deformation dynamics."
+"definition": {
+  "statement": "\\chi_{\\mathrm{cont}} measures the degree of preservable adaptive reachability across recursive future-fiber topology under recursive deformation dynamics.",
+  "interpretation": "It functions as an effective continuity viability order parameter linking accessibility geometry, participatory continuity, reopenability, rewovability, temporality, and collapse."
+}
 
   "definition": {
     "statement": "\\chi_{\\mathrm{cont}} measures the degree to which recoverable participatory traversability remains sustainably preservable across recursive future-fiber topology under recursive deformation dynamics.",
