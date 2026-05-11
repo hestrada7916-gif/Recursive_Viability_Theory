@@ -1,0 +1,140 @@
+{
+  "principle_id": "existential_reachability_principle",
+  "title": "Existential Reachability Principle",
+  "status": "canonical_existential_lock",
+  "framework_layer": "existential_viability_geometry",
+  "type": "existential_viability_principle",
+
+  "canonical_statement": "Existence persists through preservation of future reachability.",
+
+  "deep_compression": "Collapse is loss of preservable future reachability.",
+
+  "formal_statement": {
+    "statement": "Adaptive systems remain viable insofar as sufficiently admissible, participatory, and recursively recoverable future accessibility remains preservable under recursive deformation dynamics.",
+    "viability_condition": "\\mathcal P_{\\mathrm{reach}} > \\xi_c",
+    "collapse_condition": "\\mathcal P_{\\mathrm{reach}} < \\xi_c"
+  },
+
+  "core_objects": {
+    "future_reachability_geometry": {
+      "symbol": "\\Omega_{\\mathrm{reach}}",
+      "definition": "Structured space of admissibly reachable future participatory accessibility under recursive transport and deformation dynamics."
+    },
+
+    "preservable_future_reachability": {
+      "symbol": "\\mathcal P_{\\mathrm{reach}}",
+      "definition": "Degree to which future accessibility remains sustainably reachable, participatory, reopenable, and recursively preservable."
+    },
+
+    "master_viability_geometry": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}",
+      "definition": "Recursively recoverable participatory traversability geometry governing adaptive viability."
+    },
+
+    "admissible_operator_class": {
+      "symbol": "\\mathcal O_{\\mathrm{adm}}",
+      "definition": "Class of recursive transformations preserving viability-preserving future reachability."
+    },
+
+    "rewovability_operator": {
+      "symbol": "\\mathcal W_{\\mathrm{rew}}",
+      "definition": "Reconstructive operator restoring viable future reachability continuity."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "definition": "Recursive temporal continuity emerging through preserved reopenable future reachability."
+    }
+  },
+
+  "existential_interpretation": {
+    "statement": "Existence persists through preservation of sufficiently preservable future participatory reachability.",
+    "interpretation": "Adaptive existence depends on whether future participatory continuity remains recursively reachable and viability-preserving."
+  },
+
+  "viability_interpretation": {
+    "statement": "Viability requires preservable participatory future reachability rather than mere future accessibility.",
+    "distinction": "\\text{viability} \\neq \\text{mere future accessibility}",
+    "requirements": [
+      "admissibility",
+      "participatory accessibility",
+      "recursive reopenability",
+      "transport continuity",
+      "rewovability"
+    ]
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse corresponds to degeneration or exhaustion of preservable future reachability.",
+    "formal_limit": "\\mathcal P_{\\mathrm{reach}} \\to 0",
+    "interpretation": "Collapse occurs when future accessibility can no longer remain sufficiently preservable for viable adaptive continuation."
+  },
+
+  "recovery_interpretation": {
+    "statement": "Recovery reconstructs admissible participatory future reachability rather than merely restoring prior chronological configuration.",
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal P_{\\mathrm{reach}}^{\\mathrm{deg}} \\rightarrow \\mathcal P_{\\mathrm{reach}}^{\\mathrm{viab}}",
+    "interpretation": "Recovery rewovenly restores preservable future reachability continuity."
+  },
+
+  "recursive_temporal_relation": {
+    "expression": "\\tau_{\\mathrm{rec}} \\sim \\mathcal P_{\\mathrm{reach}}",
+    "statement": "Recursive temporality emerges through preservation of recursively reopenable future reachability.",
+    "interpretation": "Recursive temporal continuity depends on preservation of sufficiently reachable future participatory continuity structure."
+  },
+
+  "transport_relation": {
+    "statement": "Transport dynamics govern propagation of future reachability across recursive accessibility geometry.",
+    "local_generation": "\\mathcal C_{\\mathrm{rotor}} \\Rightarrow \\tau_{\\mathrm{local}} \\Rightarrow \\mathcal P_{\\mathrm{reach}}",
+    "interpretation": "Rotor recurrence generates local reachability continuity while integrated transport coherence stabilizes scalable future reachability preservation."
+  },
+
+  "admissibility_relation": {
+    "statement": "Admissibility governs whether future reachability remains viability-preserving under recursive deformation.",
+    "formal_relation": "\\mathcal O_{\\mathrm{adm}} \\Rightarrow \\text{preservable future reachability}",
+    "interpretation": "Degenerative deformation progressively contracts admissible future reachability structure."
+  },
+
+  "unified_persistence_stack": {
+    "PMM": "deformation/compression dynamics",
+    "SCT": "transport continuity propagation",
+    "RVT": "recoverable accessibility topology",
+    "governing_object": "\\mathcal P_{\\mathrm{reach}}",
+    "unified_interpretation": [
+      "deformation reshapes future reachability",
+      "transport propagates future reachability",
+      "admissibility preserves future reachability",
+      "viability emerges through sufficiently preservable future reachability"
+    ]
+  },
+
+  "hierarchical_relations": {
+    "future_reachability_geometry": "\\Omega_{\\mathrm{reach}}",
+    "preservable_future_reachability": "\\mathcal P_{\\mathrm{reach}}",
+    "participatory_traversability_geometry": "\\mathfrak T_{\\mathrm{viab}}",
+    "hierarchy": [
+      "future reachability geometry",
+      "preservable future reachability",
+      "participatory traversability viability"
+    ]
+  },
+
+  "canonical_compressions": [
+    "Existence persists by preserving future reachability.",
+    "Collapse = loss of preservable future reachability.",
+    "Viability requires preservable participatory future reachability.",
+    "Recursive temporality emerges through reopenable future reachability.",
+    "Recovery reconstructs viable future participation structure."
+  ],
+
+  "deep_compression_points": [
+    "Existence persists through preservable future reachability.",
+    "Viability preserves admissible future participation.",
+    "Recursive time emerges through reopenable future reachability.",
+    "Collapse contracts preservable future reachability.",
+    "Recovery reweaves future reachability continuity.",
+    "Transport propagates reachability continuity.",
+    "Admissibility preserves reachability viability."
+  ],
+
+  "one_sentence_lock": "Adaptive existence persists through preservation of sufficiently admissible, participatory, and recursively recoverable future reachability under recursive deformation dynamics."
+}
