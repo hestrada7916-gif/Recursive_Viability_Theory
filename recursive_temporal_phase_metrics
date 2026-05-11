@@ -1,0 +1,225 @@
+{
+  "principle_id": "recursive_temporal_phase_metrics",
+  "title": "Recursive Temporal Phase Metrics",
+  "status": "phase_1_recursive_temporal_metric_lock",
+  "framework_layer": "recursive_temporal_viability_geometry",
+  "type": "recursive_temporal_metric_geometry",
+
+  "canonical_statement": "Recursive temporal phases are distinguished by measurable observables governing coherence, reopenability, fragmentation, locking, rewovability, and accessibility preservation.",
+
+  "formal_statement": {
+    "statement": "Recursive temporality admits a measurable viability geometry governed by recursive temporal observables.",
+
+    "metric_space_definition": "\\mathcal M_{\\tau}=\\{\\eta_{\\tau},R_{\\tau},\\Theta_{\\tau},\\Lambda_{\\tau},\\mathcal W_{\\tau},d_{\\tau}\\}",
+
+    "deep_compression": "Recursive temporality admits measurable viability geometry."
+  },
+
+  "core_objects": {
+    "temporal_metric_space": {
+      "symbol": "\\mathcal M_{\\tau}",
+      "name": "Recursive Temporal Metric Space",
+      "definition": "Metric space consisting of observables governing recursive temporal continuity organization."
+    },
+
+    "temporal_coherence_efficiency": {
+      "symbol": "\\eta_{\\tau}",
+      "name": "Recursive Temporal Coherence Efficiency",
+      "definition": "Scalable recursive temporal integration efficiency generated through coherent local-global continuity integration.",
+
+      "minimal_relation": "\\eta_{\\tau}\\sim\\mathcal C_{\\mathrm{local}}\\mathcal C_{\\mathrm{global}}\\eta_{\\mathrm{stitch}}"
+    },
+
+    "recursive_reopenability_capacity": {
+      "symbol": "R_{\\tau}",
+      "name": "Recursive Reopenability Capacity",
+      "definition": "Capacity of recursive temporality to reopen recoverable future participation after deformation.",
+
+      "minimal_relation": "R_{\\tau}\\sim\\frac{|\\mathcal F_{\\mathrm{recoverable}}|}{|\\mathcal F_{\\mathrm{latent}}|}"
+    },
+
+    "temporal_fragmentation_burden": {
+      "symbol": "\\Theta_{\\tau}",
+      "name": "Temporal Fragmentation Burden",
+      "definition": "Accumulated fragmentation pressure acting against scalable recursive temporal continuity."
+    },
+
+    "temporal_locking_pressure": {
+      "symbol": "\\Lambda_{\\tau}",
+      "name": "Temporal Locking Pressure",
+      "definition": "Compression pressure forcing recursive temporal accessibility into low-dimensional constrained recurrence.",
+
+      "minimal_relation": "\\Lambda_{\\tau}\\sim\\frac{\\Sigma_{\\mathrm{obs}}}{d_{\\mathrm{eff}}}"
+    },
+
+    "temporal_rewovability_capacity": {
+      "symbol": "\\mathcal W_{\\tau}",
+      "name": "Temporal Rewovability Capacity",
+      "definition": "Capacity of fragmented recursive temporality to restore admissible recursive continuity."
+    },
+
+    "effective_temporal_dimensionality": {
+      "symbol": "d_{\\tau}",
+      "name": "Effective Recursive Temporal Dimensionality",
+      "definition": "Dimensional accessibility structure of recursive future participation."
+    }
+  },
+
+  "metric_interpretations": {
+    "high_temporal_coherence": {
+      "condition": "\\eta_{\\tau}\\uparrow",
+      "interpretation": "Scalable integrated recursive temporality."
+    },
+
+    "low_temporal_coherence": {
+      "condition": "\\eta_{\\tau}\\downarrow",
+      "interpretation": "Fragmented or collapsing recursive continuity."
+    },
+
+    "high_reopenability": {
+      "condition": "R_{\\tau}\\uparrow",
+      "interpretation": "Strong regenerative future accessibility."
+    },
+
+    "low_reopenability": {
+      "condition": "R_{\\tau}\\downarrow",
+      "interpretation": "Trap susceptibility or collapse."
+    },
+
+    "high_fragmentation_burden": {
+      "condition": "\\Theta_{\\tau}\\uparrow",
+      "interpretation": "Destabilized recursive temporal integration."
+    },
+
+    "high_locking_pressure": {
+      "condition": "\\Lambda_{\\tau}\\uparrow",
+      "interpretation": "Compressed synchronized recursive temporality."
+    },
+
+    "high_rewovability": {
+      "condition": "\\mathcal W_{\\tau}\\uparrow",
+      "interpretation": "Strong regenerative recovery potential."
+    },
+
+    "low_temporal_dimensionality": {
+      "condition": "d_{\\tau}\\downarrow",
+      "interpretation": "Locked or compressed recursive future accessibility."
+    }
+  },
+
+  "phase_metric_regimes": {
+    "integrated_temporality": {
+      "symbol": "\\tau_{\\mathrm{int}}",
+
+      "metric_regime": {
+        "coherence_efficiency": "\\eta_{\\tau}\\uparrow",
+        "reopenability": "R_{\\tau}\\uparrow",
+        "fragmentation_burden": "\\Theta_{\\tau}\\downarrow"
+      },
+
+      "interpretation": "Highly integrated scalable recursive temporality."
+    },
+
+    "fragmented_temporality": {
+      "symbol": "\\tau_{\\mathrm{frag}}",
+
+      "metric_regime": {
+        "coherence_efficiency": "\\eta_{\\tau}\\downarrow",
+        "fragmentation_burden": "\\Theta_{\\tau}\\uparrow"
+      },
+
+      "interpretation": "Partially disconnected recursive continuity."
+    },
+
+    "trapped_temporality": {
+      "symbol": "\\tau_{\\mathrm{trap}}",
+
+      "metric_regime": {
+        "reopenability": "R_{\\tau}\\downarrow",
+        "future_accessibility_decay": "\\frac{dV^{+}}{dt}<0"
+      },
+
+      "interpretation": "Contracting recursive future accessibility."
+    },
+
+    "locked_temporality": {
+      "symbol": "\\tau_{\\mathrm{lock}}",
+
+      "metric_regime": {
+        "locking_pressure": "\\Lambda_{\\tau}\\uparrow",
+        "temporal_dimensionality": "d_{\\tau}\\downarrow"
+      },
+
+      "interpretation": "Constrained low-dimensional recursive temporality."
+    },
+
+    "collapsed_temporality": {
+      "symbol": "\\tau_{\\mathrm{coll}}",
+
+      "metric_regime": {
+        "admissibility_failure": "\\mathfrak A(\\mathcal D)<\\xi_c",
+        "reopenability": "R_{\\tau}\\rightarrow0"
+      },
+
+      "interpretation": "Degenerated recursive temporal continuity."
+    },
+
+    "rewoven_temporality": {
+      "symbol": "\\tau_{\\mathrm{rew}}",
+
+      "metric_regime": {
+        "rewovability": "\\mathcal W_{\\tau}\\uparrow",
+        "reopenability": "R_{\\tau}\\uparrow"
+      },
+
+      "interpretation": "Regeneratively restored recursive continuity."
+    }
+  },
+
+  "recursive_temporal_viability_surface": {
+    "symbol": "\\mathcal V_{\\tau}",
+
+    "definition": "Admissible region within recursive temporal metric space preserving recursive viability.",
+
+    "formal_definition": "\\mathcal V_{\\tau}=\\{(\\eta_{\\tau},R_{\\tau},\\Theta_{\\tau},\\Lambda_{\\tau},\\mathcal W_{\\tau},d_{\\tau}):\\mathfrak A(\\mathcal D)\\ge\\xi_c\\}",
+
+    "interpretation": "Recursive temporal continuity remains viable only within admissible recursive temporal metric regimes."
+  },
+
+  "temporal_hysteresis": {
+    "statement": "Recursive temporal collapse and recovery are not generally symmetric.",
+
+    "formal_relation": "\\tau_{\\mathrm{coll}}\\rightarrow\\tau_{\\mathrm{rec}}\\neq\\tau_{\\mathrm{rec}}\\rightarrow\\tau_{\\mathrm{coll}}",
+
+    "interpretation": "Recovery typically requires greater rewovability and regenerative capacity than collapse requires fragmentation."
+  },
+
+  "cross_framework_relations": {
+    "PMM": "Fragmentation burden accumulates through recursive deformation and synchronization pressure.",
+
+    "SCT": "Transport coherence and stitching regulate recursive temporal integration efficiency.",
+
+    "RVT": "Recursive viability topology governs admissible recursive temporal continuity.",
+
+    "recursive_temporality_from_coordinated_integration": "Recursive temporality emerges through scalable integrated coherence.",
+
+    "persistence_classification": "Temporal metric regimes partition recursive viability phase structure."
+  },
+
+  "canonical_compressions": [
+    "Recursive temporality admits measurable viability geometry.",
+    "Integrated recursive time requires high coherence efficiency.",
+    "Locked recursive time compresses temporal dimensionality.",
+    "Collapse destroys recursive reopenability capacity.",
+    "Recovery depends upon temporal rewovability."
+  ],
+
+  "deep_compressions": [
+    "Recursive temporality admits measurable observables.",
+    "Integrated recursive time requires scalable coherence.",
+    "Fragmentation increases recursive temporal burden.",
+    "Locking compresses recursive temporal dimensionality.",
+    "Collapse destroys recursive reopenability.",
+    "Recovery restores recursive continuity through rewovability."
+  ]
+}
