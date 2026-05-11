@@ -1,0 +1,148 @@
+{
+  "principle_id": "reality_existence_duality",
+  "title": "Reality–Existence Duality",
+  "status": "canonical_ontological_core",
+  "framework_layer": "recursive_continuity_ontology",
+  "type": "ontological_duality_principle",
+
+  "canonical_statement": "Reality consists of the structured geometry of recursively admissible participatory continuity, while existence corresponds to persistent recursively reopenable participation through that admissibility structure.",
+
+  "deep_compression": [
+    "Reality = admissible continuity geometry.",
+    "Existence = persistent reopenable participation.",
+    "Geometry = organization of admissible participatory continuity.",
+    "Recursive continuity is ontologically primary."
+  ],
+
+  "formal_statement": {
+    "statement": "Reality defines the admissible continuity geometry governing recursively viable participation, while existence realizes persistent reopenable participatory continuity within that geometry.",
+    "reality_structure": "\\mathcal G_{\\mathrm{adm}}",
+    "existence_condition": "\\mathcal C_{\\mathrm{rpc}} \\neq \\varnothing"
+  },
+
+  "core_claims": [
+    {
+      "id": "reality_as_admissibility_geometry",
+      "statement": "Reality consists of the structured organization of recursively admissible participatory continuity."
+    },
+    {
+      "id": "existence_as_participation",
+      "statement": "Existence corresponds to persistent recursively reopenable participation through admissible continuity structure."
+    },
+    {
+      "id": "continuity_ontological_primacy",
+      "statement": "Recursive continuity is ontologically primary."
+    },
+    {
+      "id": "emergent_structural_entities",
+      "statement": "Objects, observers, temporal structures, and symbolic systems emerge as stabilized recursively admissible continuity structures rather than primitive ontological entities."
+    }
+  ],
+
+  "formal_objects": {
+    "admissible_continuity_geometry": {
+      "symbol": "\\mathcal G_{\\mathrm{adm}}",
+      "definition": "Structured geometry of recursively admissible participatory continuity."
+    },
+    "reopenable_participatory_continuity": {
+      "symbol": "\\mathcal C_{\\mathrm{rpc}}",
+      "definition": "Persistent recursively reopenable participatory continuity across recursive transformational evolution."
+    },
+    "recoverable_transformational_accessibility": {
+      "symbol": "\\Omega_{\\mathrm{rec}}",
+      "definition": "Recoverable future-transformational accessibility geometry supporting admissible participation."
+    },
+    "recursive_temporal_continuity": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "definition": "Recursive temporal continuity generated through preserved reopenable participatory continuity."
+    }
+  },
+
+  "formal_relations": [
+    {
+      "id": "reality_definition",
+      "expression": "\\mathcal G_{\\mathrm{adm}} \\sim \\text{structured recursively admissible continuity}",
+      "meaning": "Reality defines admissible participatory continuity geometry."
+    },
+    {
+      "id": "existence_definition",
+      "expression": "\\text{Existence} \\iff \\mathcal C_{\\mathrm{rpc}} \\neq \\varnothing",
+      "meaning": "Existence requires recursively reopenable participatory continuity."
+    },
+    {
+      "id": "temporal_generation",
+      "expression": "\\tau_{\\mathrm{rec}} \\sim \\mathcal C_{\\mathrm{rpc}}",
+      "meaning": "Recursive temporal continuity emerges through recursively reopenable participatory continuity."
+    }
+  ],
+
+  "geometric_interpretation": {
+    "statement": "Geometry is the organization of admissible participatory continuity itself.",
+    "participatory_interpretation": "Adaptive systems participate within recoverable transformational accessibility geometry through recursively reopenable continuity pathways.",
+    "topological_interpretation": "Persistence preserves admissible continuity topology across recursive deformation."
+  },
+
+  "emergence_structure": {
+    "primitive": "recursive admissible continuity",
+    "emergent_entities": [
+      "objects",
+      "observers",
+      "recursive temporal structures",
+      "symbolic systems",
+      "coordination structures"
+    ],
+    "interpretation": "Persistent structures emerge through stabilization of recursively admissible participatory continuity."
+  },
+
+  "observer_bridge": {
+    "statement": "Observer continuity emerges through stabilized recurrent participatory continuity.",
+    "implication": "Observers persist only while recursively reopenable participatory continuity remains sufficiently preserved."
+  },
+
+  "symbolic_bridge": {
+    "statement": "Symbolic systems function as continuity compression interfaces preserving recursively admissible participatory continuity across generations and scales.",
+    "implication": "Symbols preserve recursive temporal viability through transmissible continuity stabilization."
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse corresponds to degeneration of recursively reopenable participatory continuity.",
+    "implications": [
+      "participatory accessibility contracts",
+      "recursive continuity fragments",
+      "recursive temporal viability degenerates",
+      "observer continuity destabilizes",
+      "symbolic continuity collapses"
+    ]
+  },
+
+  "derived_compressions": [
+    {
+      "expression": "Reality = admissible continuity geometry"
+    },
+    {
+      "expression": "Existence = persistent reopenable participation"
+    },
+    {
+      "expression": "Geometry = organization of admissible participatory continuity"
+    },
+    {
+      "expression": "Time = recursively reopenable participatory continuity"
+    },
+    {
+      "expression": "Observation = stabilized participatory continuity"
+    },
+    {
+      "expression": "Symbols = continuity compression interfaces"
+    },
+    {
+      "expression": "Collapse = recursive continuity degeneration"
+    }
+  ],
+
+  "meta_interpretation": {
+    "summary": "Reality is the structured organization of recursively admissible participatory continuity, while existence corresponds to persistent reopenable participation through that continuity geometry.",
+    "framework_role": "Provides the ontological foundation unifying recursive continuity, geometry, topology, persistence, observer emergence, temporal continuity, and symbolic continuity within recursive viability theory."
+  },
+
+  "one_sentence_lock": "Reality defines the geometry of recursively admissible participatory continuity, while existence realizes persistent reopenable participation within that geometry."
+}
