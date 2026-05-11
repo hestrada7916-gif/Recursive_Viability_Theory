@@ -1,0 +1,110 @@
+{
+  "principle_id": "recursive_temporal_continuity_principle",
+  "title": "Recursive Temporal Continuity Principle",
+  "status": "phase_2_temporal_continuity_lock",
+  "framework_layer": "recursive_temporal_viability_geometry",
+  "type": "recursive_temporal_continuity_principle",
+
+  "canonical_statement": "Recursive time is preserved reopenable participatory continuity.",
+
+  "deep_compression": "Persistence preserves recursive time through reopenable participatory continuity.",
+
+  "formal_statement": {
+    "statement": "Persistent adaptive systems preserve recursively reopenable participatory continuity sufficient to sustain continued admissible transformational participation under recursive constraint.",
+    "recursive_temporal_definition": "\\tau_{\\mathrm{rec}} = \\text{preserved reopenable participatory continuity}",
+    "temporal_admissibility_condition": "\\tau_{\\mathrm{rec}}\\text{ persists} \\iff \\mathfrak A(\\mathcal D) \\ge \\xi_c",
+    "chronological_distinction": "t \\neq \\tau_{\\mathrm{rec}}"
+  },
+
+  "core_objects": {
+    "recursive_temporal_continuity": "\\tau_{\\mathrm{rec}}",
+    "chronological_time": "t",
+    "recoverable_future_fiber_topology": "\\Omega_{\\mathrm{rec}}",
+    "recursive_participation_capacity": "\\mathfrak A",
+    "recursive_deformation_operator": "\\mathcal D",
+    "viable_participatory_continuity_class": "\\mathcal C_{\\mathrm{vpc}}",
+    "rotor_operator": "R",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "fragmented_recursive_temporal_continuity": "\\tau_{\\mathrm{frag}}",
+    "viability_threshold": "\\xi_c"
+  },
+
+  "recursive_temporal_structure": {
+    "equation": "\\tau_{\\mathrm{rec}} = \\text{preserved reopenable participatory continuity}",
+    "interpretation": "Recursive temporal continuity consists of preserved reopenable participatory continuity across recoverable future-fiber topology."
+  },
+
+  "chronological_recursive_time_distinction": {
+    "equation": "t \\neq \\tau_{\\mathrm{rec}}",
+    "interpretation": "Chronological progression alone does not preserve recursive temporal continuity."
+  },
+
+  "recursive_temporal_admissibility": {
+    "equation": "\\tau_{\\mathrm{rec}}\\text{ persists} \\iff \\mathfrak A(\\mathcal D) \\ge \\xi_c",
+    "interpretation": "Recursive temporal continuity persists only while recursive participation capacity remains admissible."
+  },
+
+  "viable_participatory_continuity_relation": {
+    "equation": "\\tau_{\\mathrm{rec}} \\in \\mathcal C_{\\mathrm{vpc}}",
+    "interpretation": "Recursive temporal continuity exists only within viable participatory continuity structure."
+  },
+
+  "rotor_mediated_recursive_temporal_continuity": {
+    "equation": "R \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Rotor recurrence stabilizes local recursive temporal continuity through preservation of coherent participatory transport continuity."
+  },
+
+  "collapse_as_recursive_temporal_degeneration": {
+    "condition": "\\mathfrak A(\\mathcal D) < \\xi_c",
+    "interpretation": "Collapse destroys recursively reopenable participatory continuity required for continued adaptive continuation.",
+    "deep_form": "Collapse corresponds to degeneration of recursive temporal continuity."
+  },
+
+  "recovery_as_recursive_temporal_reweaving": {
+    "equation": "\\mathcal W_{\\mathrm{rew}} : \\tau_{\\mathrm{frag}} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Recovery restores recursive temporal continuity through rewoven participatory continuity restoration."
+  },
+
+  "persistence_coupling": {
+    "equation": "\\text{Persistence} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\text{adaptive continuation}",
+    "interpretation": "Persistent systems preserve recursive time through preservation of reopenable participatory continuity."
+  },
+
+  "equivalent_forms": {
+    "continuity_form": "\\tau_{\\mathrm{rec}} = \\text{preserved reopenable participatory continuity}",
+    "admissibility_form": "\\mathfrak A(\\mathcal D) \\ge \\xi_c",
+    "topological_form": "\\tau_{\\mathrm{rec}} \\in \\mathcal C_{\\mathrm{vpc}}",
+    "transport_form": "R \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporal continuity may be equivalently expressed through participatory continuity preservation, admissible participation capacity, viable continuity class membership, or recurrent transport stabilization."
+  },
+
+  "canonical_compression": [
+    "Recursive time is preserved reopenable participatory continuity.",
+    "Persistence preserves recursive time.",
+    "Rotor recurrence stabilizes recursive temporal continuity.",
+    "Collapse degenerates recursive temporal continuity.",
+    "Recovery restores recursive temporal continuity."
+  ],
+
+  "deep_compression_points": [
+    "Recursive time is preserved participatory continuity.",
+    "Recursive temporal continuity requires reopenable participation.",
+    "Persistent systems preserve recursive time.",
+    "Collapse destroys recursive temporal continuity.",
+    "Recovery rewovenly restores recursive temporal continuity.",
+    "Recursive temporal continuity exists only within viable participatory continuity structure."
+  ],
+
+  "connections": [
+    "observer_emergence_bridge",
+    "viable_participatory_continuity_class",
+    "recursive_participation_capacity",
+    "recoverable_future_fiber_topology",
+    "reopenable_continuity_principle",
+    "minimal_rotor_admissibility_kernel",
+    "future_fiber_unification_kernel",
+    "admissible_recursive_transformation_class"
+  ],
+
+  "one_sentence_lock": "Recursive temporal continuity consists of preserved reopenable participatory continuity within viable recoverable future-fiber topology."
+}
