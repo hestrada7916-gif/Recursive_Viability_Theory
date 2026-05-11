@@ -1,0 +1,117 @@
+{
+  "principle_id": "atomic_dynamical_persistence_kernel",
+  "title": "Atomic Dynamical Persistence Kernel",
+  "status": "phase_1_atomic_persistence_lock",
+  "framework_layer": "recursive_viability_dynamics",
+  "type": "primitive_persistence_balance_kernel",
+
+  "canonical_statement": "Adaptive persistence is governed by the balance between regenerative reopening and recursive deformation accumulation.",
+
+  "formal_statement": {
+    "statement": "Persistent systems preserve admissible future-transformational accessibility through regenerative reopening sufficient to offset recursive deformation accumulation.",
+
+    "kernel_equation": "\\frac{d\\Omega_{\\mathrm{reopen}}}{d\\tau_{\\mathrm{rec}}}=\\mathcal R_{\\mathrm{regen}}-\\mathcal D_{\\mathrm{rec}}",
+
+    "persistence_condition": "\\mathcal R_{\\mathrm{regen}}\\ge\\mathcal D_{\\mathrm{rec}}",
+
+    "collapse_condition": "\\Omega_{\\mathrm{reopen}}\\rightarrow0",
+
+    "deep_compression": "Persistence requires regenerative reopening to offset recursive deformation."
+  },
+
+  "core_objects": {
+    "reopenable_accessibility": {
+      "symbol": "\\Omega_{\\mathrm{reopen}}",
+      "name": "Reopenable Accessibility Structure",
+      "definition": "Recoverable future-transformational continuity structure preserving recursively reopenable participation pathways."
+    },
+
+    "regenerative_reopening": {
+      "symbol": "\\mathcal R_{\\mathrm{regen}}",
+      "name": "Regenerative Reopening Capacity",
+      "definition": "Regenerative capacity restoring reopenable future-transformational accessibility under recursive deformation."
+    },
+
+    "recursive_deformation": {
+      "symbol": "\\mathcal D_{\\mathrm{rec}}",
+      "name": "Recursive Deformation Accumulation",
+      "definition": "Accumulated recursive deformation pressure acting against reopenable continuity preservation."
+    },
+
+    "recursive_time": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "name": "Recursive Temporal Continuity",
+      "definition": "Preserved reopenable participatory continuity governing recursive adaptive evolution."
+    },
+
+    "recoverable_future_accessibility": {
+      "symbol": "\\Omega_{\\mathrm{rec}}",
+      "name": "Recoverable Future Accessibility Geometry",
+      "definition": "Recoverable transformational accessibility structure preserving admissible future participation."
+    }
+  },
+
+  "recoverable_future_accessibility_criterion": {
+    "statement": "Adaptive viability depends on whether recoverable future transformation remains accessible.",
+
+    "interpretation": "Persistent systems preserve admissible future-transformational accessibility under recursive constraint."
+  },
+
+  "regenerative_reopening_condition": {
+    "formal_relation": "\\frac{d\\Omega_{\\mathrm{reopen}}}{d\\tau_{\\mathrm{rec}}}=\\mathcal R_{\\mathrm{regen}}-\\mathcal D_{\\mathrm{rec}}",
+
+    "persistence_condition": "\\mathcal R_{\\mathrm{regen}}\\ge\\mathcal D_{\\mathrm{rec}}",
+
+    "interpretation": "Persistence requires regenerative reopening sufficient to offset recursive deformation accumulation."
+  },
+
+  "recursive_temporal_continuity_criterion": {
+    "statement": "Recursive temporal continuity exists only where participatory continuity remains sufficiently reopenable across recursive transformational evolution.",
+
+    "compression": "Time requires reopenable continuity."
+  },
+
+  "collapse_structure": {
+    "name": "Regenerative Accessibility Collapse",
+
+    "formal_conditions": [
+      "\\Omega_{\\mathrm{reopen}}\\rightarrow0",
+      "\\mathcal R_{\\mathrm{regen}}<\\mathcal D_{\\mathrm{rec}}"
+    ],
+
+    "interpretation": "Collapse occurs whenever regenerative accessibility fibers can no longer be rewoven."
+  },
+
+  "dynamical_kernel": {
+    "kernel_equation": "\\frac{d\\Omega_{\\mathrm{reopen}}}{d\\tau_{\\mathrm{rec}}}=\\mathcal R_{\\mathrm{regen}}-\\mathcal D_{\\mathrm{rec}}",
+
+    "interpretation": "The atomic persistence kernel governs reopenable transformational continuity under recursive constraint."
+  },
+
+  "cross_framework_relations": {
+    "PMM": "Recursive deformation accumulation generates burden pressure acting against reopenable continuity.",
+
+    "SCT": "Transport coordination stabilizes reopenable accessibility continuity.",
+
+    "RVT": "Recoverable future accessibility governs admissible participatory viability topology.",
+
+    "recursive_temporal_continuity": "Recursive time persists only where reopenable continuity remains regeneratively preserved.",
+
+    "persistence_classification": "Degenerative persistence emerges whenever deformation accumulation progressively exceeds regenerative reopening."
+  },
+
+  "canonical_compressions": [
+    "Time requires reopenable continuity.",
+    "Persistence requires regenerative reopening.",
+    "Collapse occurs when reopening fails.",
+    "Adaptive viability depends on recoverable future accessibility.",
+    "Regenerative reopening offsets recursive deformation."
+  ],
+
+  "deep_compressions": [
+    "Persistence balances regeneration against deformation.",
+    "Collapse destroys reopenable future continuity.",
+    "Recursive temporality requires regenerative accessibility.",
+    "Adaptive viability depends on rewoven future participation."
+  ]
+}
