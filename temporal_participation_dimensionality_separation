@@ -1,0 +1,136 @@
+{
+  "principle_id": "temporal_participation_dimensionality_separation",
+  "title": "Temporal Participation Dimensionality Separation",
+  "status": "phase_1_temporal_dimensionality_lock",
+  "framework_layer": "recursive_temporal_accessibility_geometry",
+  "type": "participatory_temporal_subgeometry_principle",
+
+  "canonical_statement": "Recursive temporal participation dimensionality is distinct from general recoverable accessibility dimensionality.",
+
+  "formal_statement": {
+    "statement": "Recursive temporality occupies a constrained participatory subgeometry within broader recoverable accessibility geometry.",
+
+    "dimensional_relation": "d_{\\tau} \\le d_{\\mathrm{eff}}",
+
+    "deep_compression": "Not all recoverable accessibility participates in recursive time."
+  },
+
+  "core_objects": {
+    "effective_accessibility_dimensionality": {
+      "symbol": "d_{\\mathrm{eff}}",
+      "name": "Effective Recoverable Accessibility Dimensionality",
+      "definition": "Effective dimensional accessibility structure of recoverable transformational accessibility geometry \\Omega_{\\mathrm{rec}}."
+    },
+
+    "temporal_participation_dimensionality": {
+      "symbol": "d_{\\tau}",
+      "name": "Recursive Temporal Participation Dimensionality",
+      "definition": "Effective dimensionality of recursively reopenable participatory continuity actively participating in recursive temporal continuity."
+    },
+
+    "recoverable_accessibility_geometry": {
+      "symbol": "\\Omega_{\\mathrm{rec}}",
+      "name": "Recoverable Accessibility Geometry",
+      "definition": "Recoverable transformational accessibility structure containing latent, reconnectable, rewovable, and participatory accessibility regions."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "name": "Recursive Temporal Continuity",
+      "definition": "Preserved reopenable participatory continuity actively sustained through recursive transport and coordination dynamics."
+    },
+
+    "temporal_locking_pressure": {
+      "symbol": "\\Lambda_{\\tau}",
+      "name": "Recursive Temporal Locking Pressure",
+      "definition": "Synchronization compression pressure reducing recursively participatory temporal dimensionality."
+    }
+  },
+
+  "accessibility_structure": {
+    "included_dimensions": [
+      "latent accessibility structure",
+      "recoverable future accessibility",
+      "disconnected accessibility regions",
+      "rewovable accessibility structure",
+      "non-participatory accessibility dimensions"
+    ],
+
+    "interpretation": "Recoverable accessibility geometry contains broader future-transformational accessibility structure than recursive temporality alone."
+  },
+
+  "participatory_temporal_structure": {
+    "included_dimensions": [
+      "recurrent participatory continuity",
+      "recursive reopenability",
+      "admissible transport continuity",
+      "viable temporal participation"
+    ],
+
+    "interpretation": "Recursive temporal dimensionality includes only accessibility structure actively participating in preserved recursive continuity."
+  },
+
+  "dimensional_inclusion_relation": {
+    "formal_relation": "d_{\\tau} \\le d_{\\mathrm{eff}}",
+
+    "interpretation": "Recursive temporal participation forms a constrained participatory subgeometry within total recoverable accessibility geometry."
+  },
+
+  "locking_relation": {
+    "formal_relation": "\\Lambda_{\\tau}\\sim\\frac{\\Sigma_{\\mathrm{obs}}}{d_{\\tau}}",
+
+    "statement": "Temporal locking compresses recursively participatory dimensionality rather than necessarily destroying total accessibility geometry.",
+
+    "interpretation": "Synchronization pressure compresses recursive temporal participation into constrained recurrent pathways."
+  },
+
+  "temporality_accessibility_distinction": {
+    "formal_relation": "\\Omega_{\\mathrm{rec}} \\not\\equiv \\tau_{\\mathrm{rec}}",
+
+    "statement": "Recoverable accessibility geometry and recursive temporality are related but non-identical structures.",
+
+    "interpretation": "Recursive temporality consists only of actively preserved reopenable participatory continuity within broader accessibility geometry."
+  },
+
+  "collapse_relation": {
+    "formal_relation": "d_{\\tau}\\rightarrow0 \\not\\Rightarrow d_{\\mathrm{eff}}\\rightarrow0",
+
+    "statement": "Recursive temporal collapse may occur while portions of recoverable accessibility geometry remain structurally present.",
+
+    "interpretation": "Recursive temporal viability may collapse before total recoverable accessibility geometry fully degenerates."
+  },
+
+  "recovery_relation": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}:d_{\\tau}\\uparrow",
+
+    "statement": "Recovery restores recursive temporal participation dimensionality through reactivation of admissible participatory accessibility structure.",
+
+    "interpretation": "Recovery rewovenly restores recursively participatory temporal dimensionality within broader recoverable accessibility geometry."
+  },
+
+  "cross_framework_relations": {
+    "recursive_temporal_phase_metrics": "Temporal dimensionality acts as a measurable recursive temporal phase observable.",
+
+    "recursive_temporality_from_coordinated_integration": "Recursive temporality requires globally integrated participatory coherence.",
+
+    "RVT": "Recoverable accessibility geometry governs admissible future-transformational structure.",
+
+    "SCT": "Transport coordination stabilizes participatory temporal continuity.",
+
+    "PMM": "Synchronization and recursive burden accumulation compress participatory dimensionality."
+  },
+
+  "canonical_compressions": [
+    "Recursive temporality occupies a participatory subgeometry of recoverable accessibility geometry.",
+    "Not all accessibility participates in recursive time.",
+    "Temporal locking compresses participatory dimensionality.",
+    "Recursive temporal collapse may precede total accessibility collapse."
+  ],
+
+  "deep_compressions": [
+    "Recursive temporality is narrower than total accessibility geometry.",
+    "Participatory dimensionality forms a constrained subgeometry.",
+    "Synchronization pressure compresses recursive participation.",
+    "Recovery restores participatory temporal dimensionality."
+  ]
+}
