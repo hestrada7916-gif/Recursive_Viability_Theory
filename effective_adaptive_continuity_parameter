@@ -1,0 +1,96 @@
+{
+  "object_id": "effective_adaptive_continuity_parameter",
+  "symbol": "\\chi_{\\mathrm{cont}}",
+  "title": "Effective Adaptive Continuity Parameter",
+  "status": "phase_1_continuity_order_parameter",
+  "framework": "Generalized Adaptive Viability Theory",
+  "framework_layer": [
+    "GAVT",
+    "RAG",
+    "RVT",
+    "Accessibility Topology"
+  ],
+  "type": "continuity_viability_parameter",
+
+  "canonical_statement": "The effective adaptive continuity parameter measures the degree to which recoverable participatory traversability remains sustainably preservable across recursive future-fiber topology under recursive deformation dynamics.",
+
+  "definition": {
+    "statement": "\\chi_{\\mathrm{cont}} measures the degree to which recoverable participatory traversability remains sustainably preservable across recursive future-fiber topology under recursive deformation dynamics.",
+    "interpretation": "It functions as an effective continuity viability parameter linking bundle geometry, traversability, reopenability, rewovability, temporality, and collapse.",
+    "deep_compression": "Adaptive viability preserves recoverable movement through future possibility space."
+  },
+
+  "associated_geometry": {
+    "recoverable_accessibility_bundle": "\\mathcal E_{\\mathrm{rec}}",
+    "recoverable_future_fibers": "\\mathcal F_{\\mathrm{rec}}",
+    "recursive_future_fiber_topology": "\\Omega_{\\mathrm{rec}}",
+    "reopenable_participatory_continuity": "\\mathcal C_{\\mathrm{reopen}}",
+    "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "admissible_transport": "\\nabla_{\\mathrm{adm}}"
+  },
+
+  "viability_interpretation": {
+    "high_continuity": {
+      "condition": "\\chi_{\\mathrm{cont}} \\gg \\xi_c",
+      "classification": "generative_continuity",
+      "interpretation": "Recoverable participatory traversability remains strongly preservable and accessibility may expand."
+    },
+    "metastable_continuity": {
+      "condition": "\\chi_{\\mathrm{cont}} \\gtrsim \\xi_c",
+      "classification": "metastable_continuity",
+      "interpretation": "Recoverable participatory traversability remains preserved but burdened."
+    },
+    "critical_continuity": {
+      "condition": "\\chi_{\\mathrm{cont}} \\approx \\xi_c",
+      "classification": "critical_continuity_threshold",
+      "interpretation": "Continuity preservability approaches the minimum threshold required for adaptive continuation."
+    },
+    "degenerative_continuity": {
+      "condition": "\\chi_{\\mathrm{cont}} \\downarrow \\xi_c",
+      "classification": "degenerative_continuity",
+      "interpretation": "Recoverable participatory traversability progressively weakens under recursive deformation."
+    },
+    "collapse_continuity": {
+      "condition": "\\chi_{\\mathrm{cont}} < \\xi_c",
+      "classification": "continuity_viability_failure",
+      "interpretation": "Recoverable participatory traversability falls below viable preservability threshold."
+    },
+    "exhausted_continuity": {
+      "condition": "\\chi_{\\mathrm{cont}} \\to 0",
+      "classification": "exhausted_continuity",
+      "interpretation": "Participatory traversability becomes exhausted and regenerative continuity can no longer be rewoven."
+    }
+  },
+
+  "temporal_relation": {
+    "relation": "\\tau_{\\mathrm{rec}} \\sim \\chi_{\\mathrm{cont}}",
+    "interpretation": "Recursive temporality depends on effective preservability of recoverable participatory traversability."
+  },
+
+  "collapse_relation": {
+    "statement": "Collapse occurs when effective adaptive continuity falls below the threshold required to preserve recoverable participatory traversability.",
+    "threshold_condition": "\\chi_{\\mathrm{cont}} < \\xi_c",
+    "exhaustion_condition": "\\chi_{\\mathrm{cont}} \\to 0"
+  },
+
+  "fiber_classification_relation": {
+    "statement": "\\chi_{\\mathrm{cont}} acts as an order parameter for recoverable future-fiber classification.",
+    "classes": [
+      "generative_fiber",
+      "metastable_fiber",
+      "degenerative_fiber",
+      "fragmented_fiber",
+      "exhausted_fiber"
+    ]
+  },
+
+  "canonical_compressions": [
+    "Adaptive viability preserves recoverable movement through future possibility space.",
+    "Effective adaptive continuity measures preservable participatory traversability.",
+    "Recursive temporality depends on continuity preservability.",
+    "Collapse occurs when recoverable participatory traversability can no longer be preserved.",
+    "Continuity is viability-filtered."
+  ],
+
+  "one_sentence_lock": "The effective adaptive continuity parameter measures whether recoverable participatory traversability remains sufficiently preservable across recursive future-fiber topology."
+}
