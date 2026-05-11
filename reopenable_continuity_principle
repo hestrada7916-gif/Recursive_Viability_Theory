@@ -1,0 +1,91 @@
+{
+  "principle_id": "reopenable_continuity_principle",
+  "title": "Reopenable Continuity Principle",
+  "status": "phase_2_atomic_continuation_kernel",
+  "framework_layer": "recursive_viability_operator_theory",
+  "type": "adaptive_continuation_principle",
+  "canonical_statement": "Reopenable continuity is the generative condition for adaptive continuation.",
+  "deep_compression": "Persistence preserves future evolvability.",
+  "formal_statement": {
+    "statement": "Persistent adaptive systems preserve recursively reopenable participatory continuity capable of sustaining continued admissible transformational evolution under recursive constraint.",
+    "continuation_condition": "\\mathfrak A(\\mathcal D) \\ge \\xi_c",
+    "collapse_condition": "\\mathfrak A(\\mathcal D) < \\xi_c",
+    "path_condition": "\\exists\\,\\text{reopenable admissible participation paths}"
+  },
+  "core_objects": {
+    "recoverable_future_fiber_topology": "\\Omega_{\\mathrm{rec}}=\\mathcal T_{\\mathrm{fib}}^{+}",
+    "recursive_participation_capacity": "\\mathfrak A(\\mathcal D)",
+    "recursive_transformation_operator": "\\mathcal D",
+    "viability_threshold": "\\xi_c",
+    "reopenable_continuity": "\\mathcal C_{\\mathrm{open}}",
+    "admissible_participation_paths": "\\gamma_{\\mathrm{adm}}",
+    "recursive_constraint": "\\mathcal B_{\\mathrm{rec}}"
+  },
+  "recursive_adaptive_continuation": {
+    "statement": "Adaptive continuation remains possible only while recoverable future continuity remains reopenable.",
+    "formal_condition": "\\text{Adaptive continuation} \\iff \\mathfrak A(\\mathcal D) \\ge \\xi_c",
+    "interpretation": "Adaptive continuation remains viable only while recursive participation capacity remains admissible."
+  },
+  "recoverable_future_fiber_continuity": {
+    "identification": "\\Omega_{\\mathrm{rec}}=\\mathcal T_{\\mathrm{fib}}^{+}",
+    "statement": "Recursive adaptive continuation requires preservation of nondegenerate recoverable future-fiber continuity.",
+    "formal_condition": "\\text{Adaptive continuation} \\iff \\exists\\,\\text{reopenable admissible participation paths}",
+    "interpretation": "Continuation depends on recoverable future-fiber topology, not merely currently visible or active paths."
+  },
+  "persistence_continuation_coupling": {
+    "statement": "Persistence does not oppose transformation; persistence preserves the reopenable continuity necessary for continued adaptive continuation.",
+    "canonical_chain": "\\text{Persistence} \\rightarrow \\text{reopenable continuity} \\rightarrow \\text{adaptive continuation}",
+    "interpretation": "Persistent systems preserve the conditions enabling continued admissible participation and transformation."
+  },
+  "collapse_interpretation": {
+    "statement": "Collapse corresponds to loss of future evolvability through degeneration of reopenable continuity.",
+    "formal_condition": "\\mathfrak A(\\mathcal D)<\\xi_c",
+    "implication": "loss of recursively reopenable admissible participation paths",
+    "interpretation": "Collapse occurs whenever recursive deformation destroys sufficient recoverable future continuity required for continued adaptive continuation."
+  },
+  "recovery_interpretation": {
+    "statement": "Recovery restores future evolvability by restoring reopenable continuity.",
+    "formal_condition": "\\exists\\,\\mathcal W_{\\mathrm{rew}}\\in\\mathcal O_{\\mathrm{adm}}",
+    "interpretation": "Recovery restores admissible participation by reweaving recoverable future-fiber continuity."
+  },
+  "visible_vs_reopenable_distinction": {
+    "statement": "Reopenable paths are deeper than currently visible paths.",
+    "visible_path": "currently active, observed, selected, or locally available pathway",
+    "reopenable_path": "recoverably preservable continuity pathway that may be latent, fragmented, tunneled, or temporarily inactive while remaining admissibly restorable",
+    "interpretation": "A path need not be currently visible to remain recoverably reopenable."
+  },
+  "canonical_compression": [
+    "Reopenable continuity generates adaptive continuation.",
+    "Persistence preserves reopenable continuity.",
+    "Persistence preserves future evolvability.",
+    "Collapse destroys future evolvability.",
+    "Recovery restores reopenable continuity."
+  ],
+  "deep_compression_points": [
+    "Adaptive continuation requires reopenable continuity.",
+    "Persistent systems preserve future evolvability.",
+    "Collapse corresponds to loss of future-transformational continuity.",
+    "Recoverable future-fiber topology enables continued transformation.",
+    "Persistence preserves admissible future participation.",
+    "Reopenability is deeper than current visibility."
+  ],
+  "connections": [
+    "atomic_recursive_viability_principle",
+    "recursive_participation_capacity",
+    "admissible_persistence_operator_class",
+    "recursive_viability_topology",
+    "future_fiber_unification_kernel",
+    "topological_recovery_constraint",
+    "recursive_reentry_principle",
+    "minimal_rotor_admissibility_kernel"
+  ],
+  "governance_constraints": {
+    "non_equilibrium": true,
+    "non_static_persistence": true,
+    "visible_path_not_required": true,
+    "reopenability_required": true,
+    "future_evolvability_required": true,
+    "recursive_constraint_preserved": true
+  },
+  "one_sentence_lock": "Reopenable continuity is the generative condition for adaptive continuation."
+}
