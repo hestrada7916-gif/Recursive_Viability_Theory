@@ -1,0 +1,121 @@
+{
+  "principle_id": "recursive_temporal_viability",
+  "title": "Recursive Temporal Viability",
+  "status": "canonical_core",
+  "framework_layer": "recursive_temporal_geometry",
+  "type": "continuity_viability_principle",
+
+  "canonical_statement": "Persistent adaptive systems preserve recursive temporal viability through maintenance of recursively reopenable participatory continuity. Collapse corresponds to degeneration of recursive temporal viability through loss of sufficiently recoverable continuity pathways across recursive transformational participation.",
+
+  "deep_compression": [
+    "Persistence preserves recursive temporal viability.",
+    "Collapse destroys recursive temporal viability.",
+    "Recursive time exists where continuity remains reopenable.",
+    "Collapse is recursive temporal closure."
+  ],
+
+  "core_claims": [
+    {
+      "id": "recursive_time_generated_by_continuity",
+      "statement": "Recursive temporal continuity emerges through preservation of recursively reopenable participatory continuity rather than externally imposed chronology alone."
+    },
+    {
+      "id": "persistence_preserves_recursive_time",
+      "statement": "Persistent adaptive systems preserve recursive temporal viability by maintaining reopenable continuity pathways across recursive transformational participation."
+    },
+    {
+      "id": "collapse_as_temporal_failure",
+      "statement": "Collapse corresponds to degeneration of recursive temporal viability through exhaustion or fragmentation of recursively recoverable continuity."
+    },
+    {
+      "id": "continuity_precedes_time",
+      "statement": "Recursive continuity generates recursive temporal structure; chronological ordering alone is insufficient to generate recursive time."
+    }
+  ],
+
+  "formal_objects": {
+    "recursive_time": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "definition": "Recursive temporal continuity generated through preserved reopenable participatory accessibility."
+    },
+    "recursive_temporal_viability": {
+      "symbol": "\\mathcal V_{\\tau}",
+      "definition": "The viability of recursively reopenable participatory continuity across transformational evolution."
+    },
+    "recursive_continuity": {
+      "symbol": "\\mathcal C_{\\mathrm{rec}}",
+      "definition": "Preserved reopenable participatory continuity across recursive transformations."
+    }
+  },
+
+  "formal_relations": [
+    {
+      "id": "recursive_time_generation",
+      "expression": "\\tau_{\\mathrm{rec}} \\sim \\mathcal C_{\\mathrm{rec}}",
+      "meaning": "Recursive time emerges from recursively reopenable continuity."
+    },
+    {
+      "id": "persistence_condition",
+      "expression": "\\frac{d\\tau_{\\mathrm{rec}}}{dt} \\gtrsim 0",
+      "meaning": "Persistence preserves recursive temporal continuity."
+    },
+    {
+      "id": "collapse_condition",
+      "expression": "\\tau_{\\mathrm{rec}} \\to 0",
+      "meaning": "Collapse corresponds to degeneration of recursive temporal viability."
+    }
+  ],
+
+  "geometric_interpretation": {
+    "statement": "Recursive temporal continuity is generated through preservation of reopenable accessibility pathways across recursive participatory transformations.",
+    "collapse_geometry": "Collapse corresponds to closure, fragmentation, or exhaustion of recursively reopenable accessibility structure.",
+    "persistence_geometry": "Persistence preserves admissible reopenable transport continuity across recursive future accessibility geometry."
+  },
+
+  "observer_bridge": {
+    "statement": "Observer continuity and recursive temporal continuity co-emerge through persistent recursively reopenable participatory transport.",
+    "implication": "Observers persist only where recursive temporal viability remains sufficiently preserved."
+  },
+
+  "symbolic_bridge": {
+    "statement": "Symbolic systems preserve recursive temporal viability by compressing recurrent adaptive continuity into transmissible participatory forms.",
+    "implication": "Symbols function as recursive temporal continuity interfaces across generations and scales."
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse is not merely disorder or destruction, but degeneration of recursively recoverable participatory continuity.",
+    "implications": [
+      "future accessibility contracts",
+      "participatory reopening fails",
+      "recursive continuity fragments",
+      "observer continuity destabilizes",
+      "symbolic continuity degrades"
+    ]
+  },
+
+  "derived_compressions": [
+    {
+      "expression": "Existence = renewable futures"
+    },
+    {
+      "expression": "Persistence = preserved recoverable continuity"
+    },
+    {
+      "expression": "Time = reopenable participatory continuity"
+    },
+    {
+      "expression": "Observation = persistent participation"
+    },
+    {
+      "expression": "Symbols = continuity compression interfaces"
+    },
+    {
+      "expression": "Collapse = recursive temporal closure"
+    }
+  ],
+
+  "meta_interpretation": {
+    "summary": "Recursive time is an emergent viability-preserving continuity structure generated through sufficiently persistent reopenable participatory accessibility.",
+    "framework_role": "This principle unifies persistence, collapse, observer continuity, symbolic continuity, and recursive temporal structure within recursive viability geometry."
+  }
+}
