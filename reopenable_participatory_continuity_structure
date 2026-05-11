@@ -1,0 +1,121 @@
+{
+  "object_id": "reopenable_participatory_continuity_structure",
+  "symbol": "\\mathcal C_{\\mathrm{reopen}}(x,t;T)",
+  "title": "Reopenable Participatory Continuity Structure",
+  "status": "phase_1_primary_continuity_object",
+  "framework": "Generalized Adaptive Viability Theory",
+  "framework_layer": [
+    "GAVT",
+    "RAG",
+    "RVT"
+  ],
+  "type": "primary_continuity_object",
+  "canonical_statement": "The reopenable participatory continuity structure defines the subset of recoverable transformational accessibility capable of sustaining recursive participatory continuity under recursive deformation dynamics.",
+
+  "formal_definition": {
+    "subset_relation": "\\mathcal C_{\\mathrm{reopen}}(x,t;T) \\subseteq \\mathcal T^+_{\\mathrm{recoverable}}(x,t;T)",
+    "statement": "The reopenable participatory continuity structure consists of those recoverable transformational pathways capable of preserving sufficiently reopenable participatory continuity across recursive transformational evolution."
+  },
+
+  "interpretation": {
+    "statement": "The reopenable participatory continuity structure characterizes those recoverable transformational pathways capable of sustaining participatory continuity, regenerative reopening, recursive recurrence, rewovability, and recoverable transformational accessibility under recursive deformation dynamics.",
+    "core_functions": [
+      "participatory continuity",
+      "regenerative reopening",
+      "recursive recurrence",
+      "rewovability",
+      "recoverable transformational accessibility"
+    ]
+  },
+
+  "continuity_preservation": {
+    "condition": "\\mathcal C_{\\mathrm{reopen}} \\neq \\varnothing",
+    "interpretation": "Recursive participatory continuity remains reopenably accessible.",
+    "viability_equivalence": "Viability = preservation of reopenable participatory continuity."
+  },
+
+  "continuity_degeneration": {
+    "condition": "\\mathcal C_{\\mathrm{reopen}} \\to \\varnothing",
+    "interpretation": "Participatory continuity loses regenerative reopenability and recoverable transformational accessibility.",
+    "collapse_equivalence": "Collapse = degeneration of reopenable participatory continuity."
+  },
+
+  "recursive_temporal_interpretation": {
+    "relation": "\\tau_{\\mathrm{rec}} \\sim \\mathcal C_{\\mathrm{reopen}}",
+    "statement": "Recursive temporality exists only where sufficiently reopenable participatory continuity remains preserved.",
+    "interpretation": "Recursive temporal continuity emerges through preservation of reopenable participatory continuity structure."
+  },
+
+  "geometric_consequence": {
+    "statement": "The reopenable participatory continuity structure constitutes the primary continuity object governing recursive adaptive viability.",
+    "viability_relation": "Viability preserves \\mathcal C_{\\mathrm{reopen}}.",
+    "collapse_relation": "Collapse degenerates \\mathcal C_{\\mathrm{reopen}}."
+  },
+
+  "hierarchical_relations": {
+    "reachable_future_accessibility": "\\mathcal R^+",
+    "transformational_accessibility": "\\mathcal T^+",
+    "transformational_reopenability_measure": "\\Omega_{\\mathrm{reopen}}",
+    "continuity_hierarchy": [
+      "reachable accessibility",
+      "recoverable transformational accessibility",
+      "reopenable participatory continuity"
+    ]
+  },
+
+  "non_sequentiality": "Continuity fiber classes constitute geometric accessibility classifications and do not necessarily represent temporally ordered stages.",
+
+  "local_global_duality": {
+    "statement": "Continuity preservation and degeneration may occur differently across local and global accessibility structure.",
+    "interpretation": "Localized continuity may persist while global rewovability and scalable traversability fail."
+  },
+
+  "viability_collapse_dual": {
+    "title": "The Viability--Collapse Dual",
+    "canonical_statement": "The primary dynamical duality of recursive viability theory is the duality between preservation and degeneration of generative or regenerative continuity.",
+
+    "viability_condition": {
+      "condition": "\\mathcal R_{\\mathrm{regen}} \\ge \\mathcal D_{\\mathrm{rec}}",
+      "reopenability_condition": "\\Omega_{\\mathrm{reopen}} > 0",
+      "interpretation": "Viability preserves recoverable transformational accessibility through regenerative reopening dynamics capable of offsetting recursive deformation accumulation."
+    },
+
+    "collapse_condition": {
+      "condition": "\\mathcal D_{\\mathrm{rec}} > \\mathcal R_{\\mathrm{regen}}",
+      "asymptotic_condition": "\\Omega_{\\mathrm{reopen}} \\to 0",
+      "interpretation": "Collapse corresponds to degeneration of sufficiently reopenable participatory continuity such that recoverable transformational accessibility can no longer be sustainably regenerated or rewoven."
+    },
+
+    "dual_geometric_interpretation": {
+      "viability": "preservation of reopenable continuity",
+      "collapse": "degeneration of reopenable continuity"
+    },
+
+    "continuity_theoretic_interpretation": {
+      "statement": "Viability and collapse are distinguished not by existence versus nonexistence of continuity, but by whether continuity remains sufficiently reopenable, regenerative, and future-preserving.",
+      "continuity_classes": [
+        "viable continuity preserves recoverable future accessibility",
+        "degenerative continuity contracts recoverable futures",
+        "fragmented continuity preserves local continuity while global rewovability fails",
+        "collapse exhausts regenerative reopenability itself"
+      ]
+    },
+
+    "recursive_temporal_interpretation": {
+      "relation": "\\tau_{\\mathrm{rec}} \\sim \\Omega_{\\mathrm{reopen}}",
+      "statement": "Recursive temporality emerges through regenerative continuity preservation and collapses through degeneration of reopenable participatory accessibility."
+    }
+  },
+
+  "canonical_compressions": [
+    "Time requires reopenable continuity.",
+    "Viability preserves reopenable participatory continuity.",
+    "Collapse degenerates reopenable participatory continuity.",
+    "Continuity is viability-filtered.",
+    "Persistent systems preserve recoverable future accessibility.",
+    "Collapse exhausts rewovability.",
+    "Viability requires generative or regenerative continuity preservation."
+  ],
+
+  "one_sentence_lock": "The reopenable participatory continuity structure governs recursive adaptive viability through preservation or degeneration of reopenable participatory continuity under recursive deformation dynamics."
+}
