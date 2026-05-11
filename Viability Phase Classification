@@ -1,0 +1,161 @@
+{
+  "registry_name": "Viability Phase Classification",
+  "version": "1.0.0",
+  "framework": "Viable Transformation Flow Architecture",
+  "abbreviation": "VTFA",
+  "status": "phase_classification_kernel",
+
+  "primary_phase_variables": {
+    "reachable_future_measure": {
+      "symbol": "V^+(x,t;T)",
+      "definition": "Reachable future-state measure over horizon T.",
+      "interpretation": "Accessible adaptive future-state structure."
+    },
+    "retention_capacity": {
+      "symbol": "\\mathcal R_{\\mathrm{cap}}",
+      "definition": "\\mathcal R_{\\mathrm{cap}} \\propto E(1-E)\\eta_{\\mathrm{stitch}}V^+",
+      "interpretation": "Capacity to preserve coordinated directional transport and accessible futures under constraint."
+    },
+    "constraint_load": {
+      "symbol": "\\Theta",
+      "definition": "Effective constraint load acting on the system.",
+      "interpretation": "Transport burden, distortion, stress, compression, or external pressure."
+    },
+    "persistence_ratio": {
+      "symbol": "\\Pi",
+      "definition": "\\Pi = \\mathcal R_{\\mathrm{cap}}/\\Theta",
+      "interpretation": "Balance between retention capacity and constraint load."
+    },
+    "recursive_temporal_continuity": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "definition": "Preserved recursively reopenable directional recurrence.",
+      "interpretation": "Recursive continuity supported by rotor transport."
+    },
+    "collapse_alignment": {
+      "symbol": "\\Phi_{\\mathrm{collapse}}",
+      "definition": "\\Phi_{\\mathrm{collapse}} = \\langle v,-\\nabla V^+\\rangle/(\\|v\\|\\|\\nabla V^+\\|)",
+      "interpretation": "Directional alignment with future-accessibility contraction."
+    }
+  },
+
+  "local_transport_primitive": {
+    "name": "Rotor cell",
+    "symbol": "\\mathcal C_{\\mathrm{rotor}}",
+    "definition": "Minimal local coordination structure capable of supporting recursively reopenable directional recurrence under constraint-compatible transport.",
+    "principle": "Rotor dynamics form primitive local generators of recursive temporal continuity within the transport layer.",
+    "canonical_relation": "\\mathcal C_{\\mathrm{rotor}} \\Rightarrow \\tau_{\\mathrm{rec}}"
+  },
+
+  "phase_classes": [
+    {
+      "phase_id": "adaptive_persistence",
+      "name": "Adaptive Persistence",
+      "condition": "\\Pi > 1",
+      "accessibility_behavior": "V^+ preserved or expanding",
+      "transport_behavior": "Directional transport remains coherent",
+      "recursive_time_behavior": "\\tau_{\\mathrm{rec}} preserved",
+      "interpretation": "Retention capacity exceeds constraint load."
+    },
+    {
+      "phase_id": "critical_adaptation",
+      "name": "Critical Adaptation",
+      "condition": "\\Pi \\approx 1",
+      "accessibility_behavior": "V^+ near transition boundary",
+      "transport_behavior": "Transport sensitive to perturbation",
+      "recursive_time_behavior": "\\tau_{\\mathrm{rec}} conditionally preserved",
+      "interpretation": "Retention and constraint are near balance; restructuring or phase transition may occur."
+    },
+    {
+      "phase_id": "fragmentation_collapse",
+      "name": "Fragmentation / Collapse",
+      "condition": "\\Pi < 1",
+      "accessibility_behavior": "dV^+/dt < 0",
+      "transport_behavior": "Constraint-driven contraction dominates coordinated preservation",
+      "recursive_time_behavior": "\\tau_{\\mathrm{rec}} degrades or becomes unreopenable",
+      "interpretation": "Constraint load exceeds retention capacity."
+    },
+    {
+      "phase_id": "regenerative_viability",
+      "name": "Regenerative Viability",
+      "condition": "\\Pi > 1 and dV^+/dt > 0",
+      "accessibility_behavior": "Reachable future-state measure expands",
+      "transport_behavior": "Coordinated transport opens new adaptive pathways",
+      "recursive_time_behavior": "\\tau_{\\mathrm{rec}} strengthened",
+      "interpretation": "Future-preservation flow exceeds contraction and expands viable transformation pathways."
+    },
+    {
+      "phase_id": "trapped_persistence",
+      "name": "Trapped Persistence",
+      "condition": "\\tau_{\\mathrm{rec}} preserved and dV^+/dt < 0",
+      "accessibility_behavior": "Future accessibility contracts despite continued local persistence",
+      "transport_behavior": "Local recurrence persists but fails to reopen adaptive futures",
+      "recursive_time_behavior": "\\tau_{\\mathrm{rec}} locally preserved",
+      "interpretation": "Persistence without future-accessibility preservation; degenerative continuity."
+    },
+    {
+      "phase_id": "rotor_stable",
+      "name": "Rotor-Stable Coordination",
+      "condition": "\\mathcal C_{\\mathrm{rotor}} preserved",
+      "accessibility_behavior": "Local reachable futures remain reopenable",
+      "transport_behavior": "Minimal directional recurrence maintained",
+      "recursive_time_behavior": "\\tau_{\\mathrm{rec}} locally generated",
+      "interpretation": "Local transport primitive remains viable."
+    },
+    {
+      "phase_id": "directional_fragmentation",
+      "name": "Directional Fragmentation",
+      "condition": "E(1-E) \\to 0 or \\eta_{\\mathrm{stitch}} \\to 0",
+      "accessibility_behavior": "Reachable future pathways become poorly integrated",
+      "transport_behavior": "Directional coherence or global stitching fails",
+      "recursive_time_behavior": "\\tau_{\\mathrm{rec}} destabilized",
+      "interpretation": "Transport loses coherent differentiated coordination."
+    },
+    {
+      "phase_id": "collapse_committed",
+      "name": "Collapse-Committed",
+      "condition": "\\mathcal A(t) \\ge \\kappa_c",
+      "accessibility_behavior": "Future contraction becomes self-reinforcing",
+      "transport_behavior": "Dynamics align with accessibility descent",
+      "recursive_time_behavior": "Reopenability becomes unstable or nonrecoverable",
+      "interpretation": "Accumulated collapse pressure crosses commitment threshold."
+    },
+    {
+      "phase_id": "observable_collapse",
+      "name": "Observable Collapse",
+      "condition": "t \\ge t_{\\mathrm{obs}}",
+      "accessibility_behavior": "Macroscopic contraction visible",
+      "transport_behavior": "Fragmentation, pinching, or functional failure detectable",
+      "recursive_time_behavior": "\\tau_{\\mathrm{rec}} visibly degraded",
+      "interpretation": "Collapse becomes externally observable."
+    }
+  ],
+
+  "temporal_hierarchy": {
+    "canonical_ordering": "t_{\\mathrm{compress}} \\le t_{\\kappa} \\le t_{\\mathrm{obs}}",
+    "stages": [
+      {
+        "stage": "viability_compression",
+        "symbol": "t_{\\mathrm{compress}}",
+        "condition": "dV^+/dt < 0"
+      },
+      {
+        "stage": "collapse_commitment",
+        "symbol": "t_{\\kappa}",
+        "condition": "\\mathcal A(t) \\ge \\kappa_c"
+      },
+      {
+        "stage": "observable_collapse",
+        "symbol": "t_{\\mathrm{obs}}",
+        "condition": "macroscopic collapse signatures become detectable"
+      }
+    ]
+  },
+
+  "core_phase_law": {
+    "name": "Generalized Persistence Phase Law",
+    "persistence": "\\Pi > 1",
+    "criticality": "\\Pi \\approx 1",
+    "collapse": "\\Pi < 1",
+    "deep_compression": "Existence persists through constrained directional accessibility."
+  }
+}
