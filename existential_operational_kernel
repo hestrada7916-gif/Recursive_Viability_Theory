@@ -1,0 +1,114 @@
+{
+  "principle_id": "existential_operational_kernel",
+  "title": "The Existential--Operational Kernel of GAVT/RVT",
+  "status": "phase_1_kernel_lock",
+  "framework_layer": [
+    "GAVT",
+    "RVT",
+    "VTFA"
+  ],
+  "type": "foundational_kernel",
+
+  "canonical_statement": "Generalized Adaptive Viability Theory and Recursive Viability Theory organize through the coupled dynamics of existential reachability, traversability pruning, and regenerative traversability reconnection across recursively recoverable participatory continuity topology.",
+
+  "principle": {
+    "statement": "Existence persists through preservation of future reachability. Constraint progressively prunes admissible future traversability. Recovery reconnects fragmented future participatory continuity through regenerative rewovability.",
+    "viability_statement": "Adaptive viability organizes through preservation of recursively recoverable participatory traversability geometry under recursive deformation dynamics."
+  },
+
+  "canonical_triad": {
+    "existential_reachability": {
+      "compression": "Existence persists by preserving future reachability.",
+      "interpretation": "Persistent adaptive systems preserve sufficiently admissible, participatory, and recursively recoverable future accessibility structure capable of sustaining continued adaptive continuation."
+    },
+    "traversability_pruning": {
+      "compression": "Constraint prunes future traversability pathways.",
+      "interpretation": "Recursive deformation progressively contracts admissible future participation topology through compression of recoverable future-fiber structure.",
+      "contracts": [
+        "admissible future accessibility",
+        "participatory branching richness",
+        "recursive traversability",
+        "rewovability",
+        "adaptive flexibility"
+      ]
+    },
+    "traversability_reconnection": {
+      "compression": "Recovery reconnects future traversability pathways.",
+      "interpretation": "Recovery restores adaptive viability through regenerative reconnection of fragmented, compressed, trapped, or pruned participatory continuity topology.",
+      "restores": [
+        "admissible future accessibility",
+        "recursive participatory traversability",
+        "rewovability",
+        "transport continuity",
+        "recursive temporal coherence"
+      ]
+    }
+  },
+
+  "unified_viability_geometry": {
+    "symbol": "\\mathfrak T_{\\mathrm{viab}}",
+    "name": "Recursively Recoverable Participatory Traversability Geometry",
+    "definition": "\\mathfrak T_{\\mathrm{viab}} = \\text{recursively recoverable participatory traversability geometry}",
+    "interpretation": "\\mathfrak T_{\\mathrm{viab}} constitutes the governing geometric object of adaptive viability.",
+    "intuitive_translation": "The geometry of preservable adaptive continuation."
+  },
+
+  "unified_persistence_stack": {
+    "PMM": {
+      "maps_to": "deformation_pressure",
+      "interpretation": "Pressure reshapes participatory traversability."
+    },
+    "SCT": {
+      "maps_to": "transport_continuity_propagation",
+      "interpretation": "Transport propagates participatory traversability."
+    },
+    "RVT": {
+      "maps_to": "continuity_admissibility_topology",
+      "interpretation": "Admissibility preserves participatory traversability."
+    },
+    "convergence_object": "\\mathfrak T_{\\mathrm{viab}}",
+    "synthesis": "Viability emerges through preservation of recursively recoverable participatory traversability geometry."
+  },
+
+  "collapse_consequence": {
+    "statement": "Collapse corresponds to degeneration of recursively recoverable participatory traversability geometry.",
+    "compression": "Stability does not guarantee viability.",
+    "interpretation": "Localized continuity and recurrence may persist despite progressive degeneration of globally recoverable participatory traversability."
+  },
+
+  "recursive_temporal_consequence": {
+    "relation": "\\tau_{\\mathrm{rec}} \\sim \\mathfrak T_{\\mathrm{viab}}",
+    "statement": "Recursive temporality emerges through preservation of sufficiently coherent participatory traversability across recoverable continuity topology.",
+    "interpretation": "The concept of recursive time requires coherent participatory traversability across sufficiently integrated recoverable continuity structure."
+  },
+
+  "canonical_compressions": [
+    "Existence persists by preserving future reachability.",
+    "Constraint prunes future traversability pathways.",
+    "Recovery reconnects future traversability pathways.",
+    "Viability preserves recoverable participatory traversability.",
+    "Viability emerges through preservation of recursively recoverable participatory traversability geometry.",
+    "\\mathfrak T_{\\mathrm{viab}} is the geometry of preservable adaptive continuation."
+  ],
+
+  "deep_compression": [
+    "Existence persists through preservation of future reachability.",
+    "Constraint prunes admissible future traversability structure.",
+    "Recovery reconnects fragmented future participation topology.",
+    "Viability preserves recursively recoverable participatory traversability.",
+    "Stability alone is insufficient for viability.",
+    "Recursive temporality emerges through coherent participatory traversability.",
+    "Collapse degenerates participatory traversability geometry."
+  ],
+
+  "governance_constraints": {
+    "non_teleological": true,
+    "non_deterministic": true,
+    "substrate_invariant": true,
+    "distinguishes_stability_from_viability": true,
+    "distinguishes_local_continuity_from_global_traversability": true,
+    "interpretation_is_downstream": true
+  },
+
+  "one_sentence_lock": "GAVT/RVT organize through preservation, pruning, and reconnection of recursively recoverable participatory traversability geometry."
+}
