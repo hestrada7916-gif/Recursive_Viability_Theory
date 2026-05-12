@@ -1,0 +1,161 @@
+{
+  "principle_id": "recursive_existential_kernel",
+  "title": "Recursive Existential Kernel",
+  "status": "phase_1_formal_kernel_lock",
+  "framework": "Generalized Adaptive Viability Theory",
+  "framework_layer": [
+    "GAVT",
+    "RVT",
+    "VTFA"
+  ],
+  "type": "foundational_existential_kernel",
+
+  "canonical_statement": "Existence is recursively stabilized participation.",
+
+  "formal_statement": {
+    "statement": "Recursive adaptive existence persists only where participatory continuity remains sufficiently traversable, recoverable, coherent, and recursively admissible under recursive constraint dynamics.",
+    "expanded_statement": "Reality organizes through admissible participation across recursively recoverable continuity structure."
+  },
+
+  "primitive_ontological_hierarchy": {
+    "chain": [
+      "difference",
+      "interaction",
+      "recurrence",
+      "continuity",
+      "transport",
+      "traversability",
+      "future reachability",
+      "participation",
+      "viability",
+      "recursive temporality"
+    ],
+    "formal_chain": "difference -> interaction -> recurrence -> continuity -> transport -> traversability -> future reachability -> participation -> viability -> recursive temporality",
+    "interpretation": "Each ontological layer emerges through stabilization of the preceding participatory continuity structure."
+  },
+
+  "primitive_principles": {
+    "difference_principle": {
+      "compression": "Difference permits interaction.",
+      "interpretation": "Difference generates distinguishability, relational asymmetry, orientation structure, and admissible interaction capacity."
+    },
+    "interaction_recurrence_principle": {
+      "compression": "Interaction stabilizes through recurrence.",
+      "interpretation": "Persistent relational structure emerges through recursively repeated interaction preserving sufficient continuity coherence across transformational propagation."
+    },
+    "continuity_principle": {
+      "compression": "Recurrence propagates continuity.",
+      "interpretation": "Continuity emerges through sufficiently persistent recurrent participation preserving coherent relational propagation across recoverable transformational structure."
+    },
+    "transport_principle": {
+      "compression": "Continuity enables transport.",
+      "interpretation": "Transport emerges through propagating continuity preserving recoverable accessibility across relationally connected continuity geometry."
+    },
+    "traversability_principle": {
+      "compression": "Transport opens traversability.",
+      "interpretation": "Traversability emerges where transport propagation preserves coherently re-enterable participatory accessibility pathways across recoverable future-fiber topology."
+    },
+    "future_reachability_principle": {
+      "compression": "Traversability preserves future reachability.",
+      "interpretation": "Recoverable future accessibility persists only while participatory continuity remains sufficiently traversable across recursively recoverable continuity geometry."
+    },
+    "participation_principle": {
+      "compression": "Future reachability enables participation.",
+      "interpretation": "Participation emerges where recoverable future accessibility remains sufficiently open for coherent recursive engagement, transport, and continuity propagation."
+    },
+    "viability_principle": {
+      "compression": "Viability preserves reopenable participation.",
+      "interpretation": "Viability selectively preserves sufficiently recoverable, reopenable, and recursively traversable participatory continuity under recursive deformation dynamics."
+    },
+    "recursive_temporality_principle": {
+      "compression": "Recursive temporality emerges through coherent participatory continuity propagation.",
+      "interpretation": "Recursive temporal continuity emerges where participatory continuity remains coherently traversable across recoverable future-fiber topology."
+    }
+  },
+
+  "recursive_temporal_relation": {
+    "relation": "\\tau_{\\mathrm{rec}} \\sim \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}(\\Omega_{\\mathrm{rec}},\\Psi_{\\mathrm{cont}})",
+    "terms": {
+      "\\Omega_{\\mathrm{rec}}": "recoverable future-fiber topology",
+      "\\Psi_{\\mathrm{cont}}": "continuity-wave coherence propagation",
+      "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}": "recursively recoverable participatory traversability"
+    },
+    "interpretation": "Recursive time is downstream of coherent participatory continuity preservation."
+  },
+
+  "existential_compressions": [
+    "Existence is recursively stabilized participation.",
+    "Existence persists where participation remains recursively traversable through coherent continuity propagation.",
+    "Reality organizes through admissible participation across recursively recoverable continuity structure."
+  ],
+
+  "collapse_geometry": {
+    "statement": "Collapse emerges through exhaustion of recursively traversable participation.",
+    "conditions": [
+      "\\mu(\\Omega_{\\mathrm{rec}}) \\downarrow 0",
+      "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\to 0"
+    ],
+    "interpretation": "Collapse corresponds to degeneration of recoverable future participation under recursive deformation accumulation."
+  },
+
+  "recovery_geometry": {
+    "operator": "\\mathcal W_{\\mathrm{rew}}",
+    "formal_mapping": "\\mathcal W_{\\mathrm{rew}} : (\\Omega_{\\mathrm{rec}}^{\\mathrm{frag}}, \\Psi_{\\mathrm{cont}}^{\\mathrm{decoh}}) \\rightarrow (\\Omega_{\\mathrm{rec}}^{+}, \\Psi_{\\mathrm{cont}}^{+})",
+    "interpretation": "Recovery restores recursively stabilized participation through reopening and recoherence of recoverable future accessibility structure.",
+    "restores": [
+      "recoverable future accessibility",
+      "continuity-wave coherence",
+      "participatory traversability",
+      "rewovability",
+      "admissible recursive continuity",
+      "recursive temporal continuity"
+    ]
+  },
+
+  "canonical_compressions": [
+    "Existence is recursively stabilized participation.",
+    "Difference permits interaction.",
+    "Interaction stabilizes through recurrence.",
+    "Continuity enables transport.",
+    "Transport opens traversability.",
+    "Traversability preserves future reachability.",
+    "Future reachability enables participation.",
+    "Viability preserves reopenable participation.",
+    "Recursive temporality emerges through coherent participatory continuity propagation."
+  ],
+
+  "deep_compression": [
+    "Difference generates admissible interaction structure.",
+    "Recurrence stabilizes participatory continuity.",
+    "Continuity propagates through transport.",
+    "Traversability preserves recoverable future reachability.",
+    "Participation requires coherent traversability.",
+    "Viability filters participatory continuity.",
+    "Recursive time emerges through coherent continuity propagation.",
+    "Collapse exhausts recoverable participation.",
+    "Recovery restores reopenable participatory continuity.",
+    "Reality organizes through admissible participation."
+  ],
+
+  "structural_role": {
+    "ontology": "admissible participation",
+    "geometry": "recoverable future-fiber topology",
+    "continuity": "reopenable participatory continuity",
+    "dynamics": "recursive operator algebra",
+    "viability": "traversability preservation",
+    "temporality": "coherent participatory continuity propagation",
+    "collapse": "traversability exhaustion",
+    "recovery": "rewoven recoherence"
+  },
+
+  "governance_constraints": {
+    "non_teleological": true,
+    "non_deterministic": true,
+    "substrate_invariant": true,
+    "continuity_is_viability_filtered": true,
+    "stability_does_not_guarantee_viability": true,
+    "recursive_time_is_downstream_of_coherent_participatory_continuity": true
+  },
+
+  "one_sentence_lock": "Existence is recursively stabilized participation sustained through recoverable participatory traversability across recursively recoverable continuity structure."
+}
