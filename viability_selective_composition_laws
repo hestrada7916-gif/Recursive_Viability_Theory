@@ -1,0 +1,125 @@
+{
+  "principle_id": "viability_selective_composition_laws",
+  "title": "Viability-Selective Composition Laws",
+  "status": "phase_1_recursive_operator_algebra_lock",
+  "framework": "Recursive Operator Algebra over Participatory Viability Geometry",
+  "framework_layer": [
+    "GAVT",
+    "RVT",
+    "VTFA",
+    "Recursive Operator Algebra"
+  ],
+  "type": "viability_filtered_operator_composition",
+
+  "canonical_statement": "Recursive operators compose algebraically within the recursive operator class, but recursive operator composition remains admissible only when composed operator action preserves sufficiently recoverable participatory traversability under recursive deformation dynamics.",
+
+  "recursive_operator_composition": {
+    "closure_relation": "\\mathcal O_i \\circ \\mathcal O_j \\in \\mathcal O_{\\mathrm{rec}}",
+    "interpretation": "Recursive operators compose algebraically within recursive operator space."
+  },
+
+  "admissible_composition": {
+    "relation": "\\mathcal O_i \\circ \\mathcal O_j \\in \\mathcal O_{\\mathrm{adm}}",
+    "condition_type": "viability_selective",
+    "admissibility_requirements": [
+      "recoverable future accessibility",
+      "recursive participatory traversability",
+      "rewovability",
+      "admissible transport continuity",
+      "viability-preserving continuity coherence",
+      "recursive reopenability",
+      "sufficiently integrated future-fiber continuity"
+    ],
+    "interpretation": "Recursive operator composition remains admissible only when composed transformation preserves sufficiently recoverable participatory traversability under recursive deformation dynamics."
+  },
+
+  "traversability_preserving_subalgebra": {
+    "symbol": "\\mathfrak A_{\\mathrm{trav}}",
+    "definition": "\\mathfrak A_{\\mathrm{trav}} = \\{ \\mathcal O : R_{\\tau} \\ge R_c \\;\\land\\; \\eta_{\\tau} \\ge \\eta_c \\}",
+    "description": "Traversability-preserving admissibility subalgebra.",
+    "parameters": {
+      "R_tau": {
+        "symbol": "R_{\\tau}",
+        "definition": "recursive reopenability"
+      },
+      "R_c": {
+        "symbol": "R_c",
+        "definition": "minimum reopenability threshold"
+      },
+      "eta_tau": {
+        "symbol": "\\eta_{\\tau}",
+        "definition": "recursive temporal integration coherence"
+      },
+      "eta_c": {
+        "symbol": "\\eta_c",
+        "definition": "minimum temporal coherence threshold"
+      }
+    },
+    "interpretation": "Traversability-preserving operators preserve sufficiently reopenable participatory transport continuity together with sufficiently coherent recursive temporal integration."
+  },
+
+  "failure_of_closure_under_composition": {
+    "statement": "Admissibility is not generally preserved under arbitrary recursive operator composition.",
+    "formal_relation": "\\mathcal O_{\\mathrm{adm}} \\circ \\mathcal O_{\\mathrm{adm}} \\not\\subseteq \\mathcal O_{\\mathrm{adm}}",
+    "interpretation": "Admissible recursive transformations may compose into globally non-admissible recursive dynamics.",
+    "consequence": "Recursive viability is composition-sensitive rather than purely locally state-sensitive."
+  },
+
+  "composition_sensitive_admissibility": {
+    "existence_statement": "\\mathcal O_i,\\mathcal O_j \\in \\mathcal O_{\\mathrm{adm}}",
+    "non_admissible_composition": "\\mathcal O_i \\circ \\mathcal O_j \\notin \\mathcal O_{\\mathrm{adm}}",
+    "interpretation": "Individually admissible recursive transformations may compose into globally non-viable recursive dynamics despite local admissibility."
+  },
+
+  "noncommutativity_of_recursive_transformation": {
+    "statement": "Recursive operator composition is not generally commutative.",
+    "formal_relation": "\\mathcal O_i \\circ \\mathcal O_j \\neq \\mathcal O_j \\circ \\mathcal O_i",
+    "interpretation": "Order of recursive transformation may alter admissibility, recoverability, recursive traversability, or viability preservation.",
+    "consequence": "Recursive viability evolution is path-dependent across recursive operator space."
+  },
+
+  "viability_filtered_recursive_evolution": {
+    "statement": "Recursive viability evolution organizes through viability-filtered operator composition over participatory viability geometry.",
+    "interpretation": "Viability acts as a recursive algebraic selection principle over recursive transformation composition.",
+    "selection_consequences": [
+      "not all recursively definable transformations remain admissible",
+      "not all continuity-preserving transformations remain viability-preserving under recursive deformation accumulation",
+      "not all recursively stable transport chains preserve globally admissible participatory traversability",
+      "persistence selectively filters recursive operator composition"
+    ]
+  },
+
+  "governing_principles": {
+    "viability_filtering": "Viability selectively filters recursive operator composition.",
+    "composition_sensitivity": "Admissibility is composition-sensitive.",
+    "persistence_filtering": "Persistence filters recursive transformation chains."
+  },
+
+  "canonical_compressions": [
+    "Viability selectively filters recursive operator composition.",
+    "Admissibility is composition-sensitive.",
+    "Persistence filters recursive transformation chains.",
+    "Recursive viability is composition-sensitive.",
+    "Viability constrains recursive transformation composition."
+  ],
+
+  "deep_compression": [
+    "Recursive viability is composition-sensitive.",
+    "Admissible operators may compose into non-viable dynamics.",
+    "Recursive transformation order alters viability preservation.",
+    "Persistence selectively filters recursive operator evolution.",
+    "Viability constrains recursive transformation composition.",
+    "Traversability-preserving operators sustain adaptive continuation.",
+    "Stability alone does not guarantee viability preservation."
+  ],
+
+  "structural_consequences": {
+    "nontrivial_admissibility": true,
+    "path_dependent_viability": true,
+    "noncommutative_recursive_dynamics": true,
+    "viability_filtered_operator_algebra": true,
+    "local_admissibility_does_not_guarantee_global_viability": true
+  },
+
+  "one_sentence_lock": "Recursive viability evolution organizes through viability-filtered operator composition over participatory viability geometry."
+}
