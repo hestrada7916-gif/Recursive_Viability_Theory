@@ -1,0 +1,162 @@
+{
+  "principle_id": "recursive_viability_operator_evolution",
+
+  "title": "Recursive Viability Operator Evolution",
+
+  "status": "phase_3_operator_evolution_lock",
+
+  "framework_layer": "recursive_viability_operator_geometry",
+
+  "type": "recursive_operator_evolution_principle",
+
+  "canonical_statement": "Recursive viability evolves through admissible operator composition over participatory traversability geometry.",
+
+  "deep_compression_statement": "Recursive adaptive viability organizes through viability-filtered recursive operator evolution preserving reconnectable participatory traversability.",
+
+  "formal_statement": {
+    "statement": "Recursive adaptive viability evolves through admissible recursive operator composition acting over recursively recoverable participatory traversability geometry under recursive deformation dynamics.",
+
+    "core_relation": "\\mathcal O_{\\mathrm{adm}} \\curvearrowright \\mathfrak T_{\\mathrm{viab}}",
+
+    "evolution_relation": "\\mathfrak T_{\\mathrm{viab}}(\\tau + \\Delta\\tau) = \\mathcal O_{\\mathrm{adm}} \\circ \\mathfrak T_{\\mathrm{viab}}(\\tau)",
+
+    "admissibility_condition": "Recursive operator evolution remains viable only while sufficiently recoverable participatory traversability remains reconnectable, transportable, and recursively coherent."
+  },
+
+  "core_objects": {
+    "participatory_viability_geometry": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}",
+      "definition": "Recursively recoverable participatory traversability geometry governing adaptive viability across recoverable future-fiber topology."
+    },
+
+    "recursive_operator_space": {
+      "symbol": "\\mathcal O_{\\mathrm{rec}}",
+      "definition": "Recursive operator space governing deformation, transport, stabilization, fragmentation, compression, and rewovability dynamics across participatory viability geometry."
+    },
+
+    "admissible_recursive_operator_class": {
+      "symbol": "\\mathcal O_{\\mathrm{adm}}",
+      "definition": "Viability-preserving recursive operator class preserving sufficiently reconnectable participatory traversability under recursive deformation dynamics."
+    },
+
+    "participatory_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+      "definition": "Recursively recoverable participatory traversability across admissible future-fiber continuity structure."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "definition": "Recursive temporal continuity emerging through admissible recursive operator coherence preserving reconnectable participatory traversability."
+    }
+  },
+
+  "recursive_operator_action": {
+    "mapping": "\\mathcal O_{\\mathrm{adm}} : \\mathfrak T_{\\mathrm{viab}} \\rightarrow \\mathfrak T_{\\mathrm{viab}}",
+
+    "interpretation": "Admissible recursive operators evolve participatory viability geometry through viability-preserving recursive transformation dynamics."
+  },
+
+  "operator_composition_structure": {
+    "composition_relation": "\\mathcal O_i \\circ \\mathcal O_j \\in \\mathcal O_{\\mathrm{rec}}",
+
+    "admissible_composition_relation": "\\mathcal O_i \\circ \\mathcal O_j \\in \\mathcal O_{\\mathrm{adm}}",
+
+    "interpretation": "Recursive viability evolution proceeds through recursively composed viability-filtered operator dynamics acting over participatory traversability geometry."
+  },
+
+  "composition_sensitive_admissibility": {
+    "formal_relation": "\\mathcal O_{\\mathrm{adm}} \\circ \\mathcal O_{\\mathrm{adm}} \\not\\subseteq \\mathcal O_{\\mathrm{adm}}",
+
+    "interpretation": "Individually admissible recursive transformations may compose into globally non-admissible recursive dynamics.",
+
+    "deep_form": "Admissibility is composition-sensitive."
+  },
+
+  "noncommutative_recursive_evolution": {
+    "formal_relation": "\\mathcal O_i \\circ \\mathcal O_j \\neq \\mathcal O_j \\circ \\mathcal O_i",
+
+    "interpretation": "Recursive viability evolution is path-dependent across recursive operator space.",
+
+    "deep_form": "Transformation order alters viability evolution."
+  },
+
+  "primitive_recursive_operator_duality": {
+    "degenerative_operators": [
+      "\\mathcal P_{\\mathrm{prune}}",
+      "\\mathcal F_{\\mathrm{frag}}",
+      "\\mathcal C_{\\mathrm{comp}}"
+    ],
+
+    "regenerative_operators": [
+      "\\mathcal W_{\\mathrm{rew}}",
+      "\\mathcal S_{\\mathrm{stab}}"
+    ],
+
+    "interpretation": "Recursive viability evolution organizes through coupled degenerative and regenerative operator dynamics acting over participatory traversability geometry."
+  },
+
+  "collapse_operator_regime": {
+    "condition": "\\mathcal P_{\\mathrm{prune}} + \\mathcal F_{\\mathrm{frag}} + \\mathcal C_{\\mathrm{comp}} > \\mathcal W_{\\mathrm{rew}} + \\mathcal S_{\\mathrm{stab}}",
+
+    "interpretation": "Collapse emerges whenever traversability degeneration operators dominate regenerative traversability restoration operators.",
+
+    "deep_form": "Collapse is traversability degeneration."
+  },
+
+  "persistence_operator_regime": {
+    "condition": "\\mathcal W_{\\mathrm{rew}} + \\mathcal S_{\\mathrm{stab}} \\ge \\mathcal P_{\\mathrm{prune}} + \\mathcal F_{\\mathrm{frag}} + \\mathcal C_{\\mathrm{comp}}",
+
+    "interpretation": "Persistent adaptive systems preserve reconnectable participatory traversability through viability-preserving recursive operator balance.",
+
+    "deep_form": "Persistence preserves reconnectable traversability."
+  },
+
+  "recursive_temporal_consequence": {
+    "formal_relation": "\\tau_{\\mathrm{rec}} \\sim \\mathcal O_{\\mathrm{adm}}(\\mathfrak T_{\\mathrm{viab}})",
+
+    "interpretation": "Recursive temporality emerges through admissible recursive operator coherence preserving reconnectable participatory traversability."
+  },
+
+  "recursive_closure_relation": {
+    "forward_relation": "\\mathcal O_{\\mathrm{adm}} \\curvearrowright \\mathfrak T_{\\mathrm{viab}}",
+
+    "reverse_relation": "\\mathfrak T_{\\mathrm{viab}} \\rightarrow \\mathcal O_{\\mathrm{adm}}",
+
+    "interpretation": "Recursive operators evolve participatory viability geometry while viability geometry constrains admissible recursive operator evolution.",
+
+    "deep_form": "Recursive viability geometry and recursive operator evolution are mutually constraining."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability evolves through admissible operator composition over participatory traversability geometry.",
+    "Constraint prunes traversability.",
+    "Recovery reconnects traversability.",
+    "Admissibility is composition-sensitive.",
+    "Recursive viability evolution is path-dependent."
+  ],
+
+  "deep_compressions": [
+    "Recursive adaptive viability evolves through viability-filtered recursive operator dynamics.",
+    "Constraint operators contract participatory traversability structure.",
+    "Recovery operators reconnect participatory traversability structure.",
+    "Recursive viability geometry constrains admissible recursive evolution.",
+    "Collapse emerges through traversability degeneration.",
+    "Persistence preserves reconnectable participatory continuity.",
+    "Recursive temporality emerges through admissible operator coherence.",
+    "Transformation order alters viability evolution.",
+    "Stability alone does not guarantee viability preservation."
+  ],
+
+  "connections": [
+    "viability_constrained_recursive_operator_algebra",
+    "primitive_traversability_dual",
+    "recursive_stabilized_participation",
+    "wave_topological_participatory_viability_geometry",
+    "future_accessibility_contraction_geometry",
+    "participatory_fiber_compression_dual",
+    "tempo_compatible_continuity_coupling_principle",
+    "recursive_temporal_phase_structure"
+  ],
+
+  "one_sentence_lock": "Recursive adaptive viability evolves through admissible recursive operator composition preserving reconnectable participatory traversability across recoverable future-fiber topology."
+}
