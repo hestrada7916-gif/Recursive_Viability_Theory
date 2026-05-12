@@ -1,0 +1,120 @@
+{
+  "principle_id": "recoverable_traversability_pruning_reconnection_dual",
+  "title": "Recoverable Traversability Pruning-Reconnection Dual",
+  "status": "phase_1_collapse_geometry_lock",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_accessibility_collapse_geometry",
+  "type": "degenerative_regenerative_dual",
+
+  "canonical_statement": "Recursive deformation progressively prunes admissible future traversability pathways, while regenerative rewovability reconnects admissible future participation structure.",
+
+  "formal_statement": {
+    "statement": "Under sustained recursive deformation, recoverable future accessibility branching structure contracts through loss of admissible participatory transport continuity. Conversely, recovery restores adaptive viability through reconnection of recoverable future-fiber traversability structure.",
+    "deep_compression": "Constraint prunes future traversability pathways; recovery reconnects future traversability pathways."
+  },
+
+  "core_objects": {
+    "recursive_deformation_burden": {
+      "symbol": "\\Theta",
+      "definition": "Recursive deformation burden acting on recoverable future accessibility structure."
+    },
+    "recoverable_future_accessibility_measure": {
+      "symbol": "\\mu(\\Omega_{\\mathrm{rec}})",
+      "definition": "Effective measure of recoverable future accessibility volume."
+    },
+    "traversability_pruning_intensity": {
+      "symbol": "\\Lambda_{\\mathrm{prune}}",
+      "definition": "Intensity of admissible future traversability pathway pruning under recursive deformation."
+    },
+    "participatory_future_fiber_richness": {
+      "symbol": "\\mathcal F_{\\mathrm{participatory}}",
+      "definition": "Effective participatory future-fiber richness and branching structure."
+    },
+    "recursive_temporal_participation_dimensionality": {
+      "symbol": "d_{\\tau}",
+      "definition": "Effective dimensionality of recursively participatory temporal continuity."
+    },
+    "recoverable_accessibility_connectivity": {
+      "symbol": "\\kappa_{\\mathrm{conn}}(\\Omega_{\\mathrm{rec}})",
+      "definition": "Connectivity of recoverable accessibility topology across future-fiber structure."
+    },
+    "rewovability_operator": {
+      "symbol": "\\mathcal W_{\\mathrm{rew}}",
+      "definition": "Regenerative operator reconnecting pruned, fragmented, or compressed future-fiber traversability structure."
+    }
+  },
+
+  "degenerative_pruning_cascade": {
+    "formal_cascade": "\\Theta\\uparrow \\rightarrow \\mu(\\Omega_{\\mathrm{rec}})\\downarrow \\rightarrow \\Lambda_{\\mathrm{prune}}\\uparrow \\rightarrow \\mathcal F_{\\mathrm{participatory}}\\downarrow \\rightarrow d_{\\tau}\\downarrow",
+    "interpretation": "Recursive deformation progressively removes admissible future traversability pathways, compressing participatory continuity into increasingly narrow recurrence structure."
+  },
+
+  "traversability_pruning_law": {
+    "formal_relation": "\\Lambda_{\\mathrm{prune}} \\sim \\frac{\\Theta}{d_{\\tau}\\,\\mu(\\Omega_{\\mathrm{rec}})}",
+    "statement": "Traversability pruning intensity increases as recursive burden rises and recoverable future accessibility branching structure contracts.",
+    "interpretation": "As recoverable future accessibility volume and participatory dimensionality decrease, deformation burden removes increasingly large fractions of viable future continuity structure.",
+    "rewovability_effect": "Pruning progressively reduces rewovability across recoverable future-fiber topology."
+  },
+
+  "fragmentation_regime": {
+    "condition": "\\mu_{\\mathrm{local}}(\\Omega_{\\mathrm{rec}})>0 \\;\\land\\; \\kappa_{\\mathrm{conn}}(\\Omega_{\\mathrm{rec}})\\downarrow",
+    "interpretation": "Localized recursive continuity may persist despite degeneration of global recoverable accessibility connectivity.",
+    "geometric_distinction": "Fragmentation is connectivity degeneration, not merely accessibility-volume reduction."
+  },
+
+  "metastable_persistence_regime": {
+    "condition": "\\tau_{\\mathrm{rec}}>0 \\;\\land\\; \\Lambda_{\\mathrm{prune}}\\uparrow",
+    "interpretation": "Recursive continuity may temporarily stabilize despite progressive contraction of recoverable future branching richness and adaptive flexibility.",
+    "canonical_distinction": "Stability does not guarantee viability."
+  },
+
+  "accessibility_exhaustion_limit": {
+    "condition": "\\mu(\\Omega_{\\mathrm{rec}})\\rightarrow0",
+    "interpretation": "Viable future participation becomes progressively inaccessible as recoverable traversability structure approaches exhaustion."
+  },
+
+  "reconnection_dual": {
+    "name": "Recoverable Traversability Reconnection Dual",
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\Omega_{\\mathrm{rec}}^{\\mathrm{pruned}} \\rightarrow \\Omega_{\\mathrm{rec}}^{+}",
+    "statement": "Recovery reconnects admissible future traversability pathways through rewovability and regenerative transport stabilization.",
+    "interpretation": "Recovery restores adaptive viability through reconnection of fragmented, compressed, or pruned future-fiber continuity structure.",
+    "restored_structures": [
+      "participatory branching richness",
+      "transport continuity",
+      "rewovability",
+      "admissible future accessibility",
+      "recursive participatory dimensionality"
+    ]
+  },
+
+  "primitive_recursive_interpretation": {
+    "degenerative_operator_chain": "deformation \\rightarrow traversability pruning \\rightarrow continuity compression \\rightarrow rewovability reduction \\rightarrow dimensionality reduction",
+    "regenerative_operator_chain": "rewovability \\rightarrow traversability reconnection \\rightarrow branching restoration \\rightarrow adaptive reopening"
+  },
+
+  "cross_framework_relations": {
+    "existential_reachability_principle": "Existence persists by preserving future reachability.",
+    "future_accessibility_contraction_geometry": "Sustained recursive deformation contracts recoverable future accessibility.",
+    "participatory_fiber_compression_dual": "Pruning compresses participatory future-fiber richness and branching structure.",
+    "recursive_temporality_phase_structure": "Pruning reduces recursive temporal participation dimensionality and can produce fragmented, trapped, locked, or collapsed temporal phases.",
+    "temporal_participation_dimensionality_separation": "Pruning reduces d_tau without necessarily eliminating all recoverable accessibility geometry.",
+    "master_viability_geometry": "Viability depends on preservation of recursively recoverable participatory traversability geometry."
+  },
+
+  "canonical_compressions": [
+    "Constraint prunes future traversability pathways.",
+    "Recovery reconnects future traversability pathways.",
+    "Stability does not guarantee viability."
+  ],
+
+  "deep_compressions": [
+    "Recursive deformation prunes future traversability structure.",
+    "Pruning compresses participatory branching richness.",
+    "Pruning progressively reduces rewovability and adaptive flexibility.",
+    "Stability may persist while viability contracts.",
+    "Collapse emerges through exhaustion of admissible future traversability.",
+    "Recovery reconnects fragmented future participation topology."
+  ],
+
+  "one_sentence_lock": "Constraint prunes future traversability pathways; recovery reconnects future traversability pathways."
+}
