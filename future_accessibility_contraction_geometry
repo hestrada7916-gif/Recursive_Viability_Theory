@@ -1,0 +1,118 @@
+{
+  "principle_id": "future_accessibility_contraction_geometry",
+
+  "title": "Future Accessibility Contraction Geometry",
+
+  "status": "phase_2_unified_persistence_lock",
+
+  "framework_layer": "recursive_persistence_geometry",
+
+  "type": "future_accessibility_contraction_principle",
+
+  "canonical_statement": "Under sustained recursive constraint, preservable future accessibility progressively contracts.",
+
+  "deep_compression_statement": "Collapse is exhaustion of recoverable future accessibility under recursive constraint.",
+
+  "formal_statement": {
+    "statement": "Recursive deformation progressively contracts admissible future reachability unless sufficiently offset by regenerative reopening, adaptive transport stabilization, or rewoven participatory continuity.",
+    "governing_chain": "constraint accumulation -> transport compression -> future accessibility contraction",
+    "unified_framework_chain": "PMM -> SCT -> RVT"
+  },
+
+  "core_objects": {
+    "recoverable_future_accessibility_geometry": "\\Omega_{\\mathrm{rec}} = \\mathcal T_{\\mathrm{fib}}^{+}",
+    "future_fiber_topology": "\\mathcal T_{\\mathrm{fib}}^{+}",
+    "future_accessibility_measure": "\\mu(\\Omega_{\\mathrm{rec}})",
+    "recursive_burden": "\\mathcal B_{\\mathrm{rec}}",
+    "recursive_deformation_density": "\\gamma",
+    "recursive_temporal_continuity": "\\tau_{\\mathrm{rec}}",
+    "regenerative_reopening": "\\mathcal R_{\\mathrm{regen}}",
+    "transport_stabilization": "\\mathcal S_{\\mathrm{trans}}",
+    "degenerative_deformation": "\\Gamma_{\\mathrm{deg}}"
+  },
+
+  "recursive_burden_geometry": {
+    "equation": "\\mathcal B_{\\mathrm{rec}} = \\int \\gamma \\, d\\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive participation generates accumulated recursive deformation burden across recursive continuity."
+  },
+
+  "future_accessibility_dynamics": {
+    "equation": "\\frac{d\\mu(\\Omega_{\\mathrm{rec}})}{d\\tau_{\\mathrm{rec}}} = \\mathcal R_{\\mathrm{regen}} + \\mathcal S_{\\mathrm{trans}} - \\Gamma_{\\mathrm{deg}}",
+    "interpretation": "Recoverable future accessibility expands through regenerative reopening and transport stabilization while recursive degeneration contracts admissible future reachability."
+  },
+
+  "persistence_condition": {
+    "condition": "\\mu(\\Omega_{\\mathrm{rec}}) > 0",
+    "equivalent_condition": "\\mathcal R_{\\mathrm{regen}} + \\mathcal S_{\\mathrm{trans}} \\ge \\Gamma_{\\mathrm{deg}}",
+    "interpretation": "Persistence exists whenever regenerative reopening and stabilized transport continuity sufficiently offset recursive degenerative contraction."
+  },
+
+  "degenerative_accessibility_contraction": {
+    "condition": "\\frac{d\\mu(\\Omega_{\\mathrm{rec}})}{d\\tau_{\\mathrm{rec}}} < 0",
+    "additional_condition": "\\mu(\\Omega_{\\mathrm{rec}}) > 0",
+    "interpretation": "Degenerative continuity preserves temporary participation while recoverable future accessibility progressively contracts."
+  },
+
+  "fragmentation_regime": {
+    "local_condition": "\\mu_{\\mathrm{local}}(\\Omega_{\\mathrm{rec}}) > 0",
+    "global_condition": "\\mu_{\\mathrm{global}}(\\Omega_{\\mathrm{rec}}) \\downarrow 0",
+    "interpretation": "Localized survivability continuity persists while scalable recoverable accessibility integration collapses."
+  },
+
+  "accessibility_exhaustion_regime": {
+    "condition": "\\mu(\\Omega_{\\mathrm{rec}}) \\downarrow 0",
+    "interpretation": "Recoverable future-fiber topology loses sufficient reopenability for viable regenerative participatory continuity.",
+    "extended_interpretation": "Recursive participation may persist locally or metastably while viability-preserving recoverable future reachability becomes progressively exhausted under recursive deformation accumulation.",
+    "deep_form": "Accessibility exhaustion is effective loss of viability-preserving recoverable future reachability."
+  },
+
+  "continuity_fiber_connection": {
+    "statement": "Continuity fiber classes emerge through differential contraction and preservation behavior of recoverable future accessibility topology.",
+    "fiber_hierarchy": [
+      "generative",
+      "metastable",
+      "degenerative",
+      "fragmented",
+      "irrecoverable"
+    ]
+  },
+
+  "unified_structural_interpretation": {
+    "PMM": "recursive burden and pressure geometry",
+    "SCT": "transport and coordination flow geometry",
+    "RVT": "admissible continuity and future accessibility geometry",
+    "unified_interpretation": "PMM, SCT, and RVT constitute recursively coupled layers of unified recursive persistence geometry."
+  },
+
+  "canonical_compression": [
+    "Recursive deformation progressively contracts admissible future reachability unless offset by regenerative reopening or stabilized transport continuity.",
+    "Constraint accumulation contracts future accessibility.",
+    "Persistence preserves nonzero recoverable future accessibility.",
+    "Collapse is exhaustion of recoverable future accessibility under recursive constraint."
+  ],
+
+  "deep_compression_forms": [
+    "Recursive participation generates recursive burden.",
+    "Recursive burden contracts future accessibility.",
+    "Transport stabilization preserves reopenable continuity.",
+    "Regeneration reopens future-fiber accessibility.",
+    "Degenerative continuity narrows recoverable future reachability.",
+    "Fragmentation preserves local continuity while global accessibility collapses.",
+    "Accessibility exhaustion collapses viability-preserving future reachability.",
+    "Persistence preserves reopenable future accessibility under recursive constraint."
+  ],
+
+  "connections": [
+    "future_fiber_unification_kernel",
+    "recursive_participation_capacity",
+    "continuity_fiber_classification",
+    "recursive_accessibility_evolution_equation",
+    "regenerative_counter_dynamics_principle",
+    "observer_coupled_accessibility_deformation",
+    "transport_compression_geometry",
+    "recursive_viability_topology",
+    "admissible_recursive_transformation_class"
+  ],
+
+  "one_sentence_lock": "Persistent adaptive systems preserve nonzero recoverable future accessibility by sufficiently offsetting recursive deformation contraction through regenerative reopening and stabilized transport continuity."
+}
