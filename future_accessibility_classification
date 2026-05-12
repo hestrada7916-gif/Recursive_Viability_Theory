@@ -1,0 +1,223 @@
+{
+  "principle_id": "future_accessibility_classification",
+
+  "title": "Future Accessibility Classification",
+
+  "status": "phase_2_future_accessibility_lock",
+
+  "framework_layer": [
+    "future_accessibility_geometry",
+    "recursive_temporal_viability",
+    "wave_topological_traversability"
+  ],
+
+  "type": "future_viability_classification_principle",
+
+  "canonical_statement": "The future is not binary.",
+
+  "deep_compression_statement": "Viability is preservation of coherently traversable futures.",
+
+  "formal_statement": {
+    "statement": "Future structure admits graded accessibility, coherence, traversability, reopenability, and viability organization under recursive deformation dynamics.",
+    "interpretation": "Adaptive viability depends not merely on the existence of possible futures, but on preservation of coherently traversable future participation structure."
+  },
+
+  "future_spaces": {
+    "total_future_possibility_space": {
+      "symbol": "\\mathcal F",
+      "definition": "Complete space of structurally realizable future configurations admissible under generalized transformational possibility.",
+      "contains": [
+        "reachable futures",
+        "inaccessible futures",
+        "latent futures",
+        "disconnected futures",
+        "irrecoverable futures",
+        "collapsed futures",
+        "non-participatory future structure"
+      ],
+      "interpretation": "Represents generalized future possibility independently of present recoverable accessibility or participatory viability."
+    },
+
+    "recoverable_future_accessibility_space": {
+      "symbol": "\\mathcal F^{+}",
+      "definition": "\\mathcal F^{+} \\subseteq \\mathcal F",
+      "interpretation": "Admissibly recoverable future participation structure preserving sufficiently coherent traversability under recursive deformation dynamics.",
+      "contains": [
+        "recoverably accessible futures",
+        "coherently traversable futures",
+        "recursively participatory futures",
+        "admissibly reopenable futures",
+        "viability-preserving futures"
+      ]
+    }
+  },
+
+  "future_classes": {
+    "latent_futures": {
+      "symbol": "\\mathcal F_{\\mathrm{latent}}",
+      "definition": "Structurally admissible future configurations existing independently of present participatory accessibility.",
+      "characteristics": [
+        "inaccessible",
+        "disconnected",
+        "dormant",
+        "non-participatory",
+        "potentially unrecoverable"
+      ]
+    },
+
+    "accessible_futures": {
+      "symbol": "\\mathcal F_{\\mathrm{accessible}}",
+      "definition": "Latent futures reachable through admissible accessibility pathways.",
+      "formal_relation": "\\exists\\,\\gamma:(x,t)\\rightarrow\\mathcal F_{\\mathrm{accessible}}",
+      "interpretation": "Accessible futures preserve reachable participatory continuity from present recursive accessibility structure."
+    },
+
+    "coherent_futures": {
+      "symbol": "\\mathcal F_{\\mathrm{coherent}}",
+      "definition": "Accessible futures preserving sufficiently integrated recursive continuity.",
+      "formal_relation": "\\mathcal C_{\\mathrm{global}}>0",
+      "interpretation": "Coherent futures preserve scalable recursive continuity and avoid fragmented accessibility structure."
+    },
+
+    "traversable_futures": {
+      "symbol": "\\mathcal F_{\\mathrm{traversable}}",
+      "definition": "Coherent futures preserving sustained admissible participatory transport continuity together with tempo-compatible continuity-wave propagation.",
+      "formal_relation": "\\eta_{\\tau}>0 \\land R_{\\tau}>0 \\land \\Theta_{\\mathrm{tempo}}^{\\mathrm{compat}}>0",
+      "interpretation": "Traversable futures require sufficiently compatible continuity-wave propagation such that recursive participation paths remain dynamically coordinatable under recursive evolution."
+    },
+
+    "viable_futures": {
+      "symbol": "\\mathcal F_{\\mathrm{viable}}",
+      "definition": "Coherently traversable futures preserving admissible recursive participation under recursive burden accumulation.",
+      "formal_relation": "\\mathfrak A(\\mathcal D)\\ge\\xi_c",
+      "interpretation": "Viable futures preserve recursively reopenable participatory continuity under recursive deformation dynamics."
+    },
+
+    "collapsed_futures": {
+      "symbol": "\\mathcal F_{\\mathrm{collapsed}}",
+      "definition": "Futures which have lost coherent traversability or admissible participatory continuity.",
+      "interpretation": "Collapsed futures may remain geometrically latent, partially accessible, or structurally represented while no longer preserving viable recursive participation."
+    },
+
+    "rewoven_futures": {
+      "symbol": "\\mathcal F_{\\mathrm{rewoven}}",
+      "definition": "Futures restored through regenerative reactivation of coherent participatory traversability.",
+      "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathcal F_{\\mathrm{collapsed}}\\rightarrow\\mathcal F_{\\mathrm{viable}}",
+      "interpretation": "Recovery restores coherent traversability rather than merely reinstating prior future states."
+    }
+  },
+
+  "future_inclusion_hierarchy": {
+    "formal_relation": "\\mathcal F_{\\mathrm{viable}}\\subseteq\\mathcal F_{\\mathrm{traversable}}\\subseteq\\mathcal F_{\\mathrm{coherent}}\\subseteq\\mathcal F_{\\mathrm{accessible}}\\subseteq\\mathcal F_{\\mathrm{latent}}",
+    "interpretation": [
+      "Not all latent futures remain accessible.",
+      "Not all accessible futures remain coherent.",
+      "Not all coherent futures remain traversable.",
+      "Not all traversable futures remain viable."
+    ]
+  },
+
+  "wave_topological_traversability": {
+    "continuity_wave_coherence": {
+      "symbol": "\\Psi_{\\mathrm{cont}}",
+      "definition": "Recursive continuity-wave coherence propagation structure across recoverable future-fiber topology.",
+      "governs": [
+        "recursive propagation",
+        "transport pacing",
+        "phase coherence",
+        "tempo compatibility",
+        "participatory synchronization"
+      ],
+      "deep_form": "The waves carry the fibers."
+    },
+
+    "tempo_compatibility_relation": {
+      "formal_relation": "\\Psi_{\\mathrm{cont}}^{(i)}\\sim\\Psi_{\\mathrm{cont}}^{(j)}",
+      "interpretation": "Traversable futures require continuity waves to remain sufficiently tempo-compatible across recursive transport structure."
+    },
+
+    "rotor_generated_continuity": {
+      "formal_relation": "R\\rightarrow\\Psi_{\\mathrm{cont}}\\rightarrow\\mathcal F_{\\mathrm{traversable}}",
+      "interpretation": "Rotor recurrence stabilizes local recursive continuity pacing while continuity-wave propagation preserves coherent future traversability across recoverable accessibility geometry."
+    }
+  },
+
+  "future_degeneration_dynamics": {
+    "formal_relation": "\\Theta_{\\tau}\\uparrow\\Rightarrow\\eta_{\\tau}\\downarrow\\Rightarrow R_{\\tau}\\downarrow",
+    "interpretation": "Recursive burden and synchronization pressure progressively destroy coherent future traversability."
+  },
+
+  "future_locking": {
+    "formal_relation": "\\Lambda_{\\tau}\\uparrow\\Rightarrow d_{\\tau}\\downarrow",
+    "interpretation": "Future locking preserves continuity while compressing plural future participation dimensionality into low-dimensional recurrence."
+  },
+
+  "traversability_degeneration": {
+    "formal_relation": "\\Theta_{\\mathrm{tempo}}^{\\mathrm{compat}}\\downarrow\\Rightarrow R_{\\tau}\\downarrow",
+    "interpretation": "Fragmentation, synchronization compression, or tempo incompatibility progressively destroy coherent future traversability even when residual structural accessibility remains."
+  },
+
+  "future_collapse_criterion": {
+    "formal_relation": "R_{\\tau}\\rightarrow0",
+    "equivalent_relation": "\\mathfrak A(\\mathcal D)<\\xi_c",
+    "interpretation": "Collapse destroys recursively reopenable future traversability."
+  },
+
+  "future_recovery_criterion": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}\\uparrow\\Rightarrow R_{\\tau}\\uparrow",
+    "interpretation": "Recovery reopens future accessibility through rewoven continuity."
+  },
+
+  "future_possibility_accessibility_dual": {
+    "formal_relation": "\\mathcal F^{+}\\subseteq\\mathcal F",
+    "statement": "Not all possible futures remain recoverably accessible.",
+    "interpretation": "Recursive deformation, transport incoherence, fragmentation, locking, and traversability collapse progressively remove futures from recoverable participatory accessibility while those futures remain structurally representable within generalized possibility space."
+  },
+
+  "collapse_consequence": {
+    "formal_relation": "\\mathcal F^{+}\\downarrow\\not\\Rightarrow\\mathcal F\\downarrow0",
+    "interpretation": "Collapse does not necessarily annihilate future possibility itself. Future structures may remain theoretically representable while no longer remaining coherently traversable, recoverable, or participatorily viable."
+  },
+
+  "recovery_consequence": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathcal F\\rightarrow\\mathcal F^{+}",
+    "interpretation": "Recovery restores coherent future traversability by reconnecting fragmented, collapsed, or inaccessible future structure into admissibly recoverable participatory continuity."
+  },
+
+  "canonical_compressions": [
+    "The future is not binary.",
+    "Futures vary in accessibility, coherence, and traversability.",
+    "Viability is preservation of coherently traversable futures.",
+    "Traversable futures require tempo-compatible continuity waves.",
+    "The waves carry the fibers.",
+    "Rotor recurrence stabilizes local tempo continuity.",
+    "Collapse is loss of coherent future traversability.",
+    "Not all possible futures remain recoverably accessible."
+  ],
+
+  "deep_compressions": [
+    "Futures admit graded accessibility structure.",
+    "Not all futures remain coherently traversable.",
+    "Accessibility alone does not guarantee traversability.",
+    "Continuity waves propagate participatory continuity.",
+    "Tempo governs traversability compatibility.",
+    "Viability preserves reopenable future participation.",
+    "Fragmentation destroys future coherence.",
+    "Locking compresses future dimensionality.",
+    "Collapse destroys future traversability.",
+    "Recovery restores coherent future participation."
+  ],
+
+  "connections": [
+    "wave_topological_participatory_viability_geometry",
+    "recursive_temporal_phase_structure",
+    "recoverable_traversability_pruning_reconnection_dual",
+    "participatory_fiber_compression_dual",
+    "future_accessibility_contraction_geometry",
+    "rotor_temporal_primitiveness",
+    "recursive_participatory_viability_field_theory",
+    "master_viability_geometric_object"
+  ],
+
+  "one_sentence_lock": "Adaptive viability depends upon preservation of coherently traversable futures through tempo-compatible continuity-wave propagation across recoverable future accessibility topology."
+}
