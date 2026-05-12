@@ -1,0 +1,134 @@
+{
+  "principle_id": "primitive_traversability_dual",
+
+  "title": "The Primitive Traversability Dual",
+
+  "status": "phase_3_traversability_kernel_lock",
+
+  "framework_layer": "recursive_viability_kernel",
+
+  "type": "primitive_viability_dual",
+
+  "canonical_statement": "Constraint prunes traversability. Recovery reconnects traversability.",
+
+  "deep_compression_statement": "Adaptive viability organizes through the recursive duality between traversability degeneration and traversability reconnection across recoverable continuity topology.",
+
+  "formal_statement": {
+    "statement": "Recursive adaptive viability organizes through the coupled duality between traversability degeneration and traversability reconnection across recoverable continuity topology under recursive deformation dynamics.",
+    "collapse_identity": "collapse = traversability degeneration",
+    "recovery_identity": "recovery = traversability reconnection",
+    "core_dual": "\\mathcal P_{\\mathrm{prune}} \\leftrightarrow \\mathcal W_{\\mathrm{rew}}"
+  },
+
+  "core_objects": {
+    "recoverable_future_fiber_topology": "\\Omega_{\\mathrm{rec}}",
+    "participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "traversability_pruning_operator": "\\mathcal P_{\\mathrm{prune}}",
+    "traversability_reconnection_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "recursive_constraint_burden": "\\Theta",
+    "participatory_connectivity": "\\kappa_{\\mathrm{conn}}"
+  },
+
+  "constraint_pruning_dynamics": {
+    "cascade": [
+      "constraint",
+      "traversability pruning",
+      "continuity compression"
+    ],
+    "equation": "\\Theta \\uparrow \\Rightarrow \\mathcal P_{\\mathrm{prune}} \\uparrow",
+    "interpretation": "Recursive deformation progressively removes, compresses, disconnects, or destabilizes recoverable participatory future accessibility pathways.",
+    "effects": [
+      "future accessibility contraction",
+      "participatory branching reduction",
+      "continuity compression",
+      "rewovability reduction",
+      "recursive fragmentation",
+      "adaptive flexibility loss"
+    ]
+  },
+
+  "traversability_reconnection_dynamics": {
+    "cascade": [
+      "recovery",
+      "traversability reconnection",
+      "adaptive reopening"
+    ],
+    "equation": "\\mathcal W_{\\mathrm{rew}} : \\Omega_{\\mathrm{rec}}^{\\mathrm{frag}} \\rightarrow \\Omega_{\\mathrm{rec}}^{+}",
+    "interpretation": "Recovery reconnects coherent participatory traversability across fragmented continuity topology.",
+    "restores": [
+      "admissible future accessibility",
+      "participatory branching richness",
+      "rewovability",
+      "transport continuity",
+      "recursive coherence",
+      "adaptive flexibility"
+    ]
+  },
+
+  "unified_viability_interpretation": {
+    "statement": "Adaptive viability depends upon preservation of sufficiently recoverable participatory traversability under recursive deformation dynamics.",
+    "operator_duality": "\\mathcal P_{\\mathrm{prune}} \\leftrightarrow \\mathcal W_{\\mathrm{rew}}",
+    "interpretation": "Constraint and recovery act as opposing recursive operators governing viability evolution across recoverable continuity topology."
+  },
+
+  "collapse_dual": {
+    "condition": "\\mathcal P_{\\mathrm{prune}} > \\mathcal W_{\\mathrm{rew}}",
+    "interpretation": "Collapse emerges whenever traversability pruning dominates regenerative traversability reconnection.",
+    "deep_form": "Collapse emerges through traversability exhaustion."
+  },
+
+  "persistence_dual": {
+    "condition": "\\mathcal W_{\\mathrm{rew}} \\ge \\mathcal P_{\\mathrm{prune}}",
+    "interpretation": "Persistent adaptive systems preserve coherent participatory future movement through regenerative traversability restoration.",
+    "deep_form": "Persistence preserves reconnectable participatory continuity."
+  },
+
+  "recursive_temporal_consequence": {
+    "equation": "\\tau_{\\mathrm{rec}} \\sim \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality depends upon preservation of sufficiently reconnectable participatory traversability.",
+    "degenerative_dual": "Constraint fragments recursive temporal continuity through traversability pruning.",
+    "regenerative_dual": "Recovery restores recursive temporal coherence through traversability reconnection."
+  },
+
+  "fragmentation_geometry": {
+    "condition": "\\mu_{\\mathrm{local}}(\\Omega_{\\mathrm{rec}}) > 0 \\land \\kappa_{\\mathrm{conn}}(\\Omega_{\\mathrm{rec}}) \\downarrow",
+    "interpretation": "Localized recursive continuity may persist despite degeneration of global participatory traversability connectivity."
+  },
+
+  "metastable_regime": {
+    "condition": "\\tau_{\\mathrm{rec}} > 0 \\land \\mathcal P_{\\mathrm{prune}} \\uparrow",
+    "interpretation": "Recursive continuity may persist metastably while traversability structure progressively contracts.",
+    "deep_form": "Stability does not guarantee viability."
+  },
+
+  "primitive_recursive_duality": {
+    "degenerative_chain": [
+      "constraint",
+      "traversability pruning",
+      "continuity compression",
+      "rewovability reduction",
+      "participatory contraction"
+    ],
+    "regenerative_chain": [
+      "recovery",
+      "traversability reconnection",
+      "branching restoration",
+      "adaptive reopening",
+      "recursive recoherence"
+    ]
+  },
+
+  "canonical_compression": [
+    "Constraint prunes traversability.",
+    "Recovery reconnects traversability.",
+    "Collapse emerges through traversability exhaustion.",
+    "Persistence preserves reconnectable participatory continuity.",
+    "Recursive temporality depends on reconnectable traversability."
+  ],
+
+  "deep_compression_forms": [
+    "Constraint contracts admissible future traversability.",
+    "Recovery restores fragmented future traversability.",
+    "Collapse is fundamentally a traversability degeneration phenomenon.",
+    "Persistence
