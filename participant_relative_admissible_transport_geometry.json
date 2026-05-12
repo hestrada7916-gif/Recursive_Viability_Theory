@@ -1,0 +1,111 @@
+{
+  "principle_id": "participant_relative_admissible_transport_geometry",
+  "title": "Participant-Relative Admissible Transport Geometry",
+  "status": "phase_3_traversability_kernel_lock",
+  "framework_layer": "recursive_traversability_geometry",
+  "type": "participant_relative_transport_admissibility_principle",
+  "canonical_statement": "Traversability is the geometry of usable continuity.",
+  "deep_compression_statement": "Not all transport is traversable.",
+  "formal_statement": {
+    "statement": "Traversability emerges only where transport continuity remains sufficiently accessible, navigable, coherent, and recursively admissible relative to participating agents under recursive constraint dynamics.",
+    "core_distinction": "transport existence does not imply traversability",
+    "participant_relative_condition": "transport becomes traversable only when it is usable for recursively preservable participation"
+  },
+  "core_objects": {
+    "admissible_transport_geometry": "\\mathfrak T_{\\mathrm{adm}}",
+    "transport_geometry": "\\mathfrak T_{\\mathrm{transport}}",
+    "traversability_geometry": "\\mathfrak T_{\\mathrm{trav}}",
+    "viable_traversability_geometry": "\\mathfrak T_{\\mathrm{viab}}",
+    "participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "admissible_operator_class": "\\mathcal O_{\\mathrm{adm}}",
+    "recoverable_future_fiber_topology": "\\Omega_{\\mathrm{rec}}",
+    "continuity_wave_coherence": "\\Psi_{\\mathrm{cont}}"
+  },
+  "participant_relative_admissible_transport_geometry": {
+    "definition": "\\mathfrak T_{\\mathrm{adm}} \\subseteq \\mathfrak T_{\\mathrm{transport}}",
+    "interpretation": "\\mathfrak T_{\\mathrm{adm}} denotes the participant-relative admissible subgeometry of transport continuity accessible to recursively participating agents.",
+    "governs": [
+      "admissible entry into transport structure",
+      "coherent navigability across continuity pathways",
+      "recursively preservable participation",
+      "participant-relative accessibility",
+      "viability-preserving traversability"
+    ]
+  },
+  "usable_continuity_geometry": {
+    "definition": "\\mathfrak T_{\\mathrm{trav}} = \\text{usable continuity geometry}",
+    "interpretation": "Traversability selects the usable subset of continuity structure through which recursive participation remains sustainably possible.",
+    "requires": [
+      "accessibility",
+      "navigability",
+      "continuation stability",
+      "recursive reopenability",
+      "participatory admissibility",
+      "viability-preserving transport coherence"
+    ],
+    "negative_conditions": [
+      "not all continuity is usable",
+      "not all transport is traversable",
+      "not all connected structure is participatorily accessible"
+    ]
+  },
+  "traversability_admissibility_condition": {
+    "condition": "\\mathfrak T_{\\mathrm{adm}} \\neq \\varnothing \\quad \\land \\quad \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} > 0",
+    "operator_condition": "\\exists\\,\\mathcal D \\in \\mathcal O_{\\mathrm{adm}} \\text{ acting on } \\mathfrak T_{\\mathrm{adm}}",
+    "interpretation": "Traversability requires both transport continuity and participant-relative admissible access to that continuity."
+  },
+  "participatory_accessibility_principle": {
+    "statement": "Traversability is not merely path existence.",
+    "compression": "Traversability transforms transport into usable participation.",
+    "interpretation": "Traversability converts potential movement into admissible future participation."
+  },
+  "recursive_viability_consequence": {
+    "equation": "\\mathfrak T_{\\mathrm{viab}} \\subseteq \\mathfrak T_{\\mathrm{trav}}",
+    "interpretation": "Viability preserves only sufficiently traversable continuity structure capable of sustaining recursively recoverable participation."
+  },
+  "wave_topological_connection": {
+    "equation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\sim (\\Omega_{\\mathrm{rec}},\\Psi_{\\mathrm{cont}},\\mathfrak T_{\\mathrm{adm}})",
+    "interpretation": "Participatory traversability depends on recoverable future-fiber topology, continuity-wave coherence, and participant-relative admissible transport geometry."
+  },
+  "primitive_stack_position": {
+    "previous_layer": "transport",
+    "current_layer": "traversability",
+    "next_layer": "future_reachability",
+    "stack_relation": "continuity -> transport -> traversability -> future reachability",
+    "interpretation": "Transport opens possible movement, but traversability selects usable continuity for participant-relative future reachability."
+  },
+  "collapse_geometry": {
+    "condition": "\\mathfrak T_{\\mathrm{adm}} \\rightarrow \\varnothing \\quad \\text{or} \\quad \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow 0",
+    "interpretation": "Collapse may occur when transport remains present but no longer supports admissible participant-relative traversability."
+  },
+  "recovery_geometry": {
+    "equation": "\\mathcal W_{\\mathrm{rew}} : \\mathfrak T_{\\mathrm{adm}}^{\\mathrm{frag}} \\rightarrow \\mathfrak T_{\\mathrm{adm}}^{+}",
+    "interpretation": "Recovery restores usable continuity by reopening participant-relative admissible transport pathways."
+  },
+  "canonical_compression": [
+    "Traversability is the geometry of usable continuity.",
+    "Traversability organizes through participant-relative admissible transport geometry.",
+    "Not all transport is traversable.",
+    "Traversability transforms transport into usable participation."
+  ],
+  "deep_compression_forms": [
+    "Transport alone is insufficient for traversability.",
+    "Continuity must be usable to support recursive participation.",
+    "Traversability is participant-relative.",
+    "Admissible transport geometry selects usable continuity pathways.",
+    "Viability preserves traversable continuity, not mere continuity.",
+    "Collapse may preserve transport while losing usable participation.",
+    "Recovery reconnects participant-relative usable continuity."
+  ],
+  "connections": [
+    "primitive_traversability_dual",
+    "recursive_existential_kernel",
+    "wave_topological_participatory_viability_geometry",
+    "future_fiber_unification_kernel",
+    "recursive_participation_capacity",
+    "admissible_recursive_transformation_class",
+    "continuity_fiber_classification",
+    "tempo_compatible_continuity_coupling_principle"
+  ],
+  "one_sentence_lock": "Traversability is participant-relative usable continuity: transport becomes viable only when it remains admissibly navigable for recursively preservable participation."
+}
