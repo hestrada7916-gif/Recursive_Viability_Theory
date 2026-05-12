@@ -1,0 +1,156 @@
+{
+  "architecture_id": "unified_viability_architecture_stack",
+  "title": "Unified Viability Architecture Stack",
+  "status": "foundational_architecture_lock",
+  "framework": "Viable Transformation Flow Architecture",
+  "abbreviation": "VTFA",
+  "type": "layered_recursive_viability_architecture",
+
+  "canonical_statement": "The unified viability architecture organizes through recursively coupled layers governing existence, accessibility, continuity, transport, deformation, and integrated adaptive viability dynamics.",
+
+  "architecture_layers": [
+    {
+      "layer_id": "GAVT",
+      "name": "Generalized Adaptive Viability Theory",
+      "domain": "existential_viability_ontology",
+      "governing_question": "What is viability?",
+      "governing_role": "Defines the existential viability conditions governing persistent adaptive existence.",
+      "core_focus": [
+        "existential viability",
+        "future reachability",
+        "adaptive persistence",
+        "participatory continuity",
+        "collapse duality"
+      ]
+    },
+
+    {
+      "layer_id": "RAG",
+      "name": "Recoverable Accessibility Geometry",
+      "domain": "recoverable_accessibility_geometry",
+      "governing_question": "What futures remain recoverably accessible?",
+      "governing_role": "Governs recoverable future accessibility geometry and future reachability structure.",
+      "core_focus": [
+        "future accessibility geometry",
+        "future-fiber structure",
+        "branching accessibility",
+        "recoverable reachability",
+        "participatory accessibility"
+      ]
+    },
+
+    {
+      "layer_id": "RVT",
+      "name": "Recursive Viability Topology",
+      "domain": "continuity_admissibility_topology",
+      "governing_question": "What continuity structures remain admissible?",
+      "governing_role": "Governs admissible continuity preservation across recursive future-fiber topology.",
+      "core_focus": [
+        "continuity admissibility",
+        "future-fiber topology",
+        "rewovability",
+        "continuity preservation",
+        "topological viability"
+      ]
+    },
+
+    {
+      "layer_id": "SCT",
+      "name": "Spectral Coordination Theory",
+      "domain": "transport_propagation_dynamics",
+      "governing_question": "How does participation propagate?",
+      "governing_role": "Governs transport propagation, coordination continuity, and recursive participation dynamics.",
+      "core_focus": [
+        "transport propagation",
+        "coordination continuity",
+        "recursive participation",
+        "rotor dynamics",
+        "integrated transport coherence"
+      ]
+    },
+
+    {
+      "layer_id": "PMM",
+      "name": "Polyrhythmic Margin Model",
+      "domain": "deformation_pressure_geometry",
+      "governing_question": "What deforms and prunes accessibility structure?",
+      "governing_role": "Governs recursive deformation burden, compression, and accessibility pruning dynamics.",
+      "core_focus": [
+        "recursive burden accumulation",
+        "constraint pressure",
+        "accessibility pruning",
+        "continuity compression",
+        "deformation geometry"
+      ]
+    },
+
+    {
+      "layer_id": "VTFA",
+      "name": "Viable Transformation Flow Architecture",
+      "domain": "integrated_architectural_synthesis",
+      "governing_question": "How do all viability layers recursively co-organize?",
+      "governing_role": "Synthesizes the coupled viability architecture into unified recursive adaptive viability geometry.",
+      "core_focus": [
+        "architectural synthesis",
+        "cross-framework integration",
+        "recursive viability dynamics",
+        "collapse-recovery duality",
+        "integrated adaptive geometry"
+      ]
+    }
+  ],
+
+  "canonical_ordering": {
+    "formal_order": "Ontology -> Geometry -> Topology -> Transport -> Pressure -> Integrated Viability Architecture",
+    "layer_flow": [
+      "GAVT",
+      "RAG",
+      "RVT",
+      "SCT",
+      "PMM",
+      "VTFA"
+    ],
+    "interpretation": "Existential viability conditions generate accessibility geometry, which constrains admissible continuity topology, which supports transport propagation dynamics, which undergo deformation pressure dynamics, all synthesized through integrated viability architecture."
+  },
+
+  "cross_layer_relations": {
+    "GAVT_to_RAG": "Existential viability depends on preservation of recoverable future reachability geometry.",
+
+    "RAG_to_RVT": "Recoverable accessibility geometry constrains admissible continuity topology.",
+
+    "RVT_to_SCT": "Admissible continuity topology governs viable transport propagation dynamics.",
+
+    "SCT_to_PMM": "Transport continuity dynamics accumulate recursive deformation burden under sustained participation.",
+
+    "PMM_to_RAG": "Recursive deformation pressure prunes recoverable future accessibility structure.",
+
+    "VTFA_global_relation": "VTFA integrates ontology, geometry, topology, transport, and deformation into unified recursive viability architecture."
+  },
+
+  "governing_principles": [
+    "Existence persists by preserving future reachability.",
+    "Constraint prunes future traversability pathways.",
+    "Recovery reconnects future traversability pathways.",
+    "Stability does not guarantee viability.",
+    "Recursive temporality emerges through coherent participatory traversability."
+  ],
+
+  "canonical_compressions": [
+    "Ontology -> Geometry -> Topology -> Transport -> Pressure -> Integrated Viability Architecture",
+    "Existence persists through preservation of future reachability.",
+    "Constraint prunes admissible future traversability.",
+    "Recovery reconnects fragmented future participation structure.",
+    "Viability is recursively transportable participatory accessibility."
+  ],
+
+  "deep_compressions": [
+    "GAVT defines existential viability.",
+    "RAG governs recoverable accessibility geometry.",
+    "RVT governs continuity admissibility topology.",
+    "SCT governs transport propagation dynamics.",
+    "PMM governs deformation pressure geometry.",
+    "VTFA synthesizes recursive adaptive viability architecture."
+  ],
+
+  "one_sentence_lock": "The unified viability architecture organizes through recursively coupled layers governing existential viability, accessibility geometry, continuity topology, transport dynamics, deformation pressure, and integrated adaptive viability synthesis."
+}
