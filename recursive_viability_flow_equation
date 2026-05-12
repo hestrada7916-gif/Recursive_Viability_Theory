@@ -1,0 +1,92 @@
+{
+  "principle_id": "recursive_viability_flow_equation",
+  "title": "Recursive Viability Flow Equation",
+  "status": "phase_2_dynamical_field_lock",
+  "framework_layer": "recursive_viability_dynamics",
+  "type": "recursive_viability_flow_principle",
+
+  "canonical_statement": "Recursive viability evolves through flow over future participation geometry.",
+
+  "formal_statement": {
+    "statement": "Recursive adaptive viability evolves through dynamical flow over recursive viability state geometry under recursive deformation and regenerative transformation dynamics.",
+    "flow_equation": "\\frac{d\\mathbf V_{\\mathrm{reach}}}{d\\tau_{\\mathrm{rec}}}=\\mathcal F_{\\mathrm{viab}}(\\mathbf V_{\\mathrm{reach}},\\Theta,\\mathcal O_{\\mathrm{adm}},\\Psi_{\\mathrm{cont}},\\Omega_{\\mathrm{rec}})"
+  },
+
+  "recursive_viability_state_vector": {
+    "symbol": "\\mathbf V_{\\mathrm{reach}}",
+    "definition": "\\mathbf V_{\\mathrm{reach}}=(\\mathcal A,\\mathcal T,\\mathcal R,\\mathcal O,\\mathcal C)",
+    "components": {
+      "A": "future accessibility",
+      "T": "participatory traversability",
+      "R": "recoverability",
+      "O": "reopenability",
+      "C": "recursive continuity coherence"
+    },
+    "interpretation": "Defines the local recursive viability state geometry governing preservable future participation."
+  },
+
+  "flow_inputs": {
+    "recursive_deformation_burden": "\\Theta",
+    "admissible_recursive_operator_structure": "\\mathcal O_{\\mathrm{adm}}",
+    "continuity_wave_coherence_propagation": "\\Psi_{\\mathrm{cont}}",
+    "recoverable_future_fiber_topology": "\\Omega_{\\mathrm{rec}}"
+  },
+
+  "component_flow_structure": {
+    "accessibility_flow": "\\frac{d\\mathcal A}{d\\tau_{\\mathrm{rec}}}=F_{\\mathcal A}",
+    "traversability_flow": "\\frac{d\\mathcal T}{d\\tau_{\\mathrm{rec}}}=F_{\\mathcal T}",
+    "recoverability_flow": "\\frac{d\\mathcal R}{d\\tau_{\\mathrm{rec}}}=F_{\\mathcal R}",
+    "reopenability_flow": "\\frac{d\\mathcal O}{d\\tau_{\\mathrm{rec}}}=F_{\\mathcal O}",
+    "continuity_coherence_flow": "\\frac{d\\mathcal C}{d\\tau_{\\mathrm{rec}}}=F_{\\mathcal C}"
+  },
+
+  "scalar_viability_functional": {
+    "symbol": "\\mathcal P_{\\mathrm{reach}}",
+    "definition": "\\mathcal P_{\\mathrm{reach}}=\\prod_i V_i=\\mathcal A\\mathcal T\\mathcal R\\mathcal O\\mathcal C",
+    "interpretation": "Preservable future reachability constitutes the scalar viability functional induced by recursive viability state geometry."
+  },
+
+  "viability_persistence_condition": {
+    "condition": "\\mathcal P_{\\mathrm{reach}}>\\xi_c",
+    "threshold": "\\xi_c>0",
+    "interpretation": "Adaptive viability persists whenever recursive viability flow preserves sufficiently nondegenerate future participation geometry."
+  },
+
+  "collapse_flow_regime": {
+    "condition": "\\frac{d\\mathcal P_{\\mathrm{reach}}}{d\\tau_{\\mathrm{rec}}}<0",
+    "asymptotic_condition": "\\mathcal P_{\\mathrm{reach}}\\rightarrow0",
+    "interpretation": "Collapse corresponds to progressive degeneration of recursively recoverable future participation geometry."
+  },
+
+  "regenerative_flow_regime": {
+    "condition": "\\frac{d\\mathcal P_{\\mathrm{reach}}}{d\\tau_{\\mathrm{rec}}}>0",
+    "interpretation": "Recovery restores preservable future participation through reconnection, reopenability restoration, continuity recoherence, and traversability regeneration."
+  },
+
+  "recursive_temporal_coupling": {
+    "relation": "\\tau_{\\mathrm{rec}}\\sim\\mathbf V_{\\mathrm{reach}}",
+    "interpretation": "Recursive temporal continuity depends upon preservation of sufficiently coherent recursive viability state geometry."
+  },
+
+  "geometric_flow_interpretation": {
+    "statement": "Recursive viability flow defines dynamical evolution over recursive participation geometry.",
+    "admits": [
+      "viability trajectories",
+      "collapse attractors",
+      "regenerative reopening flows",
+      "traversability phase transitions",
+      "viability curvature structure",
+      "admissibility manifolds",
+      "recursive renormalization flows"
+    ]
+  },
+
+  "master_object_relations": {
+    "participatory_traversability_geometry": "\\mathfrak T_{\\mathrm{viab}}",
+    "scalar_viability_functional": "\\mathcal P_{\\mathrm{reach}}",
+    "recursive_viability_state_geometry": "\\mathbf V_{\\mathrm{reach}}",
+    "interpretation": "The recursive viability flow equation links the master traversability geometry, scalar future reachability functional, and dynamical viability state vector."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability evolves through flow over future participation geometry.",
