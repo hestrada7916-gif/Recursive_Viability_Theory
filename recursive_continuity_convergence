@@ -1,0 +1,197 @@
+{
+  "principle_id": "recursive_continuity_convergence",
+  "title": "Recursive Continuity Convergence",
+  "status": "phase_2_continuity_convergence_lock",
+  "framework_layer": [
+    "RVT",
+    "SCT",
+    "recursive_temporal_geometry",
+    "wave_topological_viability",
+    "rotor_integration_layer"
+  ],
+  "type": "recursive_continuity_architecture_principle",
+
+  "canonical_statement": "Continuity, traversability, recursive temporality, coherence, tempo, resonance, and viability are recursively coupled rather than independently defined.",
+
+  "deep_compression_statement": "Existence organizes as recursively integrated continuity-wave propagation across multiscale admissible future participation geometry.",
+
+  "formal_statement": {
+    "statement": "Continuity is coherently propagated admissible recurrence across recoverable future participation geometry.",
+    "core_identity": "continuity = coherent propagation of admissible recurrence",
+    "core_loop": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}"
+  },
+
+  "foundational_kernels": {
+    "continuity_requires_coherence": {
+      "canonical_statement": "Continuity requires coherence.",
+      "interpretation": "Continuity cannot be reduced to connection, persistence, or recurrence alone. Continuity requires sufficiently coherent propagation capable of preserving traversability and recursive participation."
+    },
+
+    "traversability_temporality_coupling": {
+      "canonical_statements": [
+        "Traversability generates recursive temporality.",
+        "Recursive temporality recursively preserves traversability."
+      ],
+      "formal_loop": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+      "interpretation": "Recursive temporality emerges through coherent traversability preservation and recursively stabilizes future navigability through admissible continuity propagation."
+    },
+
+    "persistent_existence_condition": {
+      "canonical_statement": "Persistent existence requires traversable futures.",
+      "interpretation": "Existence persists where future participation remains recursively traversable through coherent continuity propagation."
+    }
+  },
+
+  "core_objects": {
+    "recursive_participatory_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+      "definition": "Recursively recoverable participatory traversability across admissible future-fiber continuity structure."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "definition": "Recursive temporal continuity emerging through coherent traversability preservation and recursively stabilizing traversability."
+    },
+
+    "continuity_wave_coherence": {
+      "symbol": "\\Psi_{\\mathrm{cont}}",
+      "definition": "Continuity-wave coherence propagation carrying traversability through recoverable future-fiber topology."
+    },
+
+    "rotor_continuity_structure": {
+      "symbol": "\\mathcal C_{\\mathrm{rotor}}",
+      "definition": "Minimal internally coherent reopenable traversability structure stabilizing local admissible recurrence and continuity pacing."
+    },
+
+    "future_fiber_topology": {
+      "symbol": "\\Omega_{\\mathrm{rec}}",
+      "definition": "Recoverable future-fiber topology defining admissible future accessibility structure."
+    },
+
+    "stitching_efficiency": {
+      "symbol": "\\eta_{\\mathrm{stitch}}^{(\\ell)}",
+      "definition": "Scale-dependent stitching efficiency preserving interface compatibility across nested rotor and continuity structures."
+    },
+
+    "global_stitching_functional": {
+      "symbol": "\\eta_{\\mathrm{global}} = \\mathcal G(\\{\\eta_{\\mathrm{stitch}}^{(\\ell)}\\}_{\\ell})",
+      "definition": "Multiscale functional governing global recursive continuity from scale-dependent stitching efficiencies."
+    }
+  },
+
+  "local_continuity": {
+    "canonical_statement": "Local continuity requires tempo stability.",
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\rightarrow \\Psi_{\\mathrm{cont}}^{\\mathrm{local}} \\rightarrow \\tau_{\\mathrm{local}}",
+    "interpretation": "Rotor structures stabilize local admissible recurrence, local continuity pacing, and local recursive temporal coherence."
+  },
+
+  "global_continuity": {
+    "canonical_statement": "Global continuity requires resonance compatibility.",
+    "formal_relation": "\\tau_{\\mathrm{local}}>0 \\not\\Rightarrow \\tau_{\\mathrm{global}}>0",
+    "interpretation": "Global recursive continuity does not emerge automatically from local continuity. Scalable continuity requires tempo-compatible continuity-wave integration, multiscale stitching compatibility, and resonance-preserving coherence propagation."
+  },
+
+  "continuity_waves": {
+    "canonical_statement": "Traversable futures require tempo-compatible continuity waves.",
+    "deep_form": "The waves carry the fibers.",
+    "interpretation": "Continuity waves propagate admissible recurrence, continuity pacing, participatory traversability, and recursive temporal stabilization through future-fiber topology.",
+    "fiber_wave_distinction": {
+      "fibers_define": [
+        "recoverable future accessibility structure",
+        "admissible future-fiber topology",
+        "future participation geometry"
+      ],
+      "waves_preserve": [
+        "traversability through future-fiber structure",
+        "continuity propagation",
+        "recursive temporal stabilization"
+      ],
+      "resonance_determines": "whether continuity waves remain globally integrable"
+    }
+  },
+
+  "rotor_layer": {
+    "canonical_role": "Rotor structures act as primitive local continuity stabilizers.",
+    "formal_chain": "\\mathcal C_{\\mathrm{rotor}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "stabilizes": [
+      "local admissible recurrence",
+      "local continuity pacing",
+      "continuity-wave propagation",
+      "local future accessibility",
+      "primitive recursive temporal emergence"
+    ]
+  },
+
+  "observer_layer": {
+    "choice_statement": "Choice emerges from locally traversable admissible futures.",
+    "agency_statement": "Agency emerges through navigation across admissible future participation geometry.",
+    "choice_interpretation": "Choice corresponds to preserved local future accessibility multiplicity.",
+    "agency_interpretation": "Agency corresponds to coherent navigability across admissible future participation structure."
+  },
+
+  "fragmentation_geometry": {
+    "statement": "Fragmentation is failure of tempo-compatible continuity-wave integration.",
+    "formal_relation": "\\tau_{\\mathrm{local}}>0 \\not\\Rightarrow \\tau_{\\mathrm{global}}>0",
+    "interpretation": "Systems may preserve local coherence while losing scalable resonance compatibility.",
+    "explains": [
+      "integration-limited collapse",
+      "local coherence reservoirs",
+      "protected cores",
+      "multiscale stitching degeneration",
+      "fragmented temporal coherence"
+    ]
+  },
+
+  "multiscale_continuity_integration": {
+    "statement": "Continuity propagation occurs across nested scales.",
+    "formal_relation": "\\eta_{\\mathrm{global}} = \\mathcal G(\\{\\eta_{\\mathrm{stitch}}^{(\\ell)}\\}_{\\ell})",
+    "interpretation": "Global recursive continuity emerges through preservation of sufficient stitching compatibility across scales.",
+    "core_requirement": "tempo-compatible continuity-wave integration"
+  },
+
+  "collapse_recovery_implications": {
+    "collapse": {
+      "statement": "Collapse may occur through loss of resonance-compatible stitching rather than destruction of local coherence.",
+      "interpretation": "Local rotor continuity may persist while global recursive traversability degenerates."
+    },
+    "recovery": {
+      "statement": "Recovery reconnects and recoheres surviving local continuity reservoirs.",
+      "interpretation": "Recovery restores global recursive traversability through re-stitching and resonance-compatible continuity-wave integration."
+    }
+  },
+
+  "canonical_compressions": [
+    "Persistent existence requires traversable futures.",
+    "Continuity requires coherence.",
+    "Traversability generates recursive temporality.",
+    "Recursive temporality recursively preserves traversability.",
+    "Local continuity requires tempo stability.",
+    "Global continuity requires resonance compatibility.",
+    "Traversable futures require tempo-compatible continuity waves.",
+    "The waves carry the fibers."
+  ],
+
+  "deep_compressions": [
+    "Continuity is coherently propagated admissible recurrence.",
+    "Recursive temporality is generated by traversability and stabilizes traversability in return.",
+    "Local rotor coherence does not guarantee global recursive continuity.",
+    "Fragmentation is failure of tempo-compatible continuity-wave integration.",
+    "Fibers define future accessibility structure; waves preserve traversability through that structure.",
+    "Global continuity requires multiscale stitching compatibility.",
+    "Existence is recursively integrated continuity-wave propagation across admissible future participation geometry."
+  ],
+
+  "connections": [
+    "rotor_as_minimal_reopenable_traversability_cell",
+    "rotor_stitching_geometry",
+    "wave_topological_participatory_viability_geometry",
+    "tempo_compatible_continuity_coupling_principle",
+    "future_accessibility_classification",
+    "primitive_traversability_dual",
+    "recursive_temporal_phase_structure",
+    "admissible_geometry_of_recursively_preservable_participation",
+    "recursive_viability_operator_evolution"
+  ],
+
+  "one_sentence_lock": "Recursive continuity converges where traversability, temporality, coherence, tempo, resonance, and viability recursively stabilize continuity-wave propagation across multiscale admissible future participation geometry."
+}
