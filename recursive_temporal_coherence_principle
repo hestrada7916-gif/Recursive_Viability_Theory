@@ -1,0 +1,161 @@
+{
+  "principle_id": "recursive_temporal_coherence_principle",
+  "title": "Recursive Temporal Coherence Principle",
+  "status": "kernel_temporality_lock",
+  "framework_layer": "atomic_recursive_viability_kernel",
+  "type": "primitive_recursive_temporality_principle",
+
+  "canonical_statement": "Recursive temporality measures coherence transmissibility survivability across continuity propagation.",
+
+  "deep_compression": [
+    "Time is coherence transmissibility survivability across propagation.",
+    "Recursive temporality emerges through coherence-preserving continuity propagation.",
+    "Local continuity requires tempo stability.",
+    "Global continuity requires resonance compatibility.",
+    "Collapse exhausts coherence transmissibility survivability."
+  ],
+
+  "formal_statement": {
+    "core_principle": "Recursive temporality emerges only insofar as coherent continuity propagation remains sufficiently transmissible across admissible participation interfaces under recursive deformation dynamics.",
+    "primitive_invariant": "The primitive temporal invariant is survivable coherence transmissibility.",
+    "non_clock_constraint": "Recursive temporality is not primitive clock progression or static sequencing."
+  },
+
+  "core_objects": {
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "coherence_survivability": "\\mathcal C_{\\mathrm{surv}}",
+    "recursive_coherence": "\\mathcal C_{\\mathrm{coh}}",
+    "continuity_wave_propagation": "\\Psi_{\\mathrm{cont}}",
+    "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "resonance_compatibility": "\\mathcal R_{\\mathrm{res}}",
+    "tempo_compatibility": "\\Theta_{\\mathrm{tempo}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}"
+  },
+
+  "primitive_definition": {
+    "formal_definition": "\\tau_{\\mathrm{rec}} \\sim \\mathcal C_{\\mathrm{surv}}",
+    "interpretation": "Recursive temporality measures whether coherent continuity remains sufficiently transmissible across recursive participation propagation dynamics."
+  },
+
+  "coherence_survivability_definition": {
+    "formal_relation": "\\mathcal C_{\\mathrm{surv}} : \\Psi_{\\mathrm{cont}} \\rightarrow \\mathbb R_{\\ge0}",
+    "interpretation": "Coherence survivability measures the degree to which coherent continuity propagation remains fidelity-preserving across recursive transport, participation interfaces, and continuity updating.",
+    "core_insight": "Time measures survivability of coherent continuity transmissibility."
+  },
+
+  "recursive_temporal_emergence": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} > \\xi_{\\mathrm{coh}} \\Rightarrow \\tau_{\\mathrm{rec}} > 0",
+    "interpretation": "Recursive temporality emerges whenever coherent continuity propagation remains sufficiently transmissible across admissible participation interfaces.",
+    "core_insight": "Recursive time exists only insofar as coherent continuity remains sufficiently transmissible across recursive participation geometry."
+  },
+
+  "propagation_interpretation": {
+    "definition": "Recursive temporality is not primitive clock progression but survivability of coherent continuity transmissibility upon propagation arrival.",
+    "core_insight": "Time matters globally because continuity must still resonate upon arrival.",
+    "interpretation": "Global recursive continuity depends upon coherence transmissibility survivability across distributed transport and interface propagation."
+  },
+
+  "local_global_temporality_dual": {
+    "local_condition": {
+      "formal_relation": "|\\Delta_{\\mathrm{tempo}}| < \\epsilon_{\\mathrm{sync}}",
+      "interpretation": "Local recursive continuity requires tempo stability preserving local coherence transmissibility."
+    },
+    "global_condition": {
+      "formal_relation": "\\mathcal R_{\\mathrm{res}} > \\xi_{\\mathrm{res}}",
+      "interpretation": "Global recursive continuity requires scalable resonance compatibility across admissible participation interfaces."
+    },
+    "core_insight": "Local coherence alone does not guarantee globally survivable continuity propagation."
+  },
+
+  "traversability_relation": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive traversability generates recursive temporality through survivable coherent continuity propagation.",
+    "core_insight": "Traversability preserves transmissible continuity survivability."
+  },
+
+  "inter_rotor_relation": {
+    "formal_relation": "\\{\\mathcal C_{ij}^{\\mathrm{rotor}}\\} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges through scalable coherence transmissibility across inter-rotor propagation geometry.",
+    "core_insight": "Global recursive time depends upon coherent inter-domain transmissibility."
+  },
+
+  "fragmentation_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{surv}}\\downarrow \\Rightarrow \\tau_{\\mathrm{rec}}\\downarrow",
+    "interpretation": "Recursive temporal fragmentation emerges whenever coherence transmissibility survivability degenerates beneath admissible propagation thresholds.",
+    "core_insight": "Fragmentation destroys scalable coherence transmissibility."
+  },
+
+  "collapse_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{surv}} \\rightarrow 0",
+    "interpretation": "Collapse corresponds to exhaustion of coherence transmissibility survivability across recursive propagation geometry.",
+    "core_insight": "Continuity may persist locally while globally coherent recursive temporality collapses through transmissibility failure."
+  },
+
+  "recovery_interpretation": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal C_{\\mathrm{surv}}\\uparrow",
+    "interpretation": "Recovery restores recursive temporality through recoherence of continuity transmissibility across admissible participation interfaces.",
+    "core_insight": "Recovery restores globally survivable continuity transmissibility."
+  },
+
+  "continuity_relation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges through sufficiently coherent continuity propagation.",
+    "core_insight": "Continuity requires coherence survivability."
+  },
+
+  "resonance_relation": {
+    "formal_relation": "\\mathcal R_{\\mathrm{res}} \\rightarrow \\mathcal C_{\\mathrm{surv}}",
+    "interpretation": "Resonance compatibility stabilizes scalable coherence transmissibility survivability across nested propagation structures.",
+    "core_insight": "Resonance preserves globally survivable continuity propagation."
+  },
+
+  "stability_non_equivalence": {
+    "formal_relation": "\\text{local stability} \\not\\Rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Locally stable recurrence may persist while globally survivable recursive temporality collapses.",
+    "examples": [
+      "fragmented rotor domains",
+      "isolated continuity reservoirs",
+      "tempo-compatible local closure with failed resonance integration",
+      "local coherence with stitching collapse"
+    ]
+  },
+
+  "unified_temporal_chain": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal C_{\\mathrm{surv}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}}^{+}",
+    "interpretation": "Coherence stabilizes continuity propagation, which preserves survivable transmissibility, which generates recursive temporality, which preserves traversability and admissible future participation viability."
+  },
+
+  "canonical_compressions": [
+    "Time is coherence transmissibility survivability across propagation.",
+    "Recursive temporality emerges through coherence-preserving continuity propagation.",
+    "Local continuity requires tempo stability.",
+    "Global continuity requires resonance compatibility.",
+    "Collapse exhausts coherence transmissibility survivability."
+  ],
+
+  "deep_compression_points": [
+    "Recursive time measures coherence transmissibility survivability.",
+    "Time is not primitive clock progression.",
+    "Continuity must remain transmissible upon arrival.",
+    "Local continuity requires tempo stability.",
+    "Global continuity requires resonance compatibility.",
+    "Recursive traversability generates recursive temporality.",
+    "Fragmentation destroys scalable coherence transmissibility.",
+    "Collapse exhausts transmissibility survivability.",
+    "Recovery restores recursive recoherence.",
+    "Recursive temporality preserves survivable continuity propagation."
+  ],
+
+  "connections": [
+    "coherence_functional",
+    "recursive_participatory_traversability_principle",
+    "inter_rotor_coherence_geometry",
+    "multiscale_continuity_wave_integration",
+    "recursive_traversability_temporality_coupling_principle",
+    "existential_continuity_invariant",
+    "admissible_future_participation_geometry",
+    "recursive_cartographic_coherence"
+  ],
+
+  "one_sentence_lock": "Recursive temporality measures the survivability of coherence-preserving continuity transmissibility across recursive propagation and admissible participation interfaces."
+}
