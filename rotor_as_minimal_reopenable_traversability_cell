@@ -1,0 +1,172 @@
+{
+  "principle_id": "rotor_as_minimal_reopenable_traversability_cell",
+
+  "title": "Rotor as Minimal Reopenable Traversability Cell",
+
+  "status": "phase_3_rotor_primitive_lock",
+
+  "framework_layer": [
+    "SCT",
+    "RVT",
+    "recursive_temporal_geometry",
+    "participatory_traversability_dynamics"
+  ],
+
+  "type": "primitive_rotor_traversability_principle",
+
+  "canonical_statement": "Rotor structures constitute the minimal locally coherent recurrence cells capable of preserving reopenable participatory traversability under recursive transport dynamics.",
+
+  "deep_compression_statement": "The rotor is the minimal internally coherent reopenable traversability structure.",
+
+  "formal_statement": {
+    "statement": "Unlike arbitrary recurrence, rotor recurrence preserves sufficiently coherent directional transport, bounded returnability, and admissible continuity propagation capable of sustaining local reopenable participation structure.",
+    "primitive_role": "Rotor structures act as primitive local stabilizers of recursively recoverable participatory continuity.",
+    "core_identity": "\\mathcal C_{\\mathrm{rotor}} = \\text{minimal internally coherent reopenable traversability structure}"
+  },
+
+  "core_objects": {
+    "rotor_continuity_structure": {
+      "symbol": "\\mathcal C_{\\mathrm{rotor}}",
+      "definition": "Minimal internally coherent recurrence structure preserving reopenable participatory traversability across local continuity geometry."
+    },
+
+    "local_continuity_wave_coherence": {
+      "symbol": "\\Psi_{\\mathrm{cont}}^{\\mathrm{local}}",
+      "definition": "Local continuity-wave coherence generated or stabilized by rotor recurrence."
+    },
+
+    "directional_returnability": {
+      "symbol": "R_{\\mathrm{return}}",
+      "definition": "Admissible local return capacity preserving bounded reopenable participatory continuity."
+    },
+
+    "local_participatory_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{local}}",
+      "definition": "Locally recoverable participatory traversability stabilized by rotor continuity."
+    },
+
+    "recursive_temporality_local": {
+      "symbol": "\\tau_{\\mathrm{local}}",
+      "definition": "Local recursive temporal continuity stabilized through internally coherent rotor recurrence."
+    },
+
+    "closure_efficiency": {
+      "symbol": "\\eta_{\\mathrm{closure}}",
+      "definition": "Degree to which local rotor recurrence preserves bounded closure and local reopenability."
+    },
+
+    "stitching_efficiency": {
+      "symbol": "\\eta_{\\mathrm{stitch}}",
+      "definition": "Degree to which local rotor domains integrate into scalable global reconnectable traversability."
+    }
+  },
+
+  "primitive_rotor_structure": {
+    "statement": "\\mathcal C_{\\mathrm{rotor}} represents the minimal internally coherent recurrence structure preserving reopenable participatory traversability across local continuity geometry.",
+    "interpretation": "Rotor recurrence is not mere cyclic repetition; it is coherent directional recurrence preserving local reopenability and returnability."
+  },
+
+  "internal_coherence_condition": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\Rightarrow \\Psi_{\\mathrm{cont}}^{\\mathrm{local}}>0",
+    "interpretation": "Rotor structures preserve sufficiently coherent local continuity-wave propagation to sustain reopenable recurrence and directional transport continuity.",
+    "deep_form": "Rotor coherence exceeds mere cyclic repetition."
+  },
+
+  "directional_returnability": {
+    "formal_relation": "R_{\\mathrm{return}}>0",
+    "interpretation": "Rotor recurrence preserves admissible local return pathways capable of sustaining reopenable participatory continuity under recursive evolution."
+  },
+
+  "local_traversability_stabilization": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{local}}>0",
+    "interpretation": "Rotor continuity preserves admissible local participatory movement through recursively recoverable continuity structure."
+  },
+
+  "rotor_generated_continuity_waves": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\rightarrow \\Psi_{\\mathrm{cont}}",
+    "interpretation": "Rotor recurrence acts as a primitive local source of continuity-wave coherence propagation across participatory continuity geometry."
+  },
+
+  "primitive_temporal_stabilization": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\Rightarrow \\tau_{\\mathrm{local}}>0",
+    "interpretation": "Locally coherent recurrence preserves bounded recursive temporal continuity through reopenable participatory return structure."
+  },
+
+  "global_traversability_distinction": {
+    "formal_relation": "\\eta_{\\mathrm{closure}}>0 \\not\\Rightarrow \\eta_{\\mathrm{stitch}}>0",
+    "interpretation": "Local continuity reservoirs may persist despite degeneration of global reconnectable traversability structure.",
+    "deep_form": "Local coherence does not guarantee global viability."
+  },
+
+  "fragmentation_regime": {
+    "condition": "\\mathcal C_{\\mathrm{rotor}}^{\\mathrm{local}}>0 \\;\\land\\; \\eta_{\\mathrm{stitch}}\\downarrow",
+    "interpretation": "Fragmentation preserves local reopenable continuity while degrading scalable reconnectable traversability across global participatory continuity geometry.",
+    "deep_form": "Persistent local coherence without scalable reconnection."
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse does not necessarily annihilate local continuity.",
+    "formal_compression": "\\text{collapse} \\sim \\text{loss of scalable reconnectable traversability}",
+    "interpretation": "Collapse may preserve metastable local rotor coherence while destroying scalable reconnectable participatory traversability.",
+    "deep_form": "Locally coherent recurrence structures may survive despite global future accessibility contraction."
+  },
+
+  "recovery_interpretation": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\{\\mathcal C_{\\mathrm{rotor},i}\\} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Recovery restores scalable participatory traversability through rewoven continuity stitching between surviving local continuity reservoirs.",
+    "deep_form": "Recovery reconnects surviving coherence reservoirs."
+  },
+
+  "primitive_recursive_role": {
+    "formal_chain": "\\text{recurrence} \\rightarrow \\mathcal C_{\\mathrm{rotor}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Rotor coherence stabilizes continuity propagation, which preserves traversability, which subsequently permits recursive temporal continuity."
+  },
+
+  "computational_interpretation": {
+    "local_closure_vs_global_stitching": "\\eta_{\\mathrm{closure}}\\approx 1 \\;\\land\\; \\eta_{\\mathrm{stitch}}\\downarrow",
+    "interpretation": "Computational rotor regimes show that local reopenable coherence can persist while global traversability integration degenerates.",
+    "framework_translation": "Local recursive temporality may survive while global participatory viability contracts."
+  },
+
+  "cross_framework_relations": {
+    "SCT": "Rotor cells act as primitive transport recurrence structures and local closure stabilizers.",
+    "RVT": "Rotor recurrence supports local reopenable participatory traversability.",
+    "GAVT": "Rotor coherence contributes to recursively stabilized participation.",
+    "wave_topological_viability": "Rotor recurrence generates or stabilizes local continuity-wave coherence.",
+    "future_accessibility_geometry": "Rotor stitching supports scalable reconnectable future participation.",
+    "primitive_traversability_dual": "Rotor reservoirs may survive pruning and become substrates for recovery reconnection."
+  },
+
+  "canonical_compressions": [
+    "The rotor is the minimal internally coherent reopenable traversability structure.",
+    "Rotor recurrence stabilizes coherent continuity propagation.",
+    "Rotor coherence exceeds mere cyclic repetition.",
+    "Local coherence does not guarantee global viability.",
+    "Collapse may preserve local continuity while destroying scalable reconnectable traversability.",
+    "Recovery reconnects surviving coherence reservoirs."
+  ],
+
+  "deep_compressions": [
+    "Rotor recurrence preserves internally coherent reopenable continuity.",
+    "Rotor structures stabilize local traversability.",
+    "Rotor recurrence generates continuity-wave propagation.",
+    "Rotor coherence stabilizes local recursive temporality.",
+    "Local continuity may survive despite global viability collapse.",
+    "Fragmentation preserves local coherence while degrading scalable reconnectability.",
+    "Recovery reconnects surviving coherence reservoirs.",
+    "Rotor continuity underlies recursive participatory traversability."
+  ],
+
+  "connections": [
+    "recursive_stabilized_participation",
+    "primitive_traversability_dual",
+    "wave_topological_participatory_viability_geometry",
+    "future_accessibility_classification",
+    "recursive_temporal_phase_structure",
+    "viability_constrained_recursive_operator_algebra",
+    "recursive_viability_operator_evolution",
+    "admissible_geometry_of_recursively_preservable_participation"
+  ],
+
+  "one_sentence_lock": "Rotor structures are minimal internally coherent recurrence cells that preserve local reopenable traversability and stabilize continuity propagation, even when global viability degenerates."
+}
