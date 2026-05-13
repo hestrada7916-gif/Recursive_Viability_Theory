@@ -1,0 +1,198 @@
+{
+  "principle_id": "primitive_field_substrate",
+  "title": "Primitive Field Substrate",
+  "status": "substrate_lock",
+  "framework_layer": "primitive_recursive_viability_substrate",
+  "type": "primitive_field_ontology",
+
+  "canonical_statement": "The navigable continuity field constitutes the primitive field substrate of recursive viability.",
+
+  "deep_compression": [
+    "The navigable continuity field constitutes the primitive field substrate.",
+    "Existence persists through recursively navigable continuity propagation.",
+    "Objects are stabilized continuity structures embedded within the field.",
+    "Viability preserves admissible navigable field accessibility.",
+    "Collapse contracts navigable continuity corridors."
+  ],
+
+  "formal_statement": {
+    "core_principle": "Persistent adaptive existence organizes through a primitive navigable continuity field governing coherent continuity propagation, recursive traversability, admissible transfer structure, and future participation accessibility under recursive deformation dynamics.",
+    "primitive_invariant": "The primitive substrate invariant is recursively navigable coherent continuity propagation.",
+    "non_object_ontological_constraint": "The primitive substrate is relational and propagative rather than object-centric or equilibrium-centric."
+  },
+
+  "core_objects": {
+    "primitive_field_substrate": "\\mathfrak F_{\\mathrm{cont}}",
+    "admissible_future_participation_geometry": "\\mathfrak X_{\\mathrm{AFP}}",
+    "recursive_coherence": "\\mathcal C_{\\mathrm{coh}}",
+    "continuity_wave_propagation": "\\Psi_{\\mathrm{cont}}",
+    "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "rotor_structure": "\\mathcal C_{\\mathrm{rotor}}",
+    "inter_rotor_coherence": "\\mathcal C_{ij}^{\\mathrm{rotor}}",
+    "resonance_structure": "\\mathcal R_{\\mathrm{res}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}"
+  },
+
+  "primitive_substrate_definition": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{cont}} : \\mathfrak X_{\\mathrm{AFP}} \\rightarrow (\\mathcal C_{\\mathrm{coh}}, \\Psi_{\\mathrm{cont}}, \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}, \\tau_{\\mathrm{rec}})",
+    "interpretation": "The primitive field substrate governs distributed coherent continuity propagation and recursive navigability across admissible future participation geometry.",
+    "core_insight": "Recursive viability organizes through navigable field structure rather than isolated object persistence."
+  },
+
+  "existential_interpretation": {
+    "formal_relation": "\\text{Existence} \\sim \\Psi_{\\mathrm{cont}}(\\mathfrak F_{\\mathrm{cont}})",
+    "interpretation": "Existence persists wherever coherent continuity remains recursively navigable through the field substrate.",
+    "core_insight": "Existence is recursively preservable navigable continuity propagation."
+  },
+
+  "field_ontology": {
+    "non_reducible_to": [
+      "static object persistence",
+      "fixed state spaces",
+      "equilibrium basin geometry",
+      "isolated local structures"
+    ],
+    "substrate_properties": [
+      "coherence distribution",
+      "continuity-wave propagation",
+      "transfer geometry",
+      "navigability gradients",
+      "recursive accessibility structure",
+      "multiscale continuity integration"
+    ],
+    "core_insight": "The primitive substrate is relational, propagative, and navigable."
+  },
+
+  "admissible_geometry_relation": {
+    "formal_relation": "\\mathfrak X_{\\mathrm{AFP}} \\subset \\mathfrak F_{\\mathrm{cont}}",
+    "interpretation": "Admissible future participation geometry constitutes the viability-preserving navigable region of the primitive continuity field substrate.",
+    "core_insight": "Admissibility carves recursively viable regions from the broader field substrate."
+  },
+
+  "rotor_embedding": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\subset \\mathfrak F_{\\mathrm{cont}}",
+    "interpretation": "Rotor structures act as embedded local continuity stabilizers within the primitive field substrate.",
+    "core_insight": "Rotors stabilize bounded reopenable continuity propagation."
+  },
+
+  "inter_rotor_geometry": {
+    "formal_relation": "\\mathcal C_{ij}^{\\mathrm{rotor}} \\rightarrow \\Psi_{\\mathrm{cont}}",
+    "interpretation": "Coupled rotor coherence preserves scalable continuity-wave propagation across the field substrate.",
+    "core_insight": "Inter-rotor coherence preserves continuity transferability."
+  },
+
+  "resonance_interpretation": {
+    "formal_relation": "\\mathcal R_{\\mathrm{res}} \\sim \\Psi_{\\mathrm{cont}}(\\mathfrak F_{\\mathrm{cont}})",
+    "interpretation": "Resonance stabilizes scalable continuity propagation across the primitive field substrate.",
+    "core_insight": "Resonance preserves multiscale field coherence integration."
+  },
+
+  "traversability_interpretation": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\sim \\mathrm{Nav}(\\mathfrak F_{\\mathrm{cont}})",
+    "interpretation": "Traversability corresponds to navigability through the primitive continuity field substrate.",
+    "core_insight": "Traversability measures preservable continuity accessibility."
+  },
+
+  "recursive_temporal_interpretation": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}(\\mathfrak F_{\\mathrm{cont}}) \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges through sustained coherent continuity propagation across the field substrate.",
+    "core_insight": "Recursive time stabilizes continuity updating through field propagation."
+  },
+
+  "object_interpretation": {
+    "interpretation": "Objects correspond to temporarily stabilized continuity structures embedded within the field substrate.",
+    "core_insight": "Persistent objects are emergent stabilized propagators rather than primitive substrate constituents."
+  },
+
+  "identity_interpretation": {
+    "interpretation": "Identity corresponds to sufficiently coherent recursively propagatable continuity structure.",
+    "core_insight": "Identity emerges from stabilized continuity propagation rather than immutable substrate permanence."
+  },
+
+  "agency_interpretation": {
+    "formal_relation": "\\mathcal N(\\mathfrak F_{\\mathrm{cont}}) > 0",
+    "interpretation": "Agency corresponds to coherent navigability and continuity steering across the field substrate.",
+    "core_insight": "Agency measures admissible maneuverability through recursively navigable continuity structure."
+  },
+
+  "memory_interpretation": {
+    "interpretation": "Memory preserves recoverable continuity structure embedded within the field substrate.",
+    "core_insight": "Memory preserves recoverable navigability rather than static archival persistence."
+  },
+
+  "fragmentation_geometry": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{cont}} \\downarrow",
+    "interpretation": "Fragmentation corresponds to continuity field decoherence.",
+    "core_insight": "Local continuity reservoirs may survive while long-range continuity propagation collapses."
+  },
+
+  "protected_core_regime": {
+    "interpretation": "Protected coherence cores emerge whenever bounded local continuity regions remain coherent despite global field degradation.",
+    "core_insight": "Local continuity stabilizers may survive even while scalable field integration collapses."
+  },
+
+  "collapse_geometry": {
+    "formal_relation": "\\mu(\\mathfrak F_{\\mathrm{cont}}) \\downarrow",
+    "interpretation": "Collapse corresponds to contraction or decoherence of navigable continuity field structure.",
+    "core_insight": "Collapse progressively destroys traversable continuity corridors."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathfrak F_{\\mathrm{cont}}^{\\mathrm{frag}} \\rightarrow \\mathfrak F_{\\mathrm{cont}}^{+}",
+    "interpretation": "Recovery restores field coherence through recursive recoherence and re-stitching.",
+    "core_insight": "Recovery restores navigable continuity accessibility."
+  },
+
+  "graph_interpretation": {
+    "interpretation": "Graph structures provide discretized computational approximations of the primitive field substrate.",
+    "correspondences": {
+      "vertices": "local continuity domains",
+      "edges": "admissible transfer interfaces",
+      "edge_weights": "reciprocal coherence compatibility",
+      "graph_propagation": "continuity-wave transfer",
+      "spectral_synchronization": "resonance preservation"
+    },
+    "core_insight": "Graphs discretize primitive continuity field structure."
+  },
+
+  "primitive_stack": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{cont}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}} \\rightarrow \\mathcal C_{\\mathrm{rotor}} \\rightarrow \\mathcal C_{ij}^{\\mathrm{rotor}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "The primitive field substrate generates admissible geometry, local continuity stabilizers, transfer structure, continuity propagation, traversability, and recursive temporality."
+  },
+
+  "canonical_compressions": [
+    "The navigable continuity field constitutes the primitive field substrate.",
+    "Existence persists through recursively navigable continuity propagation.",
+    "Objects are stabilized continuity structures embedded within the field.",
+    "Viability preserves admissible navigable field accessibility.",
+    "Collapse contracts navigable continuity corridors."
+  ],
+
+  "deep_compression_points": [
+    "The primitive substrate is relational and propagative.",
+    "Continuity propagates through navigable field structure.",
+    "Admissibility carves viable navigable regions from the field.",
+    "Rotors stabilize local continuity reservoirs.",
+    "Inter-rotor coherence preserves scalable continuity propagation.",
+    "Resonance stabilizes multiscale field integration.",
+    "Traversability measures navigable continuity accessibility.",
+    "Recursive temporality emerges through sustained propagation.",
+    "Objects are emergent stabilized propagators.",
+    "Fragmentation corresponds to field decoherence.",
+    "Recovery restores navigable continuity accessibility.",
+    "Graphs discretize the primitive continuity field substrate."
+  ],
+
+  "connections": [
+    "navigable_continuity_field",
+    "admissible_future_participation_geometry",
+    "coherence_functional",
+    "inter_rotor_coherence_geometry",
+    "relational_transfer_geometry",
+    "recursive_temporal_coherence_principle",
+    "existential_continuity_invariant"
+  ],
+
+  "one_sentence_lock": "Persistent adaptive existence organizes through a primitive navigable continuity field preserving coherent recursively traversable continuity propagation across admissible future participation geometry."
+}
