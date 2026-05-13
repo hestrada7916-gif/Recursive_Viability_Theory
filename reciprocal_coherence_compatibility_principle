@@ -1,0 +1,191 @@
+{
+  "principle_id": "reciprocal_coherence_compatibility_principle",
+  "title": "Reciprocal Coherence Compatibility Principle",
+  "status": "kernel_relational_lock",
+  "framework_layer": "atomic_recursive_viability_kernel",
+  "type": "primitive_relational_coherence_principle",
+
+  "canonical_statement": "Continuity requires reciprocal coherence compatibility.",
+
+  "deep_compression": [
+    "Continuity requires reciprocal coherence compatibility.",
+    "Continuity propagation is fundamentally relational.",
+    "Successful propagation requires compatible source, interface, and receiver coherence.",
+    "Continuity survives only while coherently incorporable upon arrival.",
+    "Fragmentation destroys reciprocal coherence compatibility."
+  ],
+
+  "formal_statement": {
+    "core_principle": "Persistent adaptive continuity propagation emerges only insofar as coherent continuity remains mutually transmissible, admissibly incorporable, and recursively preservable across source, interface, and receiver participation geometry under recursive deformation dynamics.",
+    "primitive_invariant": "The primitive relational invariant is reciprocal coherence-compatible continuity transmissibility.",
+    "non_unilateral_constraint": "Recursive continuity propagation is fundamentally relational rather than unilateral."
+  },
+
+  "core_objects": {
+    "transmissible_coherence_source": "S",
+    "admissible_participation_interface": "I",
+    "coherence_compatible_receiver": "R",
+    "continuity_transmissibility": "\\mathcal C_{\\mathrm{trans}}^{SIR}",
+    "recursive_coherence": "\\mathcal C_{\\mathrm{coh}}",
+    "receiver_compatibility": "\\mathcal C_{\\mathrm{recv}}",
+    "interface_admissibility": "\\mathcal I_{\\mathrm{adm}}",
+    "resonance_compatibility": "\\mathcal R_{\\mathrm{res}}",
+    "tempo_divergence": "\\Delta_{\\mathrm{tempo}}",
+    "tempo_incompatibility_burden": "\\Theta_{\\mathrm{tempo}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}"
+  },
+
+  "primitive_transfer_geometry": {
+    "formal_relation": "S \\rightarrow I \\rightarrow R",
+    "source_definition": "S = transmissible coherence source",
+    "interface_definition": "I = admissible participation interface",
+    "receiver_definition": "R = coherence-compatible receiver",
+    "interpretation": "Continuity propagation requires coherent transfer compatibility across source, interface, and receiver participation geometry."
+  },
+
+  "transmissibility_condition": {
+    "formal_relation": "\\mathcal C_{\\mathrm{trans}}^{SIR} > 0",
+    "interpretation": "Successful continuity propagation requires sufficiently preserved coherence transmissibility across source, interface, and receiver geometry.",
+    "core_insight": "Continuity survives only while propagated continuity remains sufficiently fidelity-preserving and coherently incorporable upon arrival."
+  },
+
+  "source_coherence_condition": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}^{S} > \\xi_{\\mathrm{coh}}",
+    "interpretation": "The source must preserve sufficiently coherent continuity structure capable of recursive transmissibility.",
+    "core_insight": "Propagation requires transmissible source coherence."
+  },
+
+  "interface_compatibility_condition": {
+    "formal_relation": "\\mathcal I_{\\mathrm{adm}} > \\xi_{\\mathrm{adm}}",
+    "interpretation": "Participation interfaces must preserve admissible continuity transfer compatibility.",
+    "core_insight": "Interfaces govern whether continuity propagation remains fidelity-preserving, tempo-compatible, and recursively admissible."
+  },
+
+  "receiver_compatibility_condition": {
+    "formal_relation": "\\mathcal C_{\\mathrm{recv}} > \\xi_{\\mathrm{recv}}",
+    "interpretation": "Receivers must preserve sufficient coherence incorporation compatibility.",
+    "core_insight": "Receivers must remain capable of coherently incorporating and recursively propagating incoming continuity structure."
+  },
+
+  "relational_coherence_condition": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}^{S} \\leftrightarrow \\mathcal C_{\\mathrm{recv}}",
+    "interpretation": "Coherence propagation requires reciprocal compatibility between transmitted and incorporable continuity structure.",
+    "core_insight": "Continuity propagation is relational rather than unilateral."
+  },
+
+  "resonance_relation": {
+    "formal_relation": "\\mathcal R_{\\mathrm{res}} \\rightarrow \\mathcal C_{\\mathrm{trans}}^{SIR}",
+    "interpretation": "Resonance stabilizes reciprocal coherence compatibility across distributed participation geometry.",
+    "core_insight": "Resonance preserves scalable mutual continuity transmissibility."
+  },
+
+  "temporal_compatibility_condition": {
+    "formal_relation": "|\\Delta_{\\mathrm{tempo}}| < \\epsilon_{\\mathrm{sync}}",
+    "interpretation": "Recursive continuity propagation requires sufficient tempo compatibility across participation interfaces.",
+    "core_insight": "Propagation destabilizes whenever recursive update pacing becomes excessively incoherent."
+  },
+
+  "tempo_burden_relation": {
+    "formal_relation": "|\\Delta_{\\mathrm{tempo}}| \\uparrow \\Rightarrow \\Theta_{\\mathrm{tempo}} \\uparrow",
+    "interpretation": "Increasing recursive pacing divergence amplifies continuity incompatibility burden across transmissibility interfaces.",
+    "core_insight": "Tempo incompatibility progressively destabilizes reciprocal continuity incorporation."
+  },
+
+  "traversability_relation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{trans}}^{SIR} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Traversability emerges through reciprocal coherence-compatible continuity transmissibility.",
+    "core_insight": "Traversability requires mutually preservable continuity transfer."
+  },
+
+  "recursive_temporal_relation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{trans}}^{SIR} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges through survivable reciprocal continuity transmissibility.",
+    "core_insight": "Recursive time depends upon continuity remaining coherently incorporable upon arrival."
+  },
+
+  "learning_relation": {
+    "formal_relation": "\\mathcal L_{\\mathrm{rec}} : \\mathcal C_{\\mathrm{recv}}\\uparrow",
+    "interpretation": "Learning increases adaptive coherence receptivity and continuity incorporation compatibility.",
+    "core_insight": "Learning is adaptive coherence incorporation."
+  },
+
+  "agency_relation": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agent}} \\sim (S,I,R)",
+    "interpretation": "Agency depends upon the capacity to coherently transmit, receive, incorporate, and recursively propagate continuity structure.",
+    "core_insight": "Agency is relational continuity steering."
+  },
+
+  "failure_modes": {
+    "failure_conditions": [
+      "source coherence degeneration",
+      "interface admissibility collapse",
+      "receiver incompatibility",
+      "resonance failure",
+      "recursive temporal desynchronization"
+    ],
+    "interpretation": "Continuity propagation may fail even while isolated local structures remain individually stable.",
+    "core_insight": "Local stability alone does not preserve scalable continuity transmissibility."
+  },
+
+  "fragmentation_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{trans}}^{SIR}\\downarrow",
+    "interpretation": "Fragmentation corresponds to degeneration of reciprocal coherence compatibility across participation geometry.",
+    "core_insight": "Fragmentation destroys scalable continuity propagation while local continuity domains may remain partially preserved."
+  },
+
+  "collapse_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{trans}}^{SIR} \\rightarrow 0",
+    "interpretation": "Collapse corresponds to exhaustion of reciprocal continuity transmissibility compatibility.",
+    "core_insight": "Continuity may remain locally stable while globally non-incorporable."
+  },
+
+  "recovery_interpretation": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal C_{\\mathrm{trans}}^{SIR}\\uparrow",
+    "interpretation": "Recovery restores reciprocal coherence compatibility through recursive recoherence across source, interface, and receiver geometry.",
+    "core_insight": "Recovery restores survivable continuity propagation through transmissibility recoherence."
+  },
+
+  "information_interpretation": {
+    "interpretation": "Information corresponds to coherently transmissible and incorporable continuity structure.",
+    "core_insight": "Information is relationally transmissible continuity organization."
+  },
+
+  "unified_relational_chain": {
+    "formal_relation": "S \\rightarrow I \\rightarrow R \\rightarrow \\mathcal C_{\\mathrm{trans}}^{SIR} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}}^{+}",
+    "interpretation": "Coherent sources propagate continuity across admissible interfaces toward compatible receivers, preserving transmissibility, traversability, recursive temporality, and admissible future participation viability."
+  },
+
+  "canonical_compressions": [
+    "Continuity requires reciprocal coherence compatibility.",
+    "Continuity propagation is fundamentally relational.",
+    "Successful propagation requires compatible source, interface, and receiver coherence.",
+    "Continuity survives only while coherently incorporable upon arrival.",
+    "Fragmentation destroys reciprocal coherence compatibility."
+  ],
+
+  "deep_compression_points": [
+    "Continuity propagation requires reciprocal compatibility.",
+    "Coherence transmission is relational rather than unilateral.",
+    "Sources preserve transmissible coherence.",
+    "Interfaces preserve admissible transfer compatibility.",
+    "Receivers preserve coherent incorporation capacity.",
+    "Resonance stabilizes scalable transmissibility.",
+    "Tempo compatibility preserves recursive synchronization.",
+    "Fragmentation destroys reciprocal coherence compatibility.",
+    "Recovery restores transmissibility recoherence.",
+    "Information is coherently transmissible continuity structure."
+  ],
+
+  "connections": [
+    "coherence_functional",
+    "recursive_temporal_coherence_principle",
+    "recursive_participatory_traversability_principle",
+    "inter_rotor_coherence_geometry",
+    "multiscale_continuity_wave_integration",
+    "admissible_future_participation_geometry",
+    "existential_continuity_invariant",
+    "recursive_cartographic_coherence"
+  ],
+
+  "one_sentence_lock": "Recursive continuity propagation survives only through reciprocal coherence compatibility across transmissible sources, admissible interfaces, and coherence-compatible receivers."
+}
