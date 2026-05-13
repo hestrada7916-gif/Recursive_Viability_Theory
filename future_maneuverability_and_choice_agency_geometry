@@ -1,0 +1,145 @@
+{
+  "principle_id": "future_maneuverability_and_choice_agency_geometry",
+  "title": "Future Maneuverability and Choice-Agency Geometry",
+  "status": "phase_2_observer_layer_lock",
+  "framework_layer": "rotor_observer_layer",
+  "type": "future_navigation_geometry_principle",
+
+  "canonical_statement": "Adaptive freedom emerges through preservation of future maneuverability across locally traversable admissible future participation geometry.",
+
+  "deep_compression": [
+    "Freedom is preserved future maneuverability.",
+    "Choice emerges from preserved local future accessibility multiplicity.",
+    "Agency emerges through navigation across admissible future participation geometry."
+  ],
+
+  "formal_statement": {
+    "future_maneuverability": "\\mathcal M_{\\mathrm{future}} = \\dim(\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}})",
+    "choice_condition": "|\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}}| > 1",
+    "agency_definition": "\\text{Agency} = \\mathcal N(\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}})",
+    "core_principle": "Persistent adaptive systems preserve both locally traversable future multiplicity and viability-preserving participatory traversability under recursive constraint dynamics."
+  },
+
+  "core_objects": {
+    "local_admissible_future_structure": "\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}}",
+    "future_maneuverability": "\\mathcal M_{\\mathrm{future}}",
+    "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "recursive_burden": "\\mathcal B_{\\mathrm{rec}}",
+    "rotor_structure": "\\mathcal C_{\\mathrm{rotor}}",
+    "future_navigation_operator": "\\mathcal N",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}"
+  },
+
+  "future_maneuverability_geometry": {
+    "definition": "Future maneuverability measures the dimensional richness of locally traversable admissible future participation geometry.",
+    "formal_definition": "\\mathcal M_{\\mathrm{future}} = \\dim(\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}})",
+    "governs": [
+      "adaptive flexibility",
+      "local participatory freedom",
+      "admissible navigational richness",
+      "recoverable future mobility",
+      "viability-preserving maneuverability structure"
+    ]
+  },
+
+  "multiplicity_vs_maneuverability": {
+    "future_multiplicity": "|\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}}|",
+    "future_maneuverability": "\\mathcal M_{\\mathrm{future}}",
+    "distinction": "Future multiplicity measures the number of admissible future trajectories, while maneuverability measures the geometric dimensional richness of future participation structure.",
+    "interpretation": "Many admissible futures may remain geometrically compressed and highly constrained, while few admissible futures may preserve substantial adaptive maneuverability."
+  },
+
+  "choice_geometry": {
+    "definition": "Choice emerges whenever multiple admissible future trajectories remain locally traversable.",
+    "formal_condition": "|\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}}| > 1",
+    "interpretation": "Choice emerges through preservation of multiple locally admissible traversable futures rather than unconstrained possibility."
+  },
+
+  "agency_geometry": {
+    "definition": "Agency emerges through coherent navigation across admissible future participation geometry.",
+    "formal_definition": "\\text{Agency} = \\mathcal N(\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}})",
+    "interpretation": "Agency measures coherent future navigability rather than unconstrained global freedom."
+  },
+
+  "rotor_layer_coupling": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\Rightarrow \\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}} \\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Rotor recurrence preserves local future multiplicity together with coherent participatory traversability.",
+    "observer_layer_role": "The rotor layer constitutes the primitive local future-selection and observer-participation layer."
+  },
+
+  "recursive_temporal_coupling": {
+    "formal_relation": "\\tau_{\\mathrm{rec}} \\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality preserves coherent future navigability through tempo-compatible continuity propagation."
+  },
+
+  "constraint_geometry": {
+    "future_multiplicity_contraction": "\\mathcal B_{\\mathrm{rec}} \\uparrow \\Rightarrow |\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}}| \\downarrow",
+    "traversability_contraction": "\\mathcal B_{\\mathrm{rec}} \\uparrow \\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\downarrow",
+    "interpretation": "Constraint progressively compresses both future multiplicity and coherent future navigability."
+  },
+
+  "future_locking_regime": {
+    "formal_condition": [
+      "\\mathcal M_{\\mathrm{future}} \\downarrow 0",
+      "|\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}}| \\rightarrow 1"
+    ],
+    "interpretation": "Locked systems preserve continuity while progressively losing adaptive future maneuverability and future accessibility richness."
+  },
+
+  "choice_collapse": {
+    "formal_condition": "|\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}}| \\rightarrow 1",
+    "interpretation": "Choice collapse preserves continuity while progressively reducing future accessibility richness."
+  },
+
+  "agency_collapse": {
+    "formal_condition": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow 0",
+    "interpretation": "Agency collapse destroys coherent future navigability even when residual continuity structure remains locally present."
+  },
+
+  "collapse_geometry": {
+    "formal_condition": "\\mathcal M_{\\mathrm{future}} \\rightarrow 0",
+    "interpretation": "Collapse progressively destroys adaptive future mobility and maneuverability even prior to total continuity loss."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : (\\mathcal F_{\\mathrm{collapsed}}, \\mathcal T_{\\mathrm{frag}}) \\rightarrow (\\mathcal F_{\\mathrm{adm}}^{\\mathrm{local}}, \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}})",
+    "interpretation": "Recovery restores future accessibility multiplicity and coherent future navigability through regenerative continuity reopening."
+  },
+
+  "canonical_compressions": [
+    "Future maneuverability measures admissible future freedom.",
+    "Freedom is preserved future maneuverability.",
+    "Choice emerges from preserved local future accessibility multiplicity.",
+    "Agency emerges through navigation across admissible future participation geometry.",
+    "Constraint compresses future multiplicity and traversability.",
+    "Collapse contracts future maneuverability geometry."
+  ],
+
+  "deep_compression_points": [
+    "Future maneuverability measures adaptive future freedom.",
+    "Multiplicity and maneuverability are distinct geometric properties.",
+    "Choice emerges through multiple locally traversable admissible futures.",
+    "Agency emerges through coherent future navigability.",
+    "Rotor recurrence preserves local future accessibility structure.",
+    "Recursive temporality preserves participatory traversability.",
+    "Constraint progressively compresses future multiplicity and navigability.",
+    "Locked systems preserve continuity while losing adaptive future mobility.",
+    "Collapse destroys coherent future participation geometry.",
+    "Recovery restores future accessibility and traversability."
+  ],
+
+  "connections": [
+    "recursive_viability_topology",
+    "future_accessibility_classification",
+    "recursive_participatory_traversability",
+    "recursive_temporal_continuity_principle",
+    "rotor_operator_layer",
+    "future_locking_geometry",
+    "continuity_wave_propagation",
+    "observer_layer_geometry",
+    "rewovability_theory"
+  ],
+
+  "one_sentence_lock": "Adaptive freedom, choice, and agency emerge through preservation of maneuverable locally traversable admissible future participation geometry under recursive constraint."
+}
