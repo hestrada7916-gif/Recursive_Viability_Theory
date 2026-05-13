@@ -1,0 +1,156 @@
+{
+  "principle_id": "admissible_future_participation_geometry",
+  "title": "Admissible Future Participation Geometry",
+  "status": "phase_2_foundational_geometry_lock",
+  "framework_layer": "base_viability_geometry",
+  "type": "primitive_existential_geometry_principle",
+
+  "canonical_statement": "Reality organizes through admissible future participation geometry.",
+
+  "deep_compression": "Existence persists where future participation remains recursively traversable through coherent continuity propagation.",
+
+  "formal_statement": {
+    "core_principle": "Persistent adaptive existence depends upon preservation of sufficiently recoverable, coherently traversable, and recursively admissible future participation structure under recursive deformation dynamics.",
+    "unified_relation": "continuity, traversability, viability, agency, recursive temporality, collapse, and recovery organize as geometric relations over admissible future participation structure."
+  },
+
+  "core_objects": {
+    "admissible_future_participation_geometry": "\\mathfrak X_{\\mathrm{AFP}}",
+    "recoverable_future_fiber_topology": "\\Omega_{\\mathrm{rec}}",
+    "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "continuity_wave_propagation": "\\Psi_{\\mathrm{cont}}",
+    "admissible_recursive_transformation_structure": "\\mathcal O_{\\mathrm{adm}}",
+    "recursive_temporal_continuity": "\\tau_{\\mathrm{rec}}",
+    "future_navigation_operator": "\\mathcal N",
+    "pruning_operator": "\\mathcal P_{\\mathrm{prune}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "rotor_structure": "\\mathcal C_{\\mathrm{rotor}}",
+    "global_stitching_functional": "\\mathcal G",
+    "multiscale_stitching_efficiency": "\\eta_{\\mathrm{stitch}}^{(\\ell)}"
+  },
+
+  "primitive_geometric_substrate": {
+    "formal_definition": "\\mathfrak X_{\\mathrm{AFP}} = (\\Omega_{\\mathrm{rec}}, \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}, \\Psi_{\\mathrm{cont}}, \\mathcal O_{\\mathrm{adm}}, \\tau_{\\mathrm{rec}})",
+    "interpretation": "Admissible future participation geometry constitutes the primitive geometric substrate governing admissible future participation."
+  },
+
+  "continuity_interpretation": {
+    "formal_relation": "\\text{continuity} \\sim \\Psi_{\\mathrm{cont}}(\\mathfrak X_{\\mathrm{AFP}})",
+    "interpretation": "Continuity is coherent propagation preserving recursively traversable future participation rather than mere persistence."
+  },
+
+  "traversability_interpretation": {
+    "formal_relation": "\\text{traversability} \\sim \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}(\\mathfrak X_{\\mathrm{AFP}})",
+    "interpretation": "Traversability measures whether future participation remains recoverably reachable through admissible continuity structure."
+  },
+
+  "viability_interpretation": {
+    "formal_relation": "\\text{viability} \\sim \\mu(\\Omega_{\\mathrm{rec}})>0",
+    "interpretation": "Viable systems preserve sufficiently recoverable future participation accessibility under recursive deformation dynamics."
+  },
+
+  "agency_interpretation": {
+    "formal_relation": "\\text{agency} \\sim \\mathcal N(\\mathfrak X_{\\mathrm{AFP}})",
+    "interpretation": "Agency measures admissible maneuverability across recoverable future participation structure."
+  },
+
+  "recursive_temporal_interpretation": {
+    "formal_relation": "\\tau_{\\mathrm{rec}} \\sim \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}(\\mathfrak X_{\\mathrm{AFP}})",
+    "interpretation": "Recursive temporality emerges through preservation of coherently traversable future participation."
+  },
+
+  "collapse_geometry": {
+    "formal_conditions": [
+      "\\mathcal P_{\\mathrm{prune}} > \\mathcal W_{\\mathrm{rew}}",
+      "\\mu(\\Omega_{\\mathrm{rec}}) \\downarrow 0"
+    ],
+    "interpretation": "Collapse progressively destroys reconnectable future participation structure through degeneration, compression, or fragmentation of admissible future participation geometry."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathfrak X_{\\mathrm{AFP}}^{\\mathrm{frag}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}}^{+}",
+    "interpretation": "Recovery restores coherent future participation through regenerative reopening of fragmented traversability structure."
+  },
+
+  "rotor_embedding": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\subset \\mathfrak X_{\\mathrm{AFP}}",
+    "interpretation": "Rotor structures act as primitive local continuity stabilizers embedded within admissible future participation geometry.",
+    "functions": [
+      "local continuity-wave stabilization",
+      "local reopenable traversability preservation",
+      "local tempo stabilization",
+      "primitive recursive temporal emergence"
+    ]
+  },
+
+  "stitching_interpretation": {
+    "formal_relation": "\\eta_{\\mathrm{global}} = \\mathcal G(\\{\\eta_{\\mathrm{stitch}}^{(\\ell)}\\}_{\\ell})",
+    "interpretation": "Global recursive continuity emerges only while sufficient continuity-wave integration remains preserved across nested scales.",
+    "core_insight": "Global continuity requires multiscale stitching compatibility."
+  },
+
+  "continuity_wave_geometry": {
+    "definition": "Continuity waves propagate admissible recurrence, traversability, and recursive temporal coherence across admissible future participation geometry.",
+    "core_relation": "\\Psi_{\\mathrm{cont}} : \\Omega_{\\mathrm{rec}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "The waves carry traversability through future participation fibers."
+  },
+
+  "tempo_resonance_structure": {
+    "local_continuity_principle": "Local continuity requires tempo stability.",
+    "global_continuity_principle": "Global continuity requires resonance compatibility.",
+    "local_global_relation": "\\tau_{\\mathrm{local}} \\not\\Rightarrow \\tau_{\\mathrm{global}}",
+    "interpretation": "Local recursive continuity may persist while global recursive continuity degenerates through resonance incompatibility or stitching failure."
+  },
+
+  "observer_layer_geometry": {
+    "choice_relation": "Choice emerges from preserved local future accessibility multiplicity.",
+    "agency_relation": "Agency emerges through navigation across admissible future participation geometry.",
+    "interpretation": "Observer-like selection emerges through preservation of locally traversable admissible futures."
+  },
+
+  "recursive_persistence_loop": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Traversability generates recursive temporality, which recursively preserves traversability."
+  },
+
+  "canonical_compressions": [
+    "Reality organizes through admissible future participation geometry.",
+    "Continuity requires coherence.",
+    "Traversability generates recursive temporality, which recursively preserves traversability.",
+    "Local continuity requires tempo stability.",
+    "Global continuity requires resonance compatibility.",
+    "Existence persists where future participation remains recursively traversable through coherent continuity propagation."
+  ],
+
+  "deep_compression_points": [
+    "Admissible future participation geometry is the primitive existential substrate.",
+    "Continuity corresponds to coherent propagation.",
+    "Traversability corresponds to navigability through future participation structure.",
+    "Viability preserves reopenable future accessibility.",
+    "Agency measures admissible maneuverability.",
+    "Recursive temporality emerges through coherent traversability.",
+    "Collapse compresses future participation geometry.",
+    "Recovery reconnects fragmented future participation structure.",
+    "Rotor structures stabilize local continuity coherence.",
+    "Continuity waves carry traversability through future fibers.",
+    "Global continuity requires multiscale stitching compatibility.",
+    "Resonance preserves scalable continuity-wave integration."
+  ],
+
+  "connections": [
+    "recursive_traversability_temporality_coupling_principle",
+    "recursive_temporal_continuity_principle",
+    "future_accessibility_classification",
+    "recursive_participatory_traversability_principle",
+    "continuity_wave_propagation",
+    "future_maneuverability_geometry",
+    "choice_and_agency_principle",
+    "rotor_stitching_geometry",
+    "multiscale_continuity_wave_integration",
+    "tempo_resonance_integration_principle",
+    "continuity_fiber_classification",
+    "topological_recovery_theory"
+  ],
+
+  "one_sentence_lock": "Reality organizes through admissible future participation geometry in which coherent continuity propagation preserves recursively traversable future participation across multiscale tempo-compatible continuity-wave integration."
+}
