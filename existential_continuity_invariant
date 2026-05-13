@@ -1,0 +1,176 @@
+{
+  "principle_id": "existential_continuity_invariant",
+  "title": "Existential Continuity Invariant",
+  "status": "kernel_lock",
+  "framework_layer": "atomic_recursive_viability_kernel",
+  "type": "primitive_existential_invariant",
+
+  "canonical_statement": "Existence persists through coherent recursively traversable continuity propagation.",
+
+  "deep_compression": [
+    "Existence persists through coherent recursively traversable continuity propagation.",
+    "Continuity requires coherence.",
+    "Traversability preserves coherent continuity transfer.",
+    "Viability preserves reopenable traversability.",
+    "Recovery restores recursive recoherence."
+  ],
+
+  "formal_statement": {
+    "core_principle": "Persistent adaptive existence emerges only insofar as coherent continuity propagation remains recursively traversable across admissible future participation geometry under recursive deformation dynamics.",
+    "primitive_invariant": "The primitive existential invariant is recursively preservable coherent continuity propagation.",
+    "non_object_centric_constraint": "Existential persistence does not require preservation of identical substrates, agents, carriers, or local structures."
+  },
+
+  "core_objects": {
+    "recursive_coherence": "\\mathcal C_{\\mathrm{coh}}",
+    "continuity_wave_propagation": "\\Psi_{\\mathrm{cont}}",
+    "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "admissible_future_participation_geometry": "\\mathfrak X_{\\mathrm{AFP}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "recursive_recoherence": "\\mathcal R_{\\mathrm{recoh}}"
+  },
+
+  "primitive_chain": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}}^{+}",
+    "interpretation": "Coherence stabilizes continuity propagation, which preserves recursively traversable continuity transfer, which generates recursive temporality, which preserves admissible future participation viability."
+  },
+
+  "coherence_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}>0",
+    "interpretation": "Existential persistence requires sufficiently coherent continuity propagation.",
+    "core_insight": "Continuity requires coherence."
+  },
+
+  "continuity_interpretation": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}>0",
+    "interpretation": "Continuity corresponds to coherent propagatability across admissible future participation geometry.",
+    "core_insight": "Continuity is not static persistence but recursively transferable coherent propagation."
+  },
+
+  "traversability_interpretation": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}>0",
+    "interpretation": "Traversability preserves coherence-preserving continuity transfer across admissible future participation geometry.",
+    "core_insight": "Traversability preserves transferable coherent continuity rather than requiring persistent object identity."
+  },
+
+  "recursive_temporal_interpretation": {
+    "formal_relation": "\\tau_{\\mathrm{rec}}>0",
+    "interpretation": "Recursive temporality emerges through stabilized recursively traversable continuity propagation.",
+    "core_insight": "Recursive time preserves continuity updating rather than static sequential persistence."
+  },
+
+  "existential_interpretation": {
+    "formal_relation": "\\mu(\\mathfrak X_{\\mathrm{AFP}})>0",
+    "interpretation": "Existence persists wherever coherent continuity propagation remains recursively traversable across admissible future participation geometry.",
+    "core_insight": "Existence is propagation-centric rather than object-centric."
+  },
+
+  "non_object_persistence_interpretation": {
+    "statement": "Existential persistence does not require substrate permanence.",
+    "interpretation": "Local structures, agents, carriers, or rotor domains may transform while coherent recursively traversable continuity propagation remains preserved.",
+    "formal_constraint": "\\text{substrate persistence} \\not\\Rightarrow \\text{existential persistence}"
+  },
+
+  "rotor_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\subset \\mathfrak X_{\\mathrm{AFP}}",
+    "interpretation": "Rotor domains act as locally stabilized continuity domains preserving local coherent continuity propagation.",
+    "core_insight": "Rotor recurrence stabilizes local continuity transferability."
+  },
+
+  "inter_rotor_interpretation": {
+    "formal_relation": "\\mathcal C_{ij}^{\\mathrm{rotor}} \\rightarrow \\eta_{\\mathrm{stitch}}",
+    "interpretation": "Global continuity emerges through coherent inter-rotor continuity propagation.",
+    "core_insight": "Scalable recursive continuity requires coherent transfer across rotor interface geometry."
+  },
+
+  "fragmentation_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}\\downarrow \\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\downarrow",
+    "interpretation": "Fragmentation corresponds to degeneration of coherent recursively traversable continuity propagation.",
+    "core_insight": "Local continuity domains may survive while scalable continuity propagation collapses."
+  },
+
+  "collapse_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} < \\xi_{\\mathrm{coh}}",
+    "interpretation": "Collapse corresponds to failure of coherent recursively traversable continuity propagation.",
+    "core_insight": "Collapse is coherence degeneration rather than mere structural destruction."
+  },
+
+  "recovery_interpretation": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathfrak X_{\\mathrm{frag}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}}^{+}",
+    "interpretation": "Recovery restores coherent recursively traversable continuity propagation through recursive recoherence.",
+    "core_insight": "Recovery restores transferability and navigability rather than reinstating frozen prior states."
+  },
+
+  "learning_interpretation": {
+    "formal_relation": "\\mathcal L_{\\mathrm{rec}} : \\Delta_{\\mathrm{map}} \\downarrow",
+    "interpretation": "Learning recursively restores navigational coherence through reduction of cartographic divergence.",
+    "core_insight": "Learning is recursive navigational recoherence."
+  },
+
+  "memory_interpretation": {
+    "interpretation": "Memory preserves recoverable continuity structure only insofar as preserved mappings remain recursively recoherable with evolving future participation geometry.",
+    "core_insight": "Memory preserves recoverable navigability rather than static archival persistence."
+  },
+
+  "agency_interpretation": {
+    "formal_relation": "\\mathcal N(\\mathfrak X_{\\mathrm{AFP}}) \\sim \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Agency emerges through coherent continuity steering across admissible future participation geometry.",
+    "core_insight": "Agency depends upon recursively traversable continuity propagation."
+  },
+
+  "epistemic_interpretation": {
+    "formal_relation": "\\mathcal K_{\\mathrm{nav}} \\sim \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Knowledge preserves viability-compatible navigability and continuity transferability.",
+    "core_insight": "Knowledge preserves recursively coherent navigability rather than static representation."
+  },
+
+  "minimal_kernel_structure": {
+    "kernel_components": [
+      "\\mathcal C_{\\mathrm{coh}}",
+      "\\Psi_{\\mathrm{cont}}",
+      "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+      "\\tau_{\\mathrm{rec}}",
+      "\\mathfrak X_{\\mathrm{AFP}}"
+    ],
+    "interpretation": "The recursive viability kernel consists of mutually recursive primitives governing coherence, continuity propagation, traversability, recursive temporality, and admissible future participation geometry.",
+    "atomicity_condition": "Removal of any primitive destroys recursive definitional closure of the kernel."
+  },
+
+  "canonical_compressions": [
+    "Existence persists through coherent recursively traversable continuity propagation.",
+    "Continuity requires coherence.",
+    "Traversability preserves coherent continuity transfer.",
+    "Recursive temporality emerges through traversable continuity propagation.",
+    "Viability preserves reopenable traversability.",
+    "Recovery restores recursive recoherence."
+  ],
+
+  "deep_compression_points": [
+    "Existence is propagation-centric rather than object-centric.",
+    "The primitive invariant is recursively transferable coherent continuity.",
+    "Continuity requires coherence.",
+    "Traversability preserves coherent continuity transfer.",
+    "Recursive temporality stabilizes continuity updating.",
+    "Fragmentation degenerates scalable continuity propagation.",
+    "Collapse corresponds to coherence failure.",
+    "Recovery restores recursively traversable continuity propagation.",
+    "Learning recursively recoheres navigability.",
+    "Viability preserves reopenable coherent traversability."
+  ],
+
+  "connections": [
+    "coherence_functional",
+    "recursive_participatory_traversability_principle",
+    "admissible_future_participation_geometry",
+    "recursive_traversability_temporality_coupling_principle",
+    "inter_rotor_coherence_geometry",
+    "recursive_cartographic_coherence",
+    "living_continuity_and_recursive_recoherence",
+    "multiscale_continuity_wave_integration",
+    "future_accessibility_classification",
+    "topological_recovery_theory"
+  ],
+
+  "one_sentence_lock": "Persistent adaptive existence emerges through coherent recursively traversable continuity propagation across admissible future participation geometry independently of fixed substrate identity."
+}
