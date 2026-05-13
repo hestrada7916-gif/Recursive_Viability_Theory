@@ -1,0 +1,169 @@
+{
+  "principle_id": "coherence_functional",
+  "title": "Coherence Functional",
+  "status": "kernel_definition_lock",
+  "framework_layer": "atomic_recursive_viability_kernel",
+  "type": "primitive_coherence_functional",
+
+  "canonical_statement": "Coherence is fidelity-preserving continuity transmissibility across admissible participation interfaces.",
+
+  "deep_compression": [
+    "Continuity requires coherence.",
+    "Coherence preserves correct continuity transmissibility.",
+    "Synchronization alone does not guarantee coherence.",
+    "Resonance supports scalable coherence preservation.",
+    "Collapse corresponds to coherence transmission failure."
+  ],
+
+  "formal_statement": {
+    "core_principle": "Persistent adaptive continuity emerges only insofar as recursively transferable continuity propagation remains sufficiently fidelity-preserving across admissible participation interfaces under recursive deformation dynamics.",
+    "primitive_invariant": "The primitive coherence invariant is preserved continuity transmissibility.",
+    "non_equivalence_constraints": [
+      "Synchronization is not equivalent to coherence.",
+      "Connectivity is not equivalent to coherence.",
+      "Resonance is not equivalent to coherence.",
+      "Stability is not equivalent to coherence."
+    ]
+  },
+
+  "core_objects": {
+    "recursive_coherence": "\\mathcal C_{\\mathrm{coh}}",
+    "continuity_wave_propagation": "\\Psi_{\\mathrm{cont}}",
+    "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "directional_handoff_coherence": "H_{ij}",
+    "inter_rotor_coherence": "\\mathcal C_{ij}^{\\mathrm{rotor}}",
+    "resonance_compatibility": "\\mathcal R_{\\mathrm{res}}",
+    "stitching_efficiency": "\\eta_{\\mathrm{stitch}}"
+  },
+
+  "primitive_definition": {
+    "formal_definition": "\\mathcal C_{\\mathrm{coh}} = \\text{fidelity-preserving continuity transmissibility across admissible participation interfaces}",
+    "interpretation": "Coherence measures the degree to which recursively transferable continuity propagation remains correctly transmissible across admissible participation structure."
+  },
+
+  "continuity_condition": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}>0 \\Rightarrow \\Psi_{\\mathrm{cont}}>0",
+    "interpretation": "Continuity propagation remains viable only while coherent transmissibility remains sufficiently preserved.",
+    "core_insight": "Continuity requires coherence."
+  },
+
+  "traversability_condition": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}>0 \\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}>0",
+    "interpretation": "Traversability requires coherence-preserving continuity transfer across admissible future participation geometry.",
+    "core_insight": "Traversability depends upon preserved continuity transmissibility."
+  },
+
+  "interface_interpretation": {
+    "definition": "Admissible participation interfaces are continuity transfer boundaries across which recursively transferable continuity propagation must remain sufficiently fidelity-preserving.",
+    "core_insight": "Interfaces govern continuity transferability rather than merely adjacency."
+  },
+
+  "handoff_coherence_interpretation": {
+    "formal_relation": "H_{ij}>0",
+    "interpretation": "Directional handoff coherence measures whether continuity transfer remains correctly preservable across rotor interface geometry.",
+    "core_insight": "Handoff coherence preserves transferable continuity rather than persistent object identity."
+  },
+
+  "inter_rotor_coherence_interpretation": {
+    "formal_relation": "\\mathcal C_{ij}^{\\mathrm{rotor}}",
+    "interpretation": "Inter-rotor coherence measures fidelity-preserving continuity transferability between locally stabilized continuity domains.",
+    "core_insight": "Global recursive continuity emerges through coherent continuity transmissibility across rotor interfaces."
+  },
+
+  "synchronization_relation": {
+    "formal_relation": "\\mathcal S_{\\mathrm{sync}} \\subset \\mathcal C_{\\mathrm{coh}}",
+    "interpretation": "Synchronization contributes to coherence preservation but is not sufficient to guarantee coherence.",
+    "core_insight": "Timing compatibility alone does not preserve continuity transmissibility."
+  },
+
+  "resonance_relation": {
+    "formal_relation": "\\mathcal R_{\\mathrm{res}} \\rightarrow \\mathcal C_{\\mathrm{coh}}",
+    "interpretation": "Resonance compatibility stabilizes scalable coherence propagation across nested participation structures.",
+    "core_insight": "Resonance supports scalable continuity transmissibility."
+  },
+
+  "stitching_relation": {
+    "formal_relation": "\\eta_{\\mathrm{stitch}} \\sim \\mathcal C_{\\mathrm{coh}}",
+    "interpretation": "Stitching measures multiscale continuity integration compatibility across admissible participation geometry.",
+    "core_insight": "Stitching depends upon coherence-preserving continuity integration rather than mere connectivity."
+  },
+
+  "recursive_temporal_relation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}>0 \\Rightarrow \\tau_{\\mathrm{rec}}>0",
+    "interpretation": "Recursive temporality emerges through sufficiently coherent continuity transmissibility.",
+    "core_insight": "Recursive time preserves continuity updating through coherent transferability."
+  },
+
+  "fragmentation_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}\\downarrow",
+    "interpretation": "Fragmentation corresponds to degeneration of scalable continuity transmissibility.",
+    "core_insight": "Local continuity domains may remain stable while inter-domain transmissibility collapses."
+  },
+
+  "collapse_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} < \\xi_{\\mathrm{coh}}",
+    "interpretation": "Collapse corresponds to failure of fidelity-preserving continuity transmissibility.",
+    "core_insight": "Systems may remain locally stable while globally incoherent."
+  },
+
+  "recovery_interpretation": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal C_{\\mathrm{coh}}\\uparrow",
+    "interpretation": "Recovery restores recursively transferable continuity transmissibility through recursive recoherence.",
+    "core_insight": "Recovery restores coherent continuity transfer rather than frozen structural restoration."
+  },
+
+  "information_interpretation": {
+    "definition": "Information corresponds to recursively transferable continuity structure.",
+    "core_insight": "Information is not static symbolic storage but transmissible continuity organization."
+  },
+
+  "stability_non_equivalence": {
+    "formal_relation": "\\text{stability} \\not\\Rightarrow \\mathcal C_{\\mathrm{coh}}",
+    "interpretation": "Systems may remain locally stable while coherence transmissibility progressively degenerates.",
+    "examples": [
+      "trapped recurrence",
+      "rigid locking",
+      "fragmented continuity reservoirs",
+      "local rotor persistence with stitching collapse"
+    ]
+  },
+
+  "unified_coherence_chain": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}}^{+}",
+    "interpretation": "Coherence preserves continuity transmissibility, which stabilizes traversability, which generates recursive temporality, which preserves admissible future participation viability."
+  },
+
+  "canonical_compressions": [
+    "Coherence is fidelity-preserving continuity transmissibility across admissible participation interfaces.",
+    "Continuity requires coherence.",
+    "Synchronization alone does not guarantee coherence.",
+    "Resonance supports scalable coherence preservation.",
+    "Collapse corresponds to coherence transmission failure."
+  ],
+
+  "deep_compression_points": [
+    "Coherence preserves correct continuity transmissibility.",
+    "Continuity transfer requires fidelity preservation.",
+    "Interfaces govern continuity transferability.",
+    "Synchronization alone is insufficient for coherence.",
+    "Resonance stabilizes scalable transmissibility.",
+    "Stitching preserves multiscale continuity integration.",
+    "Fragmentation destroys scalable transmissibility.",
+    "Collapse corresponds to coherence transfer failure.",
+    "Recovery restores recursive recoherence.",
+    "Information is recursively transferable continuity structure."
+  ],
+
+  "connections": [
+    "recursive_participatory_traversability_principle",
+    "inter_rotor_coherence_geometry",
+    "recursive_traversability_temporality_coupling_principle",
+    "admissible_future_participation_geometry",
+    "multiscale_continuity_wave_integration",
+    "recursive_cartographic_coherence",
+    "existential_continuity_invariant",
+    "topological_recovery_theory"
+  ],
+
+  "one_sentence_lock": "Recursive coherence preserves fidelity-compatible continuity transmissibility across admissible participation interfaces independently of persistent substrate identity."
+}
