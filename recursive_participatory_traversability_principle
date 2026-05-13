@@ -1,0 +1,149 @@
+{
+  "principle_id": "recursive_participatory_traversability_principle",
+  "title": "Recursive Participatory Traversability Principle",
+  "status": "phase_2_traversability_lock",
+  "framework_layer": "recursive_viability_geometry",
+  "type": "primitive_traversability_principle",
+
+  "canonical_statement": "Traversability is coherence-preserving continuity transfer across admissible future participation geometry.",
+
+  "deep_compression": [
+    "Traversability preserves coherent continuity transfer.",
+    "Continuity transfer does not require persistent substrate identity.",
+    "Traversability preserves recursively transferable continuity propagation.",
+    "Viability preserves reopenable traversability."
+  ],
+
+  "formal_statement": {
+    "core_principle": "Recursive participatory traversability preserves sufficiently coherent continuity transfer across admissible future participation geometry under recursive deformation dynamics.",
+    "non_object_centric_constraint": "Traversability does not require persistence of identical local carriers, agents, or substrates.",
+    "primitive_invariant": "The primitive invariant is preserved coherent continuity transferability."
+  },
+
+  "core_objects": {
+    "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "admissible_future_participation_geometry": "\\mathfrak X_{\\mathrm{AFP}}",
+    "continuity_wave_propagation": "\\Psi_{\\mathrm{cont}}",
+    "recursive_coherence": "\\mathcal C_{\\mathrm{coh}}",
+    "directional_handoff_coherence": "H_{ij}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}"
+  },
+
+  "primitive_definition": {
+    "formal_definition": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} = \\text{coherence-preserving continuity transfer across admissible future participation geometry}",
+    "interpretation": "Traversability preserves recursively transferable coherent continuity propagation rather than requiring persistent object identity."
+  },
+
+  "continuity_transfer_interpretation": {
+    "definition": "Continuity transfer corresponds to preservation of coherent propagatability across evolving participation structures.",
+    "core_insight": "The carrier may transform while continuity remains transferable, recoherable, and recursively propagatable.",
+    "properties": [
+      "substrate-flexible propagation",
+      "recoverable continuity transfer",
+      "coherence-preserving propagation",
+      "recursive transferability",
+      "transformational continuity preservation"
+    ]
+  },
+
+  "non_object_persistence_principle": {
+    "statement": "Traversability does not require persistent substrate identity.",
+    "interpretation": "Agents, carriers, local structures, or rotor domains may transform while coherent continuity transfer remains preserved.",
+    "formal_constraint": "\\text{carrier persistence} \\not\\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}"
+  },
+
+  "continuity_condition": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}>0 \\Rightarrow \\Psi_{\\mathrm{cont}}>0",
+    "interpretation": "Traversability requires sufficiently coherent continuity propagation."
+  },
+
+  "handoff_coherence_interpretation": {
+    "formal_relation": "H_{ij}>0",
+    "interpretation": "Directional handoff coherence measures whether coherent continuity transfer remains preservable across participation boundaries.",
+    "core_insight": "Handoff coherence preserves transferable continuity rather than object transfer."
+  },
+
+  "rotor_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Rotor domains preserve locally stabilized coherent continuity transferability.",
+    "core_insight": "Rotor domains stabilize local continuity propagation rather than static continuity storage."
+  },
+
+  "continuity_wave_interpretation": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}} : \\mathfrak X_{\\mathrm{AFP}} \\curvearrowright \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Continuity waves act as coherence-transfer propagators across admissible future participation geometry."
+  },
+
+  "recursive_temporal_interpretation": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges through preserved continuity transfer rather than static persistence.",
+    "core_insight": "Recursive time depends upon recursively transferable coherence propagation."
+  },
+
+  "viability_interpretation": {
+    "formal_relation": "\\mu(\\mathfrak X_{\\mathrm{AFP}})>0 \\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}>0",
+    "interpretation": "Viability preserves reopenable coherent continuity transfer."
+  },
+
+  "fragmentation_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}}\\downarrow \\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\downarrow",
+    "interpretation": "Fragmentation destroys scalable coherent continuity transfer while local continuity domains may remain partially preserved."
+  },
+
+  "recovery_interpretation": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal T_{\\mathrm{frag}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Recovery restores recursively transferable coherent continuity propagation.",
+    "core_insight": "Recovery restores transferability rather than reinstating identical prior structure."
+  },
+
+  "agency_interpretation": {
+    "formal_relation": "\\mathcal N(\\mathfrak X_{\\mathrm{AFP}}) \\sim \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Agency emerges through coherent continuity steering across admissible future participation geometry."
+  },
+
+  "knowledge_interpretation": {
+    "formal_relation": "\\mathcal K_{\\mathrm{nav}} \\sim \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Knowledge preserves viability-compatible continuity transferability rather than static representational persistence."
+  },
+
+  "unified_traversability_chain": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}}^{+}",
+    "interpretation": "Coherence stabilizes continuity propagation, which preserves continuity transferability, which generates recursive temporality, which preserves admissible future participation viability."
+  },
+
+  "canonical_compressions": [
+    "Traversability is coherence-preserving continuity transfer across admissible future participation geometry.",
+    "Continuity transfer does not require persistent substrate identity.",
+    "Continuity waves propagate coherent transferability.",
+    "Viability preserves reopenable traversability.",
+    "Recovery restores recursively transferable continuity propagation."
+  ],
+
+  "deep_compression_points": [
+    "Traversability preserves coherent continuity transfer.",
+    "The primitive invariant is transferable continuity rather than object persistence.",
+    "Continuity may survive substrate transformation.",
+    "Handoff coherence preserves continuity transferability.",
+    "Rotor domains stabilize local continuity transfer.",
+    "Continuity waves propagate transferable coherence.",
+    "Recursive temporality emerges through preserved continuity transfer.",
+    "Fragmentation destroys scalable transferability.",
+    "Recovery restores continuity recoherence and transferability.",
+    "Agency emerges through coherent continuity steering."
+  ],
+
+  "connections": [
+    "admissible_future_participation_geometry",
+    "coherence_functional",
+    "recursive_traversability_temporality_coupling_principle",
+    "inter_rotor_coherence_geometry",
+    "living_continuity_and_recursive_recoherence",
+    "recursive_cartographic_coherence",
+    "multiscale_continuity_wave_integration",
+    "future_accessibility_classification",
+    "topological_recovery_theory"
+  ],
+
+  "one_sentence_lock": "Recursive participatory traversability preserves coherence-compatible continuity transfer across admissible future participation geometry independently of persistent substrate identity."
+}
