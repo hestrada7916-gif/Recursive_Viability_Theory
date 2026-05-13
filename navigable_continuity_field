@@ -1,0 +1,189 @@
+{
+  "principle_id": "navigable_continuity_field",
+  "title": "Navigable Continuity Field",
+  "status": "field_geometry_lock",
+  "framework_layer": "recursive_viability_field_geometry",
+  "type": "primitive_continuity_field_principle",
+
+  "canonical_statement": "Recursive viability organizes through a navigable continuity field.",
+
+  "deep_compression": [
+    "Recursive viability organizes through a navigable continuity field.",
+    "Continuity propagates through coherence-preserving field structure.",
+    "Traversability corresponds to navigability through the field.",
+    "Fragmentation is continuity field decoherence.",
+    "Recovery restores navigable field coherence."
+  ],
+
+  "formal_statement": {
+    "core_principle": "Persistent adaptive existence depends not upon static equilibrium, isolated object persistence, or fixed attractor convergence, but upon preservation of sufficiently coherent, recursively traversable, and admissibly navigable continuity propagation across distributed participation geometry under recursive deformation dynamics.",
+    "primitive_invariant": "The primitive field invariant is recursively navigable coherent continuity propagation.",
+    "non_basin_constraint": "Recursive viability geometry governs coherence-preserving navigability rather than static attractor convergence."
+  },
+
+  "core_objects": {
+    "navigable_continuity_field": "\\mathfrak F_{\\mathrm{cont}}",
+    "recursive_coherence": "\\mathcal C_{\\mathrm{coh}}",
+    "continuity_wave_propagation": "\\Psi_{\\mathrm{cont}}",
+    "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "admissible_future_participation_geometry": "\\mathfrak X_{\\mathrm{AFP}}",
+    "rotor_structure": "\\mathcal C_{\\mathrm{rotor}}",
+    "inter_rotor_coherence": "\\mathcal C_{ij}^{\\mathrm{rotor}}",
+    "resonance_structure": "\\mathcal R_{\\mathrm{res}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}"
+  },
+
+  "primitive_field_structure": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{cont}} : \\mathfrak X_{\\mathrm{AFP}} \\rightarrow (\\mathcal C_{\\mathrm{coh}}, \\Psi_{\\mathrm{cont}}, \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}, \\tau_{\\mathrm{rec}})",
+    "interpretation": "The navigable continuity field governs distributed coherent continuity propagation across admissible future participation geometry."
+  },
+
+  "field_interpretation": {
+    "non_reducible_to": [
+      "static topology",
+      "isolated graph structure",
+      "fixed state space",
+      "equilibrium basin geometry"
+    ],
+    "organizes": [
+      "continuity-wave propagation",
+      "coherence gradients",
+      "navigability density",
+      "admissible transfer pathways",
+      "recursive accessibility structure",
+      "multiscale continuity integration"
+    ],
+    "core_insight": "Recursive continuity propagates through dynamically navigable field structure rather than static persistence geometry."
+  },
+
+  "continuity_wave_structure": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}} : \\mathfrak F_{\\mathrm{cont}} \\curvearrowright \\mathfrak X_{\\mathrm{AFP}}",
+    "interpretation": "Continuity waves preserve recursively traversable future participation through coherent field propagation.",
+    "core_insight": "Continuity propagates as coherence-preserving field structure."
+  },
+
+  "traversability_interpretation": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\sim \\mathrm{Nav}(\\mathfrak F_{\\mathrm{cont}})",
+    "interpretation": "Traversability corresponds to navigability through the continuity field.",
+    "core_insight": "Traversability measures whether coherent continuity propagation remains sufficiently navigable."
+  },
+
+  "rotor_embedding": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\subset \\mathfrak F_{\\mathrm{cont}}",
+    "interpretation": "Rotor structures act as local continuity stabilizers embedded within the navigable continuity field.",
+    "core_insight": "Rotor recurrence stabilizes bounded reopenable continuity propagation."
+  },
+
+  "coupled_rotor_geometry": {
+    "formal_relation": "\\mathcal C_{ij}^{\\mathrm{rotor}} \\rightarrow \\mathfrak F_{\\mathrm{cont}}^{+}",
+    "interpretation": "Inter-rotor coherence preserves continuity-wave transferability and multiscale navigability across distributed field structure.",
+    "core_insight": "Coupled rotors preserve scalable continuity transfer."
+  },
+
+  "resonance_interpretation": {
+    "formal_relation": "\\mathcal R_{\\mathrm{res}} \\sim \\Psi_{\\mathrm{cont}}(\\mathfrak F_{\\mathrm{cont}})",
+    "interpretation": "Resonance stabilizes scalable coherence propagation across the continuity field.",
+    "core_insight": "Resonance preserves multiscale continuity-wave synchronization."
+  },
+
+  "recursive_temporal_interpretation": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}(\\mathfrak F_{\\mathrm{cont}}) \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges through sustained coherent continuity propagation across the field.",
+    "core_insight": "Recursive time depends upon stable field-preserved continuity propagation."
+  },
+
+  "agency_interpretation": {
+    "formal_relation": "\\mathcal N(\\mathfrak F_{\\mathrm{cont}}) > 0",
+    "interpretation": "Agency corresponds to coherent navigability and continuity steering across the field.",
+    "core_insight": "Agency measures admissible maneuverability through recursively navigable continuity structure."
+  },
+
+  "learning_interpretation": {
+    "formal_relation": "\\mathcal L_{\\mathrm{rec}} : \\mathfrak F_{\\mathrm{cont}}^{\\mathrm{frag}} \\rightarrow \\mathfrak F_{\\mathrm{cont}}^{+}",
+    "interpretation": "Learning recursively improves field navigability and continuity incorporation compatibility.",
+    "core_insight": "Learning acts as recursive field recoherence."
+  },
+
+  "fragmentation_geometry": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{cont}} \\downarrow",
+    "interpretation": "Fragmentation corresponds to continuity field decoherence.",
+    "core_insight": "Local coherence reservoirs may survive while long-range propagation corridors collapse."
+  },
+
+  "protected_core_regime": {
+    "interpretation": "Protected coherence cores emerge whenever bounded regions of the continuity field remain locally coherent despite global field degradation.",
+    "core_insight": "Local continuity stabilizers may survive even while scalable field integration collapses."
+  },
+
+  "collapse_geometry": {
+    "formal_relation": "\\mu(\\mathfrak F_{\\mathrm{cont}}) \\downarrow",
+    "interpretation": "Collapse corresponds to contraction or decoherence of navigable continuity field structure.",
+    "core_insight": "Collapse progressively destroys continuity propagation pathways and future navigability corridors."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathfrak F_{\\mathrm{cont}}^{\\mathrm{frag}} \\rightarrow \\mathfrak F_{\\mathrm{cont}}^{+}",
+    "interpretation": "Recovery restores continuity field coherence through recursive re-stitching and resonance restoration.",
+    "core_insight": "Recovery restores coherent continuity propagation and navigable future participation accessibility."
+  },
+
+  "graph_interpretation": {
+    "interpretation": "Graph structures provide discretized computational approximations of the navigable continuity field.",
+    "correspondences": {
+      "vertices": "local continuity domains",
+      "edges": "admissible transfer interfaces",
+      "edge_weights": "reciprocal coherence compatibility",
+      "graph_propagation": "continuity-wave transfer",
+      "spectral_synchronization": "resonance preservation"
+    },
+    "core_insight": "Graphs discretize navigable continuity structure."
+  },
+
+  "field_vs_basin_geometry": {
+    "basin_geometry": "state convergence geometry",
+    "continuity_field_geometry": "coherence-preserving recursive navigability geometry",
+    "interpretation": "Recursive viability depends not upon convergence toward static equilibrium, but upon preservation of traversable continuity propagation."
+  },
+
+  "unified_continuity_chain": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathfrak F_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}}^{+}",
+    "interpretation": "Coherence stabilizes continuity propagation, which preserves navigable field structure, which preserves traversability, which generates recursive temporality, which preserves admissible future participation viability."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability organizes through a navigable continuity field.",
+    "Continuity propagates through coherence-preserving field structure.",
+    "Traversability corresponds to navigability through the field.",
+    "Fragmentation is continuity field decoherence.",
+    "Recovery restores navigable field coherence."
+  ],
+
+  "deep_compression_points": [
+    "Recursive viability organizes through navigable continuity fields.",
+    "Continuity propagates as coherence-preserving field structure.",
+    "Traversability measures field navigability.",
+    "Rotor structures stabilize local continuity reservoirs.",
+    "Coupled rotors preserve scalable continuity transfer.",
+    "Resonance stabilizes multiscale field propagation.",
+    "Fragmentation corresponds to continuity field decoherence.",
+    "Protected cores preserve bounded local coherence.",
+    "Collapse contracts navigable continuity pathways.",
+    "Recovery restores field recoherence and traversability.",
+    "Graphs discretize navigable continuity structure.",
+    "Recursive temporality emerges through sustained field propagation."
+  ],
+
+  "connections": [
+    "admissible_future_participation_geometry",
+    "coherence_functional",
+    "inter_rotor_coherence_geometry",
+    "recursive_temporal_coherence_principle",
+    "relational_transfer_geometry",
+    "multiscale_continuity_wave_integration",
+    "recursive_participatory_traversability_principle",
+    "existential_continuity_invariant"
+  ],
+
+  "one_sentence_lock": "Persistent adaptive existence organizes through a navigable continuity field preserving coherent recursively traversable continuity propagation across admissible future participation geometry."
+}
