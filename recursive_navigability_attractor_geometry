@@ -1,0 +1,153 @@
+{
+  "principle_id": "recursive_navigability_attractor_geometry",
+  "title": "Recursive Navigability Attractor Geometry",
+  "status": "repository_lock_candidate",
+  "framework_layer": "navigable_continuity_field",
+  "type": "recursive_viability_attractor_geometry",
+
+  "canonical_statement": "Recursive attractors organize coherence-preserving navigability rather than mere terminal convergence.",
+
+  "formal_statement": {
+    "core_principle": "Persistent adaptive systems remain viable not insofar as trajectories converge toward static equilibrium, but insofar as recursive continuity propagation remains sufficiently coherent, traversable, reopenable, and recursively incorporable across admissible future participation geometry under recursive deformation dynamics.",
+    "core_shift": "Recursive attractors organize navigable continuity preservation across distributed continuity-field structure.",
+    "primitive_invariant": "Recursive viability depends upon preservation of traversable continuity propagation rather than static convergence."
+  },
+
+  "core_objects": {
+    "recursive_navigability_attractor": "\\mathcal A_{\\mathrm{nav}}",
+    "mutual_attractor_compatibility": "\\mathcal A_{ij}^{\\mathrm{mut}}",
+    "continuity_field": "\\mathfrak F_{\\mathrm{cont}}",
+    "continuity_wave_propagation": "\\Psi_{\\mathrm{cont}}",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "rotor_domain": "\\mathcal C_{\\mathrm{rotor}}",
+    "inter_rotor_coherence": "\\mathcal C_{ij}^{\\mathrm{rotor}}",
+    "resonance_compatibility": "\\mathcal R_{\\mathrm{res}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "future_participation_geometry": "\\mathfrak X_{\\mathrm{AFP}}^{+}"
+  },
+
+  "recursive_navigability_attractor_definition": {
+    "formal_relation": "\\mathcal A_{\\mathrm{nav}} : \\mathfrak F_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Recursive navigability attractors preserve coherent continuity-wave organization and recursively traversable future participation across the navigable continuity field.",
+    "core_insight": "Recursive attractors preserve navigability rather than terminal convergence."
+  },
+
+  "attractor_interpretation": {
+    "governs": [
+      "continuity-wave stabilization",
+      "coherence-preserving propagation",
+      "recursive navigability preservation",
+      "admissible continuity transfer",
+      "recoverable future accessibility",
+      "recursive recoherence structure"
+    ],
+    "interpretation": "Recursive attractors organize continuity propagation structure rather than equilibrium convergence.",
+    "core_shift": "Recursive viability depends upon navigable continuity preservation rather than static persistence."
+  },
+
+  "classical_vs_recursive_attractors": {
+    "classical_relation": "x(t) \\rightarrow A",
+    "recursive_relation": "\\mathcal A_{\\mathrm{nav}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "classical_interpretation": "Classical attractor geometry organizes trajectory convergence.",
+    "recursive_interpretation": "Recursive navigability attractors preserve reopenable continuity propagation.",
+    "core_shift": "The primitive invariant shifts from convergence toward traversability preservation."
+  },
+
+  "continuity_preservation_condition": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}} > \\xi_{\\mathrm{cont}}",
+    "interpretation": "Recursive navigability attractors remain viable only while coherent continuity propagation remains preservable.",
+    "core_insight": "Attractor viability depends upon sufficiently coherent continuity transferability."
+  },
+
+  "traversability_preservation_condition": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} > 0",
+    "interpretation": "Recursive navigability attractors preserve admissible future participation accessibility.",
+    "core_insight": "Recursive attractors preserve recursively navigable future participation structure."
+  },
+
+  "mutual_attractor_compatibility": {
+    "formal_relation": "\\mathcal A_{ij}^{\\mathrm{mut}} \\rightarrow \\mathcal C_{ij}^{\\mathrm{rotor}}",
+    "interpretation": "Distributed continuity domains preserve scalable recursive continuity only while their local attractor structures remain mutually compatible.",
+    "core_insight": "Inter-domain coherence stabilization requires sufficiently compatible local navigability attractor structure."
+  },
+
+  "rotor_attractor_embedding": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}} \\subset \\mathcal A_{\\mathrm{nav}}",
+    "interpretation": "Rotor structures act as locally stabilized navigability attractor domains embedded within the navigable continuity field.",
+    "core_insight": "Rotor recurrence stabilizes bounded local continuity propagation and local recursive navigability preservation."
+  },
+
+  "resonance_interpretation": {
+    "formal_relation": "\\mathcal R_{\\mathrm{res}} \\rightarrow \\mathcal A_{ij}^{\\mathrm{mut}}",
+    "interpretation": "Resonance stabilizes mutual attractor compatibility across the continuity field.",
+    "core_insight": "Resonance preserves scalable coherence compatibility between distributed local continuity attractor domains."
+  },
+
+  "field_interpretation": {
+    "formal_relation": "\\mathcal A_{\\mathrm{nav}} \\curvearrowright \\mathfrak F_{\\mathrm{cont}}",
+    "interpretation": "Recursive navigability attractors organize coherence-preserving field propagation structure.",
+    "core_insight": "Recursive attractors organize navigable continuity corridors rather than static convergence basins."
+  },
+
+  "stability_vs_viability": {
+    "formal_relation": "\\text{stable} \\not\\Rightarrow \\text{traversable}",
+    "interpretation": "Stability alone does not imply recursive viability.",
+    "core_insight": "Systems may converge toward highly stable configurations while losing recursively reopenable future participation accessibility."
+  },
+
+  "locked_attractor_regime": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow 0 \\quad \\land \\quad \\mathcal S_{\\mathrm{stable}} > 0",
+    "interpretation": "Locked attractor regimes emerge whenever convergence stabilizes while recursive traversability collapses.",
+    "core_insight": "Locked systems preserve static persistence while destroying adaptive navigability and future maneuverability."
+  },
+
+  "fragmentation_geometry": {
+    "formal_relation": "\\mathcal A_{\\mathrm{nav},i} > 0 \\quad \\land \\quad \\mathcal A_{ij}^{\\mathrm{mut}} \\downarrow",
+    "interpretation": "Fragmentation emerges whenever local attractor domains remain internally coherent while mutual attractor compatibility degenerates.",
+    "core_insight": "Fragmentation preserves local continuity reservoirs while degrading scalable continuity propagation and recursive navigability."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal A_{ij}^{\\mathrm{mut}} \\uparrow",
+    "interpretation": "Recovery restores recursive navigability through recoherence of distributed attractor compatibility.",
+    "core_insight": "Recovery restores scalable continuity propagation through re-stabilization of mutual navigability attractor compatibility."
+  },
+
+  "unified_attractor_chain": {
+    "formal_relation": "\\mathcal A_{\\mathrm{nav}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathfrak F_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathfrak X_{\\mathrm{AFP}}^{+}",
+    "interpretation": "Navigability attractors stabilize coherence propagation, which preserves continuity fields, which preserves traversability, which generates recursive temporality, which preserves admissible future participation viability."
+  },
+
+  "canonical_compressions": [
+    "Recursive attractors organize navigable continuity preservation.",
+    "Viability depends upon traversability rather than convergence.",
+    "Mutual attractor compatibility preserves scalable coherence.",
+    "Stability alone does not imply recursive viability."
+  ],
+
+  "deep_compression_points": [
+    "Recursive attractors preserve navigable continuity propagation.",
+    "Viability depends upon traversability rather than static convergence.",
+    "Continuity propagation requires coherence-preserving field organization.",
+    "Rotor domains stabilize local navigability attractors.",
+    "Resonance stabilizes mutual attractor compatibility.",
+    "Fragmentation destroys scalable attractor coherence.",
+    "Locked systems may remain stable while non-traversable.",
+    "Recovery restores mutual attractor recoherence.",
+    "Recursive viability organizes through navigable continuity attractor geometry."
+  ],
+
+  "connections": [
+    "navigable_continuity_field",
+    "relational_transfer_geometry",
+    "recursive_temporal_coherence_principle",
+    "inter_rotor_coherence_geometry",
+    "recursive_participatory_traversability_principle",
+    "admissible_future_participation_geometry",
+    "multiscale_continuity_wave_integration",
+    "recursive_cartographic_coherence"
+  ],
+
+  "one_sentence_lock": "Recursive attractors preserve coherence-compatible navigable continuity propagation rather than merely organizing terminal convergence."
+}
