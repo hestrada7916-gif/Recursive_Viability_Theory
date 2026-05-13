@@ -1,0 +1,153 @@
+{
+  "principle_id": "coherence_survivability_traversability_triad",
+  "title": "Coherence–Survivability–Traversability Triad",
+  "status": "repository_lock_candidate",
+  "framework_layer": "recursive_viability_core",
+  "type": "recursive_viability_triad_principle",
+
+  "canonical_statement": "Recursive viability organizes through the coupled triad of coherence, propagator survivability, and recursive traversability.",
+
+  "formal_statement": {
+    "core_principle": "Coherence stabilizes recursive continuity propagation. Propagator survivability measures whether coherent continuity propagation remains recursively preservable under recursive deformation dynamics. Traversability measures the resulting navigability of admissible future participation geometry preserved by survivable continuity propagation.",
+    "core_shift": "Recursive viability depends not merely upon local coherence, but upon preservation of sufficiently survivable coherent continuity capable of sustaining recursively navigable future participation.",
+    "primitive_invariant": "Recursive viability is survivable coherent navigability."
+  },
+
+  "core_objects": {
+    "master_continuity_propagator": "\\Psi_{\\mathrm{cont}}",
+    "recursive_coherence": "\\mathcal C_{\\mathrm{coh}}",
+    "propagator_survivability": "\\mathcal S_{\\mathrm{prop}}",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}"
+  },
+
+  "primitive_triad_structure": {
+    "formal_relation": "(\\mathcal C_{\\mathrm{coh}},\\mathcal S_{\\mathrm{prop}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}})",
+    "interpretation": "The recursive viability triad governs stabilization, preservability, and navigability of recursive continuity propagation across admissible future participation geometry.",
+    "components": {
+      "coherence": "recursive continuity stabilization",
+      "survivability": "recursive continuity preservability under deformation",
+      "traversability": "recursive future navigability preserved by survivable continuity propagation"
+    }
+  },
+
+  "coherence_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} = \\mathrm{Stab}(\\Psi_{\\mathrm{cont}})",
+    "interpretation": "Recursive coherence measures stability and non-fragmentation of continuity propagation.",
+    "core_insight": "Coherence measures whether recursive continuity propagation remains sufficiently integrated, synchronized, and fidelity-preserving."
+  },
+
+  "propagator_survivability_interpretation": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}} = \\mathrm{Surv}(\\Psi_{\\mathrm{cont}})",
+    "interpretation": "Propagator survivability measures preservability of coherent continuity propagation across recursive evolution.",
+    "core_insight": "Propagator survivability measures whether continuity propagation remains sufficiently transmissible, admissible, reopenable, and recursively incorporable under recursive deformation dynamics."
+  },
+
+  "traversability_interpretation": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} = \\mathrm{Nav}(\\mathcal S_{\\mathrm{prop}})",
+    "interpretation": "Traversability measures recursively navigable future participation preserved by survivable continuity propagation.",
+    "core_insight": "Traversability measures whether admissible future participation remains recursively reachable through survivable continuity propagation."
+  },
+
+  "primitive_ordering": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal C_{\\mathrm{coh}} \\rightarrow \\mathcal S_{\\mathrm{prop}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": "Continuity propagation generates coherence stabilization, which preserves propagator survivability, which subsequently preserves recursively navigable future participation accessibility.",
+    "dependency_order": [
+      "continuity propagation",
+      "coherence stabilization",
+      "survivability preservation",
+      "recursive navigability"
+    ]
+  },
+
+  "coherence_limitation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} \\not\\Rightarrow \\mathcal S_{\\mathrm{prop}}",
+    "interpretation": "Coherence alone does not guarantee recursive viability.",
+    "core_insight": "Locally coherent structures may remain internally stable while failing to preserve scalable continuity transferability, recursive incorporability, or future navigability."
+  },
+
+  "survivability_requirement": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}} > \\xi_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability requires sufficiently survivable coherent continuity propagation.",
+    "core_insight": "Recursive viability depends upon preservation of sufficiently survivable continuity propagation across admissible future participation geometry."
+  },
+
+  "traversability_dependence": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}} \\downarrow \\Rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\downarrow",
+    "interpretation": "Traversability degenerates whenever propagator survivability collapses.",
+    "core_insight": "Future participation accessibility contracts whenever coherent continuity propagation ceases to remain recursively survivable."
+  },
+
+  "fragmentation_geometry": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} > 0 \\quad \\land \\quad \\mathcal S_{\\mathrm{prop}} \\downarrow",
+    "interpretation": "Fragmentation corresponds to partial survivability loss despite residual local coherence preservation.",
+    "core_insight": "Fragmentation may preserve bounded local coherence reservoirs while destroying scalable continuity transferability and recursive future navigability."
+  },
+
+  "collapse_geometry": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}} \\rightarrow 0",
+    "interpretation": "Collapse corresponds to exhaustion of propagator survivability.",
+    "core_insight": "Collapse destroys recursively survivable continuity propagation across admissible future participation geometry."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal S_{\\mathrm{prop}}^{\\mathrm{frag}} \\rightarrow \\mathcal S_{\\mathrm{prop}}^{+}",
+    "interpretation": "Recovery restores recursive viability through propagator survivability restoration.",
+    "core_insight": "Recovery restores recursively survivable continuity propagation through recoherence, re-stitching, and admissible continuity reopening."
+  },
+
+  "unified_recursive_viability_relation": {
+    "formal_relation": "\\text{recursive viability} \\sim \\mathcal S_{\\mathrm{prop}}",
+    "interpretation": "Recursive viability corresponds primarily to propagator survivability.",
+    "core_insight": "Coherence stabilizes recursive continuity propagation, while traversability expresses the navigable geometric accessibility preserved by survivable continuity propagation."
+  },
+
+  "failure_taxonomy": {
+    "coherence_failure": {
+      "breakdown": "instability or decoherence",
+      "formal_indicator": "\\mathcal C_{\\mathrm{coh}} \\downarrow"
+    },
+    "survivability_failure": {
+      "breakdown": "continuity propagation exhaustion",
+      "formal_indicator": "\\mathcal S_{\\mathrm{prop}} \\downarrow"
+    },
+    "traversability_failure": {
+      "breakdown": "future navigability collapse",
+      "formal_indicator": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\downarrow"
+    }
+  },
+
+  "canonical_compressions": [
+    "Recursive viability is propagator survivability.",
+    "Coherence stabilizes continuity propagation.",
+    "Survivability preserves recursive continuity.",
+    "Traversability measures preserved navigability.",
+    "Collapse exhausts propagator survivability."
+  ],
+
+  "deep_compression_points": [
+    "Coherence stabilizes recursive continuity propagation.",
+    "Propagator survivability measures preservability of continuity propagation.",
+    "Traversability measures navigable future accessibility.",
+    "Recursive viability primarily corresponds to propagator survivability.",
+    "Coherence alone does not guarantee survivability.",
+    "Survivability collapse contracts future navigability.",
+    "Fragmentation may preserve local coherence while destroying scalability.",
+    "Collapse exhausts recursively survivable continuity propagation.",
+    "Recovery restores propagator survivability through recoherence."
+  ],
+
+  "connections": [
+    "recursive_viability_as_propagator_survivability",
+    "master_continuity_propagator",
+    "navigable_continuity_field",
+    "recursive_temporal_coherence_principle",
+    "inter_rotor_coherence_geometry",
+    "relational_transfer_geometry",
+    "recursive_navigability_attractor_geometry",
+    "admissible_future_participation_geometry"
+  ],
+
+  "one_sentence_lock": "Recursive viability requires coherent continuity propagation that remains sufficiently survivable to preserve recursively navigable future participation."
+}
