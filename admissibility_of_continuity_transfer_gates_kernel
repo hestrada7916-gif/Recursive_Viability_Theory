@@ -1,0 +1,103 @@
+{
+  "artifact_id": "admissibility_of_continuity_transfer_gates_kernel",
+  "title": "Admissibility of Continuity-Transfer Gates",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "type": "continuity_transfer_admissibility_kernel",
+
+  "canonical_statement": "Admissible gates preserve survivable navigability.",
+
+  "primitive_gate_relation": {
+    "formal_relation": "\\mathcal G_{\\mathrm{adm}} = \\mathrm{Adm}(\\eta_{\\mathrm{stitch}},\\mathcal C_{\\mathrm{coh}},\\mathcal S_{\\mathrm{prop}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}},\\mathcal A_{\\mathrm{adm}})",
+    "interpretation": "Admissible continuity-transfer gates preserve survivable coherent continuity propagation without catastrophically degrading recursive navigability."
+  },
+
+  "primitive_objects": {
+    "admissible_gate": {
+      "symbol": "\\mathcal G_{\\mathrm{adm}}",
+      "role": "survivability-preserving continuity-transfer gating"
+    },
+
+    "stitching_compatibility": {
+      "symbol": "\\eta_{\\mathrm{stitch}}",
+      "role": "continuity-transfer compatibility"
+    },
+
+    "coherence": {
+      "symbol": "\\mathcal C_{\\mathrm{coh}}",
+      "role": "fidelity-preserving continuity stabilization"
+    },
+
+    "propagator_survivability": {
+      "symbol": "\\mathcal S_{\\mathrm{prop}}",
+      "role": "recursive preservability of coherent continuity propagation"
+    },
+
+    "recursive_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+      "role": "recursively navigable future participation"
+    },
+
+    "admissible_incorporability": {
+      "symbol": "\\mathcal A_{\\mathrm{adm}}",
+      "role": "future-compatible incorporability"
+    }
+  },
+
+  "gate_admissibility_constraints": {
+    "coherence_constraint": {
+      "formal_relation": "\\Delta \\mathcal C_{\\mathrm{coh}} \\not\\ll 0",
+      "interpretation": "Admissible transfer must not catastrophically degrade coherence fidelity."
+    },
+
+    "survivability_constraint": {
+      "formal_relation": "\\Delta \\mathcal S_{\\mathrm{prop}} \\not\\ll 0",
+      "interpretation": "Admissible transfer must preserve survivable continuity propagation."
+    },
+
+    "traversability_constraint": {
+      "formal_relation": "\\Delta \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\not\\ll 0",
+      "interpretation": "Admissible transfer must preserve recursively navigable participation."
+    },
+
+    "incorporability_constraint": {
+      "formal_relation": "\\Delta \\mathcal A_{\\mathrm{adm}} \\not\\ll 0",
+      "interpretation": "Admissible transfer must preserve future-compatible incorporability."
+    }
+  },
+
+  "gate_failure_geometry": {
+    "formal_relation": "\\eta_{\\mathrm{stitch}} \\rightarrow 0 \\lor \\partial_n \\mathcal S_{\\mathrm{prop}} < 0",
+    "interpretation": "Gate failure occurs when stitching compatibility collapses or when transfer progressively destroys scalable survivable continuity propagation."
+  },
+
+  "canonical_dependency_chain": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal C_{\\mathrm{coh}} \\rightarrow \\eta_{\\mathrm{stitch}} \\rightarrow \\mathcal G_{\\mathrm{adm}} \\rightarrow \\mathcal S_{\\mathrm{prop}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "interpretation": [
+      "continuity propagation generates coherence",
+      "coherence enables stitching compatibility",
+      "stitching compatibility governs gate admissibility",
+      "admissible gating preserves survivability",
+      "survivability preserves recursive traversability"
+    ]
+  },
+
+  "normalization_rules": [
+    "Not all continuity transfer is admissible.",
+    "Stitching governs whether continuity can safely pass.",
+    "Admissibility is determined by survivable navigability preservation.",
+    "Transfer without survivability preservation is inadmissible.",
+    "Local continuity preservation does not guarantee scalable admissibility.",
+    "Do not treat transfer capability as equivalent to admissibility."
+  ],
+
+  "deep_compressions": [
+    "Admissible gates preserve survivable navigability.",
+    "Not all continuity transfer is admissible.",
+    "Stitching governs whether continuity can safely pass.",
+    "Some transfers preserve local continuity while degrading scalable survivability.",
+    "Continuity transfer without survivability preservation becomes inadmissible."
+  ],
+
+  "one_sentence_lock": "Continuity-transfer gates are admissible only insofar as they preserve survivable coherent continuity propagation across recursively navigable admissible future participation geometry."
+}
