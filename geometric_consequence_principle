@@ -1,0 +1,135 @@
+{
+  "principle_id": "geometric_consequence_principle",
+  "title": "Geometric Consequence Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_viability_geometry",
+  "type": "participatory_future_geometry_principle",
+
+  "canonical_statement": "Actions have real geometric consequences.",
+
+  "deep_compression_statement": "Every action changes the shape of the future.",
+
+  "formal_statement": {
+    "statement": "Adaptive actions modify admissible future participation geometry by either preserving or contracting recursively traversable future accessibility across recursive scale.",
+    "interpretation": "Actions alter the structure of reachable future participation and therefore carry real geometric consequences.",
+    "core_insight": "Healthy systems are built through actions that preserve meaningful future participation across recursive time."
+  },
+
+  "core_objects": {
+    "action_operator": "\\mathcal A_{\\mathrm{act}}",
+    "admissible_future_participation_geometry": "\\mathfrak X_{\\mathrm{AFP}}",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "continuity_percolation_capacity": "\\mathcal P_{\\mathrm{cont}}",
+    "trust_compatibility": "\\mathcal R_{\\mathrm{trust}}",
+    "recursive_reweaving_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "future_accessibility": "\\mathcal A_{\\mathrm{future}}",
+    "recursive_viability": "\\mathcal V_{\\mathrm{rec}}"
+  },
+
+  "future_geometry_modification": {
+    "formal_relation": "\\mathcal A_{\\mathrm{act}}:\\mathfrak X_{\\mathrm{AFP}}\\rightarrow\\mathfrak X_{\\mathrm{AFP}}'",
+    "interpretation": "Every action transforms the geometry of reachable future participation.",
+    "deep_form": "Every action changes the shape of the future."
+  },
+
+  "path_opening_and_contraction": {
+    "path_opening_condition": "\\Delta\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}>0",
+    "path_closing_condition": "\\Delta\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}<0",
+
+    "interpretation": "Actions may either expand or contract recursively traversable future accessibility.",
+
+    "deep_forms": [
+      "Some actions open paths.",
+      "Some actions close them."
+    ]
+  },
+
+  "trust_and_recoverability_geometry": {
+    "formal_relation": "(\\mathcal R_{\\mathrm{trust}},\\mathcal W_{\\mathrm{rew}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}})\\rightarrow\\mathcal P_{\\mathrm{cont}}",
+
+    "interpretation": "Trust compatibility, recoverability, and participatory continuity preserve scalable future continuity propagation.",
+
+    "compression_relation": "\\Delta\\mathcal P_{\\mathrm{cont}}<0",
+
+    "collapse_interpretation": "Actions that degrade trust, recoverability, or participation compress future accessibility and narrow reachable preservable futures.",
+
+    "deep_form": "Some actions preserve trust, recoverability, and participation. Others compress possibility."
+  },
+
+  "recursive_viability_condition": {
+    "formal_relation": "\\inf_{n<n_c}\\mathcal P_{\\mathrm{cont}}(n)>\\xi_{\\mathrm{perc}}",
+
+    "interpretation": "Healthy adaptive systems preserve recursively scalable continuity propagation across recursive participation scale.",
+
+    "deep_form": "Healthy systems preserve meaningful future participation."
+  },
+
+  "non_perfection_principle": {
+    "formal_relation": "\\text{viability}\\neq\\text{perfection}",
+
+    "interpretation": "Recursive viability does not require perfect stability or absence of deformation. It depends upon preservation of recoverable future participation under recursive constraint.",
+
+    "deep_forms": [
+      "Healthy systems are not built through perfection.",
+      "They are built through preservation of meaningful future participation across time."
+    ]
+  },
+
+  "participatory_future_geometry": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\sim\\mathcal P_{\\mathrm{cont}}",
+
+    "interpretation": "Future participation accessibility depends upon recursively scalable continuity propagation.",
+
+    "deep_form": "Meaningful futures remain reachable only while continuity remains recursively traversable."
+  },
+
+  "collapse_geometry": {
+    "formal_relation": "\\mathcal P_{\\mathrm{cont}}\\downarrow\\Rightarrow\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\downarrow",
+
+    "interpretation": "Collapse progressively contracts admissible future participation geometry through degradation of scalable continuity propagation.",
+
+    "deep_form": "Collapse narrows what futures remain reachable."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathfrak X_{\\mathrm{AFP}}^{\\mathrm{frag}}\\rightarrow\\mathfrak X_{\\mathrm{AFP}}^{+}",
+
+    "interpretation": "Recovery restores meaningful future participation through recoherence, re-stitching, and reopening of continuity-transfer pathways.",
+
+    "deep_form": "Recovery reopens future participation geometry."
+  },
+
+  "canonical_compression": [
+    "Actions have real geometric consequences.",
+    "Every action changes the shape of the future.",
+    "Some actions open paths.",
+    "Some actions close them.",
+    "Healthy systems preserve meaningful future participation.",
+    "Healthy systems are not built through perfection."
+  ],
+
+  "deep_compression_points": [
+    "Actions modify future participation geometry.",
+    "Some actions preserve traversability.",
+    "Some actions compress future accessibility.",
+    "Trust preserves scalable continuity compatibility.",
+    "Recoverability preserves future reopenability.",
+    "Participation preserves adaptive viability.",
+    "Healthy systems preserve meaningful future participation.",
+    "Existence persists through recursively preservable future accessibility."
+  ],
+
+  "connections": [
+    "recursive_continuity_transport_geometry",
+    "existential_percolation_principle",
+    "recursive_participatory_traversability_principle",
+    "admissible_future_participation_geometry",
+    "future_accessibility_contraction_geometry",
+    "topological_recovery_theory",
+    "recursive_admissibility_flow_principle",
+    "continuity_percolation_geometry"
+  ],
+
+  "one_sentence_lock": "Actions alter admissible future participation geometry by either preserving or contracting recursively traversable future accessibility across recursive scale."
+}
