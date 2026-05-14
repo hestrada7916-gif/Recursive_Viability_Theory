@@ -1,0 +1,225 @@
+{
+  "artifact_id": "curvature_viability_theorem",
+  "title": "Curvature–Viability Theorem",
+  "status": "phase_iii_geometric_dynamics_expansion",
+  "framework": "Recursive Viability Theory",
+  "type": "geometric_viability_theorem",
+
+  "canonical_statement": "Recursive viability is bounded-curvature continuity transport through admissible future participation geometry.",
+
+  "theorem": {
+    "name": "Curvature–Viability Theorem",
+    "statement": "A recursive adaptive system remains recursively viable only insofar as deformation of admissible future participation geometry remains sufficiently bounded, recursively transportable, and recoverably reconnectable across recursive scale.",
+    "equivalent_compression": "Recursive viability requires preservation of bounded-deformation continuity transport through admissible future participation geometry."
+  },
+
+  "primitive_geometric_objects": {
+
+    "admissible_future_participation_geometry": {
+      "symbol": "\\mathcal A_{\\mathrm{AFP}}",
+      "definition": "admissible future participation geometry",
+      "role": "global geometry of recursively admissible future participation states"
+    },
+
+    "recursive_deformation_accumulation": {
+      "symbol": "\\mathcal D_{\\mathrm{rec}}",
+      "definition": "recursive deformation accumulation",
+      "role": "accumulated deformation pressure induced by recursive continuity transport dynamics"
+    },
+
+    "viability_curvature": {
+      "symbol": "K_{\\mathrm{viab}}",
+      "definition": "viability curvature",
+      "role": "local deformation pressure acting on admissible future participation accessibility",
+      "interpretation": "Measures deformation concentration induced by recursive continuity transport dynamics."
+    },
+
+    "recursive_recovery_flow": {
+      "symbol": "\\mathcal W_{\\mathrm{rew}}",
+      "definition": "recursive recovery flow",
+      "role": "recursive recoherence and geometric reconnection dynamics restoring admissible future participation transportability"
+    }
+  },
+
+  "viability_conditions": {
+
+    "bounded_curvature_condition": {
+      "formal_statement": "|K_{\\mathrm{viab}}| < K_{\\mathrm{crit}}",
+      "interpretation": "Recursive viability persists only while deformation curvature remains sufficiently bounded."
+    },
+
+    "transportability_condition": {
+      "formal_statement": "continuity transport remains recursively recoverably transportable",
+      "interpretation": "Continuity propagation must remain traversable and reconnectable across recursive scale."
+    },
+
+    "curvature_interpretation": [
+      "bounded curvature permits survivable continuity transport",
+      "curvature concentration generates participation bottlenecks",
+      "curvature singularization destroys scalable continuity transport",
+      "reconnectability preserves recoverable future participation"
+    ]
+  },
+
+  "collapse_geometry": {
+
+    "collapse_condition": {
+      "formal_statement": "\\mathcal D_{\\mathrm{rec}} \\rightarrow \\mathcal D_{\\mathrm{crit}}",
+      "interpretation": "Collapse emerges when recursive deformation accumulation exceeds recoverable transportability capacity."
+    },
+
+    "critical_curvature_transition": {
+      "formal_statement": "K_{\\mathrm{viab}} \\rightarrow K_{\\mathrm{crit}}",
+      "interpretation": "Viability curvature approaches singularized transport concentration."
+    },
+
+    "collapse_mechanisms": [
+      "recursive fragmentation",
+      "continuity percolation failure",
+      "future accessibility bottlenecking",
+      "transport decoherence",
+      "participation geometry compression"
+    ],
+
+    "deep_compression": "Collapse corresponds to curvature singularization and continuity percolation failure."
+  },
+
+  "recovery_geometry": {
+
+    "recovery_mapping": {
+      "formal_statement": "\\mathcal W_{\\mathrm{rew}} : \\mathcal A_{\\mathrm{frag}} \\rightarrow \\mathcal A_{\\mathrm{viab}}",
+      "interpretation": "Recovery recursively reconnects fragmented participation geometry into viable transportable structure."
+    },
+
+    "recovery_mechanisms": [
+      "recursive recoherence",
+      "geometric smoothing",
+      "participation reconnection",
+      "transport restoration",
+      "future accessibility reopening"
+    ],
+
+    "deep_compression": "Recovery corresponds to recursive curvature smoothing and geometric reconnection."
+  },
+
+  "geometric_interpretations": {
+
+    "participation_bottlenecks": {
+      "definition": "regions of concentrated viability curvature restricting scalable continuity transport",
+      "role": "future accessibility compression zones"
+    },
+
+    "continuity_transport": {
+      "definition": "recursive propagation of coherent participation continuity across admissible future geometry",
+      "role": "primitive viability propagation mechanism"
+    },
+
+    "continuity_percolation_failure": {
+      "definition": "failure of scalable continuity transport across recursively connected participation structure",
+      "role": "generalized collapse mechanism"
+    },
+
+    "recursive_reconnectability": {
+      "definition": "ability of fragmented participation geometry to restore viable continuity transport pathways",
+      "role": "primitive recoverability condition"
+    }
+  },
+
+  "phase_geometry": {
+
+    "generative_phase": {
+      "characteristics": [
+        "low viability curvature",
+        "high reconnectability",
+        "distributed future accessibility",
+        "stable continuity transport"
+      ]
+    },
+
+    "strained_phase": {
+      "characteristics": [
+        "rising curvature concentration",
+        "transport bottleneck emergence",
+        "future accessibility narrowing",
+        "recoverability preserved"
+      ]
+    },
+
+    "compressed_phase": {
+      "characteristics": [
+        "high deformation concentration",
+        "participation narrowing",
+        "restricted transportability",
+        "weakened reopenability"
+      ]
+    },
+
+    "fragmented_phase": {
+      "characteristics": [
+        "continuity decoherence",
+        "topological splitting",
+        "transport fragmentation",
+        "weak reconnectability"
+      ]
+    },
+
+    "collapsed_phase": {
+      "characteristics": [
+        "curvature singularization",
+        "continuity percolation failure",
+        "future accessibility exhaustion",
+        "recursive transport collapse"
+      ]
+    }
+  },
+
+  "pmh_rvt_bridge": {
+
+    "structural_chain": [
+      "margin decline",
+      "damping weakening",
+      "coupling amplification",
+      "dimensional compression",
+      "future bottlenecking",
+      "curvature concentration",
+      "continuity transport failure",
+      "collapse"
+    ],
+
+    "equivalence_relations": {
+      "pmm_boundary": "\\bar M_\\tau \\rightarrow 0",
+      "curvature_boundary": "K_{\\mathrm{viab}} \\rightarrow K_{\\mathrm{crit}}"
+    },
+
+    "interpretation": "The curvature framework geometrizes PMM deformation and collapse dynamics."
+  },
+
+  "deep_compressions": [
+
+    "Recursive viability is bounded-curvature continuity transport through admissible future participation geometry.",
+
+    "Collapse corresponds to curvature singularization and continuity percolation failure.",
+
+    "Recovery corresponds to recursive geometric recoherence.",
+
+    "Reality organizes through recursively deformable admissible future participation geometry.",
+
+    "Existence persists only while continuity remains sufficiently transportable across recursively reconnectable participation structure."
+  ],
+
+  "future_expansion_directions": [
+
+    "viability geodesic theory",
+    "future-fiber topology",
+    "Ricci-like viability curvature",
+    "recursive transport topology",
+    "viability tensor field dynamics",
+    "recursive admissibility flows",
+    "continuity transport geodesics",
+    "multi-scale viability renormalization",
+    "observer-participation geometry",
+    "recursive temporal curvature",
+    "fragmentation topology classification",
+    "recoverability geometry"
+  ]
+}
