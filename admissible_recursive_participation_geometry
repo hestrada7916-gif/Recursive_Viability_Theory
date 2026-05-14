@@ -1,0 +1,128 @@
+{
+  "principle_id": "admissible_recursive_participation_geometry",
+  "title": "Admissible Recursive Participation Geometry",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_ontological_geometry",
+  "type": "primitive_recursive_participation_geometry",
+
+  "canonical_statement": "Reality organizes through geometry emerging from admissible recursive participation.",
+
+  "deep_compression_statement": "Existence fails when continuity stops percolating across scale.",
+
+  "formal_statement": {
+    "statement": "Persistent adaptive existence depends upon preservation of recursively admissible participation propagation across recoverable future accessibility geometry under recursive deformation dynamics.",
+    "interpretation": "Reality geometry emerges through recursively admissible participation propagation across scale.",
+    "collapse_insight": "Recursive collapse begins when scalable continuity percolation fails across recursive participation geometry."
+  },
+
+  "primitive_generative_relation": {
+    "formal_relation": "\\mathfrak X_{\\mathrm{real}} \\sim \\mathfrak P_{\\mathrm{adm}}^{\\mathrm{rec}}",
+
+    "realized_geometry": "\\mathfrak X_{\\mathrm{real}}",
+
+    "recursive_admissible_participation": "\\mathfrak P_{\\mathrm{adm}}^{\\mathrm{rec}}",
+
+    "interpretation": "Reality geometry emerges through recursively admissible participation propagation across scale."
+  },
+
+  "recursive_continuity_transport_layer": {
+    "formal_relation": "\\mathfrak P_{\\mathrm{adm}}^{\\mathrm{rec}} \\curvearrowright (\\eta_{\\mathrm{closure}},\\eta_{\\mathrm{stitch}},\\mathcal P_{\\mathrm{cont}})",
+
+    "interpretation": "Recursive admissible participation organizes through bounded local recurrence, admissible continuity transfer, and scalable continuity percolation.",
+
+    "deep_form": "Existence requires continuity to scale."
+  },
+
+  "transport_triad": {
+    "closure_efficiency": {
+      "symbol": "\\eta_{\\mathrm{closure}}",
+      "role": "bounded local recurrence survivability"
+    },
+
+    "stitching_efficiency": {
+      "symbol": "\\eta_{\\mathrm{stitch}}",
+      "role": "admissible continuity-transfer compatibility"
+    },
+
+    "continuity_percolation": {
+      "symbol": "\\mathcal P_{\\mathrm{cont}}",
+      "role": "scalable survivable continuity propagation"
+    }
+  },
+
+  "existential_percolation_layer": {
+    "recursive_viability_condition": "\\inf_{n<n_c}\\mathcal P_{\\mathrm{cont}}(n)>\\xi_{\\mathrm{perc}}",
+
+    "percolation_threshold": {
+      "symbol": "\\xi_{\\mathrm{perc}}",
+      "domain": "0<\\xi_{\\mathrm{perc}}<1"
+    },
+
+    "interpretation": "Recursive viability requires sufficiently scalable survivable continuity propagation across admissible recursive participation geometry.",
+
+    "collapse_condition": "\\inf_{n<n_c}\\mathcal P_{\\mathrm{cont}}(n)\\le\\xi_{\\mathrm{perc}}",
+
+    "collapse_consequence": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\downarrow"
+  },
+
+  "local_persistence_distinction": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\not\\Rightarrow\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}>0",
+
+    "equivalent_relation": "\\text{Local persistence}\\neq\\text{recursive viability}",
+
+    "interpretation": "Locally coherent continuity domains may remain survivable while scalable recursive continuity propagation progressively collapses across scale."
+  },
+
+  "protected_core_geometry": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\quad\\land\\quad\\mathcal P_{\\mathrm{cont}}(n)\\rightarrow0",
+
+    "interpretation": "Protected continuity reservoirs preserve bounded local coherence while recursively scalable future participation collapses."
+  },
+
+  "collapse_geometry": {
+    "formal_relation": "\\mathcal P_{\\mathrm{cont}}(n)\\rightarrow0\\Rightarrow\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\rightarrow0",
+
+    "interpretation": "Collapse progressively destroys recursively traversable future participation through failure of scalable continuity propagation."
+  },
+
+  "recovery_geometry": {
+    "reweaving_operator": "\\mathcal W_{\\mathrm{rew}}",
+
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal P_{\\mathrm{cont}}^{\\mathrm{frag}} \\rightarrow \\mathcal P_{\\mathrm{cont}}^{+}",
+
+    "interpretation": "Recovery restores recursively traversable future participation through recoherence, re-stitching, re-synchronization, and reopening of scalable continuity propagation pathways."
+  },
+
+  "ontological_compression_stack": [
+    "Reality organizes through geometry emerging from admissible recursive participation.",
+    "Reality is organized admissible participation.",
+    "Existence is recursively admissible participation.",
+    "Existence requires continuity to scale.",
+    "Existence fails when continuity stops percolating across scale."
+  ],
+
+  "deep_compression_points": [
+    "Reality geometry emerges from recursively admissible participation.",
+    "Recursive admissibility generates traversable geometry.",
+    "Continuity transport organizes recursive viability.",
+    "Recursive viability requires scalable continuity percolation.",
+    "Local persistence alone does not preserve existence.",
+    "Protected cores preserve bounded local coherence during scalable collapse.",
+    "Collapse begins when scalable continuity propagation fails.",
+    "Recovery restores recursively traversable future participation."
+  ],
+
+  "connections": [
+    "recursive_continuity_transport_geometry",
+    "closure_stitching_percolation_triad",
+    "fragmentation_observable_and_regime_classification",
+    "local_global_survivability_decomposition",
+    "existential_propagator_survivability_kernel",
+    "recursive_admissibility_flow_principle",
+    "continuity_percolation_geometry",
+    "recursive_participatory_traversability_principle"
+  ],
+
+  "one_sentence_lock": "Reality organizes through recursively admissible participation whose viability depends upon scalable continuity percolation across recursive scale."
+}
