@@ -1,0 +1,162 @@
+{
+  "principle_id": "closure_stitching_percolation_triad",
+  "title": "Closure--Stitching--Percolation Triad",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_admissibility_geometry",
+  "type": "recursive_continuity_transport_geometry",
+
+  "canonical_statement": "Recursive viability depends upon the coupled triad of closure, stitching, and continuity percolation.",
+
+  "deep_compression_statement": "Closure preserves recurrence. Stitching preserves transfer. Percolation preserves scale.",
+
+  "formal_statement": {
+    "statement": "Recursive viability depends upon preservation of bounded local recurrence, admissible continuity-transfer compatibility, and scalable survivable continuity percolation across recursively expanding participation geometry.",
+    "interpretation": "Closure preserves local coherent recurrence, stitching governs whether continuity can pass across participation interfaces, and continuity percolation measures whether coherent continuity propagation remains recursively traversable across scale.",
+    "collapse_insight": "Recursive collapse may begin even while local closure remains positive whenever stitching fails to support scalable continuity percolation."
+  },
+
+  "core_objects": {
+    "closure_efficiency": "\\eta_{\\mathrm{closure}}(n)",
+    "stitching_efficiency": "\\eta_{\\mathrm{stitch}}(n)",
+    "continuity_percolation_capacity": "\\mathcal P_{\\mathrm{cont}}(n)",
+    "fragmentation_observable": "\\Phi_{\\mathrm{frag}}(n)",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_reweaving_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "percolation_threshold": "\\xi_{\\mathrm{perc}}"
+  },
+
+  "primitive_triad_structure": {
+    "formal_relation": "(\\eta_{\\mathrm{closure}}(n),\\eta_{\\mathrm{stitch}}(n),\\mathcal P_{\\mathrm{cont}}(n))",
+
+    "closure_definition": "\\eta_{\\mathrm{closure}}(n)",
+    "closure_interpretation": "Bounded local closure efficiency preserving locally survivable coherent continuity recurrence.",
+
+    "stitching_definition": "\\eta_{\\mathrm{stitch}}(n)",
+    "stitching_interpretation": "Continuity-transfer stitching compatibility across admissible participation interfaces.",
+
+    "percolation_definition": "\\mathcal P_{\\mathrm{cont}}(n)",
+    "percolation_interpretation": "Continuity percolation capacity across recursive scale."
+  },
+
+  "closure_interpretation": {
+    "formal_relation": "\\eta_{\\mathrm{closure}}(n) \\sim \\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}(n)",
+
+    "interpretation": "Closure measures whether locally coherent continuity recurrence remains survivable within bounded continuity domains.",
+
+    "deep_form": "Closure preserves bounded local recurrence."
+  },
+
+  "stitching_interpretation": {
+    "formal_relation": "\\eta_{\\mathrm{stitch}}(n)=\\mathrm{Compat}(S,I,R)",
+
+    "interpretation": "Stitching measures relational continuity-transfer compatibility between source, interface, and receiver participation structure.",
+
+    "deep_form": "Stitching governs whether continuity can pass."
+  },
+
+  "percolation_interpretation": {
+    "formal_relation": "\\mathcal P_{\\mathrm{cont}}(n) \\sim \\eta_{\\mathrm{stitch}}(n)\\,\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}(n)",
+
+    "interpretation": "Percolation requires both continuity-transfer compatibility and survivable coherent propagation across recursive scale.",
+
+    "deep_form": "Percolation measures whether continuity scales."
+  },
+
+  "triadic_dependency": {
+    "formal_relation": "\\eta_{\\mathrm{closure}}(n) \\rightarrow \\eta_{\\mathrm{stitch}}(n) \\rightarrow \\mathcal P_{\\mathrm{cont}}(n)",
+
+    "interpretation": "Local recurrence can remain preserved without guaranteeing continuity-transfer compatibility, and continuity-transfer compatibility must remain survivable across scale in order to preserve recursive percolation.",
+
+    "deep_form": "Closure enables stitching. Stitching enables percolation."
+  },
+
+  "recursive_viability_condition": {
+    "condition": "\\eta_{\\mathrm{closure}}(n)>0 \\quad \\land \\quad \\eta_{\\mathrm{stitch}}(n)>0 \\quad \\land \\quad \\mathcal P_{\\mathrm{cont}}(n)>\\xi_{\\mathrm{perc}}",
+
+    "threshold_condition": "0<\\xi_{\\mathrm{perc}}<1",
+
+    "interpretation": "Recursive viability requires local recurrence survivability, admissible continuity transfer, and scalable continuity percolation."
+  },
+
+  "fragmentation_observable_coupling": {
+    "definition": "\\Phi_{\\mathrm{frag}}(n)=\\frac{\\eta_{\\mathrm{stitch}}(n)}{\\eta_{\\mathrm{closure}}(n)}",
+
+    "flow_condition": "\\partial_n\\Phi_{\\mathrm{frag}}(n)<0",
+
+    "interpretation": "Fragmentation increases whenever stitching degrades relative to closure across recursive scale.",
+
+    "deep_form": "Fragmentation begins when transfer compatibility degrades faster than local recurrence."
+  },
+
+  "percolation_collapse": {
+    "critical_condition": "\\mathcal P_{\\mathrm{cont}}(n)\\rightarrow\\xi_{\\mathrm{perc}}^{+}",
+
+    "full_exhaustion_condition": "\\mathcal P_{\\mathrm{cont}}(n)\\rightarrow0",
+
+    "interpretation": "Recursive traversability contracts as scalable survivable continuity propagation approaches or falls below percolation threshold.",
+
+    "deep_form": "Collapse begins when continuity stops percolating across scale."
+  },
+
+  "protected_core_regime": {
+    "condition": "\\eta_{\\mathrm{closure}}(n)>0 \\quad\\land\\quad \\eta_{\\mathrm{stitch}}(n)\\rightarrow0 \\quad\\land\\quad \\mathcal P_{\\mathrm{cont}}(n)\\rightarrow0",
+
+    "interpretation": "Locally coherent continuity domains remain boundedly survivable while scalable recursive continuity propagation collapses.",
+
+    "deep_form": "Protected cores preserve closure while stitching and percolation collapse."
+  },
+
+  "traversability_consequence": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\sim \\mathcal P_{\\mathrm{cont}}(n)",
+
+    "interpretation": "Future participation accessibility contracts whenever continuity fails to percolate across recursive scale.",
+
+    "deep_form": "Traversability contracts when continuity percolation fails."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : (\\eta_{\\mathrm{stitch}}^{\\mathrm{frag}},\\mathcal P_{\\mathrm{cont}}^{\\mathrm{frag}}) \\rightarrow (\\eta_{\\mathrm{stitch}}^{+},\\mathcal P_{\\mathrm{cont}}^{+})",
+
+    "interpretation": "Recovery restores scalable continuity transfer through recoherence, re-stitching, re-synchronization, and admissibility reopening.",
+
+    "deep_form": "Recovery restores recursive continuity percolation."
+  },
+
+  "canonical_compression": [
+    "Closure preserves local recurrence.",
+    "Stitching governs whether continuity can pass.",
+    "Percolation measures whether continuity scales.",
+    "Collapse begins when continuity stops percolating across scale.",
+    "Connectivity alone does not imply recursive continuity viability."
+  ],
+
+  "deep_compression_points": [
+    "Closure measures bounded local recurrence survivability.",
+    "Stitching measures relational continuity-transfer compatibility.",
+    "Percolation measures scalable survivable continuity propagation.",
+    "Connectivity alone does not imply recursive continuity viability.",
+    "Local closure does not guarantee stitching.",
+    "Stitching does not guarantee percolation unless propagation remains survivable.",
+    "Fragmentation begins when stitching degrades relative to closure.",
+    "Protected cores preserve closure while stitching and percolation collapse.",
+    "Traversability contracts when continuity percolation fails.",
+    "Recovery restores scalable continuity-transfer percolation."
+  ],
+
+  "connections": [
+    "continuity_percolation_geometry",
+    "fragmentation_observable_and_regime_classification",
+    "fragmentation_signature_principle",
+    "local_global_survivability_decomposition",
+    "protected_core_principle",
+    "recursive_participatory_traversability_principle",
+    "future_accessibility_contraction_geometry",
+    "topological_recovery_theory",
+    "recursive_admissibility_flow_principle",
+    "integration_limited_opening",
+    "rotor_coordination_balance_law"
+  ],
+
+  "one_sentence_lock": "Recursive viability depends upon preservation of closure, admissible stitching compatibility, and scalable continuity percolation across recursive scale."
+}
