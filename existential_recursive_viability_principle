@@ -1,0 +1,145 @@
+{
+  "principle_id": "existential_recursive_viability_principle",
+  "title": "Existential Recursive Viability Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_existential_geometry",
+  "type": "existential_recursive_viability_principle",
+
+  "canonical_statement": "Adaptive existence persists only while coherent continuity propagation remains recursively percolative across scalable participation geometry.",
+
+  "deep_compression_statement": "Existence is a stabilized recursive viability regime.",
+
+  "formal_statement": {
+    "statement": "Adaptive existence fails whenever coherent continuity propagation ceases to percolate across recursive scale.",
+    "interpretation": "Persistent adaptive existence depends not merely upon bounded local persistence, but upon preservation of recursively scalable survivable continuity propagation across admissible participation geometry.",
+    "collapse_insight": "Recursive collapse begins whenever scalable continuity percolation falls beneath recursive viability threshold at critical recursive scale."
+  },
+
+  "core_objects": {
+    "survivable_relational_asymmetry": "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}}",
+    "directional_continuity_organization": "\\Psi_{\\mathrm{cont}}^{\\rightarrow}",
+    "transmissible_continuity_transport": "\\mathcal T_{\\mathrm{trans}}",
+    "continuity_percolation_capacity": "\\mathcal P_{\\mathrm{cont}}(n)",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "local_propagation_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}",
+    "global_propagation_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}",
+    "existence": "\\mathfrak E",
+    "recursive_reweaving_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "percolation_threshold": "\\xi_{\\mathrm{perc}}",
+    "critical_recursive_scale": "n_c"
+  },
+
+  "recursive_viability_bound": {
+    "formal_relation": "\\inf_{n<n_c}\\mathcal P_{\\mathrm{cont}}(n)>\\xi_{\\mathrm{perc}}",
+
+    "threshold_domain": "0<\\xi_{\\mathrm{perc}}<1",
+
+    "interpretation": "Recursive viability requires scalable continuity percolation to remain bounded above recursive fragmentation threshold across admissible recursive participation scale.",
+
+    "deep_form": "Recursive viability requires scalable continuity propagation."
+  },
+
+  "existential_failure_condition": {
+    "formal_relation": "\\inf_{n<n_c}\\mathcal P_{\\mathrm{cont}}(n)\\le\\xi_{\\mathrm{perc}}\\Rightarrow\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\downarrow",
+
+    "interpretation": "Whenever scalable continuity propagation becomes insufficiently percolative across recursive participation geometry, future participation accessibility contracts, recursive traversability fragments, and adaptive existence progressively loses recursively preservable future continuity.",
+
+    "deep_form": "Collapse begins through failure of scalable continuity percolation."
+  },
+
+  "local_persistence_distinction": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\not\\Rightarrow\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}>0",
+
+    "equivalent_relation": "\\text{Local persistence}\\neq\\text{recursive viability}",
+
+    "interpretation": "Locally coherent continuity domains may remain boundedly survivable while scalable recursive continuity propagation progressively collapses across scale.",
+
+    "deep_form": "Local persistence is not sufficient for existence."
+  },
+
+  "protected_core_regime": {
+    "condition": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\quad\\land\\quad\\mathcal P_{\\mathrm{cont}}(n)\\rightarrow0",
+
+    "interpretation": "Protected continuity reservoirs preserve bounded local coherence while recursively scalable future participation collapses.",
+
+    "deep_form": "Protected cores preserve bounded local coherence during scalable collapse."
+  },
+
+  "collapse_geometry": {
+    "formal_relation": "\\mathcal P_{\\mathrm{cont}}(n)\\rightarrow0\\Rightarrow\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\rightarrow0",
+
+    "interpretation": "Collapse progressively destroys recursively traversable future participation through failure of scalable continuity propagation.",
+
+    "deep_form": "Collapse destroys recursively traversable future participation."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathcal P_{\\mathrm{cont}}^{\\mathrm{frag}}\\rightarrow\\mathcal P_{\\mathrm{cont}}^{+}",
+
+    "interpretation": "Recovery restores recursively traversable future participation through recoherence, re-stitching, re-synchronization, and reopening of scalable continuity propagation pathways.",
+
+    "deep_form": "Recovery restores scalable continuity propagation."
+  },
+
+  "existential_recursive_viability_chain": {
+    "generative_chain": "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}}\\rightarrow\\Psi_{\\mathrm{cont}}^{\\rightarrow}\\rightarrow\\mathcal T_{\\mathrm{trans}}\\rightarrow\\mathcal P_{\\mathrm{cont}}\\rightarrow\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\rightarrow\\tau_{\\mathrm{rec}}",
+
+    "existential_stabilization_relation": "(\\mathcal P_{\\mathrm{cont}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}},\\tau_{\\mathrm{rec}})\\rightarrow\\text{existence}",
+
+    "existential_equivalence": "\\text{existence}\\sim\\text{stabilized recursive viability regime}",
+
+    "expanded_existential_equivalence": "\\text{existence}\\sim(\\mathcal P_{\\mathrm{cont}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}},\\tau_{\\mathrm{rec}})",
+
+    "interpretation": [
+      "Survivable relational asymmetry generates directional continuity organization.",
+      "Directional continuity organization generates transmissible continuity transport.",
+      "Transmissible continuity transport generates scalable continuity percolation.",
+      "Scalable continuity percolation preserves recursive participatory traversability.",
+      "Recursive traversability preserves recursive temporality.",
+      "Percolation, traversability, and temporality jointly stabilize adaptive existential continuity."
+    ]
+  },
+
+  "existence_as_recursive_viability_regime": {
+    "formal_relation": "\\text{existence}\\sim\\text{stabilized recursive viability regime}",
+
+    "expanded_relation": "\\text{existence}\\sim(\\mathcal P_{\\mathrm{cont}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}},\\tau_{\\mathrm{rec}})",
+
+    "interpretation": "Existence is not primitive substance, static state occupation, or isolated object persistence. Existence corresponds to the stabilized preservation of recursively survivable continuity conditions across scalable participation geometry."
+  },
+
+  "canonical_compression": [
+    "Existence fails when continuity stops percolating across scale.",
+    "Existence is a stabilized recursive viability regime.",
+    "Recursive viability requires scalable continuity propagation.",
+    "Local persistence is not sufficient for existence.",
+    "Collapse begins through failure of scalable continuity percolation."
+  ],
+
+  "deep_compression_points": [
+    "Adaptive existence requires scalable continuity propagation.",
+    "Recursive viability depends upon continuity percolation across scale.",
+    "Local persistence alone does not preserve existence.",
+    "Protected cores preserve bounded local coherence during scalable collapse.",
+    "Collapse begins when continuity fails to percolate across recursive participation geometry.",
+    "Recovery restores scalable continuity propagation.",
+    "Existence is recursively scalable survivable continuity propagation.",
+    "Existence is stabilized through coupled percolation, traversability, and recursive temporality."
+  ],
+
+  "connections": [
+    "recursive_continuity_transport_stack",
+    "recursive_temporal_emergence_principle",
+    "relational_asymmetry_primitive",
+    "continuity_percolation_geometry",
+    "recursive_continuity_transport_geometry",
+    "closure_stitching_percolation_triad",
+    "local_global_survivability_decomposition",
+    "existential_propagator_survivability_principle",
+    "admissible_recursive_participation_geometry"
+  ],
+
+  "one_sentence_lock": "Existence is a stabilized recursive viability regime sustained by scalable continuity percolation, recursive traversability, and recursive temporality."
+}
