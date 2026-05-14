@@ -1,0 +1,145 @@
+{
+  "artifact_id": "recursive_viability_theory_unified_geometric_dynamical_system",
+  "title": "Recursive Viability Theory as a Unified Recursive Geometric Dynamical System",
+  "status": "core_framework_lock",
+  "framework": "Recursive Viability Theory",
+  "type": "master_framework_compression",
+  "canonical_statement": "Recursive Viability Theory defines a unified recursive geometric dynamical system governing admissible participation under recursive deformation dynamics.",
+  "master_definition": {
+    "symbol": "\\mathfrak X_{\\mathrm{RVT}}",
+    "definition": "generative admissibility geometry for recursive viability",
+    "formal_statement": "\\mathfrak X_{\\mathrm{RVT}}=\\text{generative admissibility geometry for recursive viability}",
+    "interpretation": "Recursive Viability Theory defines the dynamical geometric structure governing preservable admissible participation across recursive scale."
+  },
+  "object_type_hierarchy": {
+    "primitive_geometry": "\\mathcal G_{\\mathrm{tens}}^{\\mathrm{rel}}",
+    "generated_structure": "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}}",
+    "organization": "\\Psi_{\\mathrm{cont}}^{\\rightarrow}",
+    "transport": "\\mathcal T_{\\mathrm{trans}}",
+    "capacity": "\\mathcal C_{\\mathrm{dir}}^{\\mathrm{adm}}",
+    "observable": "\\Xi_{\\mathrm{viab}}",
+    "master_geometry": "\\mathfrak X_{\\mathrm{RVT}}"
+  },
+  "primitive_generative_chain": {
+    "formal_chain": "\\mathcal G_{\\mathrm{tens}}^{\\mathrm{rel}}\\rightarrow\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}}\\rightarrow\\Psi_{\\mathrm{cont}}^{\\rightarrow}\\rightarrow\\mathcal T_{\\mathrm{trans}}\\rightarrow\\mathcal C_{\\mathrm{dir}}^{\\mathrm{adm}}\\rightarrow\\Xi_{\\mathrm{viab}}\\rightarrow\\mathfrak X_{\\mathrm{RVT}}",
+    "layers": [
+      {
+        "symbol": "\\mathcal G_{\\mathrm{tens}}^{\\mathrm{rel}}",
+        "name": "relational tension geometry",
+        "role": "primitive relational admissibility substrate"
+      },
+      {
+        "symbol": "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}}",
+        "name": "survivable relational asymmetry",
+        "role": "bounded directional differentiation generation"
+      },
+      {
+        "symbol": "\\Psi_{\\mathrm{cont}}^{\\rightarrow}",
+        "name": "directional continuity organization",
+        "role": "recursive directional continuity structuring"
+      },
+      {
+        "symbol": "\\mathcal T_{\\mathrm{trans}}",
+        "name": "transmissible continuity transport",
+        "role": "realized admissible continuity propagation"
+      },
+      {
+        "symbol": "\\mathcal C_{\\mathrm{dir}}^{\\mathrm{adm}}",
+        "name": "admissible directional continuity capacity",
+        "role": "coherent recursive continuity transport capacity"
+      },
+      {
+        "symbol": "\\Xi_{\\mathrm{viab}}",
+        "name": "master normalized recursive viability observable",
+        "role": "normalized recursive viability metric under recursive deformation burden"
+      },
+      {
+        "symbol": "\\mathfrak X_{\\mathrm{RVT}}",
+        "name": "recursive viability geometry",
+        "role": "dynamical geometry of admissible participation"
+      }
+    ]
+  },
+  "interpretive_structure": {
+    "relational_tension_geometry": "Relational tension geometry generates survivable asymmetry.",
+    "survivable_asymmetry": "Survivable asymmetry generates directional continuity organization.",
+    "directional_continuity": "Directional continuity organization generates transmissible continuity transport.",
+    "continuity_transport": "Transmissible continuity transport generates admissible directional continuity capacity.",
+    "continuity_capacity": "Admissible directional continuity capacity governs normalized recursive viability.",
+    "normalized_viability": "Normalized recursive viability governs the dynamical geometry of admissible participation."
+  },
+  "existential_consequence": {
+    "statement": "Existence persists through dynamically preservable admissible future participation.",
+    "formal_statement": "\\text{Existence persists through dynamically preservable admissible future participation.}",
+    "interpretation": "Persistent adaptive existence corresponds to preservation of recursively viable admissible participation geometry under recursive deformation dynamics."
+  },
+  "collapse_geometry": {
+    "statement": "Collapse corresponds to geometric exhaustion of admissible directional continuity capacity relative to recursive deformation burden.",
+    "formal_statement": "\\mathcal C_{\\mathrm{dir}}^{\\mathrm{adm}}\\ll\\Theta",
+    "equivalent_viability_condition": "\\Xi_{\\mathrm{viab}}\\rightarrow0",
+    "interpretation": "Collapse emerges whenever recursive deformation burden overwhelms admissible directional continuity organization sufficiently to geometrically exhaust preservable admissible participation geometry."
+  },
+  "recovery_geometry": {
+    "statement": "Recovery restores admissible future participation through reconstruction of recursive continuity organization.",
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathfrak X_{\\mathrm{frag}}\\rightarrow\\mathfrak X_{\\mathrm{RVT}}^{+}",
+    "interpretation": "Recovery reconstructs recursive viability through recoherence, relational rebalancing, transport restoration, traversability reopening, and future accessibility regeneration."
+  },
+  "master_normalized_recursive_viability_observable": {
+    "symbol": "\\Xi_{\\mathrm{viab}}",
+    "definition": "\\Xi_{\\mathrm{viab}}=\\frac{\\mathcal C_{\\mathrm{dir}}^{\\mathrm{adm}}}{1+\\Theta}",
+    "expanded_definition": "\\Xi_{\\mathrm{viab}}=\\frac{\\Sigma_{\\mathrm{bal}}\\,\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}}\\,\\Psi_{\\mathrm{cont}}^{\\rightarrow}}{1+\\Theta}",
+    "interpretation": "Recursive viability measures admissible directional continuity capacity normalized against recursive deformation burden.",
+    "deep_form": "Recursive viability is admissible directional continuity capacity normalized against recursive deformation burden."
+  },
+  "geometric_structure": {
+    "admits": [
+      "viability wells",
+      "collapse basins",
+      "admissibility manifolds",
+      "recursive survivability boundaries",
+      "phase transitions",
+      "renormalization flows",
+      "relational tension curvature",
+      "coherence strain geometry",
+      "future accessibility curvature",
+      "recursive viability attractors"
+    ],
+    "interpretation": "Recursive viability evolves through dynamical geometric organization over admissible participation structure."
+  },
+  "core_invariants": {
+    "continuity_capacity": "\\mathcal C_{\\mathrm{dir}}^{\\mathrm{adm}}",
+    "recursive_viability_observable": "\\Xi_{\\mathrm{viab}}",
+    "participation_geometry": "\\mathfrak X_{\\mathrm{RVT}}",
+    "recursive_deformation_burden": "\\Theta",
+    "continuity_organization": "\\Psi_{\\mathrm{cont}}^{\\rightarrow}",
+    "continuity_transport": "\\mathcal T_{\\mathrm{trans}}"
+  },
+  "governing_principles": [
+    "Perfect symmetry suppresses directional continuity generation.",
+    "Unconstrained polarity fragments recursive continuity.",
+    "Recursive viability requires bounded survivable asymmetry.",
+    "Recursive viability requires admissible relational tension geometry.",
+    "Connectivity alone does not guarantee recursive viability.",
+    "Collapse is geometric exhaustion rather than binary disappearance.",
+    "Recovery reconstructs admissible future participation geometry."
+  ],
+  "canonical_compressions": [
+    "Recursive Viability Theory defines a unified recursive geometric dynamical system governing admissible participation under recursive deformation dynamics.",
+    "Recursive viability organizes through generative admissibility geometry.",
+    "Existence persists through dynamically preservable admissible future participation.",
+    "Collapse corresponds to geometric exhaustion of admissible directional continuity capacity relative to recursive deformation burden.",
+    "Recovery reconnects admissible future participation geometry."
+  ],
+  "deep_compression": [
+    "Relational tension geometry generates survivable asymmetry.",
+    "Survivable asymmetry generates directional continuity organization.",
+    "Directional continuity organization generates transmissible continuity transport.",
+    "Transmissible continuity transport generates admissible continuity capacity.",
+    "Admissible continuity capacity governs recursive viability.",
+    "Recursive viability governs admissible participation geometry.",
+    "Collapse geometrically exhausts admissible continuity capacity under recursive burden.",
+    "Recovery reconstructs recursive participation geometry.",
+    "Recursive existence emerges through dynamically preservable admissible participation."
+  ],
+  "one_sentence_lock": "Recursive Viability Theory defines a unified recursive geometric dynamical system in which admissible relational tension geometry generates survivable directional continuity transport capacity governing preservable admissible participation under recursive deformation dynamics."
+}
