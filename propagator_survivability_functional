@@ -1,0 +1,139 @@
+{
+  "principle_id": "propagator_survivability_functional",
+  "title": "Propagator Survivability Functional",
+  "status": "repository_lock_candidate",
+  "framework_layer": "recursive_viability_core",
+  "type": "emergent_survivability_functional",
+
+  "canonical_statement": "Recursive viability depends upon coupled survivability conditions governing coherent continuity propagation across admissible future participation geometry.",
+
+  "formal_statement": {
+    "core_principle": "Propagator survivability emerges not from coherence alone, but from sufficiently integrated preservation of coherence, stitching compatibility, resonance synchronization, tempo compatibility, and admissibility structure under recursive deformation dynamics.",
+    "core_shift": "Propagator survivability is emergent rather than primitive.",
+    "primitive_invariant": "Traversability depends upon survivable continuity propagation."
+  },
+
+  "core_objects": {
+    "master_continuity_propagator": "\\Psi_{\\mathrm{cont}}",
+    "recursive_coherence": "\\mathcal C_{\\mathrm{coh}}",
+    "stitching_compatibility": "\\eta_{\\mathrm{stitch}}",
+    "resonance_synchronization": "\\mathcal R_{\\mathrm{res}}",
+    "tempo_divergence": "\\Delta_{\\mathrm{tempo}}",
+    "admissibility_compatibility": "\\mathcal A_{\\mathrm{adm}}",
+    "propagator_survivability": "\\mathcal S_{\\mathrm{prop}}",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "rewovability_operator": "\\mathcal W_{\\mathrm{rew}}"
+  },
+
+  "primitive_survivability_functional": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}} = \\mathcal F\\left(\\mathcal C_{\\mathrm{coh}}, \\eta_{\\mathrm{stitch}}, \\mathcal R_{\\mathrm{res}}, \\Delta_{\\mathrm{tempo}}, \\mathcal A_{\\mathrm{adm}}\\right)",
+    "interpretation": "Propagator survivability emerges through coupled preservation of continuity stabilization, transfer compatibility, synchronization compatibility, tempo coherence, and admissible recursive participation structure.",
+    "components": {
+      "coherence": "recursive continuity stabilization",
+      "stitching": "inter-domain transfer compatibility",
+      "resonance": "scalable synchronization compatibility",
+      "tempo": "recursive pacing coherence",
+      "admissibility": "viability-compatible participation transfer"
+    }
+  },
+
+  "coherence_contribution": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} = \\mathrm{Stab}(\\Psi_{\\mathrm{cont}})",
+    "interpretation": "Coherence stabilizes local continuity propagation.",
+    "core_insight": "Coherence measures whether continuity propagation remains sufficiently integrated, non-fragmented, and fidelity-preserving."
+  },
+
+  "stitching_contribution": {
+    "formal_relation": "\\eta_{\\mathrm{stitch}} = \\mathrm{Compat}(\\Psi_{\\mathrm{cont}})",
+    "interpretation": "Stitching preserves continuity transferability across distributed participation domains.",
+    "core_insight": "Stitching measures whether continuity remains coherently transferable across participation interfaces."
+  },
+
+  "resonance_contribution": {
+    "formal_relation": "\\mathcal R_{\\mathrm{res}} = \\mathrm{Sync}(\\Psi_{\\mathrm{cont}})",
+    "interpretation": "Resonance preserves scalable synchronization compatibility across distributed continuity propagation.",
+    "core_insight": "Resonance stabilizes multiscale continuity-wave synchronization and large-scale coherence survivability."
+  },
+
+  "tempo_contribution": {
+    "formal_relation": "|\\Delta_{\\mathrm{tempo}}| < \\epsilon_{\\mathrm{sync}}",
+    "interpretation": "Tempo compatibility preserves recursively synchronized updating across continuity propagation structure.",
+    "core_insight": "Excessive recursive pacing divergence destabilizes continuity survivability even when local coherence remains partially preserved."
+  },
+
+  "admissibility_contribution": {
+    "formal_relation": "\\mathcal A_{\\mathrm{adm}} > \\xi_{\\mathrm{adm}}",
+    "interpretation": "Admissibility preserves viability-compatible recursive continuity transfer.",
+    "core_insight": "Continuity propagation remains survivable only while recursive transfer remains sufficiently incorporable, reopenable, and participation-compatible."
+  },
+
+  "emergent_survivability_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}} \\not\\equiv \\mathcal C_{\\mathrm{coh}}",
+    "interpretation": "Propagator survivability is emergent rather than primitive.",
+    "core_insight": "Local coherence alone does not guarantee recursively survivable continuity propagation."
+  },
+
+  "dependency_structure": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal C_{\\mathrm{coh}} \\rightarrow (\\eta_{\\mathrm{stitch}}, \\mathcal R_{\\mathrm{res}}, \\Delta_{\\mathrm{tempo}}, \\mathcal A_{\\mathrm{adm}}) \\rightarrow \\mathcal S_{\\mathrm{prop}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": "Continuity propagation stabilizes coherence, which enables scalable transfer compatibility, which preserves propagator survivability, which subsequently preserves traversability and recursive temporality.",
+    "dependency_order": [
+      "continuity propagation",
+      "coherence stabilization",
+      "transfer compatibility conditions",
+      "propagator survivability",
+      "recursive traversability",
+      "recursive temporality"
+    ]
+  },
+
+  "fragmentation_geometry": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coh}} > 0 \\quad \\land \\quad \\mathcal S_{\\mathrm{prop}} \\downarrow",
+    "interpretation": "Fragmentation emerges whenever survivability conditions partially degrade despite residual local coherence preservation.",
+    "core_insight": "Systems may preserve bounded local continuity stabilization while losing scalable continuity transferability and future navigability."
+  },
+
+  "collapse_geometry": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}} \\rightarrow 0",
+    "interpretation": "Collapse corresponds to exhaustion of coupled propagator survivability conditions.",
+    "core_insight": "Collapse destroys recursively survivable continuity propagation across admissible future participation geometry."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal S_{\\mathrm{prop}}^{\\mathrm{frag}} \\rightarrow \\mathcal S_{\\mathrm{prop}}^{+}",
+    "interpretation": "Recovery restores recursive viability through recoherence, re-stitching, re-synchronization, tempo stabilization, and admissibility restoration.",
+    "core_insight": "Recovery restores survivable continuity propagation across recursive participation structure."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability is propagator survivability.",
+    "Propagator survivability is emergent.",
+    "Coherence alone does not guarantee survivability.",
+    "Traversability depends upon survivable continuity propagation."
+  ],
+
+  "deep_compression_points": [
+    "Propagator survivability emerges through coupled continuity conditions.",
+    "Coherence stabilizes local continuity propagation.",
+    "Stitching preserves transfer compatibility.",
+    "Resonance preserves scalable synchronization.",
+    "Tempo compatibility preserves recursive synchronization stability.",
+    "Admissibility preserves incorporable recursive transfer.",
+    "Survivability is emergent rather than primitive.",
+    "Fragmentation preserves local coherence while degrading scalability.",
+    "Collapse exhausts propagator survivability.",
+    "Recovery restores survivable continuity propagation."
+  ],
+
+  "connections": [
+    "coherence_survivability_traversability_triad",
+    "recursive_viability_as_propagator_survivability",
+    "master_continuity_propagator",
+    "inter_rotor_coherence_geometry",
+    "relational_transfer_geometry",
+    "recursive_temporal_coherence_principle",
+    "admissible_future_participation_geometry"
+  ],
+
+  "one_sentence_lock": "Propagator survivability emerges through coupled preservation of coherence, stitching, resonance, tempo compatibility, and admissible recursive continuity transfer."
+}
