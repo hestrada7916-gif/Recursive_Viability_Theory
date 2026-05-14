@@ -1,0 +1,110 @@
+{
+  "principle_id": "fragmentation_scaling_law",
+  "title": "Fragmentation Scaling Law",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_admissibility_geometry",
+  "type": "multiscale_fragmentation_scaling_principle",
+  "canonical_statement": "Recursive fragmentation emerges whenever scalable stitching capacity degrades relative to bounded local closure capacity across recursive participation scale.",
+  "deep_compression_statement": "Local survivability is not sufficient for recursive viability.",
+  "formal_statement": {
+    "statement": "Recursive fragmentation emerges whenever scalable continuity integration collapses relative to preservation of bounded local coherent recurrence across recursive participation scale.",
+    "core_distinction": "Local closure preserves bounded recurrence, while stitching preserves scalable continuity-transfer integration.",
+    "collapse_insight": "Collapse begins when scalable stitching fails relative to bounded local closure preservation."
+  },
+  "core_objects": {
+    "fragmentation_ratio": "\\Phi_{\\mathrm{frag}}(n)",
+    "stitching_efficiency": "\\eta_{\\mathrm{stitch}}(n)",
+    "closure_efficiency": "\\eta_{\\mathrm{closure}}(n)",
+    "recursive_scale": "n",
+    "fragmentation_threshold": "\\xi_{\\mathrm{frag}}",
+    "recursive_participation_scale": "\\mathcal N_{\\mathrm{rec}}",
+    "local_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}",
+    "global_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}"
+  },
+  "fragmentation_ratio": {
+    "definition": "\\Phi_{\\mathrm{frag}}(n)=\\frac{\\eta_{\\mathrm{stitch}}(n)}{\\eta_{\\mathrm{closure}}(n)}",
+    "interpretation": "\\Phi_{\\mathrm{frag}}(n) measures scalable recursive continuity integration normalized by bounded local coherent recurrence preservation.",
+    "role": "dimensionless multiscale fragmentation observable"
+  },
+  "fragmentation_onset_condition": {
+    "formal_relation": "\\partial_n \\Phi_{\\mathrm{frag}}(n)<0",
+    "interpretation": "Fragmentation begins whenever scalable continuity integration degrades faster than bounded local coherent recurrence across recursive scale.",
+    "deep_form": "Relative integration survivability declines across scale."
+  },
+  "critical_fragmentation_condition": {
+    "formal_relation": "\\Phi_{\\mathrm{frag}}(n)\\rightarrow\\xi_{\\mathrm{frag}}",
+    "threshold_definition": "\\xi_{\\mathrm{frag}} = \\text{recursive fragmentation criticality threshold}",
+    "interpretation": "Critical fragmentation emerges when scalable continuity-transfer survivability collapses relative to bounded local continuity preservation."
+  },
+  "protected_core_condition": {
+    "formal_relation": "\\Phi_{\\mathrm{frag}}(n)\\rightarrow0",
+    "interpretation": "Protected core regimes emerge when bounded local continuity stabilization persists while recursively scalable continuity transfer becomes exhausted.",
+    "deep_form": "Local recurrence survives while scalable integration vanishes."
+  },
+  "local_global_survivability_relation": {
+    "local_condition": "\\eta_{\\mathrm{closure}}(n)>0",
+    "global_degradation_condition": "\\eta_{\\mathrm{stitch}}(n)\\downarrow",
+    "combined_relation": "\\eta_{\\mathrm{closure}}(n)>0 \\quad\\land\\quad \\eta_{\\mathrm{stitch}}(n)\\downarrow",
+    "interpretation": "Locally survivable continuity domains may remain preserved while recursively scalable continuity integration progressively degenerates."
+  },
+  "regime_interpretation": {
+    "scalable_recursive_integration": {
+      "condition": "\\Phi_{\\mathrm{frag}}(n)\\approx1",
+      "meaning": "Scalable recursive integration remains preserved."
+    },
+    "integration_limited_recursive_viability": {
+      "condition": "0<\\Phi_{\\mathrm{frag}}(n)<1",
+      "meaning": "Recursive viability becomes integration-limited while local closure remains partially preserved."
+    },
+    "recursive_fragmentation_criticality": {
+      "condition": "\\Phi_{\\mathrm{frag}}(n)\\rightarrow\\xi_{\\mathrm{frag}}",
+      "meaning": "The system approaches critical fragmentation through relative stitching collapse."
+    },
+    "isolated_protected_core_persistence": {
+      "condition": "\\Phi_{\\mathrm{frag}}(n)\\rightarrow0",
+      "meaning": "Local continuity cores persist while scalable continuity transfer is exhausted."
+    }
+  },
+  "fragmentation_acceleration_extension": {
+    "optional_relation": "\\partial_n^2\\Phi_{\\mathrm{frag}}(n)<0",
+    "interpretation": "Accelerating fragmentation occurs when relative continuity integration collapses at an increasing rate across recursive scale.",
+    "status": "optional_future_refinement"
+  },
+  "collapse_geometry": {
+    "statement": "Collapse begins when scalable stitching fails relative to bounded local closure preservation.",
+    "interpretation": "Recursive collapse may begin through scalable continuity-transfer failure before bounded local recurrence fails.",
+    "deep_form": "Fragmentation is relative scaling collapse of continuity integration."
+  },
+  "recovery_geometry": {
+    "statement": "Recovery requires restoration of scalable stitching relative to local closure preservation.",
+    "formal_direction": "\\Phi_{\\mathrm{frag}}(n)\\uparrow",
+    "interpretation": "Recovery restores recursive viability by increasing scalable continuity-transfer integration relative to bounded local recurrence."
+  },
+  "canonical_compression": [
+    "Recursive fragmentation emerges whenever scalable stitching capacity degrades relative to bounded local closure capacity.",
+    "Collapse begins when scalable stitching fails relative to bounded local closure preservation.",
+    "Local survivability is not sufficient for recursive viability.",
+    "Fragmentation is relative scaling collapse of continuity integration."
+  ],
+  "deep_compression_points": [
+    "Closure measures bounded local recurrent survivability.",
+    "Stitching measures scalable continuity-transfer integration.",
+    "Fragmentation ratio measures relative integration survivability.",
+    "Local recurrence can persist while scalable integration collapses.",
+    "Protected cores emerge when stitching vanishes relative to closure.",
+    "Critical fragmentation occurs when the fragmentation ratio approaches threshold.",
+    "Recovery requires restoring scalable stitching relative to local closure."
+  ],
+  "connections": [
+    "local_global_survivability_decomposition",
+    "existential_propagator_survivability_kernel_v2",
+    "coherence_functional",
+    "recursive_participatory_traversability_principle",
+    "participatory_fiber_compression_dual",
+    "navigable_continuity_field",
+    "topological_recovery_theory",
+    "future_accessibility_contraction_geometry"
+  ],
+  "one_sentence_lock": "Recursive fragmentation occurs when scalable continuity-transfer stitching collapses relative to bounded local closure, preserving local survivability while destroying recursive viability."
+}
