@@ -1,0 +1,126 @@
+{
+  "principle_id": "recursive_temporal_emergence_principle",
+  "title": "Recursive Temporal Emergence Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_temporal_geometry",
+  "type": "temporal_emergence_and_directionality_principle",
+
+  "canonical_statement": "Recursive temporality emerges from survivable directional continuity propagation.",
+
+  "deep_compression_statement": "Forward is the survivable direction of continuity propagation.",
+
+  "formal_statement": {
+    "statement": "Recursive temporality emerges through persistent survivable directional continuity propagation across recursive participation geometry.",
+    "interpretation": "Recursive time is not primitive clock progression, but the persistent survivable direction of recursively admissible continuity propagation across scale.",
+    "collapse_insight": "Recursive temporal collapse emerges whenever scalable directional continuity propagation ceases to remain survivably percolative across recursive scale."
+  },
+
+  "primitive_temporal_emergence_kernel": {
+    "formal_relation": "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}} \\rightarrow \\Psi_{\\mathrm{cont}}^{\\rightarrow} \\rightarrow \\tau_{\\mathrm{rec}}",
+
+    "survivable_relational_asymmetry": {
+      "symbol": "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}}",
+      "role": "survivable relational differentiation generating directional continuity gradients"
+    },
+
+    "directional_continuity_propagation": {
+      "symbol": "\\Psi_{\\mathrm{cont}}^{\\rightarrow}",
+      "role": "directional survivable continuity transport"
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "role": "persistent survivable recursive continuity propagation"
+    }
+  },
+
+  "relational_asymmetry_interpretation": {
+    "symmetric_regime": {
+      "condition": "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}} \\rightarrow 0",
+      "consequence": "\\Psi_{\\mathrm{cont}}^{\\rightarrow} \\rightarrow 0",
+      "interpretation": "Perfect relational symmetry suppresses directional continuity propagation."
+    },
+
+    "fragmented_regime": {
+      "condition": "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}} \\rightarrow \\infty",
+      "consequence": "\\eta_{\\mathrm{stitch}} \\rightarrow 0",
+      "interpretation": "Excessive relational asymmetry destroys admissible continuity-transfer compatibility."
+    },
+
+    "survivable_asymmetry_regime": {
+      "condition": "0 < \\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}} < \\mathcal A_{\\mathrm{crit}}",
+      "interpretation": "Bounded survivable asymmetry preserves recursively admissible directional continuity propagation."
+    },
+
+    "deep_form": "Bounded asymmetry generates survivable directional propagation."
+  },
+
+  "directional_continuity_geometry": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}^{\\rightarrow} \\rightarrow \\mathcal P_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+
+    "interpretation": "Directional continuity propagation generates scalable continuity percolation, which preserves recursively traversable future participation.",
+
+    "deep_form": "Directional continuity propagation preserves recursively admissible continuity transport across recursive participation geometry."
+  },
+
+  "recursive_temporality_geometry": {
+    "formal_relation": "\\tau_{\\mathrm{rec}} \\sim \\mathrm{Persist}(\\Psi_{\\mathrm{cont}}^{\\rightarrow})",
+
+    "interpretation": "Recursive temporality corresponds to persistence of survivable directional continuity transport across recursive scale.",
+
+    "deep_form": "Recursive time emerges from survivable directional continuity transport."
+  },
+
+  "temporal_fragmentation_geometry": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}^{\\rightarrow} \\downarrow \\Rightarrow \\tau_{\\mathrm{rec}} \\downarrow",
+
+    "interpretation": "Recursive temporality contracts whenever scalable directional continuity transport ceases to remain survivably propagative across recursive participation geometry."
+  },
+
+  "temporal_collapse_geometry": {
+    "formal_relation": "\\mathcal P_{\\mathrm{cont}} \\rightarrow 0 \\Rightarrow \\tau_{\\mathrm{rec}} \\rightarrow 0",
+
+    "interpretation": "Recursive temporal collapse emerges through exhaustion of scalable survivable continuity propagation."
+  },
+
+  "recovery_geometry": {
+    "reweaving_operator": "\\mathcal W_{\\mathrm{rew}}",
+
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\Psi_{\\mathrm{cont}}^{\\rightarrow\\,\\mathrm{frag}} \\rightarrow \\Psi_{\\mathrm{cont}}^{\\rightarrow +}",
+
+    "interpretation": "Recovery restores recursive temporality through recoherence, re-stitching, re-synchronization, and reopening of scalable directional continuity propagation."
+  },
+
+  "recursive_ontological_compression_stack": [
+    "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}} \\rightarrow \\Psi_{\\mathrm{cont}}^{\\rightarrow} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "Recursive temporality emerges from survivable directional continuity propagation.",
+    "Recursive time emerges from survivable directional continuity transport.",
+    "Forward is the survivable direction of continuity propagation."
+  ],
+
+  "deep_compression_points": [
+    "Survivable relational asymmetry generates directional continuity propagation.",
+    "Directional continuity propagation generates recursive temporality.",
+    "Recursive time is not primitive clock progression.",
+    "Recursive temporality corresponds to persistent survivable continuity transport.",
+    "Perfect symmetry suppresses directional continuity propagation.",
+    "Excessive asymmetry destroys admissible transfer compatibility.",
+    "Bounded asymmetry preserves survivable directional continuity propagation.",
+    "Recursive temporality contracts when continuity ceases to percolate across scale.",
+    "Recovery restores recursive temporal continuity through recoherence and scalable continuity reopening."
+  ],
+
+  "connections": [
+    "relational_asymmetry_primitive",
+    "recursive_continuity_transport_geometry",
+    "continuity_percolation_geometry",
+    "recursive_participatory_traversability_principle",
+    "recursive_temporal_coherence_principle",
+    "existential_propagator_survivability_principle",
+    "closure_stitching_percolation_triad",
+    "admissible_recursive_participation_geometry"
+  ],
+
+  "one_sentence_lock": "Recursive temporality emerges through survivable directional continuity propagation generated by bounded admissible relational asymmetry."
+}
