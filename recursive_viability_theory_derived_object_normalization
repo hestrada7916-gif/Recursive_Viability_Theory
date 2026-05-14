@@ -1,0 +1,231 @@
+{
+  "artifact_id": "recursive_viability_theory_derived_object_normalization",
+  "title": "Derived–Object Normalization",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Viability Theory",
+  "type": "ontological_normalization_registry",
+
+  "purpose": {
+    "statement": "Recursive Viability Theory contains multiple structural object classes serving distinct formal roles.",
+    "goal": "Define the ontological status of all major RVT objects in order to prevent category drift between primitive substrates, derived geometric quantities, observables, dynamical operators, phase quantities, and boundary structures."
+  },
+
+  "object_classes": [
+    "Primitive",
+    "Derived",
+    "Observable",
+    "Operator",
+    "Phase Quantity",
+    "Boundary Object"
+  ],
+
+  "class_registry": {
+    "primitive_objects": {
+      "definition": "Primitive objects define the irreducible structural substrate of recursive viability. They are not derived from more fundamental RVT objects.",
+      "objects": {
+        "admissible_future_participation_geometry": {
+          "symbol": "\\mathcal A_{\\mathrm{AFP}}",
+          "definition": "admissible future participation geometry",
+          "role": "irreducible participation geometry substrate"
+        },
+        "recursive_continuity_propagation": {
+          "symbol": "\\Psi_{\\mathrm{cont}}",
+          "definition": "recursive continuity propagation",
+          "role": "primitive continuity propagation structure"
+        },
+        "admissible_continuity_transfer_gating": {
+          "symbol": "\\mathcal G_{\\mathrm{adm}}",
+          "definition": "admissible continuity-transfer gating",
+          "role": "primitive gating structure governing admissible continuity transfer"
+        },
+        "recursive_traversability_structure": {
+          "symbol": "\\mathcal T_{\\mathrm{trav}}",
+          "definition": "recursive traversability structure",
+          "role": "primitive structure governing traversable participation pathways"
+        }
+      }
+    },
+
+    "derived_objects": {
+      "definition": "Derived objects emerge from relations among primitive structures. They describe induced geometric or dynamical properties.",
+      "objects": {
+        "viability_curvature": {
+          "symbol": "K_{\\mathrm{viab}}",
+          "definition": "viability curvature",
+          "derived_from": [
+            "\\mathcal A_{\\mathrm{AFP}}",
+            "\\Psi_{\\mathrm{cont}}",
+            "\\mathcal D_{\\mathrm{rec}}"
+          ],
+          "role": "deformation curvature induced by recursive continuity transport through admissible participation geometry"
+        },
+        "recursive_deformation_accumulation": {
+          "symbol": "\\mathcal D_{\\mathrm{rec}}",
+          "definition": "recursive deformation accumulation",
+          "derived_from": [
+            "\\Psi_{\\mathrm{cont}}",
+            "\\mathcal T_{\\mathrm{trav}}",
+            "\\mathcal G_{\\mathrm{adm}}"
+          ],
+          "role": "accumulated transport strain and fragmentation burden"
+        },
+        "recursive_accessibility_curvature": {
+          "symbol": "R_{\\mathrm{AFP}}",
+          "definition": "recursive accessibility curvature",
+          "derived_from": [
+            "\\mathcal A_{\\mathrm{AFP}}"
+          ],
+          "role": "large-scale curvature of admissible future participation accessibility"
+        },
+        "admissible_participation_geodesics": {
+          "symbol": "\\gamma_{\\mathrm{viab}}",
+          "definition": "admissible participation geodesics",
+          "derived_from": [
+            "\\mathcal A_{\\mathrm{AFP}}",
+            "K_{\\mathrm{viab}}"
+          ],
+          "role": "minimal-deformation continuity transport trajectories"
+        }
+      }
+    },
+
+    "observables": {
+      "definition": "Observables are measurable or computable manifestations of recursive viability dynamics. They diagnose viability structure but do not generate it.",
+      "objects": {
+        "stitching_compatibility_efficiency": {
+          "symbol": "\\eta_{\\mathrm{stitch}}",
+          "definition": "stitching compatibility efficiency",
+          "role": "observable measuring integration compatibility across participation structure"
+        },
+        "continuity_percolation_probability": {
+          "symbol": "P_{\\mathrm{cont}}",
+          "definition": "continuity percolation probability",
+          "role": "observable measuring probability of scalable continuity transport"
+        },
+        "fragmentation_observable": {
+          "symbol": "\\Phi_{\\mathrm{frag}}",
+          "definition": "fragmentation observable",
+          "role": "observable diagnosing fragmentation intensity"
+        },
+        "transport_burden_observable": {
+          "symbol": "\\Theta_{\\mathrm{trans}}",
+          "definition": "transport burden observable",
+          "role": "observable measuring accumulated transport load"
+        },
+        "effective_participation_dimensionality": {
+          "symbol": "d_{\\mathrm{eff}}",
+          "definition": "effective participation dimensionality",
+          "role": "observable measuring available degrees of viable participation response"
+        }
+      }
+    },
+
+    "operators": {
+      "definition": "Operators generate transformations of recursive participation geometry and continuity structure.",
+      "objects": {
+        "recursive_recovery_flow_operator": {
+          "symbol": "\\mathcal W_{\\mathrm{rew}}",
+          "definition": "recursive recovery flow operator",
+          "role": "operator restoring fragmented participation geometry into viable transportable structure"
+        },
+        "continuity_propagation_operator": {
+          "symbol": "\\Psi_{\\mathrm{cont}}",
+          "definition": "continuity propagation operator",
+          "role": "operator propagating recursive continuity across admissible future participation geometry",
+          "normalization_note": "Also classified as a primitive object when referring to the irreducible continuity propagation structure. Operator use must be explicitly specified."
+        },
+        "fragmentation_evolution_operator": {
+          "symbol": "\\mathcal F_{\\mathrm{frag}}",
+          "definition": "fragmentation evolution operator",
+          "role": "operator governing fragmentation dynamics of participation geometry"
+        },
+        "recursive_admissibility_flow_operator": {
+          "symbol": "\\mathcal R_{\\mathrm{adm}}",
+          "definition": "recursive admissibility flow operator",
+          "role": "operator governing evolution of admissibility structure under recursive deformation"
+        }
+      }
+    },
+
+    "phase_quantities": {
+      "definition": "Phase quantities classify global viability regimes. They characterize large-scale participation structure rather than local transport behavior.",
+      "objects": {
+        "generative_viability_phase": {
+          "symbol": "\\mathcal P_{\\mathrm{gen}}",
+          "definition": "generative viability phase",
+          "role": "phase classification for high-reconnectability, low-curvature viable participation"
+        },
+        "strained_viability_phase": {
+          "symbol": "\\mathcal P_{\\mathrm{strain}}",
+          "definition": "strained viability phase",
+          "role": "phase classification for rising curvature with preserved transportability"
+        },
+        "compressed_viability_phase": {
+          "symbol": "\\mathcal P_{\\mathrm{comp}}",
+          "definition": "compressed viability phase",
+          "role": "phase classification for bottlenecked future participation geometry"
+        },
+        "fragmented_viability_phase": {
+          "symbol": "\\mathcal P_{\\mathrm{frag}}",
+          "definition": "fragmented viability phase",
+          "role": "phase classification for topologically split or decohered participation geometry"
+        },
+        "collapsed_viability_phase": {
+          "symbol": "\\mathcal P_{\\mathrm{coll}}",
+          "definition": "collapsed viability phase",
+          "role": "phase classification for irrecoverable transport singularization"
+        }
+      }
+    },
+
+    "boundary_objects": {
+      "definition": "Boundary objects define critical transition surfaces separating qualitatively distinct viability regimes.",
+      "objects": {
+        "critical_viability_curvature_threshold": {
+          "symbol": "K_{\\mathrm{crit}}",
+          "definition": "critical viability curvature threshold",
+          "role": "boundary value separating bounded curvature transport from curvature singularization"
+        },
+        "critical_deformation_accumulation_threshold": {
+          "symbol": "\\mathcal D_{\\mathrm{crit}}",
+          "definition": "critical deformation accumulation threshold",
+          "role": "boundary value separating recoverable deformation from irrecoverable transport failure"
+        },
+        "continuity_percolation_threshold": {
+          "symbol": "\\xi_{\\mathrm{perc}}",
+          "definition": "continuity percolation threshold",
+          "role": "boundary value governing scalable continuity transport failure"
+        },
+        "boundary_of_admissible_viability_geometry": {
+          "symbol": "\\partial \\mathcal A_{\\mathrm{viab}}",
+          "definition": "boundary of admissible viability geometry",
+          "role": "critical transition surface separating viable from non-viable participation geometry"
+        }
+      }
+    }
+  },
+
+  "normalization_principle": {
+    "name": "Derived–Object Normalization Principle",
+    "statement": "No RVT object may simultaneously function as a primitive substrate, an observable, a phase classification, and a dynamical operator without explicit derivational specification.",
+    "requirement": "All higher-order RVT structures must possess identifiable primitive dependencies and normalization class membership."
+  },
+
+  "immediate_consequences": {
+    "prevents": [
+      "ontological drift",
+      "category collapse",
+      "recursive ambiguity",
+      "uncontrolled symbolic overloading"
+    ],
+    "permits": [
+      "tensor formalization",
+      "geometric flow construction",
+      "renormalization consistency",
+      "computational implementation",
+      "scalable theorem development"
+    ]
+  },
+
+  "terminal_compression": "Recursive viability emerges from structured relations between primitive participation geometry, derived deformation structure, observable continuity behavior, dynamical operators, phase organization, and critical viability boundaries."
+}
