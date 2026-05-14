@@ -1,0 +1,171 @@
+{
+  "principle_id": "local_global_survivability_decomposition",
+  "title": "Local--Global Survivability Decomposition",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_admissibility_geometry",
+  "type": "multiscale_survivability_decomposition_principle",
+
+  "canonical_statement": "Recursive viability decomposes into local and global survivability.",
+
+  "deep_compression_statement": "Collapse begins when admissibility stops scaling.",
+
+  "formal_statement": {
+    "statement": "Recursive viability requires preservation of both bounded local continuity stabilization and scalable admissible continuity transfer across recursively expanding participation geometry.",
+    "core_distinction": "Local coherence may persist while global recursive viability collapses.",
+    "collapse_insight": "Collapse is often a failure of scalable admissibility before it is a failure of local coherence."
+  },
+
+  "core_objects": {
+    "local_propagator_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}",
+    "global_propagator_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}",
+    "admissible_transfer_capacity": "\\mathcal G_{\\mathrm{adm}}(n)",
+    "critical_recursive_scale": "n_c",
+    "admissibility_margin_threshold": "\\xi_{\\mathrm{adm}}",
+    "local_coherence": "\\mathcal C_{\\mathrm{coh}}^{\\mathrm{local}}",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "reweaving_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "closure_efficiency": "\\eta_{\\mathrm{closure}}(n)",
+    "stitching_efficiency": "\\eta_{\\mathrm{stitch}}(n)"
+  },
+
+  "recursive_admissibility_flow": {
+    "statement": "Admissibility is not a static property of transfer, but a recursive scale-indexed survivability flow.",
+    "definition": "\\mathcal G_{\\mathrm{adm}}(n)",
+    "interpretation": "\\mathcal G_{\\mathrm{adm}}(n) denotes admissible continuity-transfer capacity at recursive scale n.",
+    "collapse_condition": "\\mathcal G_{\\mathrm{adm}}(n_c) \\rightarrow 0",
+    "local_survival_condition": "\\mathcal C_{\\mathrm{coh}}^{\\mathrm{local}}>0 \\quad \\land \\quad \\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0",
+    "interpretive_lock": "Collapse begins when scalable admissibility fails even while bounded local coherence and local propagator survivability remain positive."
+  },
+
+  "local_survivability": {
+    "definition": "Local survivability measures whether coherent continuity propagation remains sufficiently preservable within bounded local continuity domains.",
+    "symbol": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}",
+    "governs": [
+      "rotor stabilization",
+      "bounded coherence preservation",
+      "local continuity recurrence",
+      "protected continuity cores"
+    ],
+    "condition": "\\mathcal C_{\\mathrm{coh}}^{\\mathrm{local}}>0 \\Rightarrow \\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0"
+  },
+
+  "global_survivability": {
+    "definition": "Global survivability measures whether coherent continuity propagation remains sufficiently scalable across recursively expanding admissible participation geometry.",
+    "symbol": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}",
+    "governs": [
+      "scalable continuity transfer",
+      "multiscale stitching compatibility",
+      "recursive admissibility preservation",
+      "large-scale traversability"
+    ]
+  },
+
+  "closure_stitching_distinction": {
+    "closure_symbol": "\\eta_{\\mathrm{closure}}(n)",
+    "stitching_symbol": "\\eta_{\\mathrm{stitch}}(n)",
+
+    "closure_interpretation": "Closure measures whether bounded local continuity loops remain internally coherent and recurrent.",
+
+    "stitching_interpretation": "Stitching measures whether locally coherent continuity domains remain mutually integrable across recursive scale.",
+
+    "local_relation": "\\eta_{\\mathrm{closure}}(n)>0 \\sim \\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0",
+
+    "global_relation": "\\eta_{\\mathrm{stitch}}(n)>0 \\sim \\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}>0",
+
+    "fragmentation_signature": "\\eta_{\\mathrm{closure}}(n)>0 \\quad \\land \\quad \\eta_{\\mathrm{stitch}}(n)\\rightarrow0",
+
+    "interpretation": "Fragmentation occurs when local continuity remains closed while scalable stitching capacity collapses.",
+
+    "deep_lock": "Local loops may remain coherent even while recursive integration fails."
+  },
+
+  "primitive_decomposition": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}} = (\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}, \\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}})",
+    "interpretation": "Recursive viability depends simultaneously upon bounded local continuity stabilization and scalable continuity-transfer survivability."
+  },
+
+  "global_scaling_condition": {
+    "minimal_condition": "\\mathcal G_{\\mathrm{adm}}(n)>0 \\quad \\forall n<n_c",
+
+    "refined_margin_condition": "\\inf_{n<n_c}\\mathcal G_{\\mathrm{adm}}(n)>\\xi_{\\mathrm{adm}}",
+
+    "interpretation": "Recursive viability requires scalable admissible continuity-transfer capacity to remain bounded above a positive admissibility margin across recursively expanding participation structure."
+  },
+
+  "fragmentation_regime": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0 \\quad \\land \\quad \\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}\\downarrow",
+
+    "closure_relation": "\\eta_{\\mathrm{closure}}(n)>0 \\quad \\land \\quad \\eta_{\\mathrm{stitch}}(n)\\rightarrow0",
+
+    "interpretation": "Fragmentation preserves bounded locally stabilized continuity domains while degrading scalable continuity-transfer viability."
+  },
+
+  "protected_core_regime": {
+    "formal_relation": "\\mathcal G_{\\mathrm{adm}}(n_c)\\rightarrow0 \\quad \\land \\quad \\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0",
+
+    "interpretation": "Protected cores preserve bounded continuity stabilization despite failure of scalable recursive continuity transfer."
+  },
+
+  "collapse_interpretation": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}\\rightarrow0 \\not\\Rightarrow \\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}\\rightarrow0",
+
+    "closure_relation": "\\eta_{\\mathrm{stitch}}(n)\\rightarrow0 \\not\\Rightarrow \\eta_{\\mathrm{closure}}(n)\\rightarrow0",
+
+    "interpretation": "Systems may lose scalable recursive viability while bounded local continuity domains remain partially survivable.",
+
+    "deep_form": "Collapse begins through scalable admissibility exhaustion before local coherence exhaustion."
+  },
+
+  "recursive_traversability_consequence": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\sim \\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}",
+
+    "interpretation": "Large-scale future participation accessibility contracts whenever global survivability collapses."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\mathcal S_{\\mathrm{prop}}^{\\mathrm{global,frag}} \\rightarrow \\mathcal S_{\\mathrm{prop}}^{\\mathrm{global,+}}",
+
+    "closure_restoration_relation": "\\eta_{\\mathrm{stitch}}(n)\\uparrow",
+
+    "interpretation": "Recovery restores scalable continuity-transfer viability through recoherence, re-stitching, re-synchronization, and admissibility reopening."
+  },
+
+  "canonical_compression": [
+    "Recursive viability decomposes into local and global survivability.",
+    "Collapse begins when admissibility stops scaling.",
+    "Fragmentation preserves local survivability while destroying scalable continuity transfer.",
+    "Protected cores preserve bounded coherence during global admissibility collapse.",
+    "Local closure can persist while recursive stitching collapses.",
+    "Traversability contracts through global survivability failure."
+  ],
+
+  "deep_compression_points": [
+    "Local survivability preserves bounded continuity stabilization.",
+    "Global survivability preserves scalable continuity transfer.",
+    "Closure preserves local recurrence.",
+    "Stitching preserves recursive integration.",
+    "Recursive viability depends upon both local and global survivability.",
+    "Fragmentation preserves local continuity while degrading scalability.",
+    "Protected cores preserve bounded survivability during scaling collapse.",
+    "Collapse begins through scalable admissibility exhaustion.",
+    "Traversability contracts through global survivability failure.",
+    "Recovery restores scalable admissibility and continuity transfer."
+  ],
+
+  "connections": [
+    "existential_propagator_survivability_kernel_v2",
+    "vtfa_minimal_viability_geometry_kernel",
+    "recursive_participatory_traversability_principle",
+    "coherence_functional",
+    "navigable_continuity_field",
+    "participatory_fiber_compression_dual",
+    "future_accessibility_contraction_geometry",
+    "topological_recovery_theory",
+    "protected_core_principle",
+    "integration_limited_opening",
+    "rotor_coordination_balance_law"
+  ],
+
+  "one_sentence_lock": "Recursive viability persists only while local continuity stabilization and global admissible continuity-transfer capacity remain jointly survivable across expanding participation scales."
+}
