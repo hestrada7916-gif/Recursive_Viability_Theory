@@ -1,0 +1,123 @@
+{
+  "principle_id": "fragmentation_signature_principle",
+  "title": "Fragmentation Signature Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_admissibility_geometry",
+  "type": "fragmentation_and_recursive_viability_principle",
+
+  "canonical_statement": "Collapse begins when stitching fails faster than closure.",
+
+  "deep_compression_statement": "Local survivability is not sufficient for recursive viability.",
+
+  "formal_statement": {
+    "statement": "Recursive collapse begins when scalable stitching capacity degrades faster than bounded local closure capacity.",
+    "interpretation": "Systems may preserve locally coherent continuity recurrence while simultaneously losing recursively scalable continuity integration across expanding admissible participation geometry.",
+    "collapse_insight": "Fragmentation emerges through degeneration of recursive stitching compatibility before destruction of local coherent recurrence."
+  },
+
+  "core_objects": {
+    "closure_efficiency": "\\eta_{\\mathrm{closure}}(n)",
+    "stitching_efficiency": "\\eta_{\\mathrm{stitch}}(n)",
+    "local_propagator_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}",
+    "global_propagator_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "reweaving_operator": "\\mathcal W_{\\mathrm{rew}}"
+  },
+
+  "closure_stitching_decomposition": {
+    "closure_definition": "\\eta_{\\mathrm{closure}}(n)",
+    "closure_interpretation": "Closure efficiency measures preservation of bounded coherent continuity recurrence within locally survivable continuity domains.",
+
+    "stitching_definition": "\\eta_{\\mathrm{stitch}}(n)",
+    "stitching_interpretation": "Stitching efficiency measures preservation of scalable recursive continuity integration across recursively expanding admissible participation geometry.",
+
+    "deep_lock": "Closure preserves local recurrence while stitching preserves recursive integration."
+  },
+
+  "canonical_fragmentation_signature": {
+    "formal_relation": "\\eta_{\\mathrm{closure}}(n)>0 \\quad \\land \\quad \\eta_{\\mathrm{stitch}}(n)\\rightarrow0",
+
+    "interpretation": "Bounded local continuity loops remain internally coherent and recurrently survivable while scalable recursive integration progressively collapses.",
+
+    "deep_form": "Recursive viability may fail even while bounded local survivability remains positive."
+  },
+
+  "local_global_survivability_dual": {
+    "local_relation": "\\eta_{\\mathrm{closure}}(n) \\sim \\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}",
+
+    "global_relation": "\\eta_{\\mathrm{stitch}}(n) \\sim \\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}",
+
+    "recursive_viability_condition": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0 \\quad \\land \\quad \\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}>0",
+
+    "interpretation": "Recursive viability requires both bounded local continuity stabilization and scalable recursive continuity integration."
+  },
+
+  "collapse_geometry": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}} \\not\\Rightarrow \\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}",
+
+    "interpretation": "Local coherent recurrence does not guarantee scalable recursive viability.",
+
+    "deep_form": "Collapse often begins through degeneration of admissible recursive stitching compatibility across scale."
+  },
+
+  "protected_core_regime": {
+    "formal_relation": "\\eta_{\\mathrm{closure}}(n)>0 \\quad \\land \\quad \\eta_{\\mathrm{stitch}}(n)\\approx0",
+
+    "interpretation": "Locally coherent continuity islands remain survivable while recursively scalable continuity transfer becomes fragmented and traversability-constrained.",
+
+    "deep_form": "Protected cores preserve local coherence during recursive integration collapse."
+  },
+
+  "traversability_consequence": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\sim \\eta_{\\mathrm{stitch}}(n)",
+
+    "interpretation": "Future participation accessibility contracts as recursive stitching degenerates.",
+
+    "deep_form": "Collapse progressively narrows recursively traversable futures even while local continuity structures remain partially coherent."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}} : \\eta_{\\mathrm{stitch}}^{\\mathrm{frag}} \\rightarrow \\eta_{\\mathrm{stitch}}^{+}",
+
+    "interpretation": "Recovery restores recursive viability through recoherence, re-synchronization, re-stitching, and admissibility reopening across fragmented continuity domains.",
+
+    "deep_form": "Recovery is restoration of scalable stitching compatibility."
+  },
+
+  "canonical_compression": [
+    "Collapse begins when stitching fails faster than closure.",
+    "Local survivability is necessary but not sufficient for recursive viability.",
+    "Closure preserves local recurrence.",
+    "Stitching preserves recursive integration.",
+    "Fragmentation preserves local coherence while destroying scalable continuity integration.",
+    "Protected cores preserve bounded survivability during recursive stitching collapse.",
+    "Traversability contracts as stitching degenerates.",
+    "Recovery restores recursive stitching compatibility."
+  ],
+
+  "deep_compression_points": [
+    "Closure measures bounded coherent recurrence.",
+    "Stitching measures scalable recursive integration.",
+    "Recursive viability requires both closure and stitching.",
+    "Fragmentation emerges when stitching collapses before closure.",
+    "Protected cores preserve local survivability during recursive integration failure.",
+    "Local coherence does not guarantee recursive viability.",
+    "Collapse narrows traversable futures.",
+    "Recovery restores admissible recursive continuity transfer."
+  ],
+
+  "connections": [
+    "local_global_survivability_decomposition",
+    "existential_propagator_survivability_kernel_v2",
+    "recursive_participatory_traversability_principle",
+    "protected_core_principle",
+    "integration_limited_opening",
+    "rotor_coordination_balance_law",
+    "future_accessibility_contraction_geometry",
+    "topological_recovery_theory",
+    "recursive_admissibility_flow_principle"
+  ],
+
+  "one_sentence_lock": "Recursive collapse begins when scalable stitching compatibility degrades faster than bounded local closure capacity across recursively expanding participation geometry."
+}
