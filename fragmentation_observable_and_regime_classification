@@ -1,0 +1,134 @@
+{
+  "principle_id": "fragmentation_observable_and_regime_classification",
+  "title": "Fragmentation Observable and Regime Classification",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_admissibility_geometry",
+  "type": "fragmentation_observable_and_regime_classifier",
+
+  "canonical_statement": "Recursive fragmentation is measured by stitching efficiency normalized against closure efficiency.",
+
+  "deep_compression_statement": "Collapse begins when stitching fails faster than closure.",
+
+  "formal_statement": {
+    "statement": "Recursive fragmentation is governed by the scale-indexed degradation of scalable stitching efficiency relative to bounded local closure efficiency.",
+    "interpretation": "Fragmentation increases whenever scalable recursive integration degrades relative to preserved local coherent recurrence.",
+    "collapse_insight": "Local survivability may remain positive while normalized recursive integration capacity collapses."
+  },
+
+  "core_objects": {
+    "fragmentation_observable": "\\Phi_{\\mathrm{frag}}(n)",
+    "closure_efficiency": "\\eta_{\\mathrm{closure}}(n)",
+    "stitching_efficiency": "\\eta_{\\mathrm{stitch}}(n)",
+    "fragmentation_threshold": "\\xi_{\\mathrm{frag}}",
+    "recursive_scale": "n"
+  },
+
+  "fragmentation_observable": {
+    "definition": "\\Phi_{\\mathrm{frag}}(n)=\\frac{\\eta_{\\mathrm{stitch}}(n)}{\\eta_{\\mathrm{closure}}(n)}",
+    "domain_condition": "\\eta_{\\mathrm{closure}}(n)>0",
+    "interpretation": "The fragmentation observable measures recursive integration capacity normalized by preserved bounded local closure capacity.",
+    "deep_form": "High local closure does not imply viability unless scalable stitching remains proportionally preserved."
+  },
+
+  "fragmentation_flow_criterion": {
+    "formal_relation": "\\partial_n\\Phi_{\\mathrm{frag}}(n)<0",
+    "expanded_relation": "\\partial_n\\left(\\frac{\\eta_{\\mathrm{stitch}}(n)}{\\eta_{\\mathrm{closure}}(n)}\\right)<0",
+    "interpretation": "Recursive fragmentation increases when scalable stitching efficiency degrades relative to bounded local closure efficiency across recursive scale.",
+    "deep_form": "Collapse begins when stitching fails faster than closure."
+  },
+
+  "critical_fragmentation_threshold": {
+    "threshold": "\\xi_{\\mathrm{frag}}>0",
+    "critical_condition": "\\Phi_{\\mathrm{frag}}(n)\\rightarrow\\xi_{\\mathrm{frag}}^{+}",
+    "threshold_interpretation": "The threshold marks the onset of recursive viability failure rather than complete local collapse.",
+    "interpretation": "Critical fragmentation occurs as normalized recursive stitching capacity approaches the minimum threshold required for scalable recursive viability."
+  },
+
+  "regime_classification": {
+    "coordinated_regime": {
+      "condition": "\\Phi_{\\mathrm{frag}}(n)\\approx1 \\quad \\land \\quad \\eta_{\\mathrm{closure}}(n)>0 \\quad \\land \\quad \\eta_{\\mathrm{stitch}}(n)>0",
+      "interpretation": "Local closure and recursive stitching remain proportionally aligned."
+    },
+
+    "fragmenting_regime": {
+      "condition": "0<\\Phi_{\\mathrm{frag}}(n)<1 \\quad \\land \\quad \\partial_n\\Phi_{\\mathrm{frag}}(n)<0",
+      "interpretation": "Local closure remains positive, but recursive stitching is degrading relative to local survivability."
+    },
+
+    "critical_fragmentation_regime": {
+      "condition": "\\Phi_{\\mathrm{frag}}(n)\\rightarrow\\xi_{\\mathrm{frag}}^{+}",
+      "interpretation": "Recursive stitching capacity approaches the minimum threshold required for scalable recursive viability."
+    },
+
+    "protected_core_regime": {
+      "condition": "\\Phi_{\\mathrm{frag}}(n)\\rightarrow0 \\quad \\land \\quad \\eta_{\\mathrm{closure}}(n)>0",
+      "equivalent_condition": "\\eta_{\\mathrm{stitch}}(n)\\rightarrow0 \\quad \\land \\quad \\eta_{\\mathrm{closure}}(n)>0",
+      "interpretation": "Locally coherent continuity islands remain survivable while scalable recursive continuity integration collapses."
+    },
+
+    "full_collapse_regime": {
+      "condition": "\\eta_{\\mathrm{closure}}(n)\\rightarrow0 \\quad \\land \\quad \\eta_{\\mathrm{stitch}}(n)\\rightarrow0",
+      "interpretation": "Both bounded local survivability and scalable recursive integration fail."
+    }
+  },
+
+  "regime_table": [
+    {
+      "regime": "coordinated",
+      "condition": "\\Phi_{\\mathrm{frag}}(n)\\approx1",
+      "interpretation": "Closure and stitching aligned."
+    },
+    {
+      "regime": "fragmenting",
+      "condition": "0<\\Phi_{\\mathrm{frag}}(n)<1 \\quad \\land \\quad \\partial_n\\Phi_{\\mathrm{frag}}(n)<0",
+      "interpretation": "Stitching decays relative to closure."
+    },
+    {
+      "regime": "critical_fragmentation",
+      "condition": "\\Phi_{\\mathrm{frag}}(n)\\rightarrow\\xi_{\\mathrm{frag}}^{+}",
+      "interpretation": "Recursive viability threshold approached."
+    },
+    {
+      "regime": "protected_core",
+      "condition": "\\Phi_{\\mathrm{frag}}(n)\\rightarrow0 \\quad \\land \\quad \\eta_{\\mathrm{closure}}(n)>0",
+      "interpretation": "Local coherence survives global stitching collapse."
+    },
+    {
+      "regime": "full_collapse",
+      "condition": "\\eta_{\\mathrm{closure}}(n)\\rightarrow0 \\quad \\land \\quad \\eta_{\\mathrm{stitch}}(n)\\rightarrow0",
+      "interpretation": "Local and global survivability fail."
+    }
+  ],
+
+  "canonical_compression": [
+    "Fragmentation is recursive stitching normalized by local closure.",
+    "Collapse begins when stitching fails faster than closure.",
+    "Local survivability is not sufficient for recursive viability.",
+    "Protected cores occur when closure survives while stitching collapses.",
+    "Full collapse occurs when both closure and stitching fail."
+  ],
+
+  "deep_compression_points": [
+    "Closure measures bounded local recurrence.",
+    "Stitching measures scalable recursive integration.",
+    "The fragmentation observable separates local survival from recursive viability.",
+    "Negative fragmentation flow indicates growing recursive fragmentation.",
+    "Critical fragmentation occurs as normalized stitching approaches threshold.",
+    "Protected cores preserve local coherence during global integration collapse.",
+    "Full collapse destroys both local closure and recursive stitching."
+  ],
+
+  "connections": [
+    "fragmentation_signature_principle",
+    "local_global_survivability_decomposition",
+    "protected_core_principle",
+    "integration_limited_opening",
+    "recursive_admissibility_flow_principle",
+    "rotor_coordination_balance_law",
+    "future_accessibility_contraction_geometry",
+    "topological_recovery_theory"
+  ],
+
+  "one_sentence_lock": "Recursive fragmentation is detected when stitching efficiency declines relative to closure efficiency across recursive scale."
+}
