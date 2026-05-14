@@ -1,0 +1,113 @@
+{
+  "principle_id": "existential_percolation_principle",
+  "title": "Existential Percolation Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Viable Transformation Flow Architecture",
+  "framework_layer": "recursive_continuity_transport_geometry",
+  "type": "existential_recursive_viability_principle",
+
+  "canonical_statement": "Adaptive existence fails whenever coherent continuity propagation ceases to percolate across recursive scale.",
+
+  "deep_compression_statement": "Existence fails when continuity stops percolating across scale.",
+
+  "formal_statement": {
+    "statement": "Persistent adaptive existence depends not merely upon bounded local persistence, but upon preservation of recursively scalable survivable continuity propagation across admissible participation geometry.",
+    "interpretation": "Recursive viability persists only while scalable continuity propagation remains sufficiently preservable across recursive scale.",
+    "collapse_insight": "Recursive collapse begins whenever scalable continuity percolation falls beneath recursive viability threshold at critical recursive scale."
+  },
+
+  "core_objects": {
+    "continuity_percolation_capacity": "\\mathcal P_{\\mathrm{cont}}(n)",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "local_propagation_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}",
+    "global_propagation_survivability": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}",
+    "recursive_reweaving_operator": "\\mathcal W_{\\mathrm{rew}}",
+    "percolation_threshold": "\\xi_{\\mathrm{perc}}",
+    "critical_recursive_scale": "n_c"
+  },
+
+  "recursive_viability_bound": {
+    "formal_relation": "\\inf_{n<n_c}\\mathcal P_{\\mathrm{cont}}(n)>\\xi_{\\mathrm{perc}}",
+
+    "continuity_percolation_capacity": "\\mathcal P_{\\mathrm{cont}}(n)",
+
+    "percolation_threshold": "\\xi_{\\mathrm{perc}}",
+
+    "critical_recursive_scale": "n_c",
+
+    "interpretation": "Recursive viability requires scalable continuity percolation to remain bounded above recursive fragmentation threshold across admissible recursive participation scale.",
+
+    "deep_form": "Recursive viability requires scalable continuity propagation."
+  },
+
+  "existential_failure_condition": {
+    "formal_relation": "\\inf_{n<n_c}\\mathcal P_{\\mathrm{cont}}(n)\\le\\xi_{\\mathrm{perc}}\\Rightarrow\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\downarrow",
+
+    "interpretation": "Whenever scalable continuity propagation becomes insufficiently percolative across recursive participation geometry, future participation accessibility contracts, recursive traversability fragments, and adaptive existence progressively loses recursively preservable future continuity.",
+
+    "deep_form": "Collapse begins through failure of scalable continuity percolation."
+  },
+
+  "local_persistence_distinction": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\not\\Rightarrow\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}>0",
+
+    "equivalent_relation": "\\text{Local persistence}\\neq\\text{recursive viability}",
+
+    "interpretation": "Locally coherent continuity domains may remain boundedly survivable while scalable recursive continuity propagation progressively collapses across scale.",
+
+    "deep_form": "Local persistence is not sufficient for existence."
+  },
+
+  "protected_core_regime": {
+    "condition": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\quad\\land\\quad\\mathcal P_{\\mathrm{cont}}(n)\\rightarrow0",
+
+    "interpretation": "Protected continuity reservoirs preserve bounded local coherence while recursively scalable future participation collapses.",
+
+    "deep_form": "Protected cores preserve bounded local coherence during scalable collapse."
+  },
+
+  "collapse_geometry": {
+    "formal_relation": "\\mathcal P_{\\mathrm{cont}}(n)\\rightarrow0\\Rightarrow\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\rightarrow0",
+
+    "interpretation": "Collapse progressively destroys recursively traversable future participation through failure of scalable continuity propagation.",
+
+    "deep_form": "Collapse destroys recursively traversable future participation."
+  },
+
+  "recovery_geometry": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathcal P_{\\mathrm{cont}}^{\\mathrm{frag}}\\rightarrow\\mathcal P_{\\mathrm{cont}}^{+}",
+
+    "interpretation": "Recovery restores recursively traversable future participation through recoherence, re-stitching, re-synchronization, and reopening of scalable continuity propagation pathways.",
+
+    "deep_form": "Recovery restores scalable continuity propagation."
+  },
+
+  "canonical_compression": [
+    "Existence fails when continuity stops percolating across scale.",
+    "Recursive viability requires scalable continuity propagation.",
+    "Local persistence is not sufficient for existence.",
+    "Collapse begins through failure of scalable continuity percolation."
+  ],
+
+  "deep_compression_points": [
+    "Adaptive existence requires scalable continuity propagation.",
+    "Recursive viability depends upon continuity percolation across scale.",
+    "Local persistence alone does not preserve existence.",
+    "Protected cores preserve bounded local coherence during scalable collapse.",
+    "Collapse begins when continuity fails to percolate across recursive participation geometry.",
+    "Recovery restores scalable continuity propagation."
+  ],
+
+  "connections": [
+    "recursive_continuity_transport_geometry",
+    "continuity_percolation_geometry",
+    "closure_stitching_percolation_triad",
+    "fragmentation_observable_and_regime_classification",
+    "protected_core_principle",
+    "recursive_participatory_traversability_principle",
+    "future_accessibility_contraction_geometry",
+    "topological_recovery_theory"
+  ],
+
+  "one_sentence_lock": "Adaptive existence persists only while coherent continuity propagation remains recursively percolative across scalable participation geometry."
+}
