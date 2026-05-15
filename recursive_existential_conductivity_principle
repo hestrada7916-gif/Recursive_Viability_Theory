@@ -1,0 +1,119 @@
+{
+  "artifact_id": "recursive_existential_conductivity_principle",
+  "title": "Recursive Existential Conductivity Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "framework_layer": "recursive_existence_geometry",
+  "type": "recursive_scalability_principle",
+
+  "canonical_statement": "Recursive existence is a conductivity condition.",
+
+  "deep_compression_statement": "Recursive existence persists only where continuity remains recursively conductive across scale.",
+
+  "principle": {
+    "name": "Recursive Existential Conductivity Principle",
+
+    "statement": "Persistent adaptive existence depends upon preservation of sufficiently scalable participatory continuity conductivity across recursive organizational scale.",
+
+    "formal_interpretation": "Recursive existence therefore persists only where admissible continuity propagation, participatory traversability, continuity percolation, and recursive viability organization remain sufficiently conductive under recursive deformation dynamics.",
+
+    "interpretation": "Recursive existence is governed not merely by local continuity persistence, but by preservation of recursively transmissible viability conductivity across recursively organized participation structure."
+  },
+
+  "core_objects": {
+    "local_continuity_propagation": {
+      "symbol": "\\Psi_{\\mathrm{cont}}",
+      "definition": "local admissibility-preserving continuity propagation"
+    },
+
+    "continuity_percolation": {
+      "symbol": "\\mathcal P_{\\mathrm{cont}}(n)",
+      "definition": "recursive continuity percolation across recursive scale",
+      "role": "recursive viability conductivity observable"
+    },
+
+    "recursive_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+      "definition": "recursive participatory traversability structure"
+    },
+
+    "recursive_viability_geometry": {
+      "symbol": "\\mathfrak X_{\\mathrm{AFP}}",
+      "definition": "admissible future participation geometry"
+    },
+
+    "recursive_deformation_accumulation": {
+      "symbol": "\\mathcal D_{\\mathrm{rec}}",
+      "definition": "recursive deformation accumulation"
+    }
+  },
+
+  "recursive_existence_condition": {
+    "formal_relation": "\\inf_{n\\to\\infty}\\mathcal P_{\\mathrm{cont}}(n)>0",
+
+    "interpretation": "Recursive existence persists iff recursive viability conductivity remains bounded away from collapse across recursive organizational scale.",
+
+    "deep_form": "Recursive existence requires asymptotically preservable continuity conductivity."
+  },
+
+  "recursive_collapse_condition": {
+    "formal_relation": "\\mathcal P_{\\mathrm{cont}}(n)\\rightarrow0\\quad\\text{as}\\quad n\\rightarrow\\infty",
+
+    "interpretation": "Recursive collapse begins whenever recursive viability conductivity asymptotically degenerates across recursive scale.",
+
+    "deep_form": "Collapse is asymptotic degeneration of recursive viability conductivity."
+  },
+
+  "local_global_distinction": {
+    "statement": "Local continuity persistence does not imply recursively scalable existential conductivity.",
+
+    "formal_relation": "\\Psi_{\\mathrm{cont}}>0\\not\\Rightarrow\\inf_{n\\to\\infty}\\mathcal P_{\\mathrm{cont}}(n)>0",
+
+    "interpretation": "Local continuity propagation may remain partially preserved while recursive viability conductivity collapses asymptotically across scale."
+  },
+
+  "residual_reachability_principle": {
+    "statement": "Reachable future states do not imply preservation of recursively viable future participation geometry.",
+
+    "formal_relation": "\\mathfrak X_{\\mathrm{reach}}^{+}\\neq\\varnothing\\not\\Rightarrow\\inf_{n\\to\\infty}\\mathcal P_{\\mathrm{cont}}(n)>0",
+
+    "interpretation": "Residual future reachability may remain while recursively scalable viability conductivity collapses."
+  },
+
+  "conductivity_interpretation": {
+    "statement": "Recursive viability conductivity measures the degree to which admissibility-preserving continuity propagation remains recursively transmissible across recursively organized participation structure.",
+
+    "organizational_role": "Recursive viability conductivity transforms local continuity persistence into recursively scalable existential organization.",
+
+    "collapse_role": "Collapse begins when continuity ceases to remain recursively conductive across scale."
+  },
+
+  "canonical_compressions": [
+    "Recursive existence is a conductivity condition.",
+    "Recursive existence persists only where continuity remains recursively conductive across scale.",
+    "Continuity percolation measures recursive viability conductivity.",
+    "Local persistence is not recursive existence.",
+    "Reachable futures do not imply recursively viable futures.",
+    "Collapse begins when continuity ceases to remain recursively conductive across scale."
+  ],
+
+  "deep_compression_points": [
+    "Recursive existence is asymptotic continuity conductivity.",
+    "Recursive viability depends on scalable transmissibility of continuity organization.",
+    "Continuity propagation alone is insufficient for recursive existence.",
+    "Recursive existence requires scalable continuity percolation.",
+    "Collapse is conductivity degeneration across recursive organizational scale."
+  ],
+
+  "connections": [
+    "recursive_viability_conductivity_criterion",
+    "master_collapse_criterion",
+    "preservable_future_viability_principle",
+    "recursive_existence_observable",
+    "continuity_percolation_geometry",
+    "recursive_temporality_emergence_principle",
+    "local_global_survivability_decomposition"
+  ],
+
+  "one_sentence_lock": "Recursive existence persists exactly where admissibility-preserving continuity remains recursively conductive across recursive organizational scale."
+}
