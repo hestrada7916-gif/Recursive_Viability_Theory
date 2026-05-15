@@ -1,0 +1,183 @@
+{
+  "artifact_id": "recursive_viability_phase_geometry",
+  "title": "Recursive Viability Phase Geometry",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "framework_layer": "recursive_viability_geometry",
+  "type": "recursive_phase_space_geometry",
+
+  "canonical_statement": "Recursive viability defines a navigable recursive phase geometry.",
+
+  "deep_compression_statement": "Recursive existence persists only along recursively navigable viability-preserving trajectories.",
+
+  "principle": {
+    "name": "Recursive Viability Phase Geometry Principle",
+    "statement": "Recursive adaptive viability defines a navigable recursive phase geometry.",
+    "interpretation": "Systems occupy positions within recursive viability geometry and evolve through recursively admissible viability trajectories across recursive organizational scale.",
+    "deep_form": "Recursive existence depends upon preservation of recursively navigable viability-preserving trajectories across recursive organizational scale."
+  },
+
+  "core_objects": {
+    "recursive_viability_geometry": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}",
+      "definition": "recursive viability phase geometry",
+      "interpretation": "Defines the recursive viability state geometry governing recursive organizational navigability."
+    },
+
+    "recursive_viability_state_coordinate": {
+      "symbol": "x_{\\mathrm{viab}}",
+      "formal_relation": "x_{\\mathrm{viab}}=(\\mathcal P_{\\mathrm{cont}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}},\\eta_{\\mathrm{coh}},\\mathcal R_{\\mathrm{rew}},\\mathcal D_{\\mathrm{rec}})",
+      "definition": "recursive viability state coordinate",
+      "interpretation": "Specifies a system position within recursive viability phase geometry.",
+      "components": {
+        "continuity_percolation_capacity": "\\mathcal P_{\\mathrm{cont}}",
+        "recursive_participatory_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+        "recursive_coherence_preservation": "\\eta_{\\mathrm{coh}}",
+        "recursive_recoverability_capacity": "\\mathcal R_{\\mathrm{rew}}",
+        "recursive_deformation_burden": "\\mathcal D_{\\mathrm{rec}}"
+      }
+    },
+
+    "recursive_scale_state_coordinate": {
+      "symbol": "x_{\\mathrm{viab}}(n)",
+      "definition": "recursive viability state coordinate at recursive organizational scale n",
+      "interpretation": "Systems occupy recursive positions inside recursive viability phase geometry."
+    },
+
+    "recursive_viability_trajectory": {
+      "symbol": "\\gamma_{\\mathrm{viab}}",
+      "formal_relation": "\\gamma_{\\mathrm{viab}}:n\\mapsto x_{\\mathrm{viab}}(n)",
+      "definition": "recursive viability trajectory",
+      "interpretation": "Represents recursive organizational evolution through recursive viability phase geometry."
+    },
+
+    "viability_preserving_region": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}^{+}",
+      "formal_relation": "x_{\\mathrm{viab}}(n)\\in\\mathfrak T_{\\mathrm{viab}}^{+}\\Longleftrightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}(n)>0",
+      "definition": "viability-preserving region",
+      "interpretation": "Contains recursively admissible states preserving scalable recursive viability conductivity."
+    },
+
+    "recursive_collapse_region": {
+      "symbol": "\\mathfrak T_{\\mathrm{coll}}",
+      "formal_relation": "\\mathfrak T_{\\mathrm{coll}}=\\mathfrak T_{\\mathrm{viab}}\\setminus\\mathfrak T_{\\mathrm{viab}}^{+}",
+      "definition": "recursive collapse region",
+      "interpretation": "Contains recursively collapsing regions where recursive viability conductivity asymptotically degenerates."
+    },
+
+    "recursive_viability_boundary": {
+      "symbol": "\\partial\\mathfrak T_{\\mathrm{viab}}^{+}",
+      "definition": "recursive viability boundary",
+      "interpretation": "Separates viability-preserving and recursively collapsing organizational trajectories."
+    },
+
+    "recursive_viability_distance": {
+      "symbol": "d_{\\mathrm{geo}}",
+      "definition": "admissibility-compatible recursive viability distance functional on \\mathfrak T_{\\mathrm{viab}}",
+      "interpretation": "Measures recursive geometric separation inside recursive viability phase geometry."
+    },
+
+    "viability_margin": {
+      "symbol": "\\mu_{\\mathrm{viab}}(n)",
+      "formal_relation": "\\mu_{\\mathrm{viab}}(n)=d_{\\mathrm{geo}}(x_{\\mathrm{viab}}(n),\\partial\\mathfrak T_{\\mathrm{viab}}^{+})",
+      "definition": "recursive viability margin",
+      "interpretation": "Measures geometric separation from recursive collapse boundaries."
+    },
+
+    "recoverability_basin": {
+      "symbol": "\\mathfrak B_{\\mathrm{rew}}",
+      "formal_relation": "\\mathfrak B_{\\mathrm{rew}}\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+      "definition": "recoverability basin",
+      "interpretation": "Recursive region from which recursive existence may be regenerated through admissibility-preserving reweaving dynamics."
+    },
+
+    "recursive_geometric_flow": {
+      "symbol": "\\mathcal V_{\\mathrm{geom}}",
+      "formal_relation": "\\frac{dx_{\\mathrm{viab}}}{dn}=\\mathcal V_{\\mathrm{geom}}(x_{\\mathrm{viab}})",
+      "definition": "recursive geometric viability flow",
+      "interpretation": "Governs recursive organizational evolution through viability phase geometry."
+    }
+  },
+
+  "viability_navigation_condition": {
+    "formal_relation": "d_{\\mathrm{geo}}(x_{\\mathrm{viab}}(n),\\partial\\mathfrak T_{\\mathrm{viab}}^{+})>0",
+    "equivalent_margin_form": "\\mu_{\\mathrm{viab}}(n)>0",
+    "interpretation": "Recursive viability requires systems to remain geometrically separated from recursive collapse boundaries."
+  },
+
+  "stable_navigability_margin": {
+    "formal_relation": "\\mu_{\\mathrm{viab}}(n)>\\mu_{\\mathrm{crit}}",
+    "interpretation": "Stable recursive viability requires sufficiently preserved geometric viability margins.",
+    "preserves": [
+      "recoverability",
+      "adaptive traversability",
+      "recursive accessibility",
+      "regenerative robustness"
+    ]
+  },
+
+  "navigability_criterion": {
+    "formal_relation": "\\gamma_{\\mathrm{viab}}(n)\\subseteq\\mathfrak T_{\\mathrm{viab}}^{+}\\Longrightarrow\\mathfrak X_{\\mathrm{exist}}>0",
+    "interpretation": "Recursive existence depends upon recursively navigable viability-preserving trajectories across recursive scale."
+  },
+
+  "collapse_drift": {
+    "formal_relation": "x_{\\mathrm{viab}}(n)\\rightarrow\\mathfrak T_{\\mathrm{coll}}\\Longrightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}\\rightarrow0",
+    "interpretation": "Collapse corresponds to recursive viability conductivity failure under geometric drift toward recursively nonnavigable regions.",
+    "deep_form": "Collapse is geometric drift toward nonviable regions."
+  },
+
+  "viability_margin_contraction": {
+    "formal_relation": "\\frac{d}{dn}\\mu_{\\mathrm{viab}}(n)<0",
+    "expanded_form": "\\frac{d}{dn}d_{\\mathrm{geo}}(x_{\\mathrm{viab}}(n),\\partial\\mathfrak T_{\\mathrm{viab}}^{+})<0",
+    "interpretation": "Recursive deformation dynamics progressively compress recursive viability accessibility and recoverability margins."
+  },
+
+  "recovery_condition": {
+    "formal_relation": "x_{\\mathrm{viab}}(n)\\in\\mathfrak B_{\\mathrm{rew}}",
+    "interpretation": "Recursive reweaving may restore viability-preserving conductivity when the system remains inside the recoverability basin.",
+    "deep_form": "Recovery is viability-space reentry."
+  },
+
+  "recursive_phase_geometry_interpretation": {
+    "statement": "Recursive viability phase geometry defines a recursive phase-space dynamical system governing recursive organizational evolution.",
+    "interpretation": [
+      "systems occupy positions within recursive viability geometry",
+      "recursive organizational evolution corresponds to viability trajectories",
+      "recursive collapse corresponds to drift toward nonviable regions",
+      "recovery corresponds to viability-space reentry",
+      "recursive existence depends upon preservation of navigable viability-preserving trajectories across recursive scale"
+    ]
+  },
+
+  "canonical_compressions": [
+    "Recursive viability defines a navigable recursive phase geometry.",
+    "Systems occupy positions inside viability geometry.",
+    "Collapse is geometric drift toward nonviable regions.",
+    "Recovery is viability-space reentry.",
+    "Recursive existence persists only along recursively navigable viability-preserving trajectories."
+  ],
+
+  "deep_compression_points": [
+    "Recursive viability geometry defines a navigable recursive dynamical system.",
+    "Systems evolve through trajectories inside recursive viability geometry.",
+    "Recursive existence depends upon navigability within viability-preserving regions.",
+    "Viability margins measure geometric separation from recursive collapse boundaries.",
+    "Recursive deformation contracts viability margins.",
+    "Collapse corresponds to geometric drift toward recursively nonviable regions.",
+    "Recovery corresponds to viability-space reentry through recursive reweaving dynamics.",
+    "Recursive viability boundaries separate preservable and collapsing recursive organizational trajectories."
+  ],
+
+  "connections": [
+    "recursive_existential_conductivity_geometry_final_normalized_existence_criterion_v3",
+    "recursive_viability_conductivity_dynamics",
+    "survivability_corridor_principle",
+    "curvature_viability_theorem",
+    "recoverability_geometry",
+    "master_collapse_criterion",
+    "ontological_compression_stack"
+  ],
+
+  "one_sentence_lock": "Recursive existence persists only along recursively navigable viability-preserving trajectories inside recursive viability phase geometry."
+}
