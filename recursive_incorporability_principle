@@ -1,0 +1,84 @@
+{
+  "artifact_id": "recursive_incorporability_principle",
+  "title": "Recursive Incorporability Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_incorporability_kernel",
+
+  "canonical_statement": "Recursive viability requires viability-preserving incorporable continuity.",
+
+  "primitive_continuity_relation": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}} \\leftrightarrow \\mathcal I_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability emerges through reciprocal conditioning between propagable recursive continuity and viability-preserving incorporability."
+  },
+
+  "primitive_objects": {
+    "continuity_propagator": {
+      "symbol": "\\Psi_{\\mathrm{cont}}",
+      "role": "propagable recursive continuity"
+    },
+    "viability_incorporability": {
+      "symbol": "\\mathcal I_{\\mathrm{viab}}",
+      "role": "viability-preserving incorporability"
+    },
+    "stitching_compatibility": {
+      "symbol": "\\eta_{\\mathrm{stitch}}",
+      "role": "local admissibility-preserving continuity compatibility"
+    },
+    "recursive_admissibility_flow": {
+      "symbol": "\\mathcal G_{\\mathrm{adm}}",
+      "role": "scalable admissibility-preserving incorporability flow"
+    }
+  },
+
+  "local_compatibility_condition": {
+    "formal_relation": "\\eta_{\\mathrm{stitch}} = \\mathcal C_{\\mathrm{compat}}",
+    "interpretation": "Recursive stitching measures local viability-preserving compatibility across source, interface, and receiver participation structure."
+  },
+
+  "recursive_admissibility_flow": {
+    "formal_relation": "\\mathcal G_{\\mathrm{adm}} : \\Psi_{\\mathrm{cont}} \\mapsto \\mathcal I_{\\mathrm{viab}}",
+    "interpretation": "Recursive admissibility flow governs whether propagating continuity remains recursively incorporable across scalable participation geometry."
+  },
+
+  "scale_preserving_navigability_condition": {
+    "formal_relation": "\\inf_{n\\to\\infty} \\mathcal G_{\\mathrm{adm}}(n) > 0",
+    "interpretation": "Recursive existence persists only while recursively admissible continuity incorporation remains scalability-preserving."
+  },
+
+  "incorporability_failure_regime": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}} > \\mathcal I_{\\mathrm{viab}} \\Rightarrow \\eta_{\\mathrm{stitch}} \\downarrow",
+    "interpretation": "Collapse may emerge not from insufficient propagation, but from failure of recursive viability-preserving incorporation."
+  },
+
+  "fragmentation_interpretation": {
+    "formal_relation": "\\eta_{\\mathrm{stitch}}^{\\mathrm{local}} > 0 \\land \\mathcal G_{\\mathrm{adm}}^{\\mathrm{global}} \\downarrow",
+    "interpretation": "Local continuity compatibility may persist while scalable recursive incorporability progressively collapses."
+  },
+
+  "recursive_existential_consequence": {
+    "formal_relation": "\\mathfrak X_{\\mathrm{exist}} \\sim \\mathcal F(\\Psi_{\\mathrm{cont}},\\mathcal G_{\\mathrm{adm}},\\eta_{\\mathrm{stitch}},\\mathcal I_{\\mathrm{viab}})",
+    "interpretation": "Recursive existence stabilizes through propagable continuity, admissible recursive continuity flow, local compatibility preservation, and recursively viable incorporability."
+  },
+
+  "normalization_rules": [
+    "Continuity propagation alone is insufficient for recursive viability.",
+    "Recursive viability requires viability-preserving incorporability.",
+    "Compatibility is a local condition, not the whole admissibility architecture.",
+    "Recursive admissibility flow governs scalable incorporability.",
+    "What propagates is not necessarily incorporably viable.",
+    "Collapse may emerge through incorporability failure rather than propagation failure.",
+    "Fragmentation localizes continuity compatibility while global incorporability collapses."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability requires incorporable continuity rather than propagation alone.",
+    "Stitching measures compatibility.",
+    "Recursive admissibility flow governs scalable incorporability.",
+    "What propagates is not necessarily incorporably viable.",
+    "Collapse may emerge through incorporability failure rather than propagation failure.",
+    "Recursive existence depends upon admissibly incorporable continuity propagation."
+  ],
+
+  "one_sentence_lock": "Recursive existence persists only where propagable continuity remains locally compatible and scalably incorporable through viability-preserving admissibility flow."
+}
