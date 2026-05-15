@@ -1,0 +1,131 @@
+{
+  "artifact_id": "recursive_ontological_stratification_theorem",
+  "title": "Recursive Ontological Stratification Theorem",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_ontological_emergence_architecture",
+
+  "canonical_statement": "Recursive existence emerges through an ordered stratification of recursively admissible generative layers.",
+
+  "theorem": {
+    "statement": "Recursive existence is not primitive. Recursive existence emerges through an ordered stratification of recursively admissible generative layers. Each higher ontological stratum depends upon preservation of the lower stratum sufficient to generate admissible recursive continuity structure. Accordingly, recursive existence is the stabilized upper stratum of recursively viable admissible participation organization."
+  },
+
+  "recursive_ontological_stratification_chain": {
+    "formal_relation": "\\mathcal T_{\\mathrm{tens}}^{\\mathrm{rec}} \\rightarrow \\mathcal F_{\\mathrm{adm}} \\rightarrow \\mathcal R_{\\mathrm{rec}}^{\\mathrm{adm}} \\rightarrow \\Sigma_{\\mathrm{tri}}^{\\mathrm{bal}} \\rightarrow \\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}} \\rightarrow \\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{trans}} \\rightarrow \\mathcal P_{\\mathrm{cont}} \\rightarrow \\kappa_{\\mathrm{viab}}^{\\mathrm{rec}} \\rightarrow \\mathfrak X_{\\mathrm{viab}}^{\\mathrm{scal}} \\rightarrow \\tau_{\\mathrm{rec}} \\rightarrow \\mathfrak X_{\\mathrm{exist}}",
+    "interpretation": [
+      "reciprocal tension generates admissibility regulation",
+      "admissibility regulation generates recursive reciprocity",
+      "recursive reciprocity stabilizes balanced triadic relationality",
+      "balanced triadic relationality generates survivable asymmetry",
+      "survivable asymmetry generates continuity propagation",
+      "continuity propagation generates transmissible transport",
+      "transmissible transport generates scalable continuity percolation",
+      "scalable continuity percolation generates recursive viability conductivity",
+      "recursive viability conductivity generates scalable recursive viability geometry",
+      "scalable recursive viability geometry generates recursive temporality",
+      "recursive temporality stabilizes recursive existence organization"
+    ]
+  },
+
+  "recursive_viability_conductivity": {
+    "symbol": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+    "formal_relation": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}} := \\mathrm{Cond}_{\\mathrm{viab}}(\\mathcal P_{\\mathrm{cont}},\\mathcal G_{\\mathrm{adm}},\\mathcal S_{\\mathrm{prop}})",
+    "definition": "recursive viability conductivity",
+    "interpretation": "Measures the degree to which continuity percolation remains viability-preserving across recursive scale.",
+    "normalization_note": "Recursive viability conductivity is stricter than continuity percolation because continuity propagation may persist while ceasing to preserve recursively admissible future participation."
+  },
+
+  "conductivity_conditions": {
+    "viability_condition": {
+      "formal_relation": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}} > 0",
+      "interpretation": "Continuity transfer remains admissible, survivable, and recursively viability-preserving."
+    },
+
+    "conductivity_distinction": {
+      "formal_relation": "\\mathcal P_{\\mathrm{cont}} > 0 \\not\\Rightarrow \\kappa_{\\mathrm{viab}}^{\\mathrm{rec}} > 0",
+      "interpretation": "Continuity may still transfer while ceasing to preserve recursive viability."
+    }
+  },
+
+  "primitive_objects": {
+    "recursive_tension": {
+      "symbol": "\\mathcal T_{\\mathrm{tens}}^{\\mathrm{rec}}",
+      "role": "reciprocal tension substrate"
+    },
+
+    "admissibility_regulation": {
+      "symbol": "\\mathcal F_{\\mathrm{adm}}",
+      "role": "admissibility-preserving regulatory geometry"
+    },
+
+    "recursive_reciprocity": {
+      "symbol": "\\mathcal R_{\\mathrm{rec}}^{\\mathrm{adm}}",
+      "role": "recursively admissible reciprocity structure"
+    },
+
+    "balanced_triadic_relationality": {
+      "symbol": "\\Sigma_{\\mathrm{tri}}^{\\mathrm{bal}}",
+      "role": "balanced triadic relational stabilization"
+    },
+
+    "survivable_relational_asymmetry": {
+      "symbol": "\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}}",
+      "role": "survivable asymmetry generation"
+    },
+
+    "continuity_propagator": {
+      "symbol": "\\Psi_{\\mathrm{cont}}",
+      "role": "continuity propagation dynamics"
+    },
+
+    "transmissible_transport": {
+      "symbol": "\\mathcal T_{\\mathrm{trans}}",
+      "role": "continuity-transfer transport structure"
+    },
+
+    "continuity_percolation": {
+      "symbol": "\\mathcal P_{\\mathrm{cont}}",
+      "role": "scalable survivable continuity percolation"
+    },
+
+    "recursive_viability_conductivity_object": {
+      "symbol": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+      "role": "viability-preserving recursive continuity conductivity"
+    },
+
+    "scalable_recursive_viability_geometry": {
+      "symbol": "\\mathfrak X_{\\mathrm{viab}}^{\\mathrm{scal}}",
+      "role": "scalable recursive viability geometry"
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "role": "persistent recursive continuity updating"
+    },
+
+    "recursive_existence": {
+      "symbol": "\\mathfrak X_{\\mathrm{exist}}",
+      "role": "stabilized recursively viable existence organization"
+    }
+  },
+
+  "normalization_rules": [
+    "Recursive existence is not primitive.",
+    "Higher ontological strata depend upon preservation of lower admissible strata.",
+    "Continuity transferability alone is insufficient for recursive viability.",
+    "Recursive viability conductivity is stricter than continuity percolation.",
+    "Viability-preserving transferability governs scalable recursive existence.",
+    "Recursive temporality emerges downstream of scalable recursive viability."
+  ],
+
+  "deep_compressions": [
+    "Recursive existence emerges through recursively admissible generative stratification.",
+    "Continuity transfer alone is insufficient; recursive viability must also be preserved.",
+    "Recursive existence is the stabilized upper stratum of recursively viable admissible participation organization.",
+    "Recursive viability conductivity governs whether scalable continuity remains viability-preserving.",
+    "Continuity may persist while recursive viability collapses."
+  ],
+
+  "one_sentence_lock": "Recursive existence emerges as the stabilized upper stratum of recursively viable admissible participation organization generated through ordered recursive ontological stratification."
+}
