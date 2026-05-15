@@ -1,0 +1,76 @@
+{
+  "artifact_id": "primitive_normalization_kernel",
+  "title": "Primitive Normalization Kernel",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "primitive_normalization_architecture",
+
+  "canonical_statement": "Primitive objects are justified only if they independently transform recursive admissibility navigability before survivability evaluation.",
+
+  "primitive_basis": {
+    "continuity_propagator": {
+      "symbol": "\\Psi_{\\mathrm{cont}}",
+      "role": "primitive continuity propagation dynamics",
+      "primitive_justification": "Generates continuity transferability across recursive organizational geometry."
+    },
+
+    "coherence": {
+      "symbol": "\\mathcal C_{\\mathrm{coh}}",
+      "role": "fidelity-preserving continuity stabilization",
+      "primitive_justification": "Stabilizes continuity propagation sufficiently for non-fragmented recursive transfer."
+    },
+
+    "stitching_compatibility": {
+      "symbol": "\\eta_{\\mathrm{stitch}}",
+      "role": "continuity-transfer compatibility",
+      "primitive_justification": "Determines whether continuity may successfully transfer across relational interfaces."
+    },
+
+    "admissibility_flow": {
+      "symbol": "\\mathcal G_{\\mathrm{adm}}(n)",
+      "role": "scale-indexed admissibility-preserving continuity-transfer flow",
+      "primitive_justification": "Constrains recursive continuity transferability through scalable admissibility geometry."
+    }
+  },
+
+  "canonical_generative_chain": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}} \\rightarrow \\mathcal C_{\\mathrm{coh}} \\rightarrow \\eta_{\\mathrm{stitch}} \\rightarrow \\mathcal G_{\\mathrm{adm}}(n) \\rightarrow \\mathcal S_{\\mathrm{prop}} \\rightarrow \\mathcal P_{\\mathrm{cont}} \\rightarrow \\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} \\rightarrow \\tau_{\\mathrm{rec}}",
+    "interpretation": [
+      "continuity propagation generates continuity transfer dynamics",
+      "coherence stabilizes propagation fidelity",
+      "stitching compatibility governs transfer compatibility",
+      "admissibility flow constrains scalable transferability",
+      "survivability emerges from admissible coherent propagation",
+      "conductivity measures scalable survivability transferability",
+      "traversability emerges from preserved conductivity",
+      "temporality emerges from persistent recursive propagation"
+    ]
+  },
+
+  "derived_objects": {
+    "propagator_survivability": {
+      "symbol": "\\mathcal S_{\\mathrm{prop}}",
+      "role": "emergent survivability observable",
+      "generation_relation": "\\mathcal S_{\\mathrm{prop}} = \\mathcal F(\\Psi_{\\mathrm{cont}},\\mathcal C_{\\mathrm{coh}},\\eta_{\\mathrm{stitch}},\\mathcal G_{\\mathrm{adm}})"
+    },
+
+    "continuity_conductivity": {
+      "symbol": "\\mathcal P_{\\mathrm{cont}}",
+      "role": "scalable survivability conductivity observable",
+      "generation_relation": "\\mathcal P_{\\mathrm{cont}} = \\mathcal F(\\mathcal S_{\\mathrm{prop}},\\mathcal G_{\\mathrm{adm}})"
+    },
+
+    "recursive_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+      "role": "emergent recursively navigable participation geometry",
+      "generation_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}} = \\mathrm{Nav}(\\mathcal P_{\\mathrm{cont}})"
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "role": "emergent persistent recursive continuity updating",
+      "generation_relation": "\\tau_{\\mathrm{rec}} = \\mathrm{Persist}(\\mathcal S_{\\mathrm{prop}})"
+    },
+
+    "recursive_viability_exhaustion": {
+      "symbol":
