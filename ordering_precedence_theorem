@@ -1,0 +1,161 @@
+{
+  "artifact_id": "ordering_precedence_theorem",
+
+  "title": "Ordering Precedence Theorem",
+
+  "status": "repository_lock",
+
+  "framework": "Recursive Viability Theory",
+
+  "framework_layer": "recursive_temporality_emergence",
+
+  "type": "recursive_temporality_structural_precedence_theorem",
+
+  "canonical_statement": "Ordering structurally precedes coherent recursive temporality.",
+
+  "deep_compression_statement": "Coherent temporality emerges from preservable navigable ordering.",
+
+  "primitive_theorem": {
+
+    "statement": "Preservable navigable ordering structurally precedes coherent recursive temporality.",
+
+    "interpretation": "Recursive temporality is not primitive duration, but emerges wherever relational ordering remains sufficiently preservable, navigable, distinguishable, and recursively accessible across recursive organizational scale.",
+
+    "deep_form": "Coherent temporality emerges from preservable navigable ordering."
+  },
+
+  "primitive_objects": {
+
+    "preservable_navigable_ordering": {
+
+      "symbol": "\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres}}",
+
+      "role": "preservable navigable recursive ordering",
+
+      "interpretation": "Represents recursively preservable relational ordering capable of sustaining navigability, coordination, continuity sequencing, and admissible future accessibility."
+    },
+
+    "recursive_temporality": {
+
+      "symbol": "\\tau_{\\mathrm{rec}}",
+
+      "role": "recursive temporality",
+
+      "formal_relation": "\\tau_{\\mathrm{rec}}=\\mathcal F_{\\tau}(\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres}})",
+
+      "interpretation": "Recursive temporality emerges downstream of preservable navigable recursive ordering."
+    },
+
+    "recursive_traversability": {
+
+      "symbol": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+
+      "role": "recursive participatory traversability",
+
+      "interpretation": "Represents recursively accessible participatory viability geometry capable of sustaining navigable continuity propagation."
+    }
+  },
+
+  "structural_dependence_relation": {
+
+    "formal_relation": "\\tau_{\\mathrm{rec}}>0\\Rightarrow\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres}}>0",
+
+    "interpretation": "Recursive temporality cannot remain coherent unless preservable navigable ordering remains sufficiently preserved.",
+
+    "deep_form": "Coherent temporality depends upon preservable navigable ordering."
+  },
+
+  "failure_relation": {
+
+    "formal_relation": "\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres}}\\rightarrow0\\Rightarrow\\tau_{\\mathrm{rec}}\\rightarrow0",
+
+    "interpretation": "Collapse of preservable navigable ordering induces recursive temporal decoherence.",
+
+    "deep_form": "Temporal coherence collapses when preservable navigable ordering fragments."
+  },
+
+  "recursive_coordination_interpretation": {
+
+    "statement": "Recursive coordination requires stable relational ordering.",
+
+    "ordering_dependencies": [
+
+      "recursive state distinguishability",
+
+      "transition accessibility",
+
+      "continuity sequencing",
+
+      "navigable coordination",
+
+      "recursive coherence preservation"
+    ],
+
+    "interpretation": "Without preservable recursive ordering, recursive state distinguishability collapses, transition structure fragments, navigability contracts, continuity sequencing destabilizes, and recursive temporal coherence decoheres."
+  },
+
+  "structural_precedence_clarification": {
+
+    "statement": "Ordering precedence is structural rather than chronological.",
+
+    "interpretation": "Structural precedence denotes generative dependence rather than chronological priority.",
+
+    "deep_form": "Coherent temporality emerges downstream of preservable navigable ordering conditions."
+  },
+
+  "emergence_chain": {
+
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres}}\\rightarrow\\tau_{\\mathrm{rec}}",
+
+    "interpretation": "Recursive traversability stabilizes preservable navigable ordering, which stabilizes recursive temporality."
+  },
+
+  "canonical_compressions": [
+
+    "Ordering structurally precedes coherent recursive temporality.",
+
+    "Coherent temporality emerges from preservable navigable ordering.",
+
+    "Recursive temporality is not primitive duration.",
+
+    "Recursive coordination requires stable relational ordering.",
+
+    "Without preservable navigable ordering, recursive temporality decoheres."
+  ],
+
+  "deep_compressions": [
+
+    "Recursive temporality emerges from preservable navigable ordering.",
+
+    "Ordering structurally precedes coherent recursive temporality.",
+
+    "Recursive traversability stabilizes preservable navigable ordering.",
+
+    "Temporal coherence depends upon recursively accessible relational sequencing.",
+
+    "Collapse of preservable navigable ordering induces recursive temporal decoherence.",
+
+    "Structural precedence denotes generative dependence rather than chronological priority."
+  ],
+
+  "connections": [
+
+    "preservable_navigable_ordering_principle",
+
+    "recursive_participatory_traversability_geometry",
+
+    "recursive_viability_kinematics",
+
+    "recursive_viability_kinetics",
+
+    "recursive_existential_conductivity_geometry",
+
+    "recursive_temporality_emergence_principle",
+
+    "minimal_axiomatic_foundation",
+
+    "ontological_compression_stack"
+  ],
+
+  "one_sentence_lock": "Coherent recursive temporality emerges from preservable navigable ordering across recursively traversable organizational geometry."
+}
