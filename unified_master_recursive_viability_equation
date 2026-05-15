@@ -1,0 +1,129 @@
+{
+  "artifact_id": "unified_master_recursive_viability_equation",
+  "title": "Unified Master Recursive Viability Equation",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "type": "master_viability_equation",
+
+  "canonical_statement": "Recursive viability is preservation of coherently recoverable participatory traversability.",
+
+  "master_principle": {
+    "name": "Unified recursive viability principle",
+    "statement": "Recursive adaptive viability persists if and only if recursively recoverable participatory traversability remains sufficiently preserved across recursive organizational scale under admissible deformation dynamics.",
+    "interpretation": "Recursive viability is governed by preservation of sufficiently nondegenerate recursive organizational coherence, continuity retention, participatory traversability, and continuity percolation relative to recursive deformation accumulation."
+  },
+
+  "domain_object": {
+    "symbol": "\\mathfrak T_{\\mathrm{viab}}",
+    "definition": "recursively recoverable participatory viability geometry",
+    "role": "recursive viability domain over which preservability, collapse, recovery, and traversability are evaluated"
+  },
+
+  "recursive_viability_observable": {
+    "symbol": "\\mathcal V_{\\mathrm{rec}}",
+    "mapping": "\\mathcal V_{\\mathrm{rec}} : \\mathfrak T_{\\mathrm{viab}} \\times \\mathbb N \\to \\mathbb R_{\\ge0}",
+    "definition": "unified recursive viability observable",
+    "interpretation": "Measures the degree to which recursive participatory viability remains preservable across recursive organizational scale."
+  },
+
+  "master_equation": {
+    "formal_statement": "\\mathcal V_{\\mathrm{rec}}(n)=\\frac{\\Psi_{\\mathrm{ret}}(n)\\,\\mathcal T_{\\mathrm{trav}}(n)\\,\\mathcal P_{\\mathrm{cont}}(n)\\,\\eta_{\\mathrm{coh}}(n)}{1+\\mathcal D_{\\mathrm{rec}}(n)}",
+    "interpretation": "Recursive viability increases with continuity retention, participatory traversability, continuity percolation, and organizational coherence, and contracts under recursive deformation accumulation."
+  },
+
+  "equation_terms": {
+    "continuity_retention": {
+      "symbol": "\\Psi_{\\mathrm{ret}}",
+      "definition": "continuity retention",
+      "role": "preserves continuity across recursive organizational scale"
+    },
+    "participatory_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{trav}}",
+      "definition": "recursive participatory traversability",
+      "role": "preserves accessible future participation pathways"
+    },
+    "continuity_percolation": {
+      "symbol": "\\mathcal P_{\\mathrm{cont}}",
+      "definition": "continuity percolation",
+      "role": "preserves scalable continuity connectivity across recursive structure"
+    },
+    "organizational_coherence": {
+      "symbol": "\\eta_{\\mathrm{coh}}",
+      "definition": "recursive organizational coherence",
+      "role": "preserves nondegenerate coherence of recursive organization"
+    },
+    "recursive_deformation_accumulation": {
+      "symbol": "\\mathcal D_{\\mathrm{rec}}",
+      "definition": "recursive deformation accumulation",
+      "role": "measures accumulated deformation burden contracting recursive viability"
+    }
+  },
+
+  "recursive_viability_criterion": {
+    "formal_statement": "\\inf_{n\\ge n_0}\\mathcal V_{\\mathrm{rec}}(n)>\\mathcal V_{\\mathrm{crit}}",
+    "threshold": "\\mathcal V_{\\mathrm{crit}}>0",
+    "interpretation": "Recursive adaptive viability persists whenever recursive viability remains asymptotically bounded away from critical degeneration."
+  },
+
+  "collapse_criterion": {
+    "formal_statement": "\\liminf_{n\\to\\infty}\\mathcal V_{\\mathrm{rec}}(n)\\le\\mathcal V_{\\mathrm{crit}}",
+    "interpretation": "Collapse begins whenever recursive viability asymptotically approaches critical degeneration."
+  },
+
+  "regenerative_recovery_criterion": {
+    "formal_statement": "\\frac{d\\mathcal V_{\\mathrm{rec}}}{d\\tau_{\\mathrm{rec}}}>0",
+    "interpretation": "Recovery emerges whenever regenerative reconnection restores recursive viability growth through recoherence, reconnection, continuity restoration, and traversability regeneration."
+  },
+
+  "temporal_consequence": {
+    "formal_statement": "\\tau_{\\mathrm{rec}}\\sim\\mathcal V_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporal continuity depends upon preservation of coherent participatory viability across recursive scale."
+  },
+
+  "geometric_interpretation": {
+    "statement": "The unified recursive viability observable induces recursive viability geometry over participatory viability structure.",
+    "admitted_structures": [
+      "viability trajectories",
+      "collapse attractors",
+      "regenerative reopening flows",
+      "continuity phase transitions",
+      "viability curvature structure",
+      "admissibility manifolds",
+      "recursive renormalization dynamics"
+    ]
+  },
+
+  "deep_consequences": [
+    "Recursive viability emerges through coupled continuity retention, traversability, percolation, and organizational coherence.",
+    "Recursive deformation accumulation contracts viability.",
+    "Persistent systems preserve asymptotically nondegenerate participatory viability.",
+    "Local persistence is not equivalent to recursive viability.",
+    "Collapse corresponds to asymptotic degeneration of recursive viability.",
+    "Recovery restores recursively recoverable participatory organization.",
+    "Recursive temporality emerges downstream of recursive viability preservation."
+  ],
+
+  "master_criterion": {
+    "compressed_statement": "Recursive existence persists iff recursively recoverable participatory viability remains asymptotically preservable across recursive scale.",
+    "formal_equivalent": "\\mathfrak X_{\\mathrm{exist}}\\text{ persists}\\iff\\inf_{n\\ge n_0}\\mathcal V_{\\mathrm{rec}}(n)>\\mathcal V_{\\mathrm{crit}}"
+  },
+
+  "canonical_compressions": [
+    "Recursive viability is preservation of coherently recoverable participatory traversability.",
+    "Collapse is asymptotic degeneration of recursive viability.",
+    "Recovery restores recursive participatory viability.",
+    "Recursive existence persists iff recursive viability remains asymptotically preservable across scale."
+  ],
+
+  "repository_lock_notes": {
+    "status": "locked",
+    "purpose": "Defines the master recursive viability observable and criterion governing preservation, collapse, and regenerative recovery of recursive organizational existence.",
+    "scope": "Master viability equation for Recursive Viability Theory.",
+    "non_claims": [
+      "Does not equate local persistence with recursive viability.",
+      "Does not require collapse to be instantaneous.",
+      "Does not require recovery to restore the prior state exactly.",
+      "Does not assume temporality as primitive."
+    ]
+  }
+}
