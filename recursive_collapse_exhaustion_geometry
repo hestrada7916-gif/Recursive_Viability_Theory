@@ -1,0 +1,126 @@
+{
+  "artifact_id": "recursive_collapse_exhaustion_geometry",
+  "title": "Recursive Collapse Exhaustion Geometry",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "framework_layer": "collapse_and_recoverability_geometry",
+  "type": "recursive_viability_exhaustion_geometry",
+
+  "canonical_statement": "Recursive collapse emerges through progressive recursive viability exhaustion.",
+
+  "deep_compression_statement": "Collapse begins geometrically before it appears operationally.",
+
+  "formal_statement": {
+    "statement": "Recursive viability exhaustion accumulates whenever recursive deformation dynamics exceed regenerative coherence restoration capacity across recursively recoverable participation geometry.",
+    "interpretation": "Recursive collapse is not fundamentally instantaneous failure, but progressive exhaustion of recursively recoverable future participation structure.",
+    "collapse_insight": "Accumulated recursive viability exhaustion geometrically drives systems toward recursive collapse boundaries."
+  },
+
+  "core_objects": {
+    "recursive_viability_exhaustion": "\\mathcal E_{\\mathrm{viab}}",
+    "viability_geometry": "\\mathfrak T_{\\mathrm{viab}}",
+    "viability_state_coordinate": "x_{\\mathrm{viab}}",
+    "viability_boundary": "\\partial\\mathfrak T_{\\mathrm{viab}}^{+}",
+    "recursive_viability_conductivity": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recoverability": "\\mathcal R_{\\mathrm{rew}}",
+    "deformation_driver": "\\mathcal F_{\\mathrm{def}}",
+    "reweaving_driver": "\\mathcal F_{\\mathrm{rew}}",
+    "coherence_driver": "\\mathcal F_{\\mathrm{pull}}",
+    "recursive_existence": "\\mathfrak X_{\\mathrm{exist}}"
+  },
+
+  "recursive_viability_exhaustion_observable": {
+    "formal_relation": "\\mathcal E_{\\mathrm{viab}}:\\mathfrak T_{\\mathrm{viab}}\\to\\mathbb R_{\\ge0}",
+    "constraint": "\\mathcal E_{\\mathrm{viab}}\\ge0",
+    "interpretation": "Recursive viability exhaustion measures accumulated degradation of recursively recoverable viability-preserving participation geometry.",
+    "deep_form": "Recursive viability exhaustion governs collapse accumulation across viability geometry."
+  },
+
+  "recursive_exhaustion_inequality": {
+    "formal_relation": "\\mathcal F_{\\mathrm{def}}>\\mathcal F_{\\mathrm{rew}}+\\mathcal F_{\\mathrm{pull}}",
+    "implication": "\\frac{d\\mathcal E_{\\mathrm{viab}}}{dn}>0",
+    "interpretation": "Recursive viability exhaustion accumulates whenever deformation-generating dynamics dominate regenerative recoverability and coherence restoration dynamics.",
+    "deep_form": "Deformation domination accumulates recursive viability exhaustion."
+  },
+
+  "geometric_collapse_drift_law": {
+    "formal_relation": "\\mathcal E_{\\mathrm{viab}}\\uparrow\\Rightarrow d_{\\mathrm{geo}}(x_{\\mathrm{viab}},\\partial\\mathfrak T_{\\mathrm{viab}}^{+})\\downarrow",
+    "interpretation": "Accumulated recursive viability exhaustion progressively contracts geometric separation from recursive collapse boundaries.",
+    "deep_form": "Recursive exhaustion geometrically drives systems toward collapse boundaries."
+  },
+
+  "conductivity_suppression": {
+    "formal_relation": "\\mathcal E_{\\mathrm{viab}}\\uparrow\\Rightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}\\downarrow",
+    "interpretation": "Accumulated recursive exhaustion progressively suppresses viability-preserving recursive conductivity.",
+    "deep_form": "Exhaustion suppresses recursive viability conductivity."
+  },
+
+  "traversability_contraction": {
+    "formal_relation": "\\mathcal E_{\\mathrm{viab}}\\uparrow\\Rightarrow\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\downarrow",
+    "interpretation": "Recursive viability exhaustion progressively destroys recursively traversable future participation geometry.",
+    "deep_form": "Exhaustion contracts future participation accessibility."
+  },
+
+  "recoverability_suppression": {
+    "formal_relation": "\\mathcal E_{\\mathrm{viab}}\\uparrow\\Rightarrow\\mathcal R_{\\mathrm{rew}}\\downarrow",
+    "interpretation": "Accumulated recursive exhaustion suppresses recursive reweaving capacity and viability-space reentry potential.",
+    "deep_form": "Exhaustion suppresses recoverability."
+  },
+
+  "recursive_collapse_criterion": {
+    "formal_relation": "\\mathcal E_{\\mathrm{viab}}\\rightarrow\\mathcal E_{\\mathrm{crit}}\\Rightarrow\\mathfrak X_{\\mathrm{exist}}\\rightarrow0",
+    "interpretation": "Recursive existence collapses whenever recursive viability exhaustion destroys recursively recoverable viability-preserving participation geometry.",
+    "deep_form": "Recursive collapse emerges through critical viability exhaustion."
+  },
+
+  "latent_collapse_regime": {
+    "formal_relation": "\\mathcal S_{\\mathrm{persist}}>0\\land\\frac{d\\mathcal E_{\\mathrm{viab}}}{dn}>0",
+    "interpretation": "Systems may remain locally operationally persistent while recursive viability exhaustion progressively accumulates beneath visible collapse thresholds.",
+    "deep_form": "Collapse begins geometrically before it appears operationally."
+  },
+
+  "short_horizon_optimization_failure": {
+    "interpretation": "Recursive organizational systems may temporarily optimize extraction, persistence, local efficiency, expansion, or dominance while simultaneously accelerating recoverability exhaustion, traversability contraction, coherence degradation, future accessibility loss, and recursive viability exhaustion.",
+    "deep_form": "Short-term persistence may accelerate recursive viability exhaustion."
+  },
+
+  "recovery_dynamics": {
+    "formal_relation": "\\mathcal F_{\\mathrm{rew}}+\\mathcal F_{\\mathrm{pull}}>\\mathcal F_{\\mathrm{def}}",
+    "implication": "\\frac{d\\mathcal E_{\\mathrm{viab}}}{dn}<0",
+    "interpretation": "Recursive recovery restores recursive viability through recoherence, recoverability restoration, traversability reopening, and recursive viability-space reexpansion.",
+    "deep_form": "Recovery reduces recursive viability exhaustion through recursive reweaving."
+  },
+
+  "canonical_compressions": [
+    "Recursive collapse is progressive viability exhaustion.",
+    "Collapse emerges whenever deformation exceeds regenerative coherence capacity.",
+    "Recursive exhaustion geometrically drives systems toward collapse boundaries.",
+    "Collapse begins geometrically before it appears operationally.",
+    "What survives is not necessarily what remains viable."
+  ],
+
+  "deep_compression_points": [
+    "Recursive collapse corresponds to recursive viability exhaustion.",
+    "Recursive viability exhaustion accumulates through deformation domination.",
+    "Exhaustion progressively suppresses conductivity, recoverability, coherence, and future traversability.",
+    "Recursive exhaustion geometrically drives systems toward recursive collapse boundaries.",
+    "Recursive collapse may remain latent during ongoing local persistence.",
+    "Short-horizon optimization may accelerate recursive viability exhaustion.",
+    "Recovery reduces recursive viability exhaustion through recursive reweaving and recoherence.",
+    "Recursive existence depends upon preservation of recoverably viable future participation geometry."
+  ],
+
+  "connections": [
+    "recursive_viability_phase_geometry",
+    "recursive_viability_kinetics",
+    "persistence_viability_divergence_principle",
+    "recursive_existence_observable",
+    "recursive_viability_conductivity_geometry",
+    "dual_bound_survivability_corridor",
+    "recoverability_basin_geometry",
+    "recursive_organizational_mechanics"
+  ],
+
+  "one_sentence_lock": "Recursive collapse exhaustion geometry governs how accumulated recursive viability exhaustion progressively compresses recoverable future participation geometry toward recursive collapse boundaries."
+}
