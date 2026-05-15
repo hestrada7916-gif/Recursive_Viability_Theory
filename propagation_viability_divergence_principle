@@ -1,0 +1,155 @@
+{
+  "artifact_id": "propagation_viability_divergence_principle",
+  "title": "Propagation–Viability Divergence Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_incorporability_divergence_principle",
+
+  "canonical_statement": "Successful propagation can still generate recursive collapse.",
+
+  "deep_compression_statement": "Propagation success is not equivalent to recursive viability preservation.",
+
+  "primitive_principle": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}\\uparrow\\not\\Rightarrow\\mathfrak X_{\\mathrm{exist}}\\uparrow",
+    "interpretation": "Increased continuity propagation does not necessarily preserve recursive existential viability.",
+    "deep_form": "Propagation success does not guarantee recursive viability."
+  },
+
+  "primitive_objects": {
+    "propagable_continuity": {
+      "symbol": "\\Psi_{\\mathrm{cont}}",
+      "role": "recursive continuity propagation capacity",
+      "interpretation": "Measures transmissible recursive continuity propagation across recursive organizational geometry."
+    },
+
+    "viability_preserving_incorporability": {
+      "symbol": "\\mathcal I_{\\mathrm{viab}}",
+      "role": "recursive viability-preserving incorporability capacity",
+      "interpretation": "Measures whether propagating continuity remains admissibly incorporable without destroying recursive coherence, recoverability, traversability, or future participation accessibility."
+    },
+
+    "recursive_viability_conductivity": {
+      "symbol": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+      "role": "viability-preserving recursive conductivity",
+      "interpretation": "Measures whether continuity transmissibility remains recursively viability-preserving across scale."
+    },
+
+    "recursive_viability_exhaustion": {
+      "symbol": "\\mathcal E_{\\mathrm{viab}}",
+      "role": "accumulated recursive viability exhaustion",
+      "interpretation": "Measures accumulated degradation of recursively survivable participation geometry."
+    },
+
+    "recursive_existence": {
+      "symbol": "\\mathfrak X_{\\mathrm{exist}}",
+      "role": "stabilized recursively viable existential geometry"
+    }
+  },
+
+  "propagation_viability_divergence": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}\\uparrow\\land\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}\\downarrow",
+    "interpretation": "Recursive continuity propagation may increase while recursive viability conductivity simultaneously degrades.",
+    "deep_form": "Propagation growth may coexist with recursive viability degradation."
+  },
+
+  "incorporability_overload_ratio": {
+    "symbol": "\\Lambda_{\\mathrm{inc}}",
+    "formal_relation": "\\Lambda_{\\mathrm{inc}}=\\frac{\\Psi_{\\mathrm{cont}}}{\\mathcal I_{\\mathrm{viab}}}",
+    "collapse_pressure_condition": "\\Lambda_{\\mathrm{inc}}>1",
+    "interpretation": "Incorporability overload occurs whenever propagation pressure exceeds viability-preserving incorporability capacity.",
+    "deep_form": "Propagation may exceed incorporability."
+  },
+
+  "incorporability_failure_condition": {
+    "formal_relation": "\\Lambda_{\\mathrm{inc}}>1",
+    "interpretation": "Recursive collapse pressure emerges whenever propagation intensity exceeds viability-preserving incorporability capacity.",
+    "deep_form": "Propagation may exceed incorporability."
+  },
+
+  "recursive_exhaustion_accumulation": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}\\uparrow\\land\\mathcal I_{\\mathrm{viab}}\\downarrow\\Rightarrow\\mathcal E_{\\mathrm{viab}}\\uparrow",
+    "interpretation": "Recursive viability exhaustion accumulates whenever successful propagation progressively destroys incorporability conditions.",
+    "deep_form": "Successful propagation may accelerate recursive viability exhaustion."
+  },
+
+  "scaling_failure_principle": {
+    "formal_relation": "\\partial_n\\Psi_{\\mathrm{cont}}>0\\not\\Rightarrow\\partial_n\\mathcal P_{\\mathrm{cont}}>0",
+    "interpretation": "Propagation scalability does not guarantee scalability-preserving survivable conductivity.",
+    "deep_form": "Scaling success may still generate recursive collapse."
+  },
+
+  "fragmentation_generation": {
+    "formal_relation": "\\Lambda_{\\mathrm{inc}}>1\\Rightarrow\\eta_{\\mathrm{stitch}}\\downarrow",
+    "interpretation": "Excessive propagation relative to incorporability capacity generates stitching failure, coherence degradation, and recursive fragmentation.",
+    "deep_form": "Over-propagation fragments recursive continuity."
+  },
+
+  "viability_selective_transmissibility": {
+    "symbol": "\\Psi_{\\mathrm{cont}}^{\\mathrm{adm}}",
+    "formal_relation": "\\Psi_{\\mathrm{cont}}^{\\mathrm{adm}}\\subseteq\\Psi_{\\mathrm{cont}}",
+    "interpretation": "Recursive viability requires transmissibility constrained by incorporability, recoverability, coherence preservation, and traversability preservation.",
+    "deep_form": "Recursive viability requires viability-selective transmissibility."
+  },
+
+  "collapse_reinterpretation": {
+    "formal_relation": "\\mathcal I_{\\mathrm{viab}}\\downarrow\\Rightarrow\\mathfrak X_{\\mathrm{exist}}\\downarrow",
+    "interpretation": "Recursive collapse fundamentally corresponds to loss of viability-preserving incorporability rather than propagation failure alone.",
+    "deep_form": "Collapse is an incorporability crisis."
+  },
+
+  "extinction_burst_dynamics": {
+    "formal_relation": "\\mathcal I_{\\mathrm{viab}}\\downarrow\\Rightarrow\\Psi_{\\mathrm{cont}}\\uparrow",
+    "interpretation": "Systems approaching recursive collapse may amplify propagation intensity as a compensatory persistence response, further accelerating incorporability degradation and recursive exhaustion.",
+    "deep_form": "Terminal amplification may emerge near recursive collapse boundaries."
+  },
+
+  "kudzu_interpretation": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}\\uparrow\\land\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\downarrow",
+    "interpretation": "Highly successful local propagation may simultaneously suppress recursive ecological traversability, recoverability, diversity, and future participation viability.",
+    "deep_form": "Successful propagation may still destroy recursive viability."
+  },
+
+  "canonical_dependency_chain": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}\\rightarrow\\mathcal I_{\\mathrm{viab}}\\rightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}\\rightarrow\\mathfrak X_{\\mathrm{exist}}",
+    "interpretation": [
+      "continuity propagation requires viability-preserving incorporability",
+      "incorporability governs recursive viability conductivity",
+      "recursive viability conductivity governs recursive existential stability"
+    ],
+    "deep_form": "Propagation alone does not preserve recursive existence."
+  },
+
+  "normalization_rules": [
+    "Propagation success is not equivalent to recursive viability preservation.",
+    "Successful scaling may still generate recursive collapse.",
+    "Propagation may exceed viability-preserving incorporability.",
+    "Collapse may emerge from over-propagation rather than insufficient propagation.",
+    "Recursive viability requires viability-selective transmissibility.",
+    "Collapse often begins as incorporability degradation."
+  ],
+
+  "deep_compressions": [
+    "Successful propagation can still generate recursive collapse.",
+    "Propagation success does not guarantee recursive viability.",
+    "Scaling success may still generate recursive collapse.",
+    "Collapse is an incorporability crisis.",
+    "Over-propagation fragments recursive continuity.",
+    "Collapse localizes before it totalizes.",
+    "Terminal amplification may emerge near recursive collapse boundaries.",
+    "What propagates is not necessarily incorporably viable."
+  ],
+
+  "connections": [
+    "recursive_incorporability_principle",
+    "recursive_viability_exhaustion_kernel",
+    "recursive_collapse_exhaustion_geometry",
+    "recursive_viability_phase_geometry",
+    "recursive_organizational_mechanics",
+    "dual_bound_survivability_corridor",
+    "fragmentation_geometry",
+    "protected_core_principle",
+    "persistence_viability_divergence_principle"
+  ],
+
+  "one_sentence_lock": "Recursive collapse may emerge not from propagation failure, but from successful propagation that progressively destroys viability-preserving incorporability across recursive organizational scale."
+}
