@@ -1,0 +1,100 @@
+{
+  "artifact_id": "master_collapse_criterion",
+  "title": "Master Collapse Criterion",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Viability Theory",
+  "type": "collapse_geometry_principle",
+
+  "canonical_statement": "Collapse begins through loss of preservable future accessibility.",
+
+  "principle": {
+    "name": "Master Collapse Criterion",
+    "statement": "A recursive adaptive system enters collapse whenever admissible future participation geometry ceases to preserve sufficiently recoverable, traversable, reopenable, and recursively transportable future accessibility across scale, even if residual local reachability remains.",
+    "negative_clarification": "Collapse does not require total disappearance.",
+    "threshold_statement": "Collapse begins when preservable future accessibility degenerates beneath recursive viability thresholds."
+  },
+
+  "primitive_objects": {
+    "admissible_future_participation_geometry": {
+      "symbol": "\\mathfrak X_{\\mathrm{AFP}}",
+      "definition": "admissible future participation geometry",
+      "role": "geometry of preservable viable future participation accessibility"
+    },
+
+    "preservable_future_accessibility": {
+      "symbol": "\\mathcal P_{\\mathrm{pres}}",
+      "definition": "preservable future accessibility",
+      "role": "degree to which reachable future participation remains recoverable, traversable, reopenable, and recursively transportable"
+    },
+
+    "collapse_threshold": {
+      "symbol": "\\xi_{\\mathrm{coll}}",
+      "definition": "collapse threshold for preservable future accessibility",
+      "role": "critical boundary below which recursive viability begins to collapse"
+    }
+  },
+
+  "collapse_condition": {
+    "formal_statement": "\\mathcal P_{\\mathrm{pres}} < \\xi_{\\mathrm{coll}}",
+    "geometric_equivalent": "\\mathfrak X_{\\mathrm{AFP}} \\downarrow \\text{ below recursive viability-preserving accessibility bounds}",
+    "interpretation": "The system may retain bounded local reachability while losing preservable future accessibility across recursive scale."
+  },
+
+  "residual_reachability_principle": {
+    "name": "Residual Reachability Principle",
+    "statement": "Reachable future states do not imply preservation of recursively viable future participation geometry."
+  },
+
+  "residual_reachability_distinction": {
+    "reachable_future_participation_states": {
+      "symbol": "\\mathfrak X_{\\mathrm{reach}}^{+}",
+      "definition": "reachable future participation states"
+    },
+
+    "collapse_with_residual_reachability": {
+      "formal_statement": "\\mathfrak X_{\\mathrm{reach}}^{+} \\neq \\varnothing \\quad \\text{and} \\quad \\mathcal P_{\\mathrm{pres}} < \\xi_{\\mathrm{coll}}",
+      "interpretation": "Collapse may occur even when some future states remain locally reachable."
+    },
+
+    "distinction": "Reachable futures are not equivalent to preservable viable futures."
+  },
+
+  "percolation_form": {
+    "continuity_percolation": {
+      "symbol": "\\mathcal P_{\\mathrm{cont}}(n)",
+      "definition": "continuity percolation across recursive scale n"
+    },
+
+    "formal_statement": "\\mathcal P_{\\mathrm{cont}}(n) \\rightarrow 0 \\quad \\Rightarrow \\quad \\mathfrak X_{\\mathrm{AFP}} \\downarrow",
+
+    "canonical_compression": "Collapse begins when scalable continuity propagation ceases to percolate across admissible future participation geometry.",
+
+    "interpretation": "Collapse begins when scalable continuity propagation fails to percolate across recursive participation geometry."
+  },
+
+  "collapse_mechanisms": [
+    "loss of recoverability",
+    "loss of traversability",
+    "loss of reopenability",
+    "loss of continuity transportability",
+    "curvature concentration",
+    "participation bottlenecking",
+    "continuity percolation failure",
+    "fragmentation of preservable future accessibility",
+    "singularization of viable participation geometry"
+  ],
+
+  "geometric_interpretation": {
+    "statement": "Collapse corresponds to contraction, fragmentation, or singularization of preservable future accessibility geometry.",
+    "key_distinction": "Collapse may begin before total disappearance because preservable viability can fail while residual reachability remains."
+  },
+
+  "deep_compressions": [
+    "Collapse begins through loss of preservable future accessibility.",
+    "Collapse begins when scalable continuity propagation ceases to percolate across admissible future participation geometry.",
+    "Reachable future states do not imply preservation of recursively viable future participation geometry.",
+    "Reachability does not imply viability.",
+    "Local persistence is not recursive viability.",
+    "Collapse does not require total disappearance."
+  ]
+}
