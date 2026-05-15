@@ -1,0 +1,56 @@
+{
+  "artifact_id": "recursive_viability_exhaustion_kernel",
+  "title": "Recursive Viability Exhaustion",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "primitive_recursive_collapse_kernel",
+
+  "canonical_statement": "Recursive collapse emerges through progressive viability exhaustion.",
+
+  "deep_compression_statement": "Collapse often begins as a scaling failure.",
+
+  "primitive_principle": {
+    "formal_relation": "\\partial_n\\mathcal E_{\\mathrm{viab}}>0\\Rightarrow\\partial_n\\mathcal P_{\\mathrm{cont}}<0",
+    "interpretation": "Recursive viability exhaustion accumulates whenever scalable survivable continuity conductivity progressively degrades across recursive scale.",
+    "deep_form": "Recursive collapse begins through degradation of scalable survivable continuity transferability."
+  },
+
+  "primitive_objects": {
+    "recursive_viability_exhaustion": {
+      "symbol": "\\mathcal E_{\\mathrm{viab}}",
+      "role": "generalized viability exhaustion observable",
+      "interpretation": "Measures accumulated recursive degradation of viability-preserving transmissibility across recursive organizational scale."
+    },
+    "continuity_conductivity": {
+      "symbol": "\\mathcal P_{\\mathrm{cont}}",
+      "role": "recursive viability conductivity across scale",
+      "interpretation": "Measures scalable survivable continuity transferability across recursive organizational geometry."
+    },
+    "exhaustion_gradient": {
+      "symbol": "\\nabla\\mathcal E_{\\mathrm{viab}}",
+      "role": "directional viability exhaustion gradient",
+      "interpretation": "Measures nonuniform collapse directionality, fragmentation fronts, and localized exhaustion flow across recursive viability geometry."
+    },
+    "recursive_admissibility_flow_field": {
+      "symbol": "\\mathcal G_{\\mathrm{adm}}(n)",
+      "role": "scale-indexed admissibility-preserving continuity-transfer field",
+      "interpretation": "Governs admissible recursive continuity propagation across recursive scale."
+    },
+    "local_survivability": {
+      "symbol": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}",
+      "role": "bounded locally survivable continuity propagation"
+    },
+    "global_survivability": {
+      "symbol": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{global}}",
+      "role": "scalable survivable continuity propagation"
+    },
+    "recursive_existence": {
+      "symbol": "\\mathfrak X_{\\mathrm{exist}}",
+      "role": "stabilized recursively viable existence geometry"
+    }
+  },
+
+  "conductivity_principle": {
+    "formal_relation": "\\inf_{n\\to\\infty}\\mathcal P_{\\mathrm{cont}}(n)>0",
+    "interpretation": "Recursive existence persists only when recursive viability conductivity remains bounded away from collapse across recursive scale.",
+    "
