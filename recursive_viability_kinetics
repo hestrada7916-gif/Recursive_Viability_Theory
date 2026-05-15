@@ -1,0 +1,185 @@
+{
+  "artifact_id": "recursive_viability_kinetics",
+  "title": "Recursive Viability Kinetics",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "framework_layer": "recursive_viability_dynamics",
+  "type": "recursive_organizational_kinetic_driver_model",
+
+  "canonical_statement": "Recursive organizational motion is generated through recursive viability kinetic drivers.",
+  "deep_compression_statement": "Recursive collapse is accelerated compression of viability geometry.",
+
+  "formal_statement": {
+    "statement": "Recursive viability motion is generated through recursive organizational kinetic drivers acting as directional vector fields within recursive viability geometry.",
+    "interpretation": "Recursive organizational evolution depends not merely upon viability-state trajectories, but upon recursive kinetic drivers generating, stabilizing, redirecting, compressing, or restoring recursive viability flow.",
+    "collapse_insight": "Recursive collapse accelerates whenever deformation-generating kinetic drivers dominate viability-preserving and recovery-restoring kinetic drivers."
+  },
+
+  "core_objects": {
+    "viability_state_coordinate": "x_{\\mathrm{viab}}(n)",
+    "recursive_scale": "n",
+    "viability_velocity": "v_{\\mathrm{viab}}",
+    "viability_acceleration": "a_{\\mathrm{viab}}",
+    "viability_kinetic_driver_field": "\\mathcal F_{\\mathrm{viab}}",
+    "push_driver": "\\mathcal F_{\\mathrm{push}}",
+    "pull_driver": "\\mathcal F_{\\mathrm{pull}}",
+    "deformation_driver": "\\mathcal F_{\\mathrm{def}}",
+    "reweaving_driver": "\\mathcal F_{\\mathrm{rew}}",
+    "viability_potential_field": "\\Phi_{\\mathrm{viab}}",
+    "viability_geometry": "\\mathfrak T_{\\mathrm{viab}}",
+    "tangent_viability_geometry": "T\\mathfrak T_{\\mathrm{viab}}"
+  },
+
+  "recursive_viability_kinetic_driver_field": {
+    "formal_relation": "\\mathcal F_{\\mathrm{viab}}=(\\mathcal F_{\\mathrm{push}},\\mathcal F_{\\mathrm{pull}},\\mathcal F_{\\mathrm{def}},\\mathcal F_{\\mathrm{rew}})",
+    "interpretation": "Recursive viability motion emerges through coupled recursive kinetic drivers governing recursive organizational evolution."
+  },
+
+  "vector_field_structure": {
+    "formal_relation": "\\mathcal F_{\\mathrm{push}},\\mathcal F_{\\mathrm{pull}},\\mathcal F_{\\mathrm{def}},\\mathcal F_{\\mathrm{rew}}:\\mathfrak T_{\\mathrm{viab}}\\to T\\mathfrak T_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability kinetic drivers act as directional vector fields on recursive viability geometry.",
+    "deep_form": "Kinetic drivers generate directional viability-space motion."
+  },
+
+  "recursive_viability_mechanics_stack": {
+    "geometry": "\\mathfrak T_{\\mathrm{viab}}",
+    "kinematics": "\\gamma_{\\mathrm{viab}}",
+    "kinetics": "\\mathcal F_{\\mathrm{viab}}",
+    "conductivity": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+    "existence": "\\mathfrak X_{\\mathrm{exist}}",
+    "interpretation": "Recursive viability mechanics couples viability phase geometry, viability trajectories, kinetic driver fields, viability-preserving conductivity, and stabilized recursive existential geometry."
+  },
+
+  "push_driver": {
+    "symbol": "\\mathcal F_{\\mathrm{push}}",
+    "role": "viability-expanding kinetic driver",
+    "generates": [
+      "directional differentiation",
+      "viability expansion",
+      "continuity propagation",
+      "exploratory traversability",
+      "future opening"
+    ],
+    "formal_relation": "\\mathcal F_{\\mathrm{push}}\\rightarrow\\mathcal A_{\\mathrm{rel}}",
+    "deep_form": "Push expands viability."
+  },
+
+  "pull_driver": {
+    "symbol": "\\mathcal F_{\\mathrm{pull}}",
+    "role": "coherence-preserving kinetic driver",
+    "generates": [
+      "continuity retention",
+      "recursive coherence",
+      "conductive stabilization",
+      "recoverability preservation",
+      "viability retention"
+    ],
+    "formal_relation": "\\mathcal F_{\\mathrm{pull}}\\rightarrow\\eta_{\\mathrm{coh}}",
+    "deep_form": "Pull preserves coherence."
+  },
+
+  "deformation_driver": {
+    "symbol": "\\mathcal F_{\\mathrm{def}}",
+    "role": "viability-compressing kinetic driver",
+    "generates": [
+      "coherence compression",
+      "traversability contraction",
+      "recursive fragmentation pressure",
+      "viability corridor narrowing",
+      "collapse acceleration"
+    ],
+    "formal_relation": "\\mathcal F_{\\mathrm{def}}\\rightarrow\\mathcal D_{\\mathrm{rec}}",
+    "deep_form": "Deformation compresses viability."
+  },
+
+  "reweaving_driver": {
+    "symbol": "\\mathcal F_{\\mathrm{rew}}",
+    "role": "recovery-restoring kinetic driver",
+    "generates": [
+      "recoherence",
+      "continuity restitching",
+      "traversability reopening",
+      "viability restoration",
+      "recursive recovery acceleration"
+    ],
+    "formal_relation": "\\mathcal F_{\\mathrm{rew}}\\rightarrow\\mathcal W_{\\mathrm{rew}}",
+    "deep_form": "Recovery restores recursive viability flow."
+  },
+
+  "recursive_viability_flow_equation": {
+    "formal_relation": "\\frac{d^2x_{\\mathrm{viab}}}{dn^2}=\\mathcal F_{\\mathrm{push}}+\\mathcal F_{\\mathrm{pull}}-\\mathcal F_{\\mathrm{def}}+\\mathcal F_{\\mathrm{rew}}",
+    "scale_note": "Here n denotes recursive organizational scale rather than physical temporal duration.",
+    "interpretation": "Recursive organizational acceleration emerges through coupled viability-expanding, coherence-preserving, deformation-generating, and regenerative recovery dynamics."
+  },
+
+  "collapse_kinetics": {
+    "formal_relation": "\\mathcal F_{\\mathrm{def}}>\\mathcal F_{\\mathrm{push}}+\\mathcal F_{\\mathrm{pull}}+\\mathcal F_{\\mathrm{rew}}",
+    "interpretation": "Recursive collapse accelerates through kinetic domination by deformation-generating viability compression dynamics.",
+    "deep_form": "Collapse emerges through deformation-driver domination."
+  },
+
+  "recovery_kinetics": {
+    "formal_relation": "\\mathcal F_{\\mathrm{rew}}+\\mathcal F_{\\mathrm{pull}}>\\mathcal F_{\\mathrm{def}}",
+    "interpretation": "Recovery restores recursive viability through recoverability surplus, recoherence, continuity restoration, and recursive traversability reopening.",
+    "deep_form": "Recovery requires regenerative coherence capacity to exceed deformation accumulation."
+  },
+
+  "kinetic_geometric_coupling": {
+    "formal_relation": "\\mathcal F_{\\mathrm{viab}}\\rightarrow v_{\\mathrm{viab}}\\rightarrow\\gamma_{\\mathrm{viab}}\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+    "interpretation": "Recursive organizational kinetic drivers generate recursive viability motion through recursive viability geometry.",
+    "deep_form": "Kinetics generates kinematics within viability geometry."
+  },
+
+  "implicit_viability_potential_field": {
+    "symbol": "\\Phi_{\\mathrm{viab}}",
+    "status": "implicit_future_derivation_candidate",
+    "interpretation": "The coupled presence of basins, attractors, drift, kinetic drivers, collapse gradients, and recovery corridors implies an underlying recursive viability potential landscape.",
+    "future_relation_candidate": "\\frac{dx_{\\mathrm{viab}}}{dn}\\sim-\\nabla\\Phi_{\\mathrm{viab}}",
+    "deep_form": "Viability dynamics imply a recursive viability potential landscape."
+  },
+
+  "recursive_organizational_mechanics_interpretation": {
+    "statement": "Recursive viability kinetics, kinematics, geometry, conductivity, and existential stabilization together define a recursive organizational mechanics framework.",
+    "deep_form": "Recursive viability mechanics governs how systems move, accelerate, collapse, recover, and reenter viability-preserving geometry."
+  },
+
+  "canonical_compressions": [
+    "Recursive organizational motion is generated through recursive viability kinetics.",
+    "Recursive viability kinetic drivers act directionally within viability geometry.",
+    "Push expands viability.",
+    "Pull preserves coherence.",
+    "Deformation compresses viability.",
+    "Recovery restores recursive viability flow.",
+    "Recursive collapse is accelerated compression of viability geometry.",
+    "Recovery is viability-space reexpansion through recursive reweaving.",
+    "Kinetics generates kinematics within viability geometry."
+  ],
+
+  "deep_compression_points": [
+    "Recursive viability kinetics governs recursive organizational motion.",
+    "Recursive kinetic drivers generate directional viability-space motion.",
+    "Push dynamics generate viability expansion and directional differentiation.",
+    "Pull dynamics preserve recursive coherence and continuity retention.",
+    "Deformation dynamics compress recursive viability geometry.",
+    "Regenerative reweaving restores recursive viability flow.",
+    "Collapse emerges through deformation-driver domination.",
+    "Recovery emerges through recoverability surplus, recoherence, and recursive reweaving.",
+    "Recursive viability kinetics generates recursive viability kinematics within recursive viability geometry.",
+    "Recursive viability dynamics imply an underlying viability potential field.",
+    "Recursive viability kinetics is part of a broader recursive organizational mechanics framework."
+  ],
+
+  "connections": [
+    "recursive_viability_phase_geometry",
+    "recursive_viability_kinematics",
+    "recursive_viability_conductivity_geometry",
+    "recursive_existential_geometry",
+    "dual_bound_survivability_corridor",
+    "admissibility_regulation_functional",
+    "primitive_generative_tension_field",
+    "recursive_viability_theory_unified_geometric_dynamical_system",
+    "recursive_existence_observable"
+  ],
+
+  "one_sentence_lock": "Recursive viability kinetics defines the directional vector-field drivers through which recursive organizational motion accelerates, collapses, or recovers within recursive viability geometry."
+}
