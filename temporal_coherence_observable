@@ -1,0 +1,111 @@
+{
+  "artifact_id": "temporal_coherence_observable",
+  "title": "Temporal Coherence Observable",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "framework_layer": "recursive_temporality_geometry",
+  "type": "recursive_temporal_observable",
+
+  "canonical_statement": "Recursive temporal coherence measures preserved recursive coordination ordering.",
+
+  "deep_compression_statement": "Temporal decoherence follows ordering fragmentation.",
+
+  "formal_statement": {
+    "statement": "Recursive temporal coherence measures the degree to which recursive temporality remains coherently preservable across recursive organizational scale.",
+    "interpretation": "Recursive temporality remains coherent only insofar as preservable ordering, recursive distinguishability, and recursive traversability remain jointly preserved.",
+    "observable_note": "Temporal coherence is an observable generated downstream of recursive ordering, distinguishability, and traversability structure."
+  },
+
+  "core_objects": {
+    "temporal_coherence": "\\mathcal C_{\\tau}",
+    "preservable_ordering": "\\Pi_{\\mathrm{ord}}^{\\mathrm{pres}}",
+    "recursive_distinguishability": "\\Delta_{\\mathrm{dist}}",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}"
+  },
+
+  "temporal_coherence_observable": {
+    "formal_relation": "\\mathcal C_{\\tau}=\\mathcal F_{\\tau}^{\\mathrm{obs}}\\left(\\Pi_{\\mathrm{ord}}^{\\mathrm{pres}},\\Delta_{\\mathrm{dist}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\right)",
+
+    "interpretation": "Recursive temporal coherence measures the degree to which recursive temporality remains coherently preservable across recursive organizational scale.",
+
+    "deep_form": "Recursive temporal coherence measures preserved recursive coordination ordering."
+  },
+
+  "ordering_dependence_relation": {
+    "formal_relation": "\\Pi_{\\mathrm{ord}}^{\\mathrm{pres}}\\rightarrow0\\Rightarrow\\mathcal C_{\\tau}\\rightarrow0",
+
+    "interpretation": "Collapse of preservable navigable ordering induces recursive temporal decoherence.",
+
+    "deep_form": "Ordering fragmentation induces temporal decoherence."
+  },
+
+  "distinguishability_dependence_relation": {
+    "formal_relation": "\\Delta_{\\mathrm{dist}}\\rightarrow0\\Rightarrow\\mathcal C_{\\tau}\\rightarrow0",
+
+    "interpretation": "Recursive temporal coherence collapses whenever recursive state distinguishability degenerates.",
+
+    "deep_form": "Distinguishability collapse destroys recursive temporal coherence."
+  },
+
+  "traversability_dependence_relation": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\rightarrow0\\Rightarrow\\mathcal C_{\\tau}\\rightarrow0",
+
+    "interpretation": "Collapse of recursive traversability contracts recursive temporal coherence.",
+
+    "deep_form": "Traversability contraction compresses recursive temporal coherence."
+  },
+
+  "temporal_decoherence_criterion": {
+    "formal_relation": "\\mathcal C_{\\tau}\\rightarrow0",
+
+    "interpretation": "Temporal decoherence corresponds to fragmentation of preservable recursive coordination ordering.",
+
+    "deep_form": "Temporal decoherence follows recursive coordination fragmentation."
+  },
+
+  "recursive_temporality_condition": {
+    "formal_relation": "\\Pi_{\\mathrm{ord}}^{\\mathrm{pres}}>0\\land\\Delta_{\\mathrm{dist}}>0\\land\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}>0\\Rightarrow\\mathcal C_{\\tau}>0",
+
+    "interpretation": "Recursive temporality remains coherently preservable only while ordering, distinguishability, and traversability remain jointly preserved.",
+
+    "deep_form": "Recursive temporality requires preserved distinguishability, ordering, and traversability."
+  },
+
+  "normalization_rules": [
+    "Temporal coherence is an observable rather than a primitive generator.",
+    "Recursive temporality depends upon preserved recursive ordering.",
+    "Distinguishability collapse destroys temporal coherence.",
+    "Traversability contraction compresses recursive temporal coherence.",
+    "Temporal decoherence follows recursive coordination fragmentation.",
+    "Recursive temporality emerges downstream of scalable continuity propagation."
+  ],
+
+  "canonical_compressions": [
+    "Recursive temporal coherence measures preserved recursive coordination ordering.",
+    "Temporal decoherence follows ordering fragmentation.",
+    "Recursive temporality requires preserved distinguishability, ordering, and traversability."
+  ],
+
+  "deep_compression_points": [
+    "Recursive temporal coherence measures preservable recursive coordination ordering.",
+    "Recursive temporal coherence depends upon preserved ordering, distinguishability, and traversability simultaneously.",
+    "Ordering fragmentation induces temporal decoherence.",
+    "Distinguishability collapse destroys recursive temporal coherence.",
+    "Traversability contraction compresses recursive temporal coherence.",
+    "Recursive temporality emerges only where recursive coordination ordering remains coherently preservable."
+  ],
+
+  "connections": [
+    "recursive_temporality_emergence",
+    "recursive_participatory_traversability_principle",
+    "continuity_percolation_geometry",
+    "future_accessibility_contraction_geometry",
+    "recursive_continuity_transport_geometry",
+    "coherence_functional",
+    "recursive_viability_phase_geometry",
+    "recursive_coordination_ordering"
+  ],
+
+  "one_sentence_lock": "Recursive temporal coherence measures the degree to which recursive coordination ordering remains coherently preservable across recursive organizational scale."
+}
