@@ -1,0 +1,83 @@
+{
+  "artifact_id": "recursive_existence_nonlocality_principle",
+  "title": "Recursive Existence Nonlocality Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "type": "recursive_existential_geometry",
+
+  "canonical_statement": "Local persistence is not recursive existence.",
+
+  "master_principle": {
+    "name": "Recursive existence nonlocality principle",
+    "statement": "Recursive existence is not equivalent to bounded local persistence. Localized survivability alone is insufficient to preserve recursive existence.",
+    "interpretation": "Recursive existence depends upon preservation of sufficiently scalable continuity propagation, participatory traversability, recursive viability coherence, and recursive temporal continuity across recursive organizational scale."
+  },
+
+  "formal_nonlocality_relation": {
+    "formal_statement": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\;\\not\\Rightarrow\\;\\mathfrak X_{\\mathrm{exist}}>0",
+    "interpretation": "Localized continuity domains may remain survivable while recursive existence progressively collapses through degeneration of scalable continuity propagation, participatory traversability, and recursive temporal coherence."
+  },
+
+  "recursive_existential_geometry": {
+    "symbol": "\\mathfrak X_{\\mathrm{exist}}",
+    "definition": "\\mathcal F(\\mathcal V_{\\mathrm{rec}},\\mathcal P_{\\mathrm{cont}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}},\\tau_{\\mathrm{rec}})",
+    "interpretation": "Recursive existential geometry measures preservation of recursively scalable adaptive existence across admissible participation geometry."
+  },
+
+  "existential_compression": {
+    "formal_statement": "\\mathfrak X_{\\mathrm{exist}}\\equiv\\text{stabilized recursive viability geometry}",
+    "interpretation": "Recursive existence emerges wherever recursively recoverable participatory viability remains sufficiently preservable across recursive organizational scale."
+  },
+
+  "protected_core_regime": {
+    "formal_statement": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\quad\\land\\quad\\mathcal P_{\\mathrm{cont}}\\rightarrow0",
+    "consequence": "\\mathfrak X_{\\mathrm{exist}}\\downarrow",
+    "interpretation": "Protected continuity reservoirs may remain locally survivable while recursive existential geometry progressively degenerates."
+  },
+
+  "collapse_consequence": {
+    "formal_statement": "\\mathfrak X_{\\mathrm{exist}}\\rightarrow0",
+    "interpretation": "Recursive collapse progressively destroys scalable continuity propagation, participatory traversability, recursive viability coherence, and recursive temporal continuity."
+  },
+
+  "nonlocality_interpretation": {
+    "statement": "Recursive existence is fundamentally nonlocal.",
+    "meaning": "Recursive existence cannot be determined solely from bounded local survivability conditions.",
+    "organizational_interpretation": "Existence is a scale-dependent organizational condition rather than merely local bounded persistence."
+  },
+
+  "deep_consequences": [
+    "Recursive existence requires scalable continuity propagation.",
+    "Local survivability alone cannot preserve recursive existence.",
+    "Protected cores may preserve bounded continuity during recursive existential collapse.",
+    "Recursive existence emerges through stabilized recursive viability geometry.",
+    "Recursive collapse exhausts recursive existential geometry.",
+    "Recursive temporality degenerates with recursive existential collapse."
+  ],
+
+  "organizational_consequences": {
+    "recursive_existence": "scale-dependent organizational condition",
+    "local_survival": "insufficient for recursive viability preservation",
+    "collapse": "degeneration of recursive existential geometry",
+    "recovery": "reconstruction of recursive viability geometry",
+    "temporality": "dependent upon recursive viability preservation"
+  },
+
+  "canonical_compressions": [
+    "Local persistence is not recursive existence.",
+    "Existence corresponds to stabilized recursive viability geometry.",
+    "Recursive existence is fundamentally nonlocal."
+  ],
+
+  "repository_lock_notes": {
+    "status": "locked",
+    "purpose": "Defines recursive existential geometry and formalizes the nonlocality of recursive existence.",
+    "scope": "Foundational recursive existence structure within Recursive Viability Theory.",
+    "non_claims": [
+      "Does not claim physical quantum nonlocality.",
+      "Does not imply local survival is meaningless.",
+      "Does not eliminate the importance of bounded continuity domains.",
+      "Does not require existence to be globally uniform."
+    ]
+  }
+}
