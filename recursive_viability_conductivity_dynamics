@@ -1,0 +1,159 @@
+{
+  "artifact_id": "recursive_viability_conductivity_dynamics",
+  "title": "Recursive Viability Conductivity Dynamics",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "framework_layer": "recursive_conductivity_dynamics",
+  "type": "recursive_dynamical_system",
+
+  "canonical_statement": "Recursive existence is a conductivity condition.",
+
+  "deep_compression_statement": "Recursive viability persists only where continuity remains sufficiently conductive across recursive scale.",
+
+  "principle": {
+    "name": "Recursive Viability Conductivity Principle",
+    "statement": "Recursive viability persists only insofar as recursively preservable continuity propagation remains sufficiently conductive across recursive organizational scale.",
+    "interpretation": "Recursive adaptive viability is governed by recursive continuity conductivity, participatory traversability, organizational coherence, continuity retention, and recursive deformation accumulation."
+  },
+
+  "core_objects": {
+    "recursive_continuity_conductivity_state": {
+      "symbol": "\\mathcal P_{\\mathrm{cont}}(n)",
+      "definition": "recursive continuity conductivity state",
+      "interpretation": "Measures recursively transmissible continuity propagation capacity across recursive participation structure."
+    },
+    "recursive_conductivity_transmission_coefficient": {
+      "symbol": "\\Lambda_{\\mathrm{cond}}(n)",
+      "definition": "recursive conductivity transmission coefficient",
+      "role": "governs preservation, expansion, or contraction of recursive continuity conductivity across recursive organizational scale"
+    },
+    "recursive_reweaving_operator": {
+      "symbol": "\\mathcal W_{\\mathrm{rew}}(n)",
+      "definition": "recursive reweaving operator",
+      "role": "restores recursive continuity conductivity through regenerative reopening dynamics"
+    },
+    "recursive_deformation_accumulation": {
+      "symbol": "\\mathcal D_{\\mathrm{rec}}(n)",
+      "definition": "recursive deformation accumulation"
+    },
+    "recursive_participatory_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{trav}}(n)",
+      "definition": "recursive participatory traversability"
+    },
+    "recursive_organizational_coherence": {
+      "symbol": "\\eta_{\\mathrm{coh}}(n)",
+      "definition": "recursive organizational coherence"
+    },
+    "recursive_continuity_stitching": {
+      "symbol": "\\eta_{\\mathrm{stitch}}(n)",
+      "definition": "recursive continuity stitching efficiency"
+    },
+    "continuity_retention": {
+      "symbol": "\\Psi_{\\mathrm{ret}}(n)",
+      "definition": "continuity retention"
+    }
+  },
+
+  "normalization_assumptions": {
+    "bounded_coefficients": [
+      "0\\le\\eta_{\\mathrm{stitch}}(n)\\le1",
+      "0\\le\\eta_{\\mathrm{coh}}(n)\\le1",
+      "0\\le\\mathcal T_{\\mathrm{trav}}(n)\\le1",
+      "0\\le\\Psi_{\\mathrm{ret}}(n)\\le1"
+    ],
+    "deformation_constraint": [
+      "\\mathcal D_{\\mathrm{rec}}(n)\\ge0"
+    ],
+    "conductivity_constraint": [
+      "\\mathcal P_{\\mathrm{cont}}(n)\\ge0"
+    ],
+    "reweaving_constraint": [
+      "\\mathcal W_{\\mathrm{rew}}(n)\\ge0"
+    ]
+  },
+
+  "conductivity_transmission_equation": {
+    "formal_relation": "\\Lambda_{\\mathrm{cond}}(n)=\\eta_{\\mathrm{stitch}}(n)\\,\\eta_{\\mathrm{coh}}(n)\\,\\mathcal T_{\\mathrm{trav}}(n)\\,\\frac{\\Psi_{\\mathrm{ret}}(n)}{1+\\mathcal D_{\\mathrm{rec}}(n)}",
+    "interpretation": "Recursive conductivity transmission increases with coherence preservation, continuity stitching, traversability preservation, and continuity retention, while recursive deformation accumulation contracts recursive conductivity transmission."
+  },
+
+  "recursive_update_law": {
+    "formal_relation": "\\mathcal P_{\\mathrm{cont}}(n+1)=\\mathcal P_{\\mathrm{cont}}(n)\\Lambda_{\\mathrm{cond}}(n)+\\mathcal W_{\\mathrm{rew}}(n)",
+    "interpretation": "Recursive continuity conductivity evolves through conductivity transmission coupled to regenerative reweaving dynamics.",
+    "deep_form": "Recursive viability dynamics consist of recursive conductivity propagation coupled to regenerative reopening dynamics."
+  },
+
+  "recursive_persistence_criterion": {
+    "formal_relation": "\\inf_{n\\ge n_0}\\mathcal P_{\\mathrm{cont}}(n)>0",
+    "interpretation": "Recursive continuity conductivity remains asymptotically preservable across recursive organizational scale."
+  },
+
+  "protected_core_condition": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\quad\\land\\quad\\Lambda_{\\mathrm{cond}}(n)<1",
+    "interpretation": "Bounded local survivability may persist while recursive continuity conductivity progressively contracts across recursive scale.",
+    "deep_form": "Local persistence does not imply recursive conductivity preservation."
+  },
+
+  "conductivity_regimes": {
+    "regenerative_expansion": {
+      "formal_relation": "\\Lambda_{\\mathrm{cond}}(n)>1",
+      "interpretation": "Recursive continuity conductivity expands across recursive scale."
+    },
+    "metastable_preservation": {
+      "formal_relation": "\\Lambda_{\\mathrm{cond}}(n)=1",
+      "interpretation": "Recursive continuity conductivity remains marginally preserved."
+    },
+    "recursive_contraction": {
+      "formal_relation": "\\Lambda_{\\mathrm{cond}}(n)<1",
+      "interpretation": "Recursive continuity conductivity contracts asymptotically.",
+      "clarification": "Subcritical conductivity does not alone imply total recursive collapse if regenerative reweaving remains sufficiently strong."
+    },
+    "conductivity_collapse": {
+      "formal_relation": "\\liminf_{n\\to\\infty}\\mathcal P_{\\mathrm{cont}}(n)=0",
+      "interpretation": "Recursive continuity propagation becomes asymptotically nontransmissible across recursive organizational scale."
+    }
+  },
+
+  "regenerative_recovery_condition": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}(n)>\\mathcal P_{\\mathrm{cont}}(n)\\left(1-\\Lambda_{\\mathrm{cond}}(n)\\right)",
+    "interpretation": "Recovery restores recursive viability conductivity through recoherence, continuity restitching, traversability reopening, and recursive accessibility regeneration."
+  },
+
+  "discrete_primacy_principle": {
+    "statement": "Recursive viability dynamics are fundamentally recursive and discrete.",
+    "interpretation": "Continuous viability flow equations emerge only as asymptotic large-scale approximations of recursive organizational update dynamics.",
+    "deep_form": "Recursive organizational scale precedes continuous geometric approximation."
+  },
+
+  "continuous_limit": {
+    "formal_relation": "\\frac{d\\mathcal P_{\\mathrm{cont}}}{d\\tau_{\\mathrm{rec}}}=\\lim_{\\Delta n\\to0}\\frac{\\mathcal P_{\\mathrm{cont}}(n+\\Delta n)-\\mathcal P_{\\mathrm{cont}}(n)}{\\Delta n}",
+    "interpretation": "Continuous recursive viability dynamics emerge asymptotically from recursive discrete propagation dynamics."
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse is recursive conductivity failure.",
+    "formal_interpretation": "Recursive collapse occurs whenever scalable continuity propagation becomes asymptotically nontransmissible across recursive organizational scale.",
+    "deep_form": "Recursive existence collapses whenever recursive viability conductivity degenerates toward asymptotic nontransmissibility."
+  },
+
+  "canonical_compressions": [
+    "Recursive existence is a conductivity condition.",
+    "Recursive viability persists only where continuity remains sufficiently conductive across recursive scale.",
+    "Collapse is recursive conductivity failure.",
+    "Recovery restores recursive conductivity.",
+    "Local persistence does not imply recursive conductivity preservation."
+  ],
+
+  "deep_compression_points": [
+    "Recursive continuity conductivity governs recursive existence.",
+    "Recursive viability evolves through recursive conductivity propagation.",
+    "Recursive deformation contracts recursive conductivity.",
+    "Recovery restores recursive conductivity through reweaving.",
+    "Protected cores preserve local survivability during recursive conductivity collapse.",
+    "Recursive existence collapses whenever scalable continuity conductivity becomes asymptotically nontransmissible.",
+    "Continuous recursive viability dynamics emerge asymptotically from recursive discrete propagation."
+  ],
+
+  "connections": [
+    "recursive_viability_conductivity_criterion",
+    "recursive_existential_conductivity_princip
