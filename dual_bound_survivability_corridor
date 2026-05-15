@@ -1,0 +1,117 @@
+{
+  "artifact_id": "dual_bound_survivability_corridor",
+  "title": "Dual-Bound Survivability Corridor",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "framework_layer": "primitive_admissibility_regulation_geometry",
+  "type": "primitive_recursive_viability_corridor_principle",
+
+  "canonical_statement": "Recursive viability exists only within bounded survivability corridors.",
+
+  "deep_compression_statement": "Recursive existence persists only within admissible reciprocal tension corridors.",
+
+  "formal_statement": {
+    "statement": "Recursive viability exists only within bounded admissibility regulation corridors constrained simultaneously by lower-bound propagation failure and upper-bound coherence fragmentation failure.",
+    "interpretation": "Recursive existence persists only where reciprocal tension regulation remains sufficiently generative, coherent, traversable, recoverable, and admissible across recursive organizational scale.",
+    "collapse_insight": "Recursive existential collapse emerges whenever recursive organizational dynamics exit the survivability corridor through insufficient propagation generation, excessive coherence fragmentation, or overconstrained rigidity suppression."
+  },
+
+  "core_objects": {
+    "survivability_corridor": "\\mathfrak C_{\\mathrm{surv}}",
+    "admissibility_regulation_functional": "\\mathcal F_{\\mathrm{adm}}",
+    "push_dynamics": "\\mathcal P_{\\mathrm{push}}",
+    "pull_dynamics": "\\mathcal P_{\\mathrm{pull}}",
+    "minimum_admissibility_threshold": "\\mathcal T_{\\mathrm{min}}",
+    "maximum_admissibility_threshold": "\\mathcal T_{\\mathrm{max}}",
+    "survivable_relational_asymmetry": "\\mathcal A_{\\mathrm{rel}}",
+    "stitching_compatibility": "\\eta_{\\mathrm{stitch}}",
+    "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+    "viability_preserving_recursive_conductivity": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}"
+  },
+
+  "dual_bound_survivability_corridor": {
+    "formal_relation": "\\mathfrak C_{\\mathrm{surv}}=\\left\\{(\\mathcal P_{\\mathrm{push}},\\mathcal P_{\\mathrm{pull}})\\;\\middle|\\;\\mathcal T_{\\mathrm{min}}<\\mathcal F_{\\mathrm{adm}}(\\mathcal P_{\\mathrm{push}},\\mathcal P_{\\mathrm{pull}})<\\mathcal T_{\\mathrm{max}}\\right\\}",
+
+    "interpretation": "Recursive viability exists only within bounded reciprocal tension regimes preserving both directional continuity generation and recursive coherence stabilization simultaneously.",
+
+    "deep_form": "Recursive viability exists only within bounded survivability corridors."
+  },
+
+  "lower_bound_propagation_failure": {
+    "formal_relation": "\\mathcal F_{\\mathrm{adm}}\\rightarrow\\mathcal T_{\\mathrm{min}}^{-}\\Rightarrow\\mathcal A_{\\mathrm{rel}}\\rightarrow0",
+
+    "interpretation": "Insufficient reciprocal differentiation suppresses directional continuity propagation and recursive viability generation.",
+
+    "deep_form": "Insufficient reciprocal tension suppresses recursive propagation."
+  },
+
+  "upper_bound_fragmentation_failure": {
+    "formal_relation": "\\mathcal F_{\\mathrm{adm}}\\rightarrow\\mathcal T_{\\mathrm{max}}^{+}\\Rightarrow\\eta_{\\mathrm{stitch}}\\rightarrow0",
+
+    "interpretation": "Excessive asymmetry generation destroys recursively transmissible continuity coherence.",
+
+    "deep_form": "Excessive reciprocal tension fragments recursive continuity."
+  },
+
+  "rigidity_boundary_failure": {
+    "formal_relation": "\\mathcal P_{\\mathrm{pull}}\\rightarrow\\infty\\Rightarrow\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\rightarrow0",
+
+    "interpretation": "Overconstrained stabilization suppresses adaptive recursive continuity propagation and future accessibility.",
+
+    "deep_form": "Overconstrained rigidity suppresses future accessibility."
+  },
+
+  "recursive_viability_criterion": {
+    "formal_relation": "(\\mathcal P_{\\mathrm{push}},\\mathcal P_{\\mathrm{pull}})\\in\\mathfrak C_{\\mathrm{surv}}\\Longrightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}>0",
+
+    "interpretation": "Recursive viability-preserving conductivity emerges only where recursive reciprocal tension remains sufficiently bounded and admissibly regulated.",
+
+    "deep_form": "Recursive viability conductivity stabilizes only within bounded reciprocal regulation regimes."
+  },
+
+  "corridor_exit_collapse_criterion": {
+    "formal_relation": "(\\mathcal P_{\\mathrm{push}},\\mathcal P_{\\mathrm{pull}})\\notin\\mathfrak C_{\\mathrm{surv}}\\Longrightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}\\rightarrow0",
+
+    "interpretation": "Recursive collapse corresponds to admissibility-regulation failure through insufficient propagation generation, excessive coherence fragmentation, or overconstrained rigidity suppression.",
+
+    "deep_form": "Recursive collapse corresponds to survivability corridor failure."
+  },
+
+  "primitive_generative_interpretation": {
+    "insufficient_tension": "Insufficient reciprocal tension suppresses propagation.",
+    "excessive_tension": "Excessive reciprocal tension fragments coherence.",
+    "overconstrained_stabilization": "Excessive stabilization suppresses traversability.",
+    "bounded_regulation": "Bounded reciprocal regulation preserves recursive viability."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability exists only within bounded survivability corridors.",
+    "Insufficient reciprocal tension suppresses propagation.",
+    "Excessive reciprocal tension fragments coherence.",
+    "Overconstrained rigidity suppresses future accessibility.",
+    "Recursive existence persists only within admissible reciprocal tension corridors."
+  ],
+
+  "deep_compression_points": [
+    "Survivability corridors regulate recursive viability preservation.",
+    "Recursive existence requires bounded admissibility-preserving reciprocal tension regulation.",
+    "Insufficient reciprocal differentiation suppresses recursive continuity generation.",
+    "Excessive reciprocal differentiation fragments recursive continuity coherence.",
+    "Excessive stabilization suppresses recursive traversability.",
+    "Recursive collapse corresponds to survivability corridor failure.",
+    "Recursive viability-preserving conductivity stabilizes only within bounded reciprocal regulation regimes."
+  ],
+
+  "connections": [
+    "admissibility_regulation_functional",
+    "primitive_generative_tension_field",
+    "balanced_triadic_relationality_principle",
+    "survivable_relational_asymmetry_principle",
+    "recursive_viability_conductivity_criterion",
+    "recursive_existence_observable",
+    "existential_recursive_viability_principle",
+    "recursive_temporal_emergence_principle"
+  ],
+
+  "one_sentence_lock": "Recursive existence persists only where admissibility-regulated reciprocal tension remains bounded within survivability corridors preserving continuity propagation, coherence, traversability, recoverability, and viability-preserving recursive conductivity."
+}
