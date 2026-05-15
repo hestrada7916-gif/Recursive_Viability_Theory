@@ -1,0 +1,130 @@
+{
+  "artifact_id": "recursive_existence_observable",
+  "title": "Recursive Existence Observable",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "framework_layer": "recursive_existential_geometry",
+  "type": "existential_recursive_viability_observable",
+
+  "canonical_statement": "Recursive existence is not equivalent to bounded local persistence.",
+
+  "deep_compression_statement": "Local persistence is not recursive existence.",
+
+  "formal_statement": {
+    "statement": "Persistent adaptive existence corresponds to preservation of recursively scalable survivable continuity propagation across admissible participation geometry.",
+    "interpretation": "Recursive existence depends simultaneously upon admissible directional continuity capacity, scalable continuity percolation, recursive participatory traversability, and recursive temporal continuity.",
+    "collapse_insight": "Recursive collapse emerges whenever scalable continuity propagation, traversability, and recursive temporality degenerate beneath admissible survivability thresholds."
+  },
+
+  "recursive_existence_observable": {
+    "symbol": "\\mathcal X_{\\mathrm{rec}}",
+
+    "definition": "\\mathcal X_{\\mathrm{rec}}=\\mathcal F(\\Xi_{\\mathrm{viab}},\\mathcal P_{\\mathrm{cont}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}},\\tau_{\\mathrm{rec}})",
+
+    "components": {
+      "recursive_viability_observable": "\\Xi_{\\mathrm{viab}}",
+      "continuity_percolation_capacity": "\\mathcal P_{\\mathrm{cont}}",
+      "recursive_traversability": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+      "recursive_temporality": "\\tau_{\\mathrm{rec}}"
+    },
+
+    "interpretation": "The recursive existence observable measures preservation of recursively scalable adaptive existence across recursive participation geometry."
+  },
+
+  "recursive_existence_condition": {
+    "formal_relation": "\\mathcal X_{\\mathrm{rec}}>0",
+
+    "interpretation": "Recursive existence persists whenever recursive existence capacity remains sufficiently preservable across recursive scale.",
+
+    "deep_form": "Existence persists through recursively scalable survivable continuity propagation."
+  },
+
+  "recursive_viability_hierarchy": {
+    "formal_relation": "\\Xi_{\\mathrm{viab}}\\rightarrow\\mathcal V_{\\mathrm{rec}}\\rightarrow\\mathcal X_{\\mathrm{rec}}",
+
+    "interpretation": {
+      "recursive_viability_observable": "\\Xi_{\\mathrm{viab}} measures normalized recursive viability structure.",
+      "recursive_viability_preservation": "\\mathcal V_{\\mathrm{rec}} measures recursive viability preservation.",
+      "recursive_existence_capacity": "\\mathcal X_{\\mathrm{rec}} measures recursively preservable existence capacity."
+    },
+
+    "deep_form": "Recursive existence emerges downstream of recursive viability organization."
+  },
+
+  "local_persistence_distinction": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\not\\Rightarrow\\mathcal X_{\\mathrm{rec}}>0",
+
+    "equivalent_relation": "\\text{Local persistence is not recursive existence}",
+
+    "interpretation": "Locally coherent continuity domains may remain survivable while recursive continuity percolation, traversability, and recursive temporal continuity collapse across recursive scale.",
+
+    "deep_form": "Bounded survival is not recursive existence."
+  },
+
+  "protected_core_regime": {
+    "formal_relation": "\\mathcal S_{\\mathrm{prop}}^{\\mathrm{local}}>0\\quad\\land\\quad\\mathcal P_{\\mathrm{cont}}\\rightarrow0",
+
+    "existential_consequence": "\\mathcal X_{\\mathrm{rec}}\\downarrow",
+
+    "interpretation": "Protected continuity reservoirs may remain locally survivable while recursive existence progressively collapses through exhaustion of scalable continuity propagation.",
+
+    "deep_form": "Protected cores preserve bounded survivability during recursive existential collapse."
+  },
+
+  "recursive_collapse_geometry": {
+    "formal_relation": "\\mathcal X_{\\mathrm{rec}}\\rightarrow0",
+
+    "interpretation": "Recursive collapse progressively destroys scalable continuity propagation, recursive traversability, admissible future participation, recursive temporal continuity, and preservable existential geometry.",
+
+    "deep_form": "Recursive collapse exhausts preservable existential geometry."
+  },
+
+  "recovery_geometry": {
+    "reweaving_operator": "\\mathcal W_{\\mathrm{rew}}",
+
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathcal X_{\\mathrm{rec}}^{\\mathrm{frag}}\\rightarrow\\mathcal X_{\\mathrm{rec}}^{+}",
+
+    "interpretation": "Recovery restores recursive existence through recoherence, re-stitching, continuity transport restoration, traversability reopening, and future accessibility regeneration.",
+
+    "deep_form": "Recovery reconstructs recursive existence geometry."
+  },
+
+  "recursive_ontological_consequence": {
+    "formal_relation": "(\\mathcal P_{\\mathrm{cont}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}},\\tau_{\\mathrm{rec}})\\rightarrow\\mathfrak X_{\\mathrm{exist}}",
+
+    "interpretation": "Existence stabilizes whenever scalable continuity propagation, recursive traversability, and recursive temporality remain sufficiently preservable across recursive participation geometry.",
+
+    "deep_form": "Existence corresponds to stabilized recursive viability geometry."
+  },
+
+  "canonical_compressions": [
+    "Recursive existence is not equivalent to local persistence.",
+    "Existence persists through recursively scalable survivable continuity propagation.",
+    "Local persistence is not recursive existence.",
+    "Bounded survival is not recursive existence.",
+    "\\mathcal X_{\\mathrm{rec}}\\rightarrow0\\Rightarrow\\text{recursive collapse}"
+  ],
+
+  "deep_compression_points": [
+    "Recursive existence requires scalable continuity propagation.",
+    "Local persistence alone does not preserve recursive existence.",
+    "Recursive existence depends simultaneously upon continuity percolation, traversability, and recursive temporality.",
+    "Protected cores preserve bounded local survivability during recursive existential collapse.",
+    "Collapse progressively exhausts recursive existence capacity.",
+    "Recovery reconstructs recursive existence geometry.",
+    "Existence corresponds to stabilized recursive viability geometry."
+  ],
+
+  "connections": [
+    "recursive_viability_theory_unified_geometric_dynamical_system",
+    "existential_recursive_viability_principle",
+    "recursive_continuity_transport_geometry",
+    "continuity_percolation_geometry",
+    "recursive_temporal_emergence_principle",
+    "fragmentation_observable_and_regime_classification",
+    "protected_core_principle",
+    "recursive_field_geometry_of_preservable_participation"
+  ],
+
+  "one_sentence_lock": "Recursive existence corresponds to preservation of recursively scalable survivable continuity propagation across admissible participation geometry under recursive deformation dynamics."
+}
