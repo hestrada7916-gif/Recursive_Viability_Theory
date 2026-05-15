@@ -1,0 +1,205 @@
+{
+  "artifact_id": "recursive_scale_asymmetry_principle",
+
+  "title": "Recursive Scale Asymmetry Principle",
+
+  "status": "repository_lock",
+
+  "framework": "Recursive Admissibility Flow Theory",
+
+  "type": "recursive_scaling_viability_asymmetry_principle",
+
+  "canonical_statement": "Recursive scale breaks local equivalence.",
+
+  "deep_compression_statement": "Recursive scale transforms viability conditions themselves.",
+
+  "primitive_principle": {
+
+    "formal_relation": "\\mathcal P_{\\mathrm{local}}>0\\;\\not\\Rightarrow\\;\\mathcal P_{\\mathrm{rec}}>0",
+
+    "interpretation": "Positive local preservation does not imply positive recursive preservability across recursive organizational scale.",
+
+    "deep_form": "Local stability does not guarantee scalable preservability."
+  },
+
+  "primitive_objects": {
+
+    "local_preservation": {
+
+      "symbol": "\\mathcal P_{\\mathrm{local}}",
+
+      "role": "bounded local preservation",
+
+      "interpretation": "Measures preservation of local operational continuity, coherence, persistence, or recurrence within bounded organizational scale."
+    },
+
+    "recursive_preservability": {
+
+      "symbol": "\\mathcal P_{\\mathrm{rec}}",
+
+      "role": "recursive scalability-preserving preservability",
+
+      "interpretation": "Measures whether locally preserved organizational properties remain viability-preserving across recursive organizational scale."
+    },
+
+    "recursive_viability_conductivity": {
+
+      "symbol": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+
+      "role": "viability-preserving recursive conductivity",
+
+      "interpretation": "Measures whether continuity transfer remains recursively viability-preserving across scale."
+    },
+
+    "recursive_viability_geometry": {
+
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}^{+}",
+
+      "role": "positive recursive viability phase geometry",
+
+      "interpretation": "Represents the viability-preserving region of recursive organizational phase geometry."
+    },
+
+    "recursive_viability_state": {
+
+      "symbol": "x_{\\mathrm{viab}}",
+
+      "role": "recursive viability state",
+
+      "interpretation": "Represents the system position within recursive viability phase geometry."
+    },
+
+    "geometric_viability_margin": {
+
+      "symbol": "d_{\\mathrm{geo}}\\bigl(x_{\\mathrm{viab}},\\partial\\mathfrak T_{\\mathrm{viab}}^{+}\\bigr)",
+
+      "role": "distance to recursive viability boundary",
+
+      "interpretation": "Measures remaining geometric margin before recursive viability boundary contact."
+    }
+  },
+
+  "recursive_scaling_divergence_condition": {
+
+    "formal_relation": "\\mathcal P_{\\mathrm{local}}>0\\;\\land\\;\\frac{d}{dn}\\mathcal P_{\\mathrm{rec}}<0",
+
+    "interpretation": "Recursive scaling may progressively destabilize scalable preservability despite continued local operational persistence.",
+
+    "deep_form": "Local preservation may persist while recursive preservability degrades."
+  },
+
+  "recursive_viability_interpretation": {
+
+    "statement": "Recursive scale asymmetry emerges through accumulated recursive organizational constraints.",
+
+    "scaling_constraints": [
+
+      "transport burden",
+
+      "continuity stitching constraints",
+
+      "incorporability limitations",
+
+      "deformation accumulation",
+
+      "recoverability exhaustion",
+
+      "traversability contraction",
+
+      "recursive coordination burden"
+    ],
+
+    "interpretation": "Properties which stabilize locally may progressively destabilize under recursive scaling because recursive scale introduces accumulated organizational constraints."
+  },
+
+  "fragmentation_consequence": {
+
+    "formal_relation": "\\mathcal P_{\\mathrm{local}}>0\\;\\land\\;\\mathcal P_{\\mathrm{rec}}\\downarrow",
+
+    "interpretation": "Recursive organizational systems may preserve bounded local survivability while scalable recursive viability progressively contracts.",
+
+    "deep_form": "Fragmentation may emerge despite continued local stabilization."
+  },
+
+  "protected_core_consequence": {
+
+    "formal_relation": "\\mathcal S_{\\mathrm{local}}>0\\;\\land\\;\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}\\downarrow",
+
+    "interpretation": "Protected local continuity reservoirs may remain temporarily preservable during progressive global recursive viability exhaustion.",
+
+    "deep_form": "Protected cores may persist during global viability degradation."
+  },
+
+  "collapse_latency_principle": {
+
+    "formal_relation": "\\mathcal P_{\\mathrm{local}}>0\\;\\land\\;d_{\\mathrm{geo}}\\bigl(x_{\\mathrm{viab}},\\partial\\mathfrak T_{\\mathrm{viab}}^{+}\\bigr)\\downarrow",
+
+    "interpretation": "Recursive viability margins may progressively contract despite continued local operational continuity.",
+
+    "deep_form": "Collapse may begin geometrically before it appears operationally."
+  },
+
+  "recursive_renormalization_interpretation": {
+
+    "formal_relation": "\\text{recursive scale transforms viability conditions themselves}",
+
+    "interpretation": "Recursive scale asymmetry acts as a recursive organizational renormalization principle governing preservation failure across recursive scale.",
+
+    "deep_form": "Scale changes the governing preservation equations."
+  },
+
+  "universal_recursive_scaling_law": {
+
+    "formal_relation": "\\text{recursive scale introduces nontrivial viability asymmetry by breaking local-to-global preservation equivalence}",
+
+    "interpretation": "Recursive viability preservation depends not merely upon local organizational stabilization, but upon recursively scalable admissibility-preserving continuity preservation across recursive organizational scale.",
+
+    "deep_form": "Recursive scale breaks local-to-global preservation equivalence."
+  },
+
+  "canonical_compressions": [
+
+    "Recursive scale breaks local equivalence.",
+
+    "Positive local preservation does not imply positive recursive preservability.",
+
+    "Local stability does not guarantee scalable preservability.",
+
+    "Recursive scale introduces nontrivial viability asymmetry.",
+
+    "Recursive scale transforms viability conditions themselves.",
+
+    "Recursive scaling accumulates transport, stitching, incorporability, deformation, recoverability, traversability, and coordination burdens.",
+
+    "Fragmentation may emerge despite ongoing local stability.",
+
+    "Protected local continuity domains may persist during global viability exhaustion.",
+
+    "Recursive collapse may begin geometrically before visible operational collapse emerges.",
+
+    "Recursive scale acts as a recursive organizational renormalization principle."
+  ],
+
+  "deep_compressions": [
+
+    "Recursive scale breaks local preservation equivalence.",
+
+    "Local stabilization does not guarantee scalable recursive preservability.",
+
+    "Recursive scale introduces nontrivial viability asymmetry.",
+
+    "Recursive scale transforms viability conditions themselves.",
+
+    "Recursive scaling progressively accumulates transport, stitching, incorporability, deformation, recoverability, traversability, and recursive coordination burden.",
+
+    "Fragmentation may emerge despite ongoing local stability.",
+
+    "Protected local continuity domains may persist during global viability exhaustion.",
+
+    "Recursive collapse may begin geometrically before visible operational collapse emerges.",
+
+    "Recursive scale acts as a recursive organizational renormalization principle."
+  ],
+
+  "one_sentence_lock": "Recursive scale breaks local equivalence by transforming viability conditions themselves, so locally stable preservation need not remain recursively preservable across organizational scale."
+}
