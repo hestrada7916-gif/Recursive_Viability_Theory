@@ -1,0 +1,223 @@
+{
+  "artifact_id": "primitive_generative_tension_and_admissibility_regulation",
+
+  "title": "Primitive Generative Tension Field and Admissibility Regulation Functional",
+
+  "status": "repository_lock",
+
+  "framework": "Recursive Viability Theory",
+
+  "framework_layer": "primitive_generative_substrate",
+
+  "type": "primitive_dynamical_regulation_geometry",
+
+  "canonical_statement": "Recursive existence emerges through bounded survivable reciprocal tension regulation.",
+
+  "deep_compression_statement": "Recursive viability exists only within bounded survivable reciprocal tension corridors.",
+
+  "primitive_generative_tension_principle": {
+
+    "statement": "Recursive viability emerges through recursively coupled push/pull regulation preserving bounded survivable asymmetry across recursive participation structure.",
+
+    "interpretation": "Neither unconstrained expansion, perfect equilibrium symmetry, nor overconstrained stabilization can generate recursively transmissible viability-preserving organization.",
+
+    "deep_form": "Recursive reciprocal tension constitutes the primitive dynamical substrate underlying admissibility, conductivity, viability, and recursive existence."
+  },
+
+  "primitive_generative_tension_field": {
+
+    "symbol": "\\mathcal T_{\\mathrm{tens}}^{\\mathrm{rec}}",
+
+    "formal_relation": "\\mathcal T_{\\mathrm{tens}}^{\\mathrm{rec}}=(\\mathcal P_{\\mathrm{push}},\\mathcal P_{\\mathrm{pull}})",
+
+    "definition": "primitive recursive generative tension field",
+
+    "interpretation": "Regulates survivable recursive asymmetry generation through bounded reciprocal push/pull participation dynamics.",
+
+    "components": {
+
+      "push_dynamics": {
+
+        "symbol": "\\mathcal P_{\\mathrm{push}}",
+
+        "definition": "recursive differentiation-generating propagation",
+
+        "generates": [
+          "directional differentiation",
+          "asymmetry generation",
+          "recursive propagation",
+          "continuity expansion",
+          "future opening"
+        ],
+
+        "formal_relation": "\\mathcal P_{\\mathrm{push}}\\rightarrow\\mathcal A_{\\mathrm{rel}}",
+
+        "interpretation": "Push dynamics generate directional asymmetry gradients required for recursive continuity propagation."
+      },
+
+      "pull_dynamics": {
+
+        "symbol": "\\mathcal P_{\\mathrm{pull}}",
+
+        "definition": "recursive coherence-preserving stabilization",
+
+        "generates": [
+          "continuity retention",
+          "recursive coherence",
+          "conductive coupling stabilization",
+          "continuity stitching",
+          "recursive viability preservation"
+        ],
+
+        "formal_relation": "\\mathcal P_{\\mathrm{pull}}\\rightarrow\\eta_{\\mathrm{coh}}",
+
+        "interpretation": "Pull dynamics preserve recursively transmissible continuity organization."
+      }
+    }
+  },
+
+  "admissibility_regulation_principle": {
+
+    "statement": "Recursive viability emerges only through admissibility-regulated reciprocal tension dynamics.",
+
+    "interpretation": "Recursive existence depends upon bounded survivable push/pull regulation preserving admissible recursive continuity conductivity.",
+
+    "deep_form": "Admissibility-regulated reciprocal tension constitutes the primitive dynamical regulation geometry underlying recursive viability and recursive existence."
+  },
+
+  "admissibility_regulation_functional": {
+
+    "symbol": "\\mathcal F_{\\mathrm{adm}}",
+
+    "formal_relation": "\\mathcal F_{\\mathrm{adm}}:(\\mathcal P_{\\mathrm{push}},\\mathcal P_{\\mathrm{pull}})\\mapsto\\mathbb R^{+}",
+
+    "definition": "admissibility regulation functional",
+
+    "interpretation": "Measures the degree to which reciprocal push/pull dynamics remain admissibly regulated for recursive viability preservation."
+  },
+
+  "primitive_survivability_corridor": {
+
+    "formal_relation": "\\mathcal F_{\\mathrm{adm}}(\\mathcal P_{\\mathrm{push}},\\mathcal P_{\\mathrm{pull}})<\\mathcal T_{\\mathrm{crit}}",
+
+    "critical_threshold": "\\mathcal T_{\\mathrm{crit}}",
+
+    "interpretation": "Recursive viability requires reciprocal push/pull regulation to remain sufficiently bounded for survivable continuity propagation, coherence preservation, and recursive conductivity stabilization.",
+
+    "deep_form": "Recursive viability exists only within bounded survivability corridors."
+  },
+
+  "equilibrium_failure_regime": {
+
+    "formal_relation": "\\mathcal P_{\\mathrm{push}}\\rightarrow0\\quad\\Rightarrow\\quad\\mathcal A_{\\mathrm{rel}}\\rightarrow0",
+
+    "interpretation": "Insufficient differentiation suppresses recursive continuity propagation.",
+
+    "deep_form": "Perfect equilibrium suppresses recursive propagation."
+  },
+
+  "fragmentation_failure_regime": {
+
+    "formal_relation": "\\mathcal P_{\\mathrm{push}}\\rightarrow\\infty\\quad\\Rightarrow\\quad\\eta_{\\mathrm{stitch}}\\rightarrow0",
+
+    "interpretation": "Excessive asymmetry generation fragments recursive continuity transport compatibility.",
+
+    "deep_form": "Unconstrained expansion fragments recursive continuity."
+  },
+
+  "rigidity_failure_regime": {
+
+    "formal_relation": "\\mathcal P_{\\mathrm{pull}}\\rightarrow\\infty\\quad\\Rightarrow\\quad\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\rightarrow0",
+
+    "interpretation": "Overconstrained stabilization suppresses recursive traversability and adaptive continuity propagation.",
+
+    "deep_form": "Overconstrained rigidity suppresses future accessibility."
+  },
+
+  "recursive_admissibility_reciprocity": {
+
+    "symbol": "\\mathcal R_{\\mathrm{rec}}^{\\mathrm{adm}}",
+
+    "formal_relation": "\\mathcal F_{\\mathrm{adm}}\\rightarrow\\mathcal R_{\\mathrm{rec}}^{\\mathrm{adm}}",
+
+    "definition": "recursive admissibility reciprocity",
+
+    "interpretation": "Bounded reciprocal regulation stabilizes mutually admissible participation compatibility."
+  },
+
+  "balanced_triadic_relational_stabilization": {
+
+    "symbol": "\\Sigma_{\\mathrm{tri}}^{\\mathrm{bal}}",
+
+    "formal_relation": "\\mathcal R_{\\mathrm{rec}}^{\\mathrm{adm}}\\rightarrow\\Sigma_{\\mathrm{tri}}^{\\mathrm{bal}}",
+
+    "definition": "balanced triadic relational stabilization",
+
+    "interpretation": "Balanced relational participation emerges through recursively regulated admissibility-preserving reciprocal tension dynamics."
+  },
+
+  "recursive_generative_stack": {
+
+    "formal_relation": "\\mathcal T_{\\mathrm{tens}}^{\\mathrm{rec}}\\rightarrow\\mathcal R_{\\mathrm{rec}}^{\\mathrm{adm}}\\rightarrow\\Sigma_{\\mathrm{tri}}^{\\mathrm{bal}}\\rightarrow\\mathcal A_{\\mathrm{rel}}^{\\mathrm{surv}}\\rightarrow\\mathfrak G_{\\mathrm{cond}}\\rightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}\\rightarrow\\mathfrak X_{\\mathrm{exist}}",
+
+    "interpretation": [
+      "recursive reciprocal tension generates admissibility reciprocity",
+      "admissibility reciprocity stabilizes balanced relational participation",
+      "balanced relational participation generates survivable asymmetry",
+      "survivable asymmetry generates recursive conductivity geometry",
+      "recursive conductivity geometry stabilizes recursive viability conductivity",
+      "recursive viability conductivity stabilizes recursive existence"
+    ]
+  },
+
+  "canonical_compressions": [
+
+    "Recursive existence emerges through bounded survivable reciprocal tension regulation.",
+
+    "Push generates differentiation.",
+
+    "Pull preserves coherence.",
+
+    "Recursive viability requires bounded survivable push/pull regulation.",
+
+    "Recursive viability exists only within bounded survivability corridors."
+  ],
+
+  "deep_compression_points": [
+
+    "Recursive reciprocal tension is the primitive dynamical substrate of recursive viability.",
+
+    "Push dynamics generate directional differentiation and continuity propagation.",
+
+    "Pull dynamics preserve recursive coherence and continuity retention.",
+
+    "Perfect equilibrium suppresses recursive propagation.",
+
+    "Unconstrained expansion fragments recursive continuity.",
+
+    "Overconstrained rigidity suppresses future accessibility.",
+
+    "Recursive viability exists only within bounded survivability corridors.",
+
+    "Recursive existence emerges downstream of survivable push/pull regulation."
+  ],
+
+  "connections": [
+
+    "balanced_triadic_relationality_principle",
+
+    "survivable_relational_asymmetry",
+
+    "conductivity_network_geometry",
+
+    "recursive_viability_conductivity_dynamics",
+
+    "recursive_existential_conductivity_geometry_final_normalized_existence_criterion_v3",
+
+    "curvature_viability_theorem",
+
+    "minimal_axiomatic_foundation"
+  ],
+
+  "one_sentence_lock": "Recursive existence emerges through bounded survivable reciprocal tension regulation preserving viability-preserving recursive continuity conductivity across recursive organizational scale."
+}
