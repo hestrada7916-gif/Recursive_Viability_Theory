@@ -1,0 +1,109 @@
+{
+  "artifact_id": "governing_existential_triad",
+  "title": "Governing Existential Triad",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "framework_layer": "recursive_existential_conductivity_geometry",
+  "type": "governing_recursive_existence_principle",
+
+  "canonical_statement": "Existence is scalable recursive viability.",
+
+  "deep_compression_statement": "Recursive existence is a viability-preserving conductivity condition.",
+
+  "formal_statement": {
+    "statement": "Recursive existence persists only through asymptotically viability-preserving recursive conductivity across recursive organizational scale.",
+    "interpretation": "Recursive existence behaves as a viability-preserving recursive conductivity phenomenon governing scalable recursive viability geometry.",
+    "collapse_insight": "Recursive collapse emerges whenever recursive viability-preserving conductivity asymptotically degenerates across recursive organizational scale."
+  },
+
+  "core_objects": {
+    "recursive_existential_geometry": "\\mathfrak X_{\\mathrm{exist}}",
+    "scalable_recursive_viability_geometry": "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{scal}}",
+    "primitive_admissibility_substrate": "\\mathfrak K_{\\mathrm{adm}}",
+    "recursive_conductivity_geometry": "\\mathfrak G_{\\mathrm{cond}}",
+    "viability_preserving_recursive_conductivity": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+    "recursive_propagative_conductivity": "\\kappa_{\\mathrm{prop}}^{\\mathrm{rec}}"
+  },
+
+  "ontological_principle": {
+    "statement": "Existence is scalable recursive viability.",
+
+    "formal_relation": "\\mathfrak X_{\\mathrm{exist}}\\sim\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{scal}}",
+
+    "interpretation": "Recursive existence corresponds to preservation of scalable recursive viability across recursive organizational scale.",
+
+    "deep_form": "Recursive existence is scalable recursive viability."
+  },
+
+  "conductivity_principle": {
+    "statement": "Recursive existence is a viability-preserving conductivity condition.",
+
+    "formal_relation": "\\mathfrak X_{\\mathrm{exist}}\\sim\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+
+    "interpretation": "Recursive existence behaves as a viability-preserving recursive conductivity phenomenon.",
+
+    "deep_form": "Existence persists through viability-preserving recursive conductivity."
+  },
+
+  "admissibility_preservation_criterion": {
+    "statement": "Existence persists only through viability-preserving recursive conductivity.",
+
+    "formal_relation": "\\mathfrak X_{\\mathrm{exist}}>0\\Longleftrightarrow\\inf_{n\\ge n_0}\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}(n)>0",
+
+    "interpretation": "Recursive existence persists iff recursive viability-preserving conductivity remains asymptotically bounded away from collapse across recursive organizational scale.",
+
+    "deep_form": "Recursive existence requires asymptotically preservable viability conductivity."
+  },
+
+  "propagation_viability_distinction": {
+    "formal_relation": "\\kappa_{\\mathrm{prop}}^{\\mathrm{rec}}>0\\not\\Rightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}>0",
+
+    "interpretation": "Recursive propagation alone does not imply recursive viability preservation.",
+
+    "deep_form": "What spreads is not necessarily what remains viable."
+  },
+
+  "recursive_existential_chain": {
+    "formal_relation": "\\mathfrak K_{\\mathrm{adm}}\\rightarrow\\mathfrak G_{\\mathrm{cond}}\\rightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}\\rightarrow\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{scal}}\\sim\\mathfrak X_{\\mathrm{exist}}",
+
+    "interpretation": {
+      "primitive_admissibility": "\\mathfrak K_{\\mathrm{adm}} denotes the primitive admissibility substrate.",
+      "conductivity_geometry": "\\mathfrak G_{\\mathrm{cond}} denotes recursive conductivity geometry.",
+      "viability_preserving_conductivity": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}} denotes viability-preserving recursive conductivity.",
+      "scalable_viability_geometry": "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{scal}} denotes scalable recursive viability geometry.",
+      "recursive_existential_geometry": "\\mathfrak X_{\\mathrm{exist}} denotes recursive existential geometry."
+    },
+
+    "deep_form": "Primitive admissibility generates recursive conductivity geometry, recursive conductivity geometry generates viability-preserving recursive conductivity, and viability-preserving recursive conductivity stabilizes scalable recursive existential geometry."
+  },
+
+  "canonical_compressions": [
+    "Existence is scalable recursive viability.",
+    "Recursive existence is a viability-preserving conductivity condition.",
+    "Existence persists only through viability-preserving recursive conductivity.",
+    "Recursive propagation alone does not imply recursive viability.",
+    "What spreads is not necessarily what remains viable."
+  ],
+
+  "deep_compression_points": [
+    "Recursive existence is equivalent to scalable recursive viability.",
+    "Recursive existence behaves as a viability-preserving recursive conductivity phenomenon.",
+    "Existence persists only where recursive viability-preserving conductivity remains asymptotically bounded away from collapse.",
+    "Conductivity alone is insufficient unless recursively viability-preserving.",
+    "Persistent propagation is not necessarily viable propagation.",
+    "Recursive transmissibility preservation is the operational core of recursive viability."
+  ],
+
+  "connections": [
+    "recursive_viability_conductivity_criterion",
+    "recursive_existence_observable",
+    "existential_recursive_viability_principle",
+    "recursive_temporal_emergence_principle",
+    "recursive_continuity_transport_geometry",
+    "continuity_percolation_geometry",
+    "fragmentation_observable_and_regime_classification",
+    "recursive_field_geometry_of_preservable_participation"
+  ],
+
+  "one_sentence_lock": "Recursive existence persists exactly where viability-preserving recursive conductivity remains asymptotically preservable across recursive organizational scale."
+}
