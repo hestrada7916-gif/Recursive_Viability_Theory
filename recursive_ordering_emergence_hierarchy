@@ -1,0 +1,132 @@
+{
+  "artifact_id": "recursive_ordering_emergence_hierarchy",
+  "title": "Recursive Ordering Emergence Hierarchy",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "temporal_metric_emergence_hierarchy",
+
+  "canonical_statement": "Smooth metric geometry emerges only after recursive ordering stabilizes.",
+
+  "deep_compression_statement": "Time is not primitive; stable recursive ordering is prior.",
+
+  "primitive_principle": {
+    "formal_relation": "\\text{recursive organizational phase structure}\\rightarrow\\text{stable temporal ordering}\\rightarrow\\text{smooth metric geometry}",
+    "interpretation": "Recursive organizational phase structure must stabilize into preservable temporal ordering before smooth metric geometry can emerge as a coherent-sector approximation.",
+    "deep_form": "Recursive ordering precedes temporal smoothness."
+  },
+
+  "primitive_objects": {
+    "recursive_organizational_phase_structure": {
+      "symbol": "\\mathfrak P_{\\mathrm{phase}}^{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "pre-temporal recursive organizational phase structure",
+      "interpretation": "Defines recursive organizational phase structure prior to stable temporality or smooth metric geometry."
+    },
+    "stable_temporal_ordering": {
+      "symbol": "\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "stable recursive temporal ordering",
+      "interpretation": "Measures preservation of navigable recursive ordering sufficient to generate coherent recursive temporality."
+    },
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "emergent recursive temporality",
+      "interpretation": "Recursive temporality emerges from sufficiently stable recursive ordering and continuity-preserving navigability."
+    },
+    "smooth_metric_geometry": {
+      "symbol": "(\\mathfrak T_{\\mathrm{viab}},g)",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "coherent-sector smooth metric approximation",
+      "interpretation": "Smooth metric geometry emerges only within sufficiently coherent recursive viability sectors where ordering, transport, and navigability stabilize."
+    },
+    "metric_tensor": {
+      "symbol": "g",
+      "type_assignment": "\\mathsf{Func}",
+      "role": "emergent metric structure",
+      "interpretation": "Metric structure is not primitive globally, but may emerge as a coherent-sector approximation over stabilized recursive viability geometry."
+    }
+  },
+
+  "emergence_chain": {
+    "formal_relation": "\\mathfrak P_{\\mathrm{phase}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}},g)",
+    "interpretation": [
+      "recursive organizational phase structure precedes stable temporality",
+      "stable recursive ordering generates recursive temporality",
+      "recursive temporality supports coherent smooth metric approximation",
+      "smooth metric geometry emerges only inside sufficiently coherent recursive viability sectors"
+    ],
+    "deep_form": "Recursive organizational ordering stabilizes before smooth geometry emerges."
+  },
+
+  "pre_temporal_structure_principle": {
+    "formal_relation": "\\mathfrak P_{\\mathrm{phase}}^{\\mathrm{rec}}\\not\\Rightarrow\\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive organizational phase structure may exist before stable recursive temporality emerges.",
+    "deep_form": "Organization precedes stable time."
+  },
+
+  "recurrence_memory_distinction": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}}\\not\\Rightarrow\\mathcal S_{\\mathrm{endo}}",
+    "interpretation": "Recurrent circulation alone does not imply recoverably preservable continuity identity.",
+    "deep_form": "Recurrence does not imply memory."
+  },
+
+  "temporal_ordering_smoothness_distinction": {
+    "formal_relation": "\\tau_{\\mathrm{rec}}\\not\\Rightarrow(\\mathfrak T_{\\mathrm{viab}},g)",
+    "interpretation": "Stable recursive temporality does not automatically imply globally smooth metric geometry.",
+    "deep_form": "Temporal ordering does not guarantee smooth metric geometry."
+  },
+
+  "coherent_sector_condition": {
+    "formal_relation": "(\\mathfrak T_{\\mathrm{viab}},g)\\text{ emerges only on }\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+    "interpretation": "Smooth metric geometry is a coherent-sector approximation, not a global primitive assumption.",
+    "deep_form": "Smooth geometry is conditional on recursive coherence."
+  },
+
+  "collapse_desmoothing_consequence": {
+    "formal_relation": "\\mathcal O_{\\tau}^{\\mathrm{stab}}\\downarrow\\Rightarrow g\\text{ degenerates or ceases to apply}",
+    "interpretation": "Recursive collapse may correspond to loss of temporal ordering stability and breakdown of smooth metric approximability.",
+    "deep_form": "Collapse may be desmoothing of recursive viability geometry."
+  },
+
+  "ordering_precedence_consequence": {
+    "formal_relation": "\\mathcal O_{\\tau}^{\\mathrm{stab}}>0\\text{ is prerequisite for coherent }g",
+    "interpretation": "Metric smoothness requires stabilized recursive ordering and continuity-preserving navigability.",
+    "deep_form": "Ordering precedes metric smoothness."
+  },
+
+  "normalization_rules": [
+    "Smooth metric geometry is not assumed globally.",
+    "Recursive organizational phase structure may be pre-temporal.",
+    "Stable recursive ordering is prior to emergent recursive temporality.",
+    "Recursive temporality is prior to smooth metric approximation.",
+    "Recurrence does not imply memory.",
+    "Temporal ordering does not guarantee global smooth metric geometry.",
+    "Smooth metric geometry emerges only in sufficiently coherent recursive viability sectors.",
+    "Collapse may correspond to loss of geometric smoothability."
+  ],
+
+  "deep_compressions": [
+    "Smooth metric geometry emerges only after recursive ordering stabilizes.",
+    "Time is not primitive; stable recursive ordering is prior.",
+    "Recursive ordering precedes temporal smoothness.",
+    "Organization precedes stable time.",
+    "Ordering precedes metric smoothness.",
+    "Smooth geometry is conditional on recursive coherence.",
+    "Collapse may be desmoothing of recursive viability geometry."
+  ],
+
+  "connections": [
+    "recursive_viability_state_geometry",
+    "recursive_scale_normalization",
+    "recursive_ontological_stratification_theorem",
+    "recursive_temporal_emergence_principle",
+    "recursive_temporal_coherence_principle",
+    "recursive_viability_phase_geometry",
+    "proto_rotor_circulation",
+    "recursive_organizational_mechanics",
+    "recursive_scale_asymmetry_principle"
+  ],
+
+  "one_sentence_lock": "Recursive Ordering Emergence Hierarchy states that recursive organizational phase structure stabilizes recursive temporal ordering before smooth metric geometry can emerge as a coherent-sector approximation."
+}
