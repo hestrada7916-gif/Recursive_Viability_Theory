@@ -1,0 +1,116 @@
+{
+  "artifact_id": "recursive_incorporability_criterion",
+  "title": "Recursive Incorporability Criterion",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_incorporability_kernel",
+
+  "canonical_statement": "A structure is recursively incorporable iff its continued incorporation does not induce unbounded recursive viability-conductivity degradation across scale.",
+
+  "deep_compression_statement": "Recursive viability is scalable incorporability compatibility.",
+
+  "primitive_principle": {
+    "formal_relation": "X\\in\\mathcal I_{\\mathrm{viab}}^{\\mathrm{rec}}\\iff\\int_{n_0}^{\\infty}\\max\\left(0,-\\partial_n\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}(X;n)\\right)dn<\\infty",
+    "interpretation": "A structure is recursively incorporable iff its continued incorporation across recursive scale does not generate unbounded recursive viability-conductivity degradation.",
+    "deep_form": "Recursive incorporation must remain scalability-compatible with recursive viability preservation."
+  },
+
+  "primitive_objects": {
+
+    "recursive_incorporability": {
+      "symbol": "\\mathcal I_{\\mathrm{viab}}^{\\mathrm{rec}}",
+      "role": "recursive viability-preserving incorporability class",
+      "interpretation": "Represents structures whose continued recursive incorporation remains compatible with scalable recursive viability preservation."
+    },
+
+    "recursive_viability_conductivity": {
+      "symbol": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+      "role": "recursive viability conductivity",
+      "interpretation": "Measures the degree to which recursive continuity transfer remains viability-preserving across recursive organizational scale."
+    },
+
+    "incorporability_degradation_density": {
+      "symbol": "D_{\\mathrm{inc}}",
+      "formal_relation": "D_{\\mathrm{inc}}(X;n)=-\\partial_n\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}(X;n)",
+      "role": "recursive incorporability degradation density",
+      "interpretation": "Measures local recursive viability-conductivity degradation induced by continued recursive incorporation of a structure."
+    },
+
+    "incorporability_budget": {
+      "symbol": "B_{\\mathrm{inc}}",
+      "role": "finite recursive incorporability degradation budget",
+      "interpretation": "Represents the maximal admissible accumulated recursive viability degradation compatible with scalable recursive viability preservation."
+    }
+  },
+
+  "recursive_incorporability_condition": {
+    "formal_relation": "\\forall n_2>n_1,\\quad\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}(X;n_2)\\ge\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}(X;n_1)-\\epsilon",
+    "interpretation": "Recursive incorporation remains viable whenever recursive viability conductivity does not progressively collapse beyond admissible deformation tolerance.",
+    "deep_form": "Recursive incorporation must not progressively destroy recursive viability."
+  },
+
+  "integrated_incorporability_condition": {
+    "formal_relation": "\\int_{n_0}^{N}\\max\\left(0,-\\partial_n\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}(X;n)\\right)dn\\le B_{\\mathrm{inc}}",
+    "interpretation": "Accumulated recursive viability degradation induced by incorporation must remain bounded.",
+    "deep_form": "Recursive viability degradation must remain bounded under scale."
+  },
+
+  "unbounded_collapse_condition": {
+    "formal_relation": "\\int_{n_0}^{\\infty}\\max\\left(0,-\\partial_n\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}(X;n)\\right)dn\\rightarrow\\infty",
+    "interpretation": "Recursive collapse emerges whenever continued incorporation induces unbounded recursive viability-conductivity degradation.",
+    "deep_form": "Unbounded incorporability degradation induces recursive collapse."
+  },
+
+  "propagation_viability_distinction": {
+    "formal_relation": "\\Psi_{\\mathrm{cont}}\\uparrow\\not\\Rightarrow X\\in\\mathcal I_{\\mathrm{viab}}^{\\mathrm{rec}}",
+    "interpretation": "Successful propagation alone does not imply recursive incorporability compatibility.",
+    "deep_form": "Propagation success does not guarantee recursive incorporability."
+  },
+
+  "recursive_scaling_interpretation": {
+    "statement": "Recursive incorporability governs scalability-compatible recursive participation.",
+    "interpretation": [
+      "structures may propagate while progressively degrading recursive viability conductivity",
+      "recursive viability depends upon scalability-compatible incorporability",
+      "continued incorporation must preserve future recursive participation accessibility",
+      "recursive collapse may emerge from over-incorporation pressure"
+    ],
+    "deep_form": "Recursive viability requires scalable incorporability compatibility."
+  },
+
+  "fragmentation_interpretation": {
+    "formal_relation": "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}\\downarrow\\land\\Psi_{\\mathrm{cont}}\\uparrow",
+    "interpretation": "Recursive fragmentation may emerge when propagation pressure increases while recursive viability conductivity progressively collapses.",
+    "deep_form": "Over-propagation may destroy recursive incorporability."
+  },
+
+  "normalization_rules": [
+    "Recursive viability is scalable incorporability compatibility.",
+    "Successful propagation alone does not imply recursive incorporability.",
+    "Recursive incorporation must preserve recursive viability conductivity under scale.",
+    "Recursive viability degradation must remain bounded.",
+    "Unbounded incorporability degradation induces recursive collapse.",
+    "Recursive viability depends upon scalability-compatible participation."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability is scalable incorporability compatibility.",
+    "Recursive incorporation must preserve recursive viability under scale.",
+    "Propagation success does not guarantee recursive incorporability.",
+    "Recursive viability degradation must remain bounded.",
+    "Over-propagation may destroy recursive incorporability.",
+    "Recursive collapse may emerge from unbounded incorporability degradation."
+  ],
+
+  "connections": [
+    "recursive_incorporability_principle",
+    "propagation_viability_divergence_principle",
+    "recursive_viability_exhaustion_kernel",
+    "recursive_scale_asymmetry_principle",
+    "locally_preservable_recursive_coordination_principle",
+    "recursive_viability_conductivity_geometry",
+    "ordering_precedence_theorem"
+  ],
+
+  "one_sentence_lock": "A structure is recursively incorporable iff its continued incorporation remains scalability-compatible with bounded recursive viability-conductivity degradation across recursive organizational scale."
+}
