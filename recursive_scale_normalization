@@ -1,0 +1,138 @@
+{
+  "artifact_id": "recursive_scale_normalization",
+  "title": "Recursive Scale Normalization",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_scale_geometry_normalization",
+
+  "canonical_statement": "Recursive organizational scale is not reducible to system size alone.",
+
+  "deep_compression_statement": "Recursive scale breaks local equivalence.",
+
+  "primitive_principle": {
+    "formal_relation": "n\\in\\mathcal N_{\\mathrm{rec}}",
+    "interpretation": "Recursive scale parameterizes recursively organized preservable participation structure across recursive organizational geometry.",
+    "deep_form": "Recursive scale is a primitive recursive organizational coordinate geometry rather than a scalar size parameter."
+  },
+
+  "primitive_objects": {
+
+    "recursive_scale_geometry": {
+      "symbol": "\\mathcal N_{\\mathrm{rec}}",
+      "type": "\\mathsf{Geom}",
+      "role": "recursive organizational scale geometry",
+      "interpretation": "Defines the recursive organizational scale geometry governing recursively structured participation organization."
+    },
+
+    "recursive_scale_coordinate": {
+      "symbol": "n",
+      "type": "\\mathsf{State}",
+      "role": "recursive scale coordinate",
+      "interpretation": "Parameterizes recursive organizational scale position within recursive scale geometry."
+    },
+
+    "recursive_scale_projection": {
+      "symbol": "\\pi_i",
+      "type": "\\mathsf{Op}",
+      "formal_relation": "\\pi_i:\\mathcal N_{\\mathrm{rec}}\\rightarrow\\mathbb R_{\\ge0}",
+      "role": "recursive scale projection operator",
+      "interpretation": "Projects observable scale characteristics from recursive organizational scale geometry."
+    }
+  },
+
+  "recursive_scale_projections": {
+
+    "system_size_projection": {
+      "symbol": "\\pi_{\\mathrm{size}}(n)",
+      "interpretation": "Measures system-size scaling projection."
+    },
+
+    "recursive_depth_projection": {
+      "symbol": "\\pi_{\\mathrm{depth}}(n)",
+      "interpretation": "Measures recursive organizational depth."
+    },
+
+    "participation_complexity_projection": {
+      "symbol": "\\pi_{\\mathrm{part}}(n)",
+      "interpretation": "Measures participation-complexity scaling."
+    },
+
+    "continuity_propagation_projection": {
+      "symbol": "\\pi_{\\mathrm{prop}}(n)",
+      "interpretation": "Measures continuity propagation scaling."
+    },
+
+    "coordination_density_projection": {
+      "symbol": "\\pi_{\\mathrm{coord}}(n)",
+      "interpretation": "Measures recursive coordination-density scaling."
+    }
+  },
+
+  "recursive_scale_dependence": {
+    "formal_relation": "X:\\mathfrak T_{\\mathrm{viab}}\\times\\mathcal N_{\\mathrm{rec}}\\rightarrow\\mathcal V_X",
+    "interpretation": "Recursive objects are parameterized over recursive organizational scale geometry.",
+    "codomain_statement": "\\mathcal V_X depends upon the mathematical type of X.",
+    "codomain_examples": [
+      "\\mathbb R",
+      "\\mathsf{Field}",
+      "\\mathsf{Kernel}",
+      "\\mathsf{Geom}",
+      "\\mathsf{Rel}"
+    ],
+    "deep_form": "Recursive objects depend jointly upon viability state and recursive organizational scale."
+  },
+
+  "recursive_scale_derivatives": {
+    "formal_relation": "\\partial_n X",
+    "interpretation": "Measures recursive scaling variation of X across recursive organizational scale geometry.",
+    "deep_form": "Recursive scale derivatives measure organizational deformation across recursively structured participation geometry."
+  },
+
+  "recursive_scale_asymmetry": {
+    "formal_relation": "\\mathcal P_{\\mathrm{local}}>0\\land\\partial_n\\mathcal P_{\\mathrm{rec}}<0",
+    "interpretation": "Local preservability does not necessarily imply scalable recursive viability preservation.",
+    "deep_form": "Recursive scale breaks local-to-global preservation equivalence."
+  },
+
+  "recursive_scale_normalization_interpretation": {
+    "statement": "Observable notions of scale are derived projections of recursive organizational scale geometry rather than independent primitive parameters.",
+    "interpretation": [
+      "recursive organizational scale is primitive",
+      "system size is a projection of recursive scale geometry",
+      "recursive depth is a projection of recursive scale geometry",
+      "participation complexity is a projection of recursive scale geometry",
+      "continuity propagation depth is a projection of recursive scale geometry",
+      "coordination density is a projection of recursive scale geometry"
+    ],
+    "deep_form": "Observable scale notions are projections of recursive organizational scale geometry."
+  },
+
+  "normalization_rules": [
+    "Recursive organizational scale is not reducible to system size alone.",
+    "Recursive scale is a primitive recursive organizational coordinate geometry.",
+    "Observable scale notions are derived projections of recursive scale geometry.",
+    "Recursive objects are parameterized jointly by viability state and recursive organizational scale.",
+    "Recursive scale derivatives measure recursive organizational deformation.",
+    "Local preservability does not necessarily imply scalable preservability."
+  ],
+
+  "deep_compressions": [
+    "Recursive scale breaks local equivalence.",
+    "Recursive organizational scale is not reducible to system size alone.",
+    "Observable scale notions are projections of recursive organizational scale geometry.",
+    "Recursive scale derivatives measure organizational deformation across recursively structured participation geometry.",
+    "Recursive viability asymmetry emerges through recursive scale deformation."
+  ],
+
+  "connections": [
+    "canonical_mathematical_type_architecture",
+    "core_object_type_registry",
+    "recursive_scale_asymmetry_principle",
+    "recursive_viability_phase_geometry",
+    "recursive_viability_exhaustion_kernel",
+    "recursive_incorporability_criterion",
+    "recursive_organizational_mechanics"
+  ],
+
+  "one_sentence_lock": "Recursive organizational scale is a primitive recursive coordinate geometry whose observable scale notions emerge as projections governing recursively structured participation, continuity propagation, and viability-preserving organizational deformation."
+}
