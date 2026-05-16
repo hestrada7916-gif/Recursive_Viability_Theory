@@ -1,0 +1,100 @@
+{
+  "artifact_id": "recursive_viability_state_geometry",
+  "title": "Recursive Viability State Geometry",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "canonical_recursive_state_geometry",
+
+  "canonical_statement": "All recursive viability objects are evaluated relative to a canonical recursive viability state geometry.",
+
+  "deep_compression_statement": "Recursive viability dynamics require shared state geometry.",
+
+  "primitive_principle": {
+    "statement": "Recursive viability state geometry organizes the admissible state structure over which recursive continuity propagation, incorporability, conductivity, recoverability, temporality, collapse, and recursive existence are measured.",
+    "interpretation": "Recursive viability dynamics require a shared recursive state geometry before operators, observables, fields, trajectories, kernels, relations, or functionals may be consistently defined.",
+    "deep_form": "Recursive viability requires canonical state geometry."
+  },
+
+  "primitive_objects": {
+
+    "recursive_viability_state_geometry": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "canonical recursive viability state geometry",
+      "interpretation": "Defines the admissible recursive organizational state geometry over which recursive viability objects are evaluated."
+    },
+
+    "recursive_viability_state": {
+      "symbol": "x_{\\mathrm{viab}}(n)",
+      "type_assignment": "\\mathsf{State}",
+      "formal_relation": "x_{\\mathrm{viab}}(n)\\in\\mathfrak T_{\\mathrm{viab}}",
+      "role": "recursive viability state coordinate",
+      "interpretation": "Encodes recursive organizational viability conditions across recursive organizational scale geometry."
+    },
+
+    "recursive_viability_trajectory": {
+      "symbol": "\\gamma_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{State}",
+      "formal_relation": "\\gamma_{\\mathrm{viab}}:\\mathcal N_{\\mathrm{rec}}\\rightarrow\\mathfrak T_{\\mathrm{viab}}",
+      "role": "recursive viability trajectory",
+      "interpretation": "Describes recursive organizational evolution through recursive viability state geometry across recursive organizational scale."
+    }
+  },
+
+  "state_encoding_structure": {
+    "formal_relation": "x_{\\mathrm{viab}}(n)\\mapsto(\\Psi_{\\mathrm{cont}},\\mathcal I_{\\mathrm{viab}},\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}},\\mathcal R_{\\mathrm{rew}},\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres}},\\Sigma_{\\mathrm{coh}})",
+    "interpretation": "Recursive viability states encode recursive continuity structure, participation accessibility, incorporability conditions, recoverability structure, navigable ordering, and viability-preserving coordination organization."
+  },
+
+  "state_dependent_recursive_objects": {
+    "formal_relation": "X:\\mathfrak T_{\\mathrm{viab}}\\times\\mathcal N_{\\mathrm{rec}}\\rightarrow\\mathcal V_X",
+    "interpretation": "Recursive observables, operators, fields, kernels, relations, and functionals are defined relative to recursive viability state geometry and recursive organizational scale.",
+    "deep_form": "Recursive objects inherit shared viability geometry."
+  },
+
+  "codomain_structure": {
+    "symbol": "\\mathcal V_X",
+    "interpretation": "The codomain depends upon the mathematical type of the recursive object X.",
+    "examples": [
+      "\\mathbb R",
+      "\\mathsf{Field}",
+      "\\mathsf{Kernel}",
+      "\\mathsf{Geom}",
+      "\\mathsf{Rel}"
+    ]
+  },
+
+  "trajectory_interpretation": {
+    "formal_relation": "\\gamma_{\\mathrm{viab}}(n)\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability evolution corresponds to trajectories through recursive viability state geometry.",
+    "deep_form": "Recursive viability evolves geometrically."
+  },
+
+  "normalization_rules": [
+    "All recursive viability objects must be evaluated relative to recursive viability state geometry.",
+    "Recursive states encode viability conditions inside recursive viability geometry.",
+    "Recursive trajectories evolve through recursive viability geometry across recursive organizational scale.",
+    "Recursive objects inherit shared evaluation geometry and scale dependence.",
+    "Operators, observables, kernels, fields, relations, and functionals require canonical state geometry before consistent definition."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability requires canonical state geometry.",
+    "Recursive objects inherit shared viability geometry.",
+    "Recursive organizational evolution occurs through recursive viability geometry.",
+    "Recursive viability dynamics require shared state structure.",
+    "Viability trajectories evolve geometrically across recursive organizational scale."
+  ],
+
+  "connections": [
+    "canonical_mathematical_type_architecture",
+    "core_object_type_registry",
+    "recursive_scale_normalization",
+    "recursive_viability_phase_geometry",
+    "recursive_ontological_stratification_theorem",
+    "ordering_precedence_theorem",
+    "recursive_viability_exhaustion_kernel"
+  ],
+
+  "one_sentence_lock": "Recursive viability dynamics are defined over a canonical recursive viability state geometry through which recursive organizational trajectories evolve across recursive organizational scale."
+}
