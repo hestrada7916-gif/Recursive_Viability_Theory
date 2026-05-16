@@ -1,0 +1,157 @@
+{
+  "artifact_id": "restorative_flow_geometry",
+  "title": "Restorative Flow Geometry",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "future_accessibility_reopening_geometry",
+
+  "canonical_statement": "Recursive viability is governed by preservation of reopenable future accessibility geometry.",
+
+  "deep_compression_statement": "Recovery exists only where restorative futures remain reachable.",
+
+  "primitive_principle": {
+    "statement": "Restorative flow is the accessibility-reopening directional component of recursive viability dynamics.",
+    "interpretation": "Recursive recovery is generated through directional reopening of future accessibility geometry across recursive organizational scale.",
+    "deep_form": "Recovery is future accessibility reopening."
+  },
+
+  "primitive_objects": {
+
+    "recursive_viability_state_geometry": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}",
+      "role": "canonical recursive viability state geometry",
+      "interpretation": "Defines the recursive viability state structure over which accessibility, collapse, deformation, and recovery dynamics evolve."
+    },
+
+    "future_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}",
+      "formal_relation": "\\mathfrak A_{\\mathrm{future}}\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+      "role": "future accessibility subgeometry",
+      "interpretation": "Defines recursively reachable, recoverable, and reopenable future viability structure."
+    },
+
+    "reopenable_future_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{rew}}",
+      "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{rew}}\\subseteq\\mathfrak A_{\\mathrm{future}}",
+      "role": "restoratively reopenable future accessibility subgeometry",
+      "interpretation": "Defines recursively reachable future states for which restorative reopening trajectories remain admissibly accessible."
+    },
+
+    "restorative_flow_field": {
+      "symbol": "F_{\\mathrm{rew}}",
+      "formal_relation": "F_{\\mathrm{rew}}\\in\\Gamma(T(\\mathfrak T_{\\mathrm{viab}}))",
+      "role": "restorative accessibility-reopening vector field",
+      "interpretation": "Defines restorative directional flow acting over recursive viability geometry to reopen future accessibility structure."
+    },
+
+    "recursive_recoverability_reserve": {
+      "symbol": "\\mathcal R_{\\mathrm{rew}}",
+      "role": "recoverability reserve",
+      "interpretation": "Measures remaining restorative accessibility reopening capacity."
+    },
+
+    "recursive_deformation_flow": {
+      "symbol": "\\mathcal D_{\\mathrm{rec}}",
+      "role": "recursive deformation accumulation flow",
+      "interpretation": "Measures accessibility-contracting recursive deformation dynamics."
+    },
+
+    "admissibility_flow": {
+      "symbol": "\\mathcal G_{\\mathrm{adm}}",
+      "role": "admissibility-preserving recursive propagation flow",
+      "interpretation": "Measures recursively admissible continuity propagation dynamics."
+    }
+  },
+
+  "restorative_flow_geometry": {
+    "formal_relation": "F_{\\mathrm{rew}}\\in\\Gamma(T(\\mathfrak T_{\\mathrm{viab}}))",
+    "interpretation": "Restorative flow acts over recursive viability geometry and may reopen, reconnect, or restore future accessibility structure.",
+    "deep_form": "Recovery dynamically reshapes accessibility geometry."
+  },
+
+  "future_accessibility_dynamics": {
+    "expansion_condition": "\\partial_n\\mu(\\mathfrak A_{\\mathrm{future}})>0",
+    "contraction_condition": "\\partial_n\\mu(\\mathfrak A_{\\mathrm{future}})<0",
+
+    "interpretation": "Future accessibility geometry evolves through competing admissibility, deformation, and restorative reopening flows.",
+
+    "deep_form": "Collapse contracts future accessibility. Recovery reopens it."
+  },
+
+  "recoverability_accessibility_principle": {
+    "statement": "Recovery is not externally added to recursive organizational systems.",
+    "interpretation": "Recovery is possible only where restorative accessibility trajectories remain structurally reachable inside future accessibility geometry.",
+    "deep_form": "Recovery exists only where restorative futures remain reachable."
+  },
+
+  "restorative_accessibility_condition": {
+    "formal_relation": "F_{\\mathrm{rew}}(x)\\neq0\\Rightarrow x\\in\\mathfrak A_{\\mathrm{future}}^{\\mathrm{rew}}",
+    "interpretation": "Restorative reopening dynamics exist only where reopenable future accessibility remains geometrically reachable.",
+    "deep_form": "Irrecoverable collapse destroys reopenable future accessibility."
+  },
+
+  "recoverability_dependence": {
+    "formal_relation": "\\mathcal R_{\\mathrm{rew}}\\rightarrow0\\Rightarrow F_{\\mathrm{rew}}\\rightarrow0",
+    "interpretation": "Restorative accessibility reopening collapses once recursive recoverability reserve becomes exhausted.",
+    "deep_form": "Recovery collapses when recoverability reserve is exhausted."
+  },
+
+  "future_accessibility_evolution_dynamics": {
+    "formal_relation": "\\partial_nx_{\\mathrm{viab}}=\\mathcal G_{\\mathrm{adm}}-\\mathcal D_{\\mathrm{rec}}+F_{\\mathrm{rew}}",
+
+    "interpretation": [
+      "admissibility flow preserves recursively viable propagation",
+      "recursive deformation contracts future accessibility",
+      "restorative flow reopens future accessibility structure"
+    ],
+
+    "deep_form": "Recursive viability dynamics emerge from competing propagation, deformation, and restorative reopening flows."
+  },
+
+  "latent_collapse_consequence": {
+    "statement": "Future accessibility contraction does not necessarily imply immediate visible operational collapse.",
+    "interpretation": "Recursive systems may preserve bounded local persistence while future accessibility geometry progressively contracts.",
+    "deep_form": "Collapse may remain geometrically latent before operational fragmentation becomes visible."
+  },
+
+  "accessibility_measure_flow": {
+    "formal_relation": "\\partial_n\\mu(\\mathfrak A_{\\mathrm{future}})=\\mathcal G_{\\mathrm{adm}}-\\mathcal D_{\\mathrm{rec}}+R_{\\mathrm{rew}}",
+
+    "interpretation": "Future accessibility measure evolves through competing admissibility-preserving propagation, recursive deformation, and restorative reopening dynamics.",
+
+    "deep_form": "Accessibility geometry evolves dynamically."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability is governed by preservation of reopenable future accessibility geometry.",
+    "Restorative flow is the directional reopening of future accessibility geometry.",
+    "Recovery exists only where restorative futures remain reachable.",
+    "Collapse contracts reopenable future accessibility.",
+    "Recovery reopens future accessibility structure.",
+    "Collapse may remain geometrically latent prior to operational fragmentation."
+  ],
+
+  "deep_compressions": [
+    "Future accessibility geometry defines recursively reachable and recoverable futures.",
+    "Restorative flow dynamically reshapes future accessibility geometry.",
+    "Recovery requires restoratively reachable future structure.",
+    "Recursive collapse contracts future accessibility geometry.",
+    "Recursive recovery reopens future accessibility geometry.",
+    "Recovery collapses when recoverability reserve becomes exhausted.",
+    "Recursive viability dynamics emerge from competing propagation, deformation, and restorative reopening flows.",
+    "Collapse may remain geometrically latent before visible fragmentation."
+  ],
+
+  "connections": [
+    "recursive_viability_state_geometry",
+    "future_accessibility_primacy",
+    "recursive_continuity_transport_geometry",
+    "recursive_viability_phase_geometry",
+    "recursive_collapse_exhaustion_geometry",
+    "recursive_viability_conductivity",
+    "topological_recovery_theory",
+    "recoverable_future_accessibility_criterion"
+  ],
+
+  "one_sentence_lock": "Recursive viability persists only while reopenable future accessibility geometry remains sufficiently recoverable under competing admissibility, deformation, and restorative reopening dynamics."
+}
