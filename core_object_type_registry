@@ -1,0 +1,229 @@
+{
+  "artifact_id": "core_object_type_registry",
+  "title": "Core Object Type Registry",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "canonical_mathematical_type_architecture",
+
+  "canonical_statement": "Every primitive object must be assigned a canonical mathematical type before use.",
+
+  "deep_compression_statement": "Recursive organizational stability requires categorical mathematical discipline.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathrm{Type}(X)\\in\\{\\mathsf{Geom},\\mathsf{State},\\mathsf{Obs},\\mathsf{Op},\\mathsf{Field},\\mathsf{Kernel},\\mathsf{Rel},\\mathsf{Func},\\mathsf{Flow}\\}",
+    "interpretation": "Every primitive object in Recursive Admissibility Flow Theory possesses a canonical mathematical category.",
+    "deep_form": "Primitive objects must be categorically stabilized before recursive dynamics may be consistently formalized."
+  },
+
+  "canonical_types": {
+
+    "geometry": {
+      "symbol": "\\mathsf{Geom}",
+      "role": "admissible configuration geometry",
+      "interpretation": "Defines recursive organizational state-space structure."
+    },
+
+    "state": {
+      "symbol": "\\mathsf{State}",
+      "role": "recursive viability state coordinate",
+      "interpretation": "Represents a point or trajectory coordinate within recursive viability geometry."
+    },
+
+    "observable": {
+      "symbol": "\\mathsf{Obs}",
+      "role": "measurable state-dependent quantity",
+      "interpretation": "Measures recursive viability, coherence, conductivity, or exhaustion properties over recursive organizational states."
+    },
+
+    "operator": {
+      "symbol": "\\mathsf{Op}",
+      "role": "state-transforming recursive operator",
+      "interpretation": "Transforms recursive organizational states or continuity structures."
+    },
+
+    "field": {
+      "symbol": "\\mathsf{Field}",
+      "role": "directional recursive organizational structure",
+      "interpretation": "Defines directional motion, admissibility, deformation, or kinetic-driver structure over recursive viability geometry."
+    },
+
+    "kernel": {
+      "symbol": "\\mathsf{Kernel}",
+      "role": "recursive transport or transition law",
+      "interpretation": "Defines recursive continuity propagation or transition behavior."
+    },
+
+    "relation": {
+      "symbol": "\\mathsf{Rel}",
+      "role": "recursive admissibility relation",
+      "interpretation": "Defines recursive compatibility or incorporability constraints."
+    },
+
+    "functional": {
+      "symbol": "\\mathsf{Func}",
+      "role": "aggregate recursive evaluation functional",
+      "interpretation": "Aggregates recursively coupled viability or coherence constraints."
+    },
+
+    "flow": {
+      "symbol": "\\mathsf{Flow}",
+      "role": "recursive dynamical evolution law",
+      "interpretation": "Defines recursive organizational state evolution dynamics."
+    }
+  },
+
+  "geometry_and_state_objects": {
+    "\\mathfrak T_{\\mathrm{viab}}": "\\mathsf{Geom}",
+    "\\mathfrak X_{\\mathrm{exist}}": "\\mathsf{Geom}",
+    "\\mathfrak T_{\\mathrm{coll}}": "\\mathsf{Geom}",
+    "\\mathfrak B_{\\mathrm{rew}}": "\\mathsf{Geom}",
+    "x_{\\mathrm{viab}}(n)": "\\mathsf{State}",
+    "\\gamma_{\\mathrm{viab}}": "\\mathsf{State}",
+    "interpretation": "Recursive viability, collapse, recoverability, and existential structure are geometries or regions within recursive viability state geometry. The object x_viab(n) denotes a recursive viability state coordinate. The object gamma_viab denotes a recursive viability trajectory through recursive viability geometry."
+  },
+
+  "scale_objects": {
+    "\\mathcal N_{\\mathrm{rec}}": "\\mathsf{Geom}",
+    "n": "\\mathsf{State}",
+    "interpretation": "Recursive organizational scale is treated as recursive scale geometry, while n denotes a recursive scale coordinate."
+  },
+
+  "propagation_and_transport_objects": {
+    "\\Psi_{\\mathrm{cont}}": "\\mathsf{Op}",
+    "\\Psi_{\\mathrm{cont}}^{\\rightarrow}": "\\mathsf{Op}",
+    "\\mathcal T_{\\mathrm{trans}}": "\\mathsf{Kernel}",
+    "\\mathcal P_{\\mathrm{cont}}": "\\mathsf{Obs}",
+    "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}": "\\mathsf{Obs}",
+    "interpretation": "Continuity propagation is an operator acting on recursive viability states or structures. Continuity transport is a recursive transport kernel. Continuity percolation and recursive viability conductivity are observables measuring scalable continuity preservation."
+  },
+
+  "admissibility_and_compatibility_objects": {
+    "\\mathcal G_{\\mathrm{adm}}": "\\mathsf{Field}",
+    "\\eta_{\\mathrm{stitch}}": "\\mathsf{Obs}",
+    "\\mathcal I_{\\mathrm{viab}}^{\\mathrm{rec}}": "\\mathsf{Rel}",
+    "\\Lambda_{\\mathrm{inc}}": "\\mathsf{Obs}",
+    "interpretation": "Recursive admissibility flow is treated as an admissibility-preserving navigability field. Stitching compatibility and incorporability overload are observables. Recursive incorporability is an admissibility relation over structures, processes, or recursive participation patterns."
+  },
+
+  "coherence_and_coordination_objects": {
+    "\\Sigma_{\\mathrm{coh}}^{\\mathrm{local}}": "\\mathsf{Func}",
+    "\\eta_{\\mathrm{coh}}": "\\mathsf{Obs}",
+    "\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres}}": "\\mathsf{Obs}",
+    "\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres,local}}": "\\mathsf{Obs}",
+    "interpretation": "Local recursive coherence is an aggregate functional. Coherence preservation and navigable ordering are observables over recursive viability states."
+  },
+
+  "rotor_and_recurrence_objects": {
+    "\\mathcal O_{\\mathrm{osc}}": "\\mathsf{State}",
+    "\\mathcal C_{\\mathrm{rotor}}": "\\mathsf{Kernel}",
+    "\\mathcal S_{\\mathrm{endo}}": "\\mathsf{Geom}",
+    "interpretation": "Oscillatory distinction is a primitive state structure. Proto-rotor circulation is a minimal recurrent directional transition kernel. Endogenous continuity substrate is treated as a geometry of recoverably preservable continuity retention."
+  },
+
+  "tension_and_regulation_objects": {
+    "\\mathcal T_{\\mathrm{tens}}^{\\mathrm{rec}}": "\\mathsf{Field}",
+    "\\mathcal P_{\\mathrm{push}}": "\\mathsf{Field}",
+    "\\mathcal P_{\\mathrm{pull}}": "\\mathsf{Field}",
+    "\\mathcal F_{\\mathrm{adm}}": "\\mathsf{Func}",
+    "\\mathfrak C_{\\mathrm{surv}}": "\\mathsf{Geom}",
+    "interpretation": "Recursive tension, push, and pull are directional fields over recursive viability geometry. The admissibility regulation object is a functional evaluating whether reciprocal tension remains inside survivability bounds. The survivability corridor is a region of admissible reciprocal regulation geometry."
+  },
+
+  "kinematic_and_kinetic_objects": {
+    "v_{\\mathrm{viab}}": "\\mathsf{Field}",
+    "a_{\\mathrm{viab}}": "\\mathsf{Field}",
+    "K_{\\mathrm{viab}}": "\\mathsf{Obs}",
+    "\\mathcal F_{\\mathrm{viab}}": "\\mathsf{Field}",
+    "\\mathcal F_{\\mathrm{push}}": "\\mathsf{Field}",
+    "\\mathcal F_{\\mathrm{pull}}": "\\mathsf{Field}",
+    "\\mathcal F_{\\mathrm{def}}": "\\mathsf{Field}",
+    "\\mathcal F_{\\mathrm{rew}}": "\\mathsf{Field}",
+    "\\Phi_{\\mathrm{viab}}": "\\mathsf{Func}",
+    "interpretation": "Recursive viability velocity and acceleration are directional fields over recursive viability geometry. Recursive viability curvature is an observable. Recursive viability kinetic driver fields govern directional recursive organizational deformation dynamics. The implicit viability potential is a functional over recursive viability geometry."
+  },
+
+  "collapse_and_recovery_objects": {
+    "\\mathcal E_{\\mathrm{viab}}": "\\mathsf{Obs}",
+    "\\nabla\\mathcal E_{\\mathrm{viab}}": "\\mathsf{Field}",
+    "\\mathcal R_{\\mathrm{rew}}": "\\mathsf{Obs}",
+    "\\mathcal W_{\\mathrm{rew}}": "\\mathsf{Op}",
+    "interpretation": "Recursive viability exhaustion and recoverability are observables. The exhaustion gradient is a directional field over recursive viability geometry. The reweaving operator restores viability-preserving geometry when recoverability conditions permit."
+  },
+
+  "temporal_objects": {
+    "\\tau_{\\mathrm{rec}}": "\\mathsf{Obs}",
+    "\\mathcal C_{\\tau}": "\\mathsf{Obs}",
+    "interpretation": "Recursive temporality and temporal coherence are observables measuring preservation of recursive navigable ordering and continuity sequencing."
+  },
+
+  "master_type_compression": {
+    "geometry_objects": [
+      "\\mathfrak T_{\\mathrm{viab}}",
+      "\\mathfrak X_{\\mathrm{exist}}",
+      "\\mathfrak C_{\\mathrm{surv}}"
+    ],
+    "state_objects": [
+      "x_{\\mathrm{viab}}(n)",
+      "\\gamma_{\\mathrm{viab}}",
+      "n"
+    ],
+    "operators": [
+      "\\Psi_{\\mathrm{cont}}",
+      "\\mathcal W_{\\mathrm{rew}}"
+    ],
+    "kernels": [
+      "\\mathcal T_{\\mathrm{trans}}",
+      "\\mathcal C_{\\mathrm{rotor}}"
+    ],
+    "fields": [
+      "\\mathcal G_{\\mathrm{adm}}",
+      "\\mathcal F_{\\mathrm{viab}}",
+      "\\nabla\\mathcal E_{\\mathrm{viab}}"
+    ],
+    "observables": [
+      "\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+      "\\mathcal P_{\\mathrm{cont}}",
+      "\\eta_{\\mathrm{stitch}}",
+      "\\tau_{\\mathrm{rec}}"
+    ],
+    "relations": [
+      "\\mathcal I_{\\mathrm{viab}}^{\\mathrm{rec}}"
+    ],
+    "functionals": [
+      "\\Sigma_{\\mathrm{coh}}^{\\mathrm{local}}",
+      "\\mathcal F_{\\mathrm{adm}}",
+      "\\Phi_{\\mathrm{viab}}"
+    ]
+  },
+
+  "normalization_rules": [
+    "Every primitive object must be assigned a canonical mathematical type before use.",
+    "Geometries contain states.",
+    "Operators transform states or structures.",
+    "Observables measure recursive organizational properties.",
+    "Fields govern directional recursive organizational behavior.",
+    "Kernels govern recursive transition or transport behavior.",
+    "Functionals aggregate recursively coupled preservation constraints.",
+    "Relations define admissibility or incorporability compatibility."
+  ],
+
+  "deep_compressions": [
+    "Recursive organizational stability requires categorical mathematical discipline.",
+    "Every primitive object must be typed before use.",
+    "Geometries contain states; operators transform states; observables measure states.",
+    "Fields direct motion; kernels govern transition; functionals aggregate viability.",
+    "Recursive viability mechanics requires stabilized mathematical object categories."
+  ],
+
+  "connections": [
+    "canonical_mathematical_type_architecture",
+    "recursive_scale_asymmetry_principle",
+    "recursive_viability_phase_geometry",
+    "recursive_organizational_mechanics",
+    "recursive_incorporability_criterion",
+    "locally_preservable_recursive_coordination_principle",
+    "recursive_viability_exhaustion_kernel"
+  ],
+
+  "one_sentence_lock": "Recursive Admissibility Flow Theory stabilizes recursive organizational mathematics by assigning every primitive object a canonical mathematical type prior to recursive dynamical formalization."
+}
