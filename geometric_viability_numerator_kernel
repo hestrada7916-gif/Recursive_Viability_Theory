@@ -1,0 +1,83 @@
+{
+  "artifact_id": "geometric_viability_numerator_kernel",
+  "title": "Geometric Viability Numerator Kernel",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_metric_kernel",
+
+  "canonical_statement": "Recursive viability capacity is jointly constrained by retained potential, traversability, continuity conductivity, coherence efficiency, and reworkability.",
+
+  "deep_compression_statement": "Viability capacity is multiplicatively preservational.",
+
+  "primitive_metric": {
+    "symbol": "N_{\\mathrm{viab}}",
+    "formal_relation": "N_{\\mathrm{viab}}=\\left(\\Psi_{\\mathrm{ret}}\\cdot\\mathcal T_{\\mathrm{trav}}\\cdot\\mathcal P_{\\mathrm{cont}}\\cdot\\eta_{\\mathrm{coh}}\\cdot\\mathcal R_{\\mathrm{rew}}\\right)^{1/5}",
+    "interpretation": "The recursive viability numerator is the geometric mean of five jointly necessary viability-preserving channels.",
+    "deep_form": "Viability capacity collapses when any required channel collapses."
+  },
+
+  "metric_channels": {
+    "retained_potential": {
+      "symbol": "\\Psi_{\\mathrm{ret}}",
+      "code_variable": "psi_ret",
+      "role": "retained future potential"
+    },
+    "traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{trav}}",
+      "code_variable": "t_trav",
+      "role": "navigable recursive traversability"
+    },
+    "continuity_conductivity": {
+      "symbol": "\\mathcal P_{\\mathrm{cont}}",
+      "code_variable": "p_cont",
+      "role": "survivable continuity conductivity"
+    },
+    "coherence_efficiency": {
+      "symbol": "\\eta_{\\mathrm{coh}}",
+      "code_variable": "eta_coh",
+      "role": "coherence preservation efficiency"
+    },
+    "reworkability": {
+      "symbol": "\\mathcal R_{\\mathrm{rew}}",
+      "code_variable": "r_rew",
+      "role": "recoverable reworkability capacity"
+    }
+  },
+
+  "normalization_rule": {
+    "formal_relation": "0\\le N_{\\mathrm{viab}}\\le1\\quad\\text{if each channel lies in }[0,1]",
+    "interpretation": "The geometric numerator remains normalized when all component channels are normalized."
+  },
+
+  "bottleneck_sensitivity": {
+    "formal_relation": "\\exists x_i\\rightarrow0\\Rightarrow N_{\\mathrm{viab}}\\rightarrow0",
+    "interpretation": "The metric is bottleneck-sensitive: collapse of any required viability channel collapses the numerator."
+  },
+
+  "non_substitutability_rule": {
+    "formal_relation": "N_{\\mathrm{viab}}\\neq\\frac{1}{5}\\sum_i x_i",
+    "interpretation": "Viability-preserving channels are not additively substitutable; strength in one channel cannot fully compensate for collapse in another."
+  },
+
+  "implementation_reference": {
+    "python": "numerator = (psi_ret * t_trav * p_cont * eta_coh * r_rew) ** (1/5)"
+  },
+
+  "normalization_rules": [
+    "Use a geometric mean because recursive viability channels are jointly necessary.",
+    "All component channels should be normalized to [0,1] before aggregation.",
+    "A zero or near-zero channel should collapse or strongly suppress the numerator.",
+    "Do not replace the numerator with an arithmetic mean unless modeling substitutable resources.",
+    "The numerator measures viability capacity before load, burden, or exhaustion penalties are applied."
+  ],
+
+  "deep_compressions": [
+    "Viability capacity is multiplicatively preservational.",
+    "Recursive viability is bottleneck-sensitive.",
+    "Local strength cannot fully compensate for missing recursive viability channels.",
+    "The numerator measures jointly preserved viability capacity.",
+    "Recursive viability requires retained potential, traversability, continuity, coherence, and reworkability together."
+  ],
+
+  "one_sentence_lock": "The recursive viability numerator is the normalized geometric mean of jointly necessary viability-preserving channels before recursive load and exhaustion penalties are applied."
+}
