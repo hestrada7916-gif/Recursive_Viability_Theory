@@ -1,0 +1,127 @@
+{
+  "artifact_id": "locally_preservable_recursive_coordination_principle",
+  "title": "Locally Preservable Recursive Coordination Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "local_recursive_coherence_coordination_kernel",
+
+  "canonical_statement": "Local recursive coherence emerges through preservable recursive coordination.",
+
+  "deep_compression_statement": "Local persistence alone is insufficient for recursive coherence.",
+
+  "primitive_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{coh}}^{\\mathrm{local}}=\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres,local}}\\cdot\\Psi_{\\mathrm{cont}}^{\\mathrm{local}}\\cdot\\eta_{\\mathrm{stitch}}^{\\mathrm{local}}\\cdot\\mathcal T_{\\mathrm{part}}^{\\mathrm{local}}\\cdot\\kappa_{\\mathrm{viab}}^{\\mathrm{local}}",
+    "interpretation": "Local recursive coherence emerges through coupled preservation of navigable ordering, continuity propagation, compatibility, traversability, and viability-preserving conductivity within bounded recursive organizational domains.",
+    "deep_form": "Recursive coherence is jointly preservational."
+  },
+
+  "primitive_objects": {
+
+    "local_recursive_coherence": {
+      "symbol": "\\Sigma_{\\mathrm{coh}}^{\\mathrm{local}}",
+      "role": "locally preservable recursive coordination observable",
+      "interpretation": "Measures the degree to which local recursive organizational coherence remains jointly preservable across coupled coordination constraints."
+    },
+
+    "local_preservable_navigable_ordering": {
+      "symbol": "\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres,local}}",
+      "role": "preservable navigable local ordering",
+      "interpretation": "Measures preservation of recursively navigable local organizational ordering."
+    },
+
+    "local_continuity_propagation": {
+      "symbol": "\\Psi_{\\mathrm{cont}}^{\\mathrm{local}}",
+      "role": "propagable local recursive continuity",
+      "interpretation": "Measures transmissible local recursive continuity propagation."
+    },
+
+    "local_stitching_compatibility": {
+      "symbol": "\\eta_{\\mathrm{stitch}}^{\\mathrm{local}}",
+      "role": "local viability-preserving compatibility",
+      "interpretation": "Measures local admissibility-preserving continuity incorporability compatibility."
+    },
+
+    "local_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{local}}",
+      "role": "recursively accessible local traversability",
+      "interpretation": "Measures locally preservable recursive participatory accessibility."
+    },
+
+    "local_viability_conductivity": {
+      "symbol": "\\kappa_{\\mathrm{viab}}^{\\mathrm{local}}",
+      "role": "locally viability-preserving recursive conductivity",
+      "interpretation": "Measures whether local continuity transmissibility remains viability-preserving."
+    }
+  },
+
+  "multiplicative_coordination_structure": {
+    "formal_relation": "\\Sigma_{\\mathrm{coh}}^{\\mathrm{local}}=\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres,local}}\\cdot\\Psi_{\\mathrm{cont}}^{\\mathrm{local}}\\cdot\\eta_{\\mathrm{stitch}}^{\\mathrm{local}}\\cdot\\mathcal T_{\\mathrm{part}}^{\\mathrm{local}}\\cdot\\kappa_{\\mathrm{viab}}^{\\mathrm{local}}",
+    "interpretation": "Local recursive coherence is multiplicatively coupled across recursively coordinated preservation constraints.",
+    "deep_form": "Recursive coherence is bottleneck-sensitive."
+  },
+
+  "normalization_bounds": {
+    "formal_relation": "0\\le\\Sigma_{\\mathrm{coh}}^{\\mathrm{local}}\\le1",
+    "interpretation": "Local recursive coherence is normalized between total local fragmentation and maximally coordinated local recursive preservation.",
+    "deep_form": "Local recursive coherence admits normalized coordination geometry."
+  },
+
+  "local_coherence_persistence_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{coh}}^{\\mathrm{local}}>0",
+    "interpretation": "Local recursive coherence persists iff recursively coordinated preservation remains jointly positive across all local coordination constraints.",
+    "deep_form": "Recursive coherence requires simultaneous local preservation."
+  },
+
+  "fragmentation_condition": {
+    "formal_relation": "\\exists x_i\\in(\\mathcal O_{\\mathrm{nav}}^{\\mathrm{pres,local}},\\Psi_{\\mathrm{cont}}^{\\mathrm{local}},\\eta_{\\mathrm{stitch}}^{\\mathrm{local}},\\mathcal T_{\\mathrm{part}}^{\\mathrm{local}},\\kappa_{\\mathrm{viab}}^{\\mathrm{local}}):x_i\\rightarrow0",
+    "interpretation": "Local recursive fragmentation emerges whenever one or more coupled coordination constraints collapse.",
+    "deep_form": "Recursive fragmentation emerges through coupled coordination failure."
+  },
+
+  "recursive_coordination_interpretation": {
+    "formal_relation": "\\mathcal C_{\\mathrm{rotor}}\\rightarrow\\Sigma_{\\mathrm{coh}}^{\\mathrm{local}}\\rightarrow\\mathcal G_{\\mathrm{adm}}\\rightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}",
+    "interpretation": [
+      "recurrent circulation stabilizes local recursive coordination",
+      "local recursive coordination enables admissible recursive continuity flow",
+      "admissible recursive flow enables scalable recursive viability conductivity"
+    ],
+    "deep_form": "Local recursive coherence is downstream of recurrent circulation but upstream of scalable recursive viability."
+  },
+
+  "local_global_asymmetry": {
+    "formal_relation": "\\Sigma_{\\mathrm{coh}}^{\\mathrm{local}}>0\\not\\Rightarrow\\kappa_{\\mathrm{viab}}^{\\mathrm{rec}}>0",
+    "interpretation": "Local recursive coherence does not necessarily imply scalable recursive viability preservation.",
+    "deep_form": "Local coherence does not guarantee scalable preservability."
+  },
+
+  "normalization_rules": [
+    "Local recursive coherence is jointly preservational.",
+    "Recursive coherence is multiplicatively coordinated rather than additively substitutable.",
+    "Local persistence alone is insufficient for recursive coherence.",
+    "Recursive fragmentation emerges through collapse of coupled coordination constraints.",
+    "Local recursive coherence does not guarantee scalable recursive viability.",
+    "Recursive coherence stabilization is bottleneck-sensitive."
+  ],
+
+  "deep_compressions": [
+    "Local recursive coherence emerges through preservable recursive coordination.",
+    "Recursive coherence is jointly preservational.",
+    "Recursive coherence is bottleneck-sensitive.",
+    "Local persistence alone does not generate recursive coherence.",
+    "Recursive fragmentation emerges through coupled coordination collapse.",
+    "Local coherence does not guarantee scalable preservability."
+  ],
+
+  "connections": [
+    "recursive_scale_asymmetry_principle",
+    "recursive_incorporability_principle",
+    "recursive_viability_conductivity_geometry",
+    "recursive_organizational_mechanics",
+    "recursive_viability_phase_geometry",
+    "recursive_ontological_stratification_theorem",
+    "propagation_viability_divergence_principle",
+    "primitive_generative_tension_field"
+  ],
+
+  "one_sentence_lock": "Local recursive coherence emerges through multiplicatively coupled preservation of ordering, continuity, compatibility, traversability, and viability-preserving conductivity within bounded recursive organizational domains."
+}
