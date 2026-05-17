@@ -1,0 +1,187 @@
+{
+  "artifact_id": "accessibility_ordering_metric_emergence",
+  "title": "Accessibility-Ordering Metric Emergence V2",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_accessibility_atlas_emergence_hierarchy",
+
+  "canonical_statement": "Smooth metric geometry emerges locally as a coherent-sector approximation of sufficiently stabilized future accessibility ordering.",
+
+  "deep_compression_statement": "Stabilized future accessibility ordering structurally precedes smooth metric geometry.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathfrak P_{\\mathrm{phase}}^{\\mathrm{rec}}\\rightarrow\\mathfrak A_{\\mathrm{future}}\\rightarrow\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\Phi_{ij}^{\\mathrm{adm}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}},g)",
+    "interpretation": "Recursive organizational phase structure generates constrained future accessibility geometry. Admissible overlap organization and admissible transition compatibility stabilize recursive accessibility ordering, generating recursive temporality and permitting local coherent-sector smooth metric approximation.",
+    "deep_form": "Accessibility ordering precedes smooth metric geometry."
+  },
+
+  "primitive_objects": {
+    "recursive_phase_structure": {
+      "symbol": "\\mathfrak P_{\\mathrm{phase}}^{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "pre-temporal recursive organizational phase structure",
+      "interpretation": "Defines recursive organizational phase structure prior to stabilized recursive temporality or smooth metric geometry."
+    },
+
+    "future_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "future accessibility geometry",
+      "interpretation": "Defines the structured geometry of recursively reachable, recoverable, and reopenable organizational futures."
+    },
+
+    "admissible_overlap_organization": {
+      "symbol": "\\mathfrak O_{ij}^{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Rel}",
+      "role": "admissibly compatible overlap organization",
+      "interpretation": "Defines recursively compatible overlap structure connecting local recursive accessibility sectors."
+    },
+
+    "admissible_transition_maps": {
+      "symbol": "\\Phi_{ij}^{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "admissible recursive transition compatibility maps",
+      "interpretation": "Govern viability-preserving recursive continuity transfer and accessibility continuation compatibility across admissible overlap domains."
+    },
+
+    "stabilized_temporal_ordering": {
+      "symbol": "\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "stabilized recursive ordering",
+      "interpretation": "Measures sufficiently persistent navigable accessibility ordering generated through admissible recursive overlap and transition compatibility."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "emergent recursive temporal organization",
+      "interpretation": "Recursive temporality emerges as stabilized recursive accessibility continuation structure generated through admissible overlap and transition compatibility."
+    },
+
+    "recursive_viability_geometry": {
+      "symbol": "(\\mathfrak T_{\\mathrm{viab}},g)",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "local coherent-sector smooth metric approximation",
+      "interpretation": "Smooth metric geometry emerges locally only over sufficiently coherent recursive viability sectors."
+    },
+
+    "metric_tensor": {
+      "symbol": "g",
+      "type_assignment": "\\mathsf{Func}",
+      "role": "emergent metric approximation",
+      "interpretation": "Metric structure is not globally primitive, but emerges locally as a coherent-sector approximation of stabilized future accessibility ordering."
+    },
+
+    "coherent_viability_sector": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "locally coherent viability sector",
+      "interpretation": "Defines recursively coherent sectors where stabilized accessibility ordering permits smooth metric approximation."
+    }
+  },
+
+  "emergence_hierarchy": {
+    "formal_relation": "\\mathfrak P_{\\mathrm{phase}}^{\\mathrm{rec}}\\rightarrow\\mathfrak A_{\\mathrm{future}}\\rightarrow\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\Phi_{ij}^{\\mathrm{adm}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}},g)",
+    "interpretation": [
+      "recursive organizational phase structure generates constrained future accessibility structure",
+      "future accessibility structure organizes admissible overlap organization",
+      "admissible overlap organization permits admissible transition compatibility",
+      "admissible transition compatibility stabilizes recursive ordering",
+      "stabilized recursive ordering generates recursive temporality",
+      "recursive temporality permits local coherent-sector smooth metric approximation"
+    ],
+    "deep_form": "Organization generates accessibility; accessibility generates overlap compatibility; overlap compatibility stabilizes ordering; ordering permits smooth geometry."
+  },
+
+  "accessibility_primacy_consequence": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{future}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}},g)",
+    "non_equivalence_relation": "(\\mathfrak T_{\\mathrm{viab}},g)\\not\\rightarrow\\mathfrak A_{\\mathrm{future}}",
+    "interpretation": "Future accessibility structure is more primitive than smooth metric structure. Smooth geometry emerges from stabilized future accessibility ordering rather than constituting the primitive substrate of recursive organizational viability.",
+    "deep_form": "Future accessibility ordering precedes smooth geometry."
+  },
+
+  "coherent_sector_condition": {
+    "formal_relation": "(\\mathfrak T_{\\mathrm{viab}},g)\\text{ emerges only over }\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+    "interpretation": "Smooth metric approximation emerges only locally within sufficiently coherent recursive viability sectors.",
+    "requirements": [
+      "stabilized accessibility ordering",
+      "recursive coherence preservation",
+      "recursive transport stability",
+      "recursive navigability preservation",
+      "recursive temporal preservation",
+      "admissible overlap compatibility",
+      "admissible transition compatibility"
+    ],
+    "deep_form": "Smooth geometry is local and coherence-dependent."
+  },
+
+  "non_global_smoothability_consequence": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{viab}}\\text{ need not admit globally smooth metric structure}",
+    "interpretation": "Recursive viability geometry may remain fragmented, partially smoothable, or accessibility-disconnected without admitting globally coherent metric structure.",
+    "deep_form": "Global smoothability is not guaranteed."
+  },
+
+  "ordering_precedence_principle": {
+    "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\Phi_{ij}^{\\mathrm{adm}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+    "secondary_relation": "\\mathcal O_{\\tau}^{\\mathrm{stab}}\\Rightarrow\\tau_{\\mathrm{rec}}",
+    "tertiary_relation": "\\tau_{\\mathrm{rec}}\\Rightarrow(\\mathfrak T_{\\mathrm{viab}},g)",
+    "interpretation": "Admissible overlap organization and admissible transition compatibility structurally precede stabilized recursive ordering, which structurally precedes recursive temporality and smooth metric approximation.",
+    "deep_form": "Overlap compatibility precedes ordering; ordering precedes temporality; temporality precedes smoothness."
+  },
+
+  "desmoothing_collapse_principle": {
+    "formal_relation": "\\mathcal O_{\\tau}^{\\mathrm{stab}}\\downarrow\\Rightarrow g\\text{ loses coherent-sector validity}",
+    "interpretation": "Recursive collapse may destabilize accessibility ordering, fragment recursive navigability, and destroy local coherent-sector smoothability.",
+    "deep_form": "Collapse may correspond to accessibility desmoothing."
+  },
+
+  "accessibility_geometry_interpretation": {
+    "interpretation": "Recursive organizational dynamics govern the evolution of accessible future structure itself.",
+    "future_accessibility_dynamics": [
+      "future accessibility may expand",
+      "future accessibility may contract",
+      "future accessibility may fragment",
+      "future accessibility may compress",
+      "future accessibility may decohere",
+      "future accessibility may reopen"
+    ],
+    "deep_form": "Accessibility geometry evolves dynamically under recursive organizational flow."
+  },
+
+  "normalization_rules": [
+    "Smooth metric geometry is not globally primitive.",
+    "Future accessibility ordering structurally precedes smooth metric geometry.",
+    "Admissible overlap compatibility structurally precedes stabilized recursive ordering.",
+    "Stabilized navigable accessibility precedes recursive temporality.",
+    "Smooth metric approximation emerges only locally within coherent recursive viability sectors.",
+    "Recursive viability geometry need not admit globally smooth metric structure.",
+    "Collapse may correspond to loss of coherent-sector smoothability.",
+    "Future accessibility geometry evolves dynamically under recursive organizational flow."
+  ],
+
+  "deep_compressions": [
+    "Smooth metric geometry emerges locally from sufficiently stabilized future accessibility ordering.",
+    "Future accessibility ordering structurally precedes smooth metric geometry.",
+    "Smooth geometry is local and coherence-dependent.",
+    "Global smoothability is not guaranteed.",
+    "Collapse may correspond to accessibility desmoothing.",
+    "Recursive organizational dynamics govern the evolution of accessible future structure itself.",
+    "Recursive temporality emerges from stabilized accessibility continuation compatibility."
+  ],
+
+  "connections": [
+    "future_accessibility_primacy",
+    "recursive_accessibility_geometric_flow",
+    "recursive_viability_state_geometry",
+    "recursive_temporal_emergence_principle",
+    "recursive_temporal_coherence_principle",
+    "recursive_viability_phase_geometry",
+    "accessibility_geometric_deformation_modes",
+    "recursive_preservation_set_dynamics",
+    "recursive_viability_phase_classification",
+    "admissible_overlap_organization",
+    "recursive_viability_atlas_structure"
+  ],
+
+  "one_sentence_lock": "Accessibility-Ordering Metric Emergence states that smooth metric geometry emerges locally as a coherent-sector approximation of sufficiently stabilized admissible accessibility continuation ordering rather than existing as a globally primitive substrate."
+}
