@@ -1,0 +1,175 @@
+{
+  "artifact_id": "recursive_curvature_principle",
+  "title": "Recursive Curvature Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_transition_composability_deformation_geometry",
+
+  "canonical_statement": "Recursive curvature measures scale-dependent deformation of admissible recursive transition composability across recursively coupled accessibility organization.",
+
+  "deep_compression_statement": "Recursive curvature is organizational deformation of admissible recursive continuation compatibility before metric curvature.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathcal H_{\\mathrm{rec}}=\\Phi_{jk}^{\\mathrm{adm}}\\circ\\Phi_{ij}^{\\mathrm{adm}}-\\Phi_{ik}^{\\mathrm{adm}},\\qquad\\mathcal K_{\\mathrm{rec}}\\sim\\partial_n\\mathcal H_{\\mathrm{rec}}",
+    "interpretation": "Recursive curvature measures recursive scaling deformation of admissible recursive continuation composability across recursively coupled accessibility sectors.",
+    "deep_form": "Recursive curvature measures deformation of recursive continuation composability."
+  },
+
+  "primitive_objects": {
+
+    "recursive_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive curvature observable",
+      "interpretation": "Measures scale-dependent deformation of admissible recursive continuation compatibility across recursive organizational scale."
+    },
+
+    "recursive_holonomy_defect": {
+      "symbol": "\\mathcal H_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\mathcal H_{\\mathrm{rec}}=\\Phi_{jk}^{\\mathrm{adm}}\\circ\\Phi_{ij}^{\\mathrm{adm}}-\\Phi_{ik}^{\\mathrm{adm}}",
+      "role": "recursive continuation composability defect",
+      "interpretation": "Measures compositional inconsistency of admissible recursive continuation across recursively coupled accessibility sectors."
+    },
+
+    "local_accessibility_chart": {
+      "symbol": "\\mathfrak A_i",
+      "type_assignment": "\\mathsf{Geom}",
+      "formal_relation": "\\mathfrak A_i\\subseteq\\mathfrak A_{\\mathrm{future}}",
+      "role": "local recursive accessibility chart",
+      "interpretation": "Defines a locally navigable recursive accessibility domain."
+    },
+
+    "admissible_overlap_domain": {
+      "symbol": "\\mathfrak O_{ij}^{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\subseteq\\mathfrak A_i\\cap\\mathfrak A_j",
+      "role": "admissibly compatible recursive overlap organization",
+      "interpretation": "Defines recursively compatible accessibility handshake structure connecting recursively coupled accessibility charts."
+    },
+
+    "admissible_transition_map": {
+      "symbol": "\\Phi_{ij}^{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Op}",
+      "formal_relation": "\\Phi_{ij}^{\\mathrm{adm}}:\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\mathfrak O_{ji}^{\\mathrm{adm}}",
+      "role": "admissible recursive transition compatibility map",
+      "interpretation": "Defines viability-preserving recursive continuity transfer, coordination propagation, recoverability transmission, and recursive accessibility continuation across admissible overlap domains."
+    },
+
+    "stabilized_temporal_ordering": {
+      "symbol": "\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "stabilized recursive ordering",
+      "interpretation": "Measures sufficiently stabilized recursive accessibility continuation ordering generated through admissible recursive transition compatibility."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "emergent recursive temporal organization",
+      "interpretation": "Recursive temporality emerges as stabilized recursive accessibility continuation structure generated through admissible recursive transition compatibility."
+    },
+
+    "coherent_viability_sector": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "coherent recursive viability sector",
+      "interpretation": "Defines recursively coherent viability sectors admitting locally smooth metric approximation."
+    },
+
+    "metric_tensor": {
+      "symbol": "g",
+      "type_assignment": "\\mathsf{Func}",
+      "role": "emergent local metric structure",
+      "interpretation": "Locally emergent smooth metric approximation generated through sufficiently stabilized admissible recursive continuation compatibility."
+    }
+  },
+
+  "recursive_holonomy_structure": {
+    "formal_relation": "\\mathcal H_{\\mathrm{rec}}=\\Phi_{jk}^{\\mathrm{adm}}\\circ\\Phi_{ij}^{\\mathrm{adm}}-\\Phi_{ik}^{\\mathrm{adm}}",
+    "interpretation": "Recursive holonomy defect measures compositional inconsistency of admissible recursive continuation across recursively coupled accessibility sectors.",
+    "deep_form": "Recursive holonomy measures admissible continuation inconsistency."
+  },
+
+  "recursive_curvature_structure": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\sim\\partial_n\\mathcal H_{\\mathrm{rec}}",
+    "interpretation": "Recursive curvature measures scale-dependent deformation of admissible recursive continuation composability.",
+    "deep_form": "Recursive curvature measures deformation of admissible continuation composability."
+  },
+
+  "flat_recursive_accessibility_condition": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\approx0",
+    "secondary_relation": "\\mathcal H_{\\mathrm{rec}}\\approx0",
+    "tertiary_relation": "\\Phi_{jk}^{\\mathrm{adm}}\\circ\\Phi_{ij}^{\\mathrm{adm}}\\sim\\Phi_{ik}^{\\mathrm{adm}}",
+    "interpretation": "Recursively flat accessibility sectors preserve admissible recursive transition composability across recursive organizational scale.",
+    "deep_form": "Flat recursive sectors preserve admissible recursive continuation compatibility."
+  },
+
+  "positive_recursive_curvature_condition": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}>0",
+    "interpretation": "Recursive accessibility continuation becomes progressively distorted across recursive organizational scale, weakening recoverability and increasing recursive fragmentation pressure.",
+    "deep_form": "Positive recursive curvature deforms admissible continuation compatibility."
+  },
+
+  "recursive_curvature_singularity_condition": {
+    "formal_relation": "\\Phi_{ij}^{\\mathrm{adm}}\\not\\exists",
+    "secondary_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\varnothing",
+    "interpretation": "Recursive curvature singularities correspond to recursive accessibility tears, fragmentation boundaries, or recursive collapse horizons where admissible recursive continuation fails.",
+    "deep_form": "Recursive curvature singularities are recursive accessibility tears."
+  },
+
+  "recoverability_consequence": {
+    "formal_relation": "\\partial_n\\mathcal K_{\\mathrm{rec}}<0",
+    "interpretation": "Recursive recovery reduces recursive continuation deformation and restores admissible recursive transition compatibility.",
+    "deep_form": "Recovery reduces recursive curvature deformation."
+  },
+
+  "temporality_consequence": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\approx0\\Rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+    "secondary_relation": "\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges only where admissible recursive continuation remains sufficiently compositionally coherent across recursive organizational scale.",
+    "deep_form": "Recursive temporality requires bounded recursive curvature."
+  },
+
+  "smoothability_consequence": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\approx0\\Rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Smooth metric geometry emerges locally only where recursive accessibility continuation remains sufficiently coherent across recursive overlap organization.",
+    "deep_form": "Smooth geometry emerges from bounded recursive continuation deformation."
+  },
+
+  "normalization_rules": [
+    "Recursive curvature is organizational before metric.",
+    "Recursive holonomy measures admissible recursive continuation inconsistency.",
+    "Recursive curvature measures scale-dependent deformation of admissible recursive continuation compatibility.",
+    "Flat recursive sectors preserve admissible recursive transition composability.",
+    "Positive recursive curvature deforms recursive continuation compatibility.",
+    "Recursive curvature singularities correspond to recursive accessibility tears.",
+    "Recursive fragmentation emerges through recursive continuation deformation.",
+    "Recursive temporality requires sufficiently bounded recursive curvature.",
+    "Smooth metric geometry emerges locally from sufficiently bounded recursive continuation deformation."
+  ],
+
+  "deep_compressions": [
+    "Recursive curvature measures deformation of admissible recursive continuation compatibility.",
+    "Recursive curvature is organizational before metric.",
+    "Recursive holonomy measures admissible continuation inconsistency.",
+    "Flat recursive sectors preserve admissible recursive continuation composability.",
+    "Recursive fragmentation emerges through recursive continuation deformation.",
+    "Recursive curvature singularities correspond to recursive accessibility tears.",
+    "Recursive temporality requires bounded recursive curvature.",
+    "Smooth metric geometry emerges locally from sufficiently coherent recursive continuation compatibility."
+  ],
+
+  "connections": [
+    "recursive_viability_atlas_structure",
+    "admissible_overlap_organization",
+    "accessibility_ordering_metric_emergence",
+    "recursive_future_accessibility_viability_criterion",
+    "recursive_temporal_emergence_principle",
+    "recursive_accessibility_geometric_flow",
+    "structured_relational_accessibility_field",
+    "protected_core_principle"
+  ],
+
+  "one_sentence_lock": "Recursive Curvature Principle states that recursive curvature measures scale-dependent deformation of admissible recursive transition composability across recursively coupled accessibility organization prior to emergent smooth metric geometry."
+}
