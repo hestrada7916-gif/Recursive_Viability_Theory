@@ -1,0 +1,178 @@
+{
+  "artifact_id": "accessibility_spectral_projection_duality",
+  "title": "Accessibility-Spectral Projection Duality",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "accessibility_spectral_observability_duality",
+
+  "canonical_statement": "Recursive organizational reality is fundamentally accessibility-geometric, while recursive organizational observability is fundamentally spectral-projective.",
+
+  "deep_compression_statement": "Accessibility geometry governs organizational reality; spectral projection governs organizational observability.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\rightsquigarrow\\Pi_{\\mathrm{org}}\\rightsquigarrow\\mathcal O_{\\mathrm{org}}",
+    "interpretation": "Recursive organizational observables emerge through projected spectral representations of deeper recursive accessibility-flow geometry.",
+    "deep_form": "Organizational observability is projection-limited accessibility geometry."
+  },
+
+  "primitive_objects": {
+
+    "preserved_future_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+      "role": "preserved future accessibility geometry",
+      "interpretation": "Defines recursively reachable, recoverable, reopenable, and preservable future organizational accessibility structure."
+    },
+
+    "recursive_accessibility_flow_fields": {
+      "symbol": "(\\mathcal G_{\\mathrm{adm}},\\mathcal D_{\\mathrm{rec}},F_{\\mathrm{rew}})",
+      "type_assignment": "\\mathsf{Field}",
+      "formal_relation": "\\mathcal G_{\\mathrm{adm}},\\mathcal D_{\\mathrm{rec}},F_{\\mathrm{rew}}\\in\\Gamma\\left(T(\\mathfrak T_{\\mathrm{viab}})\\right)",
+      "role": "recursive accessibility flow field structure",
+      "interpretation": "Defines admissible recursive propagation flow, recursive deformation flow, and restorative accessibility reopening flow over recursive accessibility geometry."
+    },
+
+    "organizational_projection_operator": {
+      "symbol": "\\Pi_{\\mathrm{org}}",
+      "type_assignment": "\\mathsf{Op}",
+      "formal_relation": "\\Pi_{\\mathrm{org}}:\\Gamma\\left(T(\\mathfrak T_{\\mathrm{viab}})\\right)\\rightarrow\\mathcal O_{\\mathrm{org}}",
+      "role": "recursive organizational projection operator",
+      "interpretation": "Projects recursive accessibility-flow geometry onto recursive organizational observability structure."
+    },
+
+    "organizational_observable_sector": {
+      "symbol": "\\mathcal O_{\\mathrm{org}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive organizational observable sector",
+      "interpretation": "Defines the projected recursive organizational observability structure generated through spectral accessibility projection."
+    },
+
+    "recursive_organizational_state_coordinates": {
+      "symbol": "X_{\\mathrm{org}}",
+      "type_assignment": "\\mathsf{State}",
+      "formal_relation": "X_{\\mathrm{org}}=(\\kappa_{\\mathrm{local}},\\chi_{\\mathrm{compat}},\\mathcal K_{\\mathrm{rec}},\\mu(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}))",
+      "role": "recursive organizational projected dynamical coordinates",
+      "interpretation": "Defines compressed projected observables of deeper recursive accessibility geometry dynamics."
+    },
+
+    "recursive_accessibility_sector": {
+      "symbol": "\\mathfrak A_{\\alpha}",
+      "type_assignment": "\\mathsf{Geom}",
+      "formal_relation": "\\mathfrak A_{\\alpha}\\subseteq\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}",
+      "role": "recursive accessibility sector",
+      "interpretation": "Defines recursively distinguishable locally coherent accessibility sectors within preserved future accessibility geometry."
+    },
+
+    "accessibility_sector_stitching_operator": {
+      "symbol": "\\mathcal S",
+      "type_assignment": "\\mathsf{Op}",
+      "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\sim\\mathcal S\\left(\\{\\mathfrak A_{\\alpha}\\}\\right)",
+      "role": "recursive accessibility stitching operator",
+      "interpretation": "Defines recursive overlap-coupled stitching organization connecting locally coherent accessibility sectors into larger accessibility geometry."
+    },
+
+    "locally_coherent_accessibility_sector": {
+      "symbol": "\\mathfrak A_{\\alpha}^{\\mathrm{coh}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "locally coherent accessibility sector",
+      "interpretation": "Defines locally stabilized recursive accessibility sectors preserving bounded recursive transport, recoverability, and navigability continuity."
+    }
+  },
+
+  "accessibility_geometric_ontology": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+    "interpretation": "Recursive organizational reality is fundamentally accessibility-geometric.",
+    "deep_form": "Accessibility geometry governs organizational reality."
+  },
+
+  "spectral_projection_principle": {
+    "formal_relation": "\\Pi_{\\mathrm{org}}\\left(\\Gamma(T(\\mathfrak T_{\\mathrm{viab}}))\\right)\\rightarrow\\mathcal O_{\\mathrm{org}}",
+    "interpretation": "Recursive organizational observability emerges through projected spectral representations of deeper recursive accessibility-flow geometry.",
+    "deep_form": "Organizational observability is spectral-projective."
+  },
+
+  "accessibility_sector_decomposition": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\sim\\mathcal S\\left(\\{\\mathfrak A_{\\alpha}\\}\\right)",
+    "interpretation": "Recursive accessibility geometry emerges through recursively stitched overlap-coupled locally coherent accessibility sectors.",
+    "deep_form": "Accessibility geometry is stitched from overlap-coupled coherent sectors."
+  },
+
+  "overlap_coupled_accessibility_principle": {
+    "formal_relation": "\\mathfrak A_{\\alpha}\\cap\\mathfrak A_{\\beta}\\neq\\varnothing",
+    "interpretation": "Recursive accessibility sectors are not necessarily orthogonal and may overlap, exchange recursive transport, share recoverability corridors, propagate deformation, and partially stabilize neighboring sectors.",
+    "deep_form": "Recursive accessibility geometry is fundamentally overlap-coupled."
+  },
+
+  "projection_degeneracy_principle": {
+    "formal_relation": "\\exists\\,\\mathfrak A_i\\neq\\mathfrak A_j:\\Pi_{\\mathrm{org}}(\\mathfrak A_i)=\\Pi_{\\mathrm{org}}(\\mathfrak A_j)",
+    "interpretation": "Distinct recursive accessibility geometries may project to operationally indistinguishable recursive organizational observables.",
+    "deep_form": "Organizational observability is projection-limited."
+  },
+
+  "accessibility_spectral_correspondence": {
+    "interpretation": [
+      "accessibility corridors correspond to transport modes",
+      "coherent accessibility sectors correspond to spectral coherence sectors",
+      "accessibility fragmentation corresponds to spectral splitting",
+      "accessibility deformation corresponds to spectral distortion",
+      "recoverability basins correspond to regenerative spectral sectors",
+      "recursive hysteresis corresponds to asymmetric spectral accessibility"
+    ],
+    "deep_form": "Accessibility geometry and spectral observability form dual organizational representations."
+  },
+
+  "projected_organizational_dynamics": {
+    "formal_relation": "\\partial_nX_{\\mathrm{org}}=\\Pi_{\\mathrm{org}}\\left(\\mathcal G_{\\mathrm{adm}}-\\mathcal D_{\\mathrm{rec}}+F_{\\mathrm{rew}}\\right)",
+    "interpretation": "Recursive organizational state evolution emerges through projection of recursive accessibility-flow dynamics onto organizational dynamical observables.",
+    "deep_form": "Organizational dynamics are projected accessibility dynamics."
+  },
+
+  "latent_deformation_principle": {
+    "formal_relation": "\\partial_n\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\neq0\\not\\Rightarrow\\partial_nX_{\\mathrm{org}}\\neq0",
+    "interpretation": "Recursive accessibility geometry may deform significantly prior to corresponding observable organizational collapse.",
+    "deep_form": "Accessibility deformation may remain observationally latent."
+  },
+
+  "observability_limitation_consequence": {
+    "formal_relation": "\\Pi_{\\mathrm{org}}^{-1}(X_{\\mathrm{org}})\\text{ need not be unique}",
+    "interpretation": "Recursive organizational observables do not uniquely determine underlying recursive accessibility geometry.",
+    "deep_form": "Projected observables underdetermine accessibility reality."
+  },
+
+  "normalization_rules": [
+    "Recursive organizational reality is fundamentally accessibility-geometric.",
+    "Recursive organizational observability is fundamentally spectral-projective.",
+    "Organizational observables emerge through projected spectral accessibility dynamics.",
+    "Recursive accessibility geometry emerges through recursively stitched overlap-coupled coherent sectors.",
+    "Recursive accessibility sectors are not necessarily orthogonal.",
+    "Distinct recursive accessibility geometries may project to similar organizational observables.",
+    "Organizational state coordinates are compressed projected observables of deeper accessibility geometry.",
+    "Accessibility geometry may deform prior to observable organizational collapse.",
+    "Organizational observability is fundamentally projection-limited."
+  ],
+
+  "deep_compressions": [
+    "Accessibility geometry governs organizational reality; spectral projection governs organizational observability.",
+    "Recursive organizational observables are projected spectral representations of deeper accessibility-flow geometry.",
+    "Recursive accessibility geometry emerges through recursively stitched overlap-coupled coherent accessibility sectors.",
+    "Recursive accessibility sectors are not necessarily orthogonal.",
+    "Distinct recursive accessibility geometries may remain operationally indistinguishable under projection.",
+    "Organizational state vectors are compressed projected coordinates of deeper recursive accessibility dynamics.",
+    "Recursive accessibility geometry may deform prior to observable organizational collapse."
+  ],
+
+  "connections": [
+    "recursive_accessibility_geometric_flow",
+    "thresholded_viability_geometry",
+    "recursive_curvature_principle",
+    "admissible_overlap_organization",
+    "recursive_viability_atlas_structure",
+    "primitive_dependency_architecture_principle",
+    "recursive_temporality_emergence_principle",
+    "accessibility_ordering_metric_emergence",
+    "structured_relational_accessibility_field"
+  ],
+
+  "one_sentence_lock": "Accessibility-Spectral Projection Duality states that recursive organizational reality is fundamentally accessibility-geometric while recursive organizational observability emerges through projection-limited spectral representations of deeper recursive accessibility-flow geometry."
+}
