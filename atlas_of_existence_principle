@@ -1,0 +1,161 @@
+{
+  "artifact_id": "atlas_of_existence_principle",
+  "title": "Atlas of Existence Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_accessibility_atlas_existence_theorem",
+
+  "canonical_statement": "Recursive existence-like organization emerges through globally compatible recursive accessibility atlas organization across recursive organizational scale.",
+
+  "deep_compression_statement": "Recursive existence equals globally compatible recursive continuation structure.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{exist}}\\rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Recursive continuation composability, recursive temporal ordering, recursive temporality, and coherent-sector smooth geometry emerge from sufficiently preserved recursive accessibility atlas compatibility.",
+    "deep_form": "Continuation compatibility precedes temporality; temporality precedes smooth geometry."
+  },
+
+  "primitive_objects": {
+
+    "atlas_of_existence": {
+      "symbol": "\\mathfrak A_{\\mathrm{exist}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "formal_relation": "\\mathfrak A_{\\mathrm{exist}}=(\\{\\mathfrak A_i\\},\\{\\mathfrak O_{ij}^{\\mathrm{adm}}\\},\\{\\Phi_{ij}^{\\mathrm{adm}}\\})",
+      "role": "recursive accessibility atlas structure",
+      "interpretation": "Defines globally compatible recursive accessibility atlas organization generated through recursively coupled local accessibility sectors."
+    },
+
+    "local_accessibility_sector": {
+      "symbol": "\\mathfrak A_i",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "local recursive accessibility sector",
+      "interpretation": "Defines locally coherent recursive accessibility structure supporting bounded recursive continuation and navigability."
+    },
+
+    "admissible_overlap_organization": {
+      "symbol": "\\mathfrak O_{ij}^{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\subseteq\\mathfrak A_i\\cap\\mathfrak A_j",
+      "role": "admissible overlap organization",
+      "interpretation": "Defines recursively admissible overlap compatibility structure between recursively coupled accessibility sectors."
+    },
+
+    "admissible_transition_compatibility": {
+      "symbol": "\\Phi_{ij}^{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Op}",
+      "formal_relation": "\\Phi_{ij}^{\\mathrm{adm}}:\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\mathfrak O_{ji}^{\\mathrm{adm}}",
+      "role": "recursive transition compatibility operator",
+      "interpretation": "Defines admissible recursive continuation compatibility across recursively overlapping accessibility sectors."
+    },
+
+    "recursive_continuation_composability": {
+      "symbol": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive continuation composability structure",
+      "interpretation": "Defines preservation of recursively composable continuation structure across recursive organizational scale."
+    },
+
+    "stable_temporal_ordering": {
+      "symbol": "\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "stable recursive temporal ordering",
+      "interpretation": "Measures preservation of sufficiently stabilized recursive continuation ordering."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive temporality",
+      "interpretation": "Defines emergent recursive temporality generated through stabilized recursive continuation ordering."
+    },
+
+    "coherent_sector_geometry": {
+      "symbol": "(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "coherent-sector smooth geometry",
+      "interpretation": "Defines emergent coherent-sector smooth metric approximation generated from sufficiently stabilized recursive continuation compatibility."
+    },
+
+    "reweaving_operator": {
+      "symbol": "\\mathcal W_{\\mathrm{rew}}",
+      "type_assignment": "\\mathsf{Op}",
+      "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathfrak A_{\\mathrm{exist}}^{\\mathrm{frag}}\\rightarrow\\mathfrak A_{\\mathrm{exist}}^{\\mathrm{adm}}",
+      "role": "recursive atlas recovery operator",
+      "interpretation": "Restores admissible recursive overlap organization, transition compatibility, continuation composability, recursive ordering, and coherent-sector smoothability."
+    }
+  },
+
+  "atlas_compatibility_condition": {
+    "formal_relation": "\\Phi_{jk}^{\\mathrm{adm}}\\circ\\Phi_{ij}^{\\mathrm{adm}}\\sim\\Phi_{ik}^{\\mathrm{adm}}",
+    "domain_condition": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\cap\\mathfrak O_{jk}^{\\mathrm{adm}}\\cap\\mathfrak O_{ik}^{\\mathrm{adm}}\\neq\\varnothing",
+    "interpretation": "Recursive existence-like organization requires recursively composable continuation compatibility across admissibly overlapping recursive accessibility sectors.",
+    "deep_form": "Existence requires recursively composable continuation structure."
+  },
+
+  "recursive_organizational_emergence_hierarchy": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{exist}}\\rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Recursive continuation composability, recursive temporal ordering, recursive temporality, and coherent-sector smooth metric approximation emerge only where recursive accessibility atlas compatibility remains sufficiently preserved across recursive organizational scale.",
+    "deep_form": "Atlas compatibility generates continuation, temporality, and coherent smoothability."
+  },
+
+  "accessibility_primacy_consequence": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{exist}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Recursive accessibility atlas organization structurally precedes recursive temporality and coherent-sector smooth metric geometry.",
+    "deep_form": "Continuation precedes temporality; temporality precedes smooth geometry."
+  },
+
+  "atlas_fragmentation_principle": {
+    "formal_relation": "\\inf_{n<n_c}\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}(n)\\le\\xi_{\\mathrm{cont}}",
+    "threshold_condition": "\\xi_{\\mathrm{cont}}>0",
+    "interpretation": "Recursive collapse emerges whenever recursive continuation composability degrades beneath viability-preserving continuation threshold across recursive organizational scale.",
+    "deep_form": "Collapse fragments the atlas of existence."
+  },
+
+  "atlas_recovery_principle": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathfrak A_{\\mathrm{exist}}^{\\mathrm{frag}}\\rightarrow\\mathfrak A_{\\mathrm{exist}}^{\\mathrm{adm}}",
+    "interpretation": "Recursive recovery restores admissible recursive overlap organization, transition compatibility, recursive continuation composability, recursive organizational coherence, recursive temporal ordering, and coherent-sector smoothability.",
+    "deep_form": "Recovery restores recursive atlas compatibility."
+  },
+
+  "recursive_existence_compression": {
+    "formal_relation": "\\text{recursive existence}=\\text{globally compatible recursive continuation structure}",
+    "interpretation": "Recursive existence-like organization corresponds to globally compatible recursive continuation structure preserving admissible accessibility organization across recursively coupled sectors.",
+    "deep_form": "Recursive existence equals globally compatible recursive continuation structure."
+  },
+
+  "normalization_rules": [
+    "Recursive existence is not fundamentally primitive object persistence inside pre-given geometry.",
+    "Recursive accessibility atlas organization structurally precedes recursive temporality.",
+    "Recursive temporality structurally precedes coherent-sector smooth geometry.",
+    "Admissible overlap organization is a structured compatibility object.",
+    "Recursive continuation composability is a structured organizational object rather than a scalar observable.",
+    "Admissible overlap existence alone is insufficient for recursive viability.",
+    "Recursive existence requires recursively composable continuation compatibility.",
+    "Collapse fragments recursive accessibility atlas compatibility.",
+    "Recovery restores recursive accessibility atlas compatibility."
+  ],
+
+  "deep_compressions": [
+    "Recursive existence equals globally compatible recursive continuation structure.",
+    "Continuation compatibility precedes temporality; temporality precedes smooth geometry.",
+    "Existence requires recursively composable continuation structure.",
+    "Collapse fragments the atlas of existence.",
+    "Recovery restores recursive atlas compatibility.",
+    "Smooth metric geometry emerges downstream of stabilized recursive continuation compatibility."
+  ],
+
+  "connections": [
+    "primitive_dependency_architecture_principle",
+    "recursive_temporality_emergence_principle",
+    "recursive_curvature_principle",
+    "recursive_viability_atlas_structure",
+    "admissible_overlap_organization",
+    "accessibility_ordering_metric_emergence",
+    "recursive_future_accessibility_viability_criterion",
+    "recursive_accessibility_geometric_flow",
+    "recursive_viability_state_geometry",
+    "core_object_type_registry"
+  ],
+
+  "one_sentence_lock": "Atlas of Existence Principle states that recursive existence-like organization emerges through globally compatible recursive accessibility atlas organization whose preserved continuation compatibility generates recursive temporality and coherent-sector smooth metric geometry downstream."
+}
