@@ -1,0 +1,168 @@
+{
+  "artifact_id": "admissible_overlap_organization",
+  "title": "Admissible Overlap Organization",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "local_to_global_accessibility_organization_principle",
+
+  "canonical_statement": "Recursive viability depends upon preservation of admissibly compatible overlap organization across recursively coupled local accessibility sectors.",
+
+  "deep_compression_statement": "Recursive viability scales through admissible overlap-preserving accessibility organization.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\neq\\varnothing",
+    "interpretation": "Recursive viability depends upon preservation of admissibly compatible overlap organization across recursively coupled local accessibility sectors.",
+    "deep_form": "Recursive viability scales through admissible overlap organization."
+  },
+
+  "primitive_objects": {
+
+    "future_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "future accessibility geometry",
+      "interpretation": "Defines recursively reachable future accessibility structure."
+    },
+
+    "local_accessibility_sector": {
+      "symbol": "\\mathfrak A_i",
+      "type_assignment": "\\mathsf{Geom}",
+      "formal_relation": "\\mathfrak A_i\\subseteq\\mathfrak A_{\\mathrm{future}}",
+      "role": "local recursive accessibility sector",
+      "interpretation": "Defines a locally navigable recursive accessibility domain."
+    },
+
+    "admissible_overlap_organization": {
+      "symbol": "\\mathfrak O_{ij}^{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\subseteq\\mathfrak A_i\\cap\\mathfrak A_j",
+      "role": "admissibly compatible recursive overlap organization",
+      "interpretation": "Defines recursively compatible accessibility handshake structure through which recursive continuity transfer, coordination propagation, recoverability transmission, and admissible future accessibility organization occur."
+    },
+
+    "stabilized_temporal_ordering": {
+      "symbol": "\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "stabilized recursive ordering",
+      "interpretation": "Measures sufficiently stabilized recursive accessibility ordering generated through admissible overlap organization."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "emergent recursive temporality",
+      "interpretation": "Recursive temporality emerging from sufficiently stabilized admissible overlap organization."
+    },
+
+    "coherent_viability_sector": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "coherent recursive viability sector",
+      "interpretation": "Defines recursively coherent viability sectors admitting locally smooth metric approximation."
+    },
+
+    "metric_tensor": {
+      "symbol": "g",
+      "type_assignment": "\\mathsf{Func}",
+      "role": "emergent local metric structure",
+      "interpretation": "Locally emergent smooth metric approximation generated through sufficiently stabilized overlap-preserving accessibility organization."
+    }
+  },
+
+  "overlap_organization_structure": {
+    "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\subseteq\\mathfrak A_i\\cap\\mathfrak A_j",
+    "interpretation": "Recursive overlap organization defines admissibly compatible accessibility handshake regions connecting local recursive accessibility sectors.",
+    "deep_form": "Overlap organization governs recursive accessibility transfer."
+  },
+
+  "recursive_viability_condition": {
+    "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\neq\\varnothing",
+    "interpretation": "Recursive viability persists only while admissibly compatible overlap organization remains preservable across recursively coupled local accessibility sectors.",
+    "deep_form": "Recursive viability requires admissible overlap preservation."
+  },
+
+  "recursive_viability_compression": {
+    "formal_relation": "\\text{recursive viability}=\\text{preservable coordinated accessibility ordering across admissible recursive overlap organization}",
+    "interpretation": "Recursive viability emerges through admissibly coordinated overlap-preserving accessibility organization across recursive organizational scale.",
+    "deep_form": "Recursive viability is overlap-preserving accessibility organization."
+  },
+
+  "recursive_coordination_transfer": {
+    "governs": [
+      "recursive continuity transfer",
+      "recursive coordination propagation",
+      "recursive recoverability transmission",
+      "recursive navigability preservation",
+      "recursive future accessibility organization"
+    ],
+    "interpretation": "Admissible overlap organization functions as the transfer geometry through which recursive viability scales across recursive organizational structure.",
+    "deep_form": "Recursive viability scales through overlap transfer organization."
+  },
+
+  "fragmentation_condition": {
+    "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\varnothing",
+    "interpretation": "Recursive fragmentation emerges whenever admissible overlap organization collapses between recursively coupled accessibility sectors.",
+    "deep_form": "Fragmentation emerges through admissible overlap collapse."
+  },
+
+  "protected_core_consequence": {
+    "formal_relation": "\\exists\\mathfrak A_i:\\mathfrak A_i\\text{ remains locally navigable}",
+    "secondary_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\varnothing",
+    "interpretation": "Protected local recursive coherence domains may remain viable despite collapse of globally preservable admissible overlap organization.",
+    "deep_form": "Local survivability may persist during global overlap collapse."
+  },
+
+  "recoverability_condition": {
+    "formal_relation": "\\partial_n\\mathfrak O_{ij}^{\\mathrm{adm}}>0",
+    "interpretation": "Recursive recovery restores reconnectability, coordination transfer, recoverability propagation, and future accessibility organization across admissible recursive overlap domains.",
+    "deep_form": "Recovery restores admissible overlap organization."
+  },
+
+  "temporality_emergence_consequence": {
+    "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges from sufficiently stabilized admissible recursive overlap organization.",
+    "deep_form": "Recursive temporality emerges from stabilized overlap organization."
+  },
+
+  "smoothability_consequence": {
+    "formal_relation": "\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Smooth metric geometry emerges locally through sufficiently stabilized admissible overlap-preserving accessibility organization.",
+    "deep_form": "Smooth geometry emerges from stabilized overlap organization."
+  },
+
+  "normalization_rules": [
+    "Recursive viability depends upon admissible overlap organization.",
+    "Recursive overlap existence alone is insufficient for scalable recursive viability.",
+    "Admissible overlap domains are recursive accessibility handshake regions.",
+    "Recursive viability scales through overlap-preserving accessibility organization.",
+    "Recursive fragmentation emerges through admissible overlap collapse.",
+    "Protected local coherence may persist despite global overlap failure.",
+    "Recovery restores admissible overlap organization.",
+    "Recursive temporality emerges from stabilized overlap organization.",
+    "Smooth metric geometry emerges locally from stabilized overlap-preserving accessibility organization."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability scales through admissible overlap organization.",
+    "Admissible overlap domains govern recursive continuity transfer and coordination propagation.",
+    "Recursive fragmentation emerges through admissible overlap collapse.",
+    "Protected local coherence may persist despite global admissible overlap failure.",
+    "Recovery restores overlap-preserving accessibility organization.",
+    "Recursive temporality emerges from stabilized admissible overlap organization.",
+    "Smooth metric geometry emerges locally from sufficiently stabilized overlap organization."
+  ],
+
+  "connections": [
+    "local_to_global_accessibility_organization_principle",
+    "structured_relational_accessibility_field",
+    "recursive_future_accessibility_viability_criterion",
+    "accessibility_ordering_metric_emergence",
+    "recursive_temporal_emergence_principle",
+    "recursive_scale_asymmetry_principle",
+    "recursive_viability_state_geometry",
+    "recursive_accessibility_geometric_flow",
+    "protected_core_principle"
+  ],
+
+  "one_sentence_lock": "Recursive viability exists only while admissibly compatible overlap organization preserves coordinated accessibility transfer, navigability, recoverability, and future accessibility structure across recursively coupled local accessibility sectors."
+}
