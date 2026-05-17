@@ -1,0 +1,134 @@
+{
+  "principle_id": "adaptive_recoverability_threshold",
+  "title": "Adaptive Recoverability Threshold Principle",
+  "category": "recursive_viability_geometry",
+  "primitive_principle": {
+    "statement": "Recursive recoverability thresholds are not fixed organizational constants. Instead, recursive recoverability requirements adapt dynamically in response to accumulated recursive deformation, hidden instability accumulation, fragmentation pressure, recoverability reserve depletion, and recursive continuation incompatibility."
+  },
+  "core_objects": {
+    "xi_rec": {
+      "symbol": "\\xi_{\\mathrm{rec}}",
+      "name": "adaptive recoverability threshold",
+      "meaning": "Minimum regenerative capacity required to restore recursively viable future accessibility structure."
+    },
+    "xi_0": {
+      "symbol": "\\xi_0",
+      "name": "baseline recoverability threshold",
+      "meaning": "Baseline regenerative requirement absent accumulated deformation."
+    },
+    "Delta_def": {
+      "symbol": "\\Delta_{\\mathrm{def}}",
+      "name": "recursive deformation burden",
+      "meaning": "Accumulated recursive instability burden."
+    },
+    "Delta_frag": {
+      "symbol": "\\Delta_{\\mathrm{frag}}",
+      "name": "fragmentation burden",
+      "meaning": "Accessibility fragmentation contribution to recovery difficulty."
+    },
+    "Delta_hidden": {
+      "symbol": "\\Delta_{\\mathrm{hidden}}",
+      "name": "hidden instability burden",
+      "meaning": "Latent instability accumulation not yet operationally visible."
+    },
+    "R_reserve": {
+      "symbol": "\\mathcal R_{\\mathrm{reserve}}",
+      "name": "recoverability reserve",
+      "meaning": "Remaining reconstructible future accessibility capacity."
+    },
+    "R_regen": {
+      "symbol": "\\mathcal R_{\\mathrm{regen}}",
+      "name": "regenerative capacity",
+      "meaning": "Available recursive regenerative coordination capacity."
+    },
+    "xi_collapse": {
+      "symbol": "\\xi_{\\mathrm{collapse}}",
+      "name": "collapse threshold",
+      "meaning": "Threshold below which recursive viability collapses."
+    },
+    "xi_rew": {
+      "symbol": "\\xi_{\\mathrm{rew}}",
+      "name": "recovery threshold",
+      "meaning": "Threshold required for recursive rewovability and viable restoration."
+    }
+  },
+  "governing_equations": [
+    {
+      "name": "adaptive recoverability structure",
+      "equation": "\\xi_{\\mathrm{rec}} = \\xi_0 + \\Delta_{\\mathrm{def}} + \\Delta_{\\mathrm{frag}} + \\Delta_{\\mathrm{hidden}} - \\mathcal R_{\\mathrm{reserve}}"
+    },
+    {
+      "name": "recoverability escalation",
+      "equation": "\\partial_n \\Delta_{\\mathrm{def}} > 0 \\Rightarrow \\partial_n \\xi_{\\mathrm{rec}} > 0"
+    },
+    {
+      "name": "hidden instability escalation",
+      "equation": "\\partial_n \\mathcal I_{\\mathrm{hidden}} > 0 \\Rightarrow \\partial_n \\xi_{\\mathrm{rec}} > 0"
+    },
+    {
+      "name": "recoverability reserve depletion",
+      "equation": "\\partial_n \\mathcal R_{\\mathrm{reserve}} < 0 \\Rightarrow \\partial_n \\xi_{\\mathrm{rec}} > 0"
+    },
+    {
+      "name": "fragmentation escalation",
+      "equation": "\\beta_0(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}) \\uparrow \\Rightarrow \\xi_{\\mathrm{rec}} \\uparrow"
+    },
+    {
+      "name": "regenerative accessibility criterion",
+      "equation": "\\mathcal R_{\\mathrm{regen}} > \\xi_{\\mathrm{rec}}"
+    },
+    {
+      "name": "recoverability hysteresis",
+      "equation": "\\xi_{\\mathrm{rew}} > \\xi_{\\mathrm{collapse}}"
+    }
+  ],
+  "principles": [
+    {
+      "name": "recoverability escalation",
+      "statement": "Recursive collapse progressively increases the regenerative capacity required for recursive recovery."
+    },
+    {
+      "name": "recoverability hysteresis",
+      "statement": "Recursive recovery thresholds generally exceed recursive collapse thresholds."
+    },
+    {
+      "name": "recovery cost escalation",
+      "statement": "Recursive collapse raises the future organizational cost of recursive recovery."
+    }
+  ],
+  "deformation_sources": [
+    "hidden instability accumulation",
+    "accessibility fragmentation",
+    "recursive curvature amplification",
+    "recoverability reserve depletion",
+    "recursive synchronization incompatibility",
+    "accessibility corridor compression",
+    "recursive desmoothing",
+    "temporal ordering destabilization"
+  ],
+  "canonical_compressions": [
+    "Recursive recoverability thresholds adapt dynamically under accumulated recursive deformation.",
+    "Recursive collapse progressively raises the cost of recovery.",
+    "Recovery thresholds generally exceed collapse thresholds.",
+    "Hidden instability accumulation silently increases future recovery difficulty."
+  ],
+  "deep_compressions": [
+    "Recursive recoverability thresholds are dynamically adaptive.",
+    "Recursive deformation progressively raises recovery requirements.",
+    "Recursive collapse increases future regenerative burden.",
+    "Recovery thresholds generally exceed collapse thresholds.",
+    "Hidden instability accumulation silently escalates future recovery difficulty.",
+    "Recoverability reserve depletion raises recursive recovery requirements.",
+    "Recursive fragmentation amplifies regenerative coordination difficulty.",
+    "Delayed intervention may substantially increase future recovery cost."
+  ],
+  "minimal_kernel": {
+    "equations": [
+      "\\mathcal R_{\\mathrm{regen}} > \\xi_{\\mathrm{rec}}",
+      "\\xi_{\\mathrm{rec}} = \\xi_0 + \\Delta_{\\mathrm{def}}",
+      "\\partial_n \\Delta_{\\mathrm{def}} > 0 \\Rightarrow \\partial_n \\xi_{\\mathrm{rec}} > 0",
+      "\\xi_{\\mathrm{rew}} > \\xi_{\\mathrm{collapse}}"
+    ],
+    "compression": "Collapse raises the price of recovery."
+  }
+}
