@@ -1,0 +1,132 @@
+{
+  "artifact_id": "viability_as_recursive_selection_principle",
+  "title": "Viability as Recursive Selection Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Geometry",
+  "type": "recursive_selection_viability_invariant_theory",
+
+  "canonical_statement": "Viability is what remains after recursive selection.",
+
+  "deep_compression_statement": "Recursive viability is the recursively preservable residual future accessibility structure surviving iterated recursive filtering.",
+
+  "primitive_principle": {
+    "name": "Viability as recursive selection",
+    "statement": "Recursive viability is not primitive organizational existence. Instead, recursive viability emerges as the residual future accessibility structure that survives recursive selection dynamics.",
+    "interpretation": "Recursive organizational systems do not begin with viability; viability emerges through recursive filtering of non-preservable future accessibility trajectories under accumulated deformation, constraint, fragmentation, recoverability limitation, and recursive coordination pressure."
+  },
+
+  "primitive_objects": {
+    "future_accessibility_structure": {
+      "symbol": "\\mathcal A_{\\mathrm{future}}",
+      "type_assignment": "recursive_future_accessibility_geometry",
+      "definition": "Recursively accessible future-state geometry available to a recursive organizational system prior to recursive selection filtering.",
+      "includes": [
+        "recursively reachable trajectories",
+        "admissible continuation pathways",
+        "recoverably reopenable configurations",
+        "organizationally preservable coordination structures"
+      ]
+    },
+    "recursive_selection_operator": {
+      "symbol": "\\mathcal S_{\\mathrm{rec}}",
+      "type_assignment": "recursive_filtering_operator",
+      "definition": "Recursive filtering dynamics governing survival of future accessibility trajectories under recursive organizational constraint.",
+      "interpretation": "Recursive selection progressively eliminates future accessibility trajectories that fail recursive viability conditions."
+    },
+    "recursive_viability_residual": {
+      "symbol": "\\mathcal V",
+      "type_assignment": "recursive_viability_invariant_residual",
+      "definition": "\\mathcal V = \\bigcap_{k=1}^{\\infty} \\mathcal S_{\\mathrm{rec}}^{\\,k}(\\mathcal A_{\\mathrm{future}})",
+      "equivalent_definition": "\\mathcal V = \\mathrm{Fix}(\\mathcal S_{\\mathrm{rec}}) = \\mathcal A_{\\mathrm{future}}^{\\mathrm{pres}}",
+      "interpretation": "Recursive viability constitutes the recursively preservable future accessibility structure that remains stable under iterated recursive selection dynamics."
+    },
+    "viability_measure": {
+      "symbol": "\\mu_{\\mathrm{viab}}(\\mathcal V)",
+      "type_assignment": "measure_of_recursively_preservable_future_accessibility",
+      "definition": "Measure of recursively preservable future accessibility geometry retained by the recursive viability residual."
+    }
+  },
+
+  "recursive_filtering_dynamics": {
+    "formal_relation": "\\partial_n \\mu(\\mathcal A_{\\mathrm{future}}^{\\mathrm{pres}}) < 0",
+    "condition": "under increasing recursive filtering pressure where recursive viability preservation fails",
+    "interpretation": "Recursive deformation, fragmentation, coordination failure, and recoverability limitation progressively contract viable future accessibility structure."
+  },
+
+  "selection_regimes": {
+    "recursive_selection_asymmetry": {
+      "formal_relation": "R_{\\mathrm{filter}} > R_{\\mathrm{regen}} \\Rightarrow \\partial_n \\mu_{\\mathrm{viab}}(\\mathcal V) < 0",
+      "interpretation": "Recursive filtering eliminates recursively preservable future accessibility structure faster than regenerative reopening can restore it."
+    },
+    "recursive_selection_equilibrium": {
+      "formal_relation": "R_{\\mathrm{filter}} = R_{\\mathrm{regen}} \\Rightarrow \\partial_n \\mu_{\\mathrm{viab}}(\\mathcal V) = 0",
+      "interpretation": "Stable recursive viability requires regenerative reopening to continuously offset recursive accessibility elimination under ongoing recursive selection dynamics."
+    },
+    "regenerative_expansion_regime": {
+      "formal_relation": "R_{\\mathrm{filter}} < R_{\\mathrm{regen}} \\Rightarrow \\partial_n \\mu_{\\mathrm{viab}}(\\mathcal V) > 0",
+      "interpretation": "Recursive regeneration restores recursively preservable future accessibility structure faster than recursive filtering removes it."
+    }
+  },
+
+  "acceleration_regimes": {
+    "accelerating_recursive_selection_collapse": {
+      "formal_relation": "\\partial_n R_{\\mathrm{filter}} > \\partial_n R_{\\mathrm{regen}} \\Rightarrow \\partial_n^2 \\mu_{\\mathrm{viab}}(\\mathcal V) < 0",
+      "interpretation": "Recursive viability contraction accelerates whenever recursive selection pressure grows faster than regenerative reopening capacity."
+    },
+    "accelerating_regenerative_expansion": {
+      "formal_relation": "\\partial_n R_{\\mathrm{regen}} > \\partial_n R_{\\mathrm{filter}} \\Rightarrow \\partial_n^2 \\mu_{\\mathrm{viab}}(\\mathcal V) > 0",
+      "interpretation": "Recursive viability expansion accelerates whenever regenerative reopening capacity grows faster than recursive filtering pressure."
+    }
+  },
+
+  "collapse_and_regeneration": {
+    "collapse_as_accessibility_exhaustion": {
+      "formal_relation": "\\mu_{\\mathrm{viab}}(\\mathcal V) \\rightarrow 0",
+      "interpretation": "Recursive collapse does not necessarily imply instantaneous organizational disappearance. Rather, collapse corresponds to exhaustion of recursively preservable future accessibility geometry. Systems may remain locally persistent while viable future accessibility contracts toward exhaustion."
+    },
+    "regeneration_as_accessibility_reopening": {
+      "formal_relation": "\\partial_n \\mu_{\\mathrm{viab}}(\\mathcal V) > 0",
+      "condition": "under successful regenerative reopening dynamics",
+      "interpretation": "Recursive regeneration reopens recursively preservable future accessibility trajectories previously lost under recursive selection pressure."
+    },
+    "recoverability_as_recursive_reselection_capacity": {
+      "definition": "Recursive recoverability measures the organizational capacity to restore future accessibility trajectories into the recursively viable residual structure.",
+      "interpretation": "Recoverability preserves recursive reselection capability under accumulated deformation and fragmentation pressure."
+    }
+  },
+
+  "topological_contribution": {
+    "fragmentation_induced_viability_contraction": {
+      "formal_relation": "\\beta_0(\\mathcal A_{\\mathrm{future}}^{\\mathrm{pres}}) \\uparrow \\Rightarrow \\mu_{\\mathrm{viab}}(\\mathcal V) \\downarrow",
+      "interpretation": "Increasing connected-component fragmentation reduces accessible coordination continuity and therefore contracts recursively preservable future accessibility structure."
+    }
+  },
+
+  "hysteresis_connection": {
+    "selection_driven_hysteresis": {
+      "statement": "Recursive selection may progressively eliminate recoverable future accessibility trajectories faster than regeneration can restore them.",
+      "interpretation": "Recoverability hysteresis emerges naturally from accumulated recursive selection asymmetry."
+    }
+  },
+
+  "canonical_compression": [
+    "Viability is what remains after recursive selection.",
+    "\\mathcal V = \\bigcap_{k=1}^{\\infty} \\mathcal S_{\\mathrm{rec}}^{\\,k}(\\mathcal A_{\\mathrm{future}}).",
+    "Collapse corresponds to exhaustion of recursively preservable future accessibility.",
+    "Regeneration restores future accessibility into the recursively viable residual structure."
+  ],
+
+  "deep_compression": [
+    "Recursive viability emerges through recursive selection dynamics.",
+    "Viability is the recursively preservable residual future accessibility structure surviving recursive filtering.",
+    "Recursive collapse corresponds to exhaustion of recursively preservable future accessibility trajectories.",
+    "Recursive regeneration reopens recursively viable future accessibility structure.",
+    "Recursive recoverability preserves recursive reselection capacity.",
+    "Recursive fragmentation contracts viable future accessibility connectivity.",
+    "Recoverability hysteresis emerges from accumulated selection asymmetry.",
+    "Recursive organizational systems do not begin with viability; viability emerges through recursive filtering of future accessibility structure.",
+    "Recursive collapse accelerates whenever recursive selection pressure grows faster than regenerative reopening capacity.",
+    "Stable recursive viability requires regenerative reopening to continuously offset recursive filtering pressure.",
+    "Recursive regenerative expansion accelerates whenever regenerative reopening grows faster than recursive filtering pressure."
+  ]
+}
