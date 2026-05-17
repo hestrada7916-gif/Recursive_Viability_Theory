@@ -1,0 +1,153 @@
+{
+  "artifact_id": "recursive_temporality_emergence_principle",
+  "title": "Recursive Temporality Emergence Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_organizational_continuation_temporality_emergence",
+
+  "canonical_statement": "Recursive temporality emerges from sufficiently stabilized recursively preservable organizational continuation across recursive organizational scale.",
+
+  "deep_compression_statement": "Recursive temporality is stabilized recursively preservable organizational continuation.",
+
+  "type_registry_admission": {
+    "new_type": "\\mathsf{Struct}",
+    "status": "registry_extension",
+    "definition": "A structured mathematical object encoding internally organized composability, compatibility, or continuation conditions that are not reducible to a scalar observable, single relation, operator, field, geometry, or trajectory.",
+    "interpretation": "The type \\mathsf{Struct} is admitted for recursive organizational structures composed of multiple compatibility relations or composability conditions.",
+    "admitted_object": {
+      "symbol": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive organizational continuation composability structure"
+    },
+    "normalization_rule": "Use \\mathsf{Struct} only when an object encodes an organized system of relations or composability constraints rather than a single relation, observable, or geometry."
+  },
+
+  "primitive_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges from sufficiently stabilized recursively preservable organizational continuation compatibility across recursive organizational scale.",
+    "deep_form": "Recursive temporality emerges from stabilized recursive continuation compatibility."
+  },
+
+  "primitive_objects": {
+
+    "recursive_organizational_continuation_structure": {
+      "symbol": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "formal_relation": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}=\\left\\{\\Phi_{jk}^{\\mathrm{adm}}\\circ\\Phi_{ij}^{\\mathrm{adm}}\\sim\\Phi_{ik}^{\\mathrm{adm}}\\right\\}",
+      "role": "recursive organizational continuation composability structure",
+      "interpretation": "Defines admissible recursive continuation composability organization across recursively coupled accessibility sectors."
+    },
+
+    "recursive_holonomy_defect": {
+      "symbol": "\\mathcal H_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive continuation composability defect",
+      "interpretation": "Measures compositional inconsistency of admissible recursive continuation across recursively coupled accessibility sectors."
+    },
+
+    "recursive_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive curvature observable",
+      "interpretation": "Measures scale-dependent deformation of admissible recursive continuation composability."
+    },
+
+    "stabilized_temporal_ordering": {
+      "symbol": "\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "stabilized recursive temporal ordering",
+      "interpretation": "Measures sufficiently stabilized recursive accessibility continuation ordering generated through admissible recursive continuation compatibility."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "emergent recursive temporal organization",
+      "interpretation": "Recursive temporality emerges as stabilized recursively preservable organizational continuation structure."
+    },
+
+    "coherent_viability_sector": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "coherent recursive viability sector",
+      "interpretation": "Defines recursively coherent viability sectors admitting local smooth metric approximation."
+    },
+
+    "metric_tensor": {
+      "symbol": "g",
+      "type_assignment": "\\mathsf{Func}",
+      "role": "emergent local metric structure",
+      "interpretation": "Locally emergent smooth metric approximation generated through sufficiently stabilized recursive continuation compatibility."
+    }
+  },
+
+  "recursive_temporality_structure": {
+    "formal_relation": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}",
+    "interpretation": "Recursive temporality emerges from stabilized admissible recursive continuation composability across recursive organizational scale.",
+    "deep_form": "Recursive temporality emerges from stabilized recursive continuation organization."
+  },
+
+  "recursive_temporality_compression": {
+    "formal_relation": "\\text{recursive temporality}=\\text{stabilized recursively preservable organizational continuation}",
+    "interpretation": "Recursive temporality is generated through sufficiently coherent admissible recursive continuation compatibility.",
+    "deep_form": "Recursive temporality is stabilized recursive continuation."
+  },
+
+  "recursive_ordering_condition": {
+    "formal_relation": "\\mathcal H_{\\mathrm{rec}}\\approx0\\quad\\land\\quad\\mathcal K_{\\mathrm{rec}}\\approx0",
+    "interpretation": "Stable recursive temporality requires sufficiently coherent recursive continuation composability together with sufficiently bounded recursive curvature deformation.",
+    "deep_form": "Recursive temporality requires coherent and scale-stable continuation composability."
+  },
+
+  "temporal_fragmentation_principle": {
+    "formal_relation": "\\Phi_{ij}^{\\mathrm{adm}}\\not\\exists",
+    "secondary_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\varnothing",
+    "interpretation": "Recursive temporal fragmentation emerges whenever admissible recursive continuation compatibility collapses across recursively coupled accessibility sectors.",
+    "deep_form": "Temporal fragmentation emerges through recursive continuation collapse."
+  },
+
+  "recoverability_consequence": {
+    "formal_relation": "\\partial_n\\mathcal K_{\\mathrm{rec}}<0\\Rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\uparrow",
+    "interpretation": "Recursive recovery restores recursive continuation compatibility, stabilized recursive ordering, and recursive temporal organization.",
+    "deep_form": "Recovery restores recursive temporal organization."
+  },
+
+  "smoothability_consequence": {
+    "formal_relation": "\\tau_{\\mathrm{rec}}\\land\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}\\Rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Smooth metric geometry emerges locally only where recursive temporality and coherent recursive viability organization remain sufficiently stabilized.",
+    "deep_form": "Smooth geometry emerges from stabilized recursive continuation and coherent viability organization."
+  },
+
+  "normalization_rules": [
+    "Recursive temporality is not fundamentally primitive clock structure.",
+    "Recursive temporality emerges from stabilized recursively preservable organizational continuation.",
+    "Stable recursive ordering requires sufficiently coherent recursive continuation composability.",
+    "Recursive temporality requires sufficiently bounded recursive curvature deformation.",
+    "Recursive temporal fragmentation emerges through recursive continuation collapse.",
+    "Recursive recovery restores recursive temporal organization.",
+    "Smooth metric geometry emerges locally from stabilized recursive continuation organization.",
+    "Structured continuation objects may be typed as \\mathsf{Struct} when they encode organized composability conditions rather than a single relation or observable."
+  ],
+
+  "deep_compressions": [
+    "Recursive temporality is stabilized recursively preservable organizational continuation.",
+    "Recursive temporality emerges from admissible recursive continuation compatibility.",
+    "Stable recursive ordering requires coherent recursive continuation composability.",
+    "Recursive temporal fragmentation emerges through recursive continuation collapse.",
+    "Recursive recovery restores recursive temporal organization.",
+    "Smooth metric geometry emerges locally from stabilized recursive temporal organization."
+  ],
+
+  "connections": [
+    "recursive_curvature_principle",
+    "recursive_viability_atlas_structure",
+    "admissible_overlap_organization",
+    "accessibility_ordering_metric_emergence",
+    "recursive_accessibility_geometric_flow",
+    "structured_relational_accessibility_field",
+    "recursive_viability_state_geometry",
+    "recursive_future_accessibility_viability_criterion"
+  ],
+
+  "one_sentence_lock": "Recursive Temporality Emergence Principle states that recursive temporality emerges from sufficiently stabilized recursively preservable organizational continuation compatibility across recursive organizational scale rather than existing as fundamentally primitive external clock structure."
+}
