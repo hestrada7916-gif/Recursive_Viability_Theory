@@ -1,0 +1,153 @@
+{
+  "artifact_id": "thresholded_viability_geometry",
+  "title": "Thresholded Viability Geometry",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "thresholded_recursive_viability_geometry",
+
+  "canonical_statement": "Recursive viability requires sufficiently preserved future accessibility geometry rather than merely nonzero residual accessibility.",
+
+  "deep_compression_statement": "Recursive viability depends upon thresholded preservation of reopenable future accessibility structure.",
+
+  "primitive_principle": {
+    "formal_relation": "\\inf_{n<n_c}\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}(n)\\right)>\\xi_{\\mathrm{acc}}",
+    "interpretation": "Recursive organizational viability requires sufficiently preserved and reopenable future accessibility geometry across recursive organizational scale.",
+    "deep_form": "Residual accessibility alone is insufficient for recursive viability."
+  },
+
+  "primitive_objects": {
+
+    "preserved_future_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+      "role": "preserved future accessibility geometry",
+      "interpretation": "Defines recursively reachable, recoverable, and reopenable future organizational accessibility structure preserving recursive organizational viability."
+    },
+
+    "future_accessibility_volume": {
+      "symbol": "\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\right)",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "future accessibility volume observable",
+      "interpretation": "Measures the volume of recursively preservable and reopenable future organizational accessibility structure."
+    },
+
+    "accessibility_viability_threshold": {
+      "symbol": "\\xi_{\\mathrm{acc}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{acc}}>0",
+      "role": "recursive viability accessibility threshold",
+      "interpretation": "Defines the minimum preserved future accessibility volume required for recursively viable organizational continuation."
+    },
+
+    "recursive_organizational_state_vector": {
+      "symbol": "X_{\\mathrm{org}}",
+      "type_assignment": "\\mathsf{State}",
+      "formal_relation": "X_{\\mathrm{org}}=(\\kappa_{\\mathrm{local}},\\chi_{\\mathrm{compat}},\\mathcal K_{\\mathrm{rec}},\\mu(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}))",
+      "role": "recursive organizational dynamical state vector",
+      "interpretation": "Encodes local recursive continuation capacity, admissible overlap compatibility preservation, recursive curvature deformation, and preserved future accessibility volume."
+    },
+
+    "organizational_state_projection_operator": {
+      "symbol": "\\Pi_{\\mathrm{org}}",
+      "type_assignment": "\\mathsf{Op}",
+      "formal_relation": "\\Pi_{\\mathrm{org}}:T(\\mathfrak T_{\\mathrm{viab}})\\rightarrow T(X_{\\mathrm{org}})",
+      "role": "organizational state projection operator",
+      "interpretation": "Projects recursive viability flow fields onto recursive organizational dynamical state-space evolution."
+    }
+  },
+
+  "future_accessibility_geometry": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\subseteq\\mathfrak T_{\\mathrm{viab}}",
+    "interpretation": "Preserved future accessibility geometry defines recursively navigable, recoverable, and reopenable organizational future structure preserving recursive viability.",
+    "deep_form": "Recursive viability evolves over preserved future accessibility geometry."
+  },
+
+  "future_accessibility_volume_structure": {
+    "formal_relation": "\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\right)",
+    "interpretation": "Future accessibility volume measures recursively preservable future organizational accessibility structure.",
+    "deep_form": "Accessibility volume measures preservable future structure."
+  },
+
+  "thresholded_viability_criterion": {
+    "formal_relation": "\\inf_{n<n_c}\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}(n)\\right)>\\xi_{\\mathrm{acc}}",
+    "interpretation": "Recursive organizational systems remain recursively viable only when sufficiently broad preserved future accessibility structure remains available across the admissible recursive scale range.",
+    "deep_form": "Recursive viability requires sufficient future accessibility."
+  },
+
+  "scale_indexed_viability_condition": {
+    "formal_relation": "\\inf_{n<n_c}\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}(n)\\right)>\\xi_{\\mathrm{acc}}",
+    "interpretation": "Thresholded recursive viability must remain preserved across the admissible recursive scale range rather than only at isolated local scales.",
+    "deep_form": "Thresholded viability is scale-indexed."
+  },
+
+  "residual_accessibility_insufficiency": {
+    "formal_relation": "\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\right)\\neq0\\not\\Rightarrow\\text{recursive viability}",
+    "interpretation": "Infinitesimal or residual future accessibility alone is insufficient for recursive organizational viability because accessibility may remain technically nonzero while lacking sufficiently navigable, recoverable, or reopenable future structure.",
+    "deep_form": "Residual accessibility alone is insufficient."
+  },
+
+  "recursive_collapse_criterion": {
+    "formal_relation": "\\inf_{n<n_c}\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}(n)\\right)\\le\\xi_{\\mathrm{acc}}",
+    "interpretation": "Recursive organizational collapse emerges whenever preserved future accessibility contracts below recursive viability threshold.",
+    "deep_form": "Collapse corresponds to insufficient preserved future accessibility."
+  },
+
+  "accessibility_compression_principle": {
+    "formal_relation": "\\partial_n\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\right)<0",
+    "interpretation": "Recursive organizational deformation progressively compresses preservable future accessibility geometry.",
+    "deep_form": "Collapse compresses future accessibility geometry."
+  },
+
+  "accessibility_recovery_principle": {
+    "formal_relation": "\\partial_n\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\right)>0",
+    "interpretation": "Recursive recovery restores recursively navigable, recoverable, and reopenable future organizational structure.",
+    "deep_form": "Recovery reopens future accessibility geometry."
+  },
+
+  "recursive_organizational_dynamical_state_space": {
+    "formal_relation": "X_{\\mathrm{org}}=(\\kappa_{\\mathrm{local}},\\chi_{\\mathrm{compat}},\\mathcal K_{\\mathrm{rec}},\\mu(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}))",
+    "interpretation": "Recursive organizational viability states evolve over a recursive organizational dynamical state space governed by local continuation capacity, overlap compatibility preservation, recursive curvature deformation, and preserved future accessibility geometry.",
+    "deep_form": "Recursive organizational dynamics evolve over thresholded future accessibility geometry."
+  },
+
+  "state_space_dynamics": {
+    "formal_relation": "\\partial_nX_{\\mathrm{org}}=\\Pi_{\\mathrm{org}}\\left(\\mathcal G_{\\mathrm{adm}}-\\mathcal D_{\\mathrm{rec}}+F_{\\mathrm{rew}}\\right)",
+    "interpretation": "Recursive organizational dynamics evolve through projection of recursive viability flow fields onto recursive organizational state-space evolution.",
+    "deep_form": "Recursive organizational state evolution is flow-induced."
+  },
+
+  "normalization_rules": [
+    "Recursive viability requires sufficiently preserved future accessibility geometry.",
+    "Residual nonzero accessibility alone is insufficient for recursive organizational viability.",
+    "Thresholded viability is scale-indexed; viability requires preservation across the admissible recursive scale range.",
+    "Recursive collapse emerges whenever preserved future accessibility contracts below viability threshold.",
+    "Recursive recovery corresponds to reopening preserved future accessibility geometry.",
+    "Recursive organizational states evolve over a recursive organizational dynamical state space.",
+    "Recursive organizational dynamics are induced through projected recursive viability flow fields.",
+    "Preserved future accessibility geometry is recursively reopenable by definition.",
+    "Recursive deformation fields are globally normalized as \\mathcal D_{\\mathrm{rec}}."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability depends upon thresholded preservation of reopenable future accessibility structure.",
+    "Residual accessibility alone is insufficient for recursive viability.",
+    "Thresholded viability is scale-indexed.",
+    "Collapse corresponds to contraction of preserved future accessibility below viability threshold.",
+    "Recovery corresponds to reopening preserved future accessibility geometry.",
+    "Recursive organizational dynamics evolve over thresholded future accessibility geometry.",
+    "Recursive organizational state evolution is flow-induced."
+  ],
+
+  "connections": [
+    "recursive_organizational_state_vector",
+    "primitive_accessibility_origination_principle",
+    "recursive_accessibility_geometric_flow",
+    "recursive_viability_state_geometry",
+    "recursive_curvature_principle",
+    "primitive_dependency_architecture_principle",
+    "recursive_future_accessibility_viability_criterion"
+  ],
+
+  "one_sentence_lock": "Thresholded Viability Geometry states that recursive organizational viability requires sufficiently preserved and reopenable future accessibility geometry across recursive organizational scale, with recursive collapse emerging whenever preserved future accessibility contracts below viability threshold."
+}
