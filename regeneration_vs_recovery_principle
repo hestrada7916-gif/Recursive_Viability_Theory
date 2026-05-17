@@ -1,0 +1,148 @@
+{
+  "artifact_id": "regeneration_vs_recovery_principle",
+  "title": "Regeneration vs Recovery Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_regeneration_synchronization_compatibility_theorem",
+
+  "canonical_statement": "Recursive regeneration requires restoration of both local viability substrate and recursive synchronization compatibility across recursively coupled organizational sectors.",
+
+  "deep_compression_statement": "Recovery restores local capacity; regeneration restores coordinated viability.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{regen}}=\\mathcal R_{\\mathrm{local}}\\cdot\\mathcal S_{\\mathrm{sync}}^{\\mathrm{rec}}",
+    "interpretation": "Recursive regeneration requires both local recursive recovery and recursive synchronization compatibility across recursively coupled organizational sectors.",
+    "deep_form": "Regeneration restores coordinated recursive viability."
+  },
+
+  "primitive_objects": {
+
+    "local_recovery_structure": {
+      "symbol": "\\mathcal R_{\\mathrm{local}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "local recursive recovery observable",
+      "interpretation": "Measures restoration of localized recursive continuation capacity within bounded recursive accessibility sectors."
+    },
+
+    "recursive_synchronization_compatibility": {
+      "symbol": "\\mathcal S_{\\mathrm{sync}}^{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive synchronization compatibility observable",
+      "interpretation": "Measures admissible recursive coordination compatibility across recursively coupled accessibility sectors."
+    },
+
+    "recursive_regeneration": {
+      "symbol": "\\mathcal R_{\\mathrm{regen}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\mathcal R_{\\mathrm{regen}}=\\mathcal R_{\\mathrm{local}}\\cdot\\mathcal S_{\\mathrm{sync}}^{\\mathrm{rec}}",
+      "role": "recursive regeneration observable",
+      "interpretation": "Measures coordinated restoration of local recursive viability substrate together with recursive synchronization compatibility."
+    },
+
+    "atlas_of_existence": {
+      "symbol": "\\mathfrak A_{\\mathrm{exist}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive accessibility atlas structure",
+      "interpretation": "Defines globally compatible recursive continuation structure across recursively coupled organizational sectors."
+    },
+
+    "reweaving_operator": {
+      "symbol": "\\mathcal W_{\\mathrm{rew}}",
+      "type_assignment": "\\mathsf{Op}",
+      "formal_relation": "\\mathcal W_{\\mathrm{rew}}:\\mathfrak A_{\\mathrm{exist}}^{\\mathrm{frag}}\\rightarrow\\mathfrak A_{\\mathrm{exist}}^{\\mathrm{adm}}",
+      "role": "recursive reweaving operator",
+      "interpretation": "Restores admissible overlap organization, transition compatibility, continuation composability, and recursive accessibility coordination."
+    }
+  },
+
+  "local_recovery_structure": {
+    "formal_relation": "\\mathcal R_{\\mathrm{local}}>0",
+    "interpretation": "Local recovery restores bounded recursive continuation capacity and local viability substrate.",
+    "deep_form": "Recovery restores local continuation capacity."
+  },
+
+  "synchronization_compatibility_structure": {
+    "formal_relation": "\\mathcal S_{\\mathrm{sync}}^{\\mathrm{rec}}>0",
+    "interpretation": "Recursive synchronization compatibility measures whether locally restored sectors remain recursively incorporable, coordinated, and continuation-compatible.",
+    "deep_form": "Synchronization compatibility preserves recursive incorporability."
+  },
+
+  "recursive_regeneration_structure": {
+    "formal_relation": "\\mathcal R_{\\mathrm{regen}}=\\mathcal R_{\\mathrm{local}}\\cdot\\mathcal S_{\\mathrm{sync}}^{\\mathrm{rec}}",
+    "interpretation": "Recursive regeneration requires simultaneous restoration of local viability substrate and recursive synchronization compatibility.",
+    "deep_form": "Regeneration restores coordinated recursive viability."
+  },
+
+  "recovery_regeneration_non_equivalence": {
+    "formal_relation": "\\text{recovery}\\neq\\text{regeneration}",
+    "interpretation": "Recovery may replenish local continuation substrate while regeneration restores recursively coordinated future accessibility structure.",
+    "deep_form": "Recovery replenishes; regeneration re-coordinates."
+  },
+
+  "incomplete_recovery_regime": {
+    "formal_relation": "\\mathcal R_{\\mathrm{local}}>0\\quad\\land\\quad\\mathcal S_{\\mathrm{sync}}^{\\mathrm{rec}}\\le\\xi_{\\mathrm{sync}}",
+    "threshold": "\\xi_{\\mathrm{sync}}>0",
+    "interpretation": "A recursive organizational system may locally recover while remaining recursively fragmented, non-composable, or synchronization-incompatible across recursive organizational scale.",
+    "deep_form": "Local recovery without synchronization remains incomplete."
+  },
+
+  "regenerative_viability_criterion": {
+    "formal_relation": "\\mathcal R_{\\mathrm{local}}>\\xi_{\\mathrm{local}}",
+    "secondary_relation": "\\mathcal S_{\\mathrm{sync}}^{\\mathrm{rec}}>\\xi_{\\mathrm{sync}}",
+    "tertiary_relation": "\\mathcal R_{\\mathrm{regen}}>\\xi_{\\mathrm{regen}}",
+    "interpretation": "Recursive regeneration requires sufficient local recovery substrate together with sufficient recursive synchronization compatibility.",
+    "deep_form": "Regeneration requires both substrate restoration and synchronization restoration."
+  },
+
+  "atlas_compatibility_interpretation": {
+    "formal_relation": "\\mathcal R_{\\mathrm{regen}}\\Rightarrow\\mathcal W_{\\mathrm{rew}}:\\mathfrak A_{\\mathrm{exist}}^{\\mathrm{frag}}\\rightarrow\\mathfrak A_{\\mathrm{exist}}^{\\mathrm{adm}}",
+    "interpretation": "Recursive regeneration restores admissible overlap organization, transition compatibility, continuation composability, and recursively coherent future accessibility structure.",
+    "deep_form": "Regeneration restores atlas compatibility."
+  },
+
+  "regeneration_failure_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{local}}>0\\quad\\land\\quad\\mathcal S_{\\mathrm{sync}}^{\\mathrm{rec}}\\approx0",
+    "interpretation": "Recovered local capacity may remain isolated, misaligned, fragmented, or recursively destabilizing if it cannot be incorporated into globally compatible recursive continuation structure.",
+    "deep_form": "Local recovery without synchronization does not restore recursive viability."
+  },
+
+  "recursive_viability_consequence": {
+    "formal_relation": "\\mathcal R_{\\mathrm{regen}}\\Rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\uparrow\\Rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\uparrow",
+    "interpretation": "Recursive regeneration restores continuation composability, recursive ordering, recursive temporality, and coherent recursive organizational structure.",
+    "deep_form": "Regeneration restores recursive continuation compatibility."
+  },
+
+  "normalization_rules": [
+    "Recovery and regeneration are not equivalent.",
+    "Local recovery restores bounded continuation capacity.",
+    "Recursive regeneration requires both local viability substrate and recursive synchronization compatibility.",
+    "Recursive regeneration collapses if either local recovery or synchronization compatibility collapses.",
+    "Local recovery without synchronization compatibility remains incomplete recovery.",
+    "Recursive regeneration restores admissible overlap organization and continuation composability.",
+    "Regeneration restores atlas compatibility across recursively coupled sectors.",
+    "Recursive viability restoration requires both replenishment and re-coordination."
+  ],
+
+  "deep_compressions": [
+    "Recovery restores local capacity; regeneration restores coordinated viability.",
+    "Regeneration requires both viability substrate and synchronization compatibility.",
+    "Recovery replenishes; regeneration re-coordinates.",
+    "Local recovery without synchronization remains incomplete recovery.",
+    "Regeneration restores recursive continuation compatibility.",
+    "Regeneration restores atlas compatibility across recursive organizational scale."
+  ],
+
+  "connections": [
+    "atlas_of_existence_principle",
+    "primitive_dependency_architecture_principle",
+    "recursive_temporality_emergence_principle",
+    "recursive_future_accessibility_viability_criterion",
+    "local_vs_global_collapse_principle",
+    "admissible_overlap_organization",
+    "recursive_viability_atlas_structure",
+    "recursive_accessibility_geometric_flow",
+    "structured_relational_accessibility_field"
+  ],
+
+  "one_sentence_lock": "Regeneration vs Recovery Principle states that recursive regeneration requires restoration of both local recursive viability substrate and recursive synchronization compatibility across recursively coupled organizational sectors, whereas recovery alone may restore local capacity without restoring coordinated recursive viability."
+}
