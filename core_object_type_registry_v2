@@ -1,0 +1,92 @@
+{
+  "artifact_id": "core_object_type_registry_v2",
+  "title": "Core Object Type Registry",
+  "status": "repository_revision_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "canonical_mathematical_type_architecture",
+
+  "revision_note": "Updated to admit \\mathsf{Struct} and include recursive accessibility-atlas objects, admissible overlap organization, transition maps, recursive holonomy, recursive curvature, and recursive continuation composability structure.",
+
+  "type_registry_extension": {
+    "new_type": "\\mathsf{Struct}",
+    "status": "registry_extension",
+    "definition": "A structured mathematical object encoding internally organized composability, compatibility, or continuation conditions that are not reducible to a scalar observable, single relation, operator, field, geometry, or trajectory.",
+    "normalization_rule": "Use \\mathsf{Struct} only when an object encodes an organized system of relations or composability constraints rather than a single relation, observable, or geometry."
+  },
+
+  "canonical_types": {
+    "\\mathsf{Geom}": "admissible configuration or state geometry",
+    "\\mathsf{State}": "recursive viability state coordinate or trajectory object",
+    "\\mathsf{Obs}": "measurable state-dependent quantity",
+    "\\mathsf{Op}": "state-transforming or transition-transforming operator",
+    "\\mathsf{Field}": "directional recursive organizational structure over geometry",
+    "\\mathsf{Kernel}": "recursive transport or transition law",
+    "\\mathsf{Rel}": "admissibility, compatibility, or incorporability relation",
+    "\\mathsf{Func}": "aggregate recursive evaluation functional",
+    "\\mathsf{Flow}": "recursive dynamical evolution law",
+    "\\mathsf{Struct}": "organized composability or continuation structure"
+  },
+
+  "new_atlas_object_type_assignments": {
+    "\\mathfrak A_{\\mathrm{future}}": "\\mathsf{Geom}",
+    "\\mathfrak A_i": "\\mathsf{Geom}",
+    "\\mathfrak O_{ij}^{\\mathrm{adm}}": "\\mathsf{Rel}",
+    "\\Phi_{ij}^{\\mathrm{adm}}": "\\mathsf{Op}",
+    "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}": "\\mathsf{Struct}",
+    "\\mathcal H_{\\mathrm{rec}}": "\\mathsf{Obs}",
+    "\\mathcal K_{\\mathrm{rec}}": "\\mathsf{Obs}",
+    "\\mathcal O_{\\tau}^{\\mathrm{stab}}": "\\mathsf{Obs}",
+    "\\tau_{\\mathrm{rec}}": "\\mathsf{Geom}",
+    "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}": "\\mathsf{Geom}",
+    "g": "\\mathsf{Func}"
+  },
+
+  "interpretation": {
+    "\\mathfrak A_{\\mathrm{future}}": "future accessibility geometry",
+    "\\mathfrak A_i": "local recursive accessibility chart",
+    "\\mathfrak O_{ij}^{\\mathrm{adm}}": "admissibly compatible recursive overlap organization",
+    "\\Phi_{ij}^{\\mathrm{adm}}": "admissible recursive transition compatibility map",
+    "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}": "recursive organizational continuation composability structure",
+    "\\mathcal H_{\\mathrm{rec}}": "recursive continuation composability defect",
+    "\\mathcal K_{\\mathrm{rec}}": "recursive curvature observable",
+    "\\mathcal O_{\\tau}^{\\mathrm{stab}}": "stabilized recursive temporal ordering observable",
+    "\\tau_{\\mathrm{rec}}": "emergent recursive temporal organization",
+    "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}": "coherent recursive viability sector",
+    "g": "emergent local metric approximation"
+  },
+
+  "canonical_atlas_chain": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{future}}\\rightarrow\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\Phi_{ij}^{\\mathrm{adm}}\\rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Future accessibility geometry generates admissible overlap organization, admissible transition maps stabilize recursive continuation composability, continuation composability stabilizes recursive temporal ordering, and stabilized recursive temporality permits local coherent-sector smooth metric approximation."
+  },
+
+  "normalization_rules": [
+    "Every primitive object must be typed before use.",
+    "Structured continuation objects may be typed as \\mathsf{Struct} when they encode organized composability conditions rather than a single relation or observable.",
+    "Recursive temporality is typed as \\mathsf{Geom} when it functions as emergent temporal organization rather than a scalar measurement.",
+    "Admissible overlap organization is typed as \\mathsf{Rel}.",
+    "Admissible transition maps are typed as \\mathsf{Op}.",
+    "Recursive holonomy and recursive curvature are typed as \\mathsf{Obs}.",
+    "Metric structure remains typed as \\mathsf{Func} until a tensor-field type is explicitly admitted."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability atlas objects require categorical stabilization.",
+    "Continuation composability requires \\mathsf{Struct}.",
+    "Temporality is emergent geometry, not merely an observable.",
+    "Recursive curvature is observable deformation of continuation composability.",
+    "Smooth metric structure emerges downstream of stabilized accessibility-atlas organization."
+  ],
+
+  "connections": [
+    "recursive_temporality_emergence_principle",
+    "recursive_curvature_principle",
+    "recursive_viability_atlas_structure",
+    "admissible_overlap_organization",
+    "accessibility_ordering_metric_emergence",
+    "recursive_viability_state_geometry",
+    "recursive_scale_normalization"
+  ],
+
+  "one_sentence_lock": "The Core Object Type Registry now admits structured composability objects and stabilizes the recursive accessibility-atlas layer by typing overlap organization, transition maps, continuation structure, temporality, curvature, and emergent metric geometry."
+}
