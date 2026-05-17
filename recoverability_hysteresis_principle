@@ -1,0 +1,134 @@
+{
+  "artifact_id": "recoverability_hysteresis_principle",
+  "title": "Recoverability Hysteresis Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_recoverability_threshold_principle",
+
+  "canonical_statement": "Recursive recovery thresholds generally exceed recursive collapse thresholds.",
+
+  "deep_compression_statement": "Recursive collapse raises the future cost of recovery.",
+
+  "primitive_principle": {
+    "name": "Recoverability hysteresis",
+    "statement": "Recursive organizational systems typically require greater regenerative coordination capacity to restore recursively viable future accessibility structure than was originally required to preserve it.",
+    "interpretation": "Recursive deformation accumulates organizationally persistent recoverability burden."
+  },
+
+  "primitive_objects": {
+    "collapse_threshold": {
+      "symbol": "\\xi_{\\mathrm{collapse}}",
+      "definition": "Minimum recursive viability condition required to avoid recursive accessibility collapse."
+    },
+    "recovery_threshold": {
+      "symbol": "\\xi_{\\mathrm{rew}}",
+      "definition": "Minimum regenerative coordination capacity required to restore recursively viable future accessibility structure following accumulated recursive deformation."
+    },
+    "recoverability_hysteresis_gap": {
+      "symbol": "\\mathcal H_{\\mathrm{rew}}",
+      "definition": "\\mathcal H_{\\mathrm{rew}} = \\xi_{\\mathrm{rew}} - \\xi_{\\mathrm{collapse}}",
+      "interpretation": "Measures the regenerative asymmetry between preserving recursive viability and restoring recursive viability after accumulated recursive deformation."
+    }
+  },
+
+  "core_conditions": {
+    "positive_hysteresis_condition": {
+      "formal_relation": "\\mathcal H_{\\mathrm{rew}} > 0",
+      "equivalent_relation": "\\xi_{\\mathrm{rew}} > \\xi_{\\mathrm{collapse}}",
+      "interpretation": "Recursive recovery typically requires greater coordinated regenerative capacity than was originally required to prevent recursive collapse."
+    },
+    "near_reversible_recovery_regime": {
+      "formal_relation": "\\mathcal H_{\\mathrm{rew}} \\approx 0",
+      "interpretation": "Recursive deformation remains weakly persistent, allowing recursive viability restoration with minimal additional regenerative burden."
+    },
+    "strongly_hysteretic_recovery_regime": {
+      "formal_relation": "\\mathcal H_{\\mathrm{rew}} \\gg 0",
+      "interpretation": "Recursive deformation accumulates persistent recoverability burden, substantially increasing future regenerative coordination requirements."
+    },
+    "irreversible_recovery_regime": {
+      "formal_relation": "\\mathcal H_{\\mathrm{rew}} \\rightarrow \\infty",
+      "interpretation": "Recursive future accessibility structure becomes organizationally unrecoverable within admissible regenerative capacity constraints."
+    }
+  },
+
+  "contributing_dynamics": {
+    "hidden_instability_contribution": {
+      "formal_relation": "\\partial_n \\mathcal I_{\\mathrm{hidden}} > 0 \\Rightarrow \\partial_n \\mathcal H_{\\mathrm{rew}} > 0",
+      "interpretation": "Latent recursive instability may silently increase future regenerative burden prior to observable operational collapse."
+    },
+    "fragmentation_contribution": {
+      "formal_relation": "\\beta_0\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}\\right) \\uparrow \\Rightarrow \\mathcal H_{\\mathrm{rew}} \\uparrow",
+      "interpretation": "Increasing fragmentation of recursive accessibility geometry raises the difficulty of recursive re-coordination and recoverability restoration."
+    },
+    "recoverability_escalation": {
+      "principle": "Delayed recursive intervention may substantially increase future recovery burden.",
+      "interpretation": "Recursive deformation may continue accumulating even while local organizational observables remain temporarily stable. Consequently, recoverability hysteresis may progressively widen prior to observable recursive collapse."
+    }
+  },
+
+  "adaptive_recoverability_threshold_structure": {
+    "symbol": "\\xi_{\\mathrm{rec}}",
+    "formal_relation": "\\xi_{\\mathrm{rec}} = \\xi_0 + \\Delta_{\\mathrm{def}} + \\Delta_{\\mathrm{frag}} + \\Delta_{\\mathrm{hidden}} - \\mathcal R_{\\mathrm{reserve}}",
+    "components": {
+      "baseline_recoverability_threshold": {
+        "symbol": "\\xi_0",
+        "definition": "Baseline recoverability threshold."
+      },
+      "recursive_deformation_burden": {
+        "symbol": "\\Delta_{\\mathrm{def}}",
+        "definition": "Accumulated recursive deformation burden."
+      },
+      "recursive_fragmentation_burden": {
+        "symbol": "\\Delta_{\\mathrm{frag}}",
+        "definition": "Accumulated recursive fragmentation burden."
+      },
+      "hidden_instability_burden": {
+        "symbol": "\\Delta_{\\mathrm{hidden}}",
+        "definition": "Accumulated hidden instability burden."
+      },
+      "recoverability_reserve": {
+        "symbol": "\\mathcal R_{\\mathrm{reserve}}",
+        "definition": "Remaining recoverability reserve."
+      }
+    },
+    "interpretation": "Recoverability thresholds dynamically adapt in response to accumulated recursive organizational deformation."
+  },
+
+  "recoverability_escalation_relations": {
+    "deformation_escalation": {
+      "formal_relation": "\\partial_n \\Delta_{\\mathrm{def}} > 0 \\Rightarrow \\partial_n \\xi_{\\mathrm{rec}} > 0"
+    },
+    "hidden_instability_escalation": {
+      "formal_relation": "\\partial_n \\mathcal I_{\\mathrm{hidden}} > 0 \\Rightarrow \\partial_n \\xi_{\\mathrm{rec}} > 0"
+    },
+    "reserve_depletion_escalation": {
+      "formal_relation": "\\partial_n \\mathcal R_{\\mathrm{reserve}} < 0 \\Rightarrow \\partial_n \\xi_{\\mathrm{rec}} > 0"
+    },
+    "interpretation": "Recursive deformation, hidden instability accumulation, and recoverability reserve depletion progressively raise future recovery requirements."
+  },
+
+  "regenerative_viability_criterion": {
+    "formal_relation": "\\mathcal R_{\\mathrm{regen}} > \\xi_{\\mathrm{collapse}} + \\mathcal H_{\\mathrm{rew}}",
+    "equivalent_relation": "\\mathcal R_{\\mathrm{regen}} > \\xi_{\\mathrm{rew}}",
+    "interpretation": "Recursive recovery requires regenerative coordination capacity sufficient to overcome accumulated recursive deformation burden."
+  },
+
+  "canonical_compression": [
+    "Recovery thresholds generally exceed collapse thresholds.",
+    "\\mathcal H_{\\mathrm{rew}} = \\xi_{\\mathrm{rew}} - \\xi_{\\mathrm{collapse}}.",
+    "Recursive collapse raises the future cost of recovery.",
+    "Hidden instability accumulation widens recoverability hysteresis."
+  ],
+
+  "deep_compression": [
+    "Recursive recovery thresholds generally exceed recursive collapse thresholds.",
+    "Recoverability hysteresis measures regenerative asymmetry between preservation and restoration.",
+    "Recursive deformation accumulates persistent recoverability burden.",
+    "Hidden instability accumulation widens recoverability hysteresis.",
+    "Recursive fragmentation amplifies recovery difficulty.",
+    "Delayed intervention may substantially increase future regenerative burden.",
+    "Recoverability thresholds dynamically adapt under accumulated recursive deformation.",
+    "Recursive recovery requires regenerative coordination capacity sufficient to overcome accumulated deformation burden.",
+    "Recursive collapse progressively raises the future cost of recovery."
+  ]
+}
