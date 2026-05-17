@@ -1,0 +1,139 @@
+{
+  "artifact_id": "primitive_accessibility_origination_principle",
+  "title": "Primitive Accessibility Origination Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "pre_metric_accessibility_origination_principle",
+
+  "canonical_statement": "Recursive organization begins where organizationally distinguishable states admit admissibly preservable future accessibility relations.",
+
+  "deep_compression_statement": "Distinguishability precedes admissible accessibility; admissible accessibility precedes recursive organization.",
+
+  "primitive_principle": {
+    "formal_relation": "\\exists\\,\\mathcal D(x_i,x_j)>0\\quad\\land\\quad x_i\\rightsquigarrow_{\\mathrm{adm}}x_j",
+    "interpretation": "Recursive organization originates where organizationally distinguishable states admit admissibly reachable and recursively preservable future accessibility relations.",
+    "deep_form": "Recursive organization begins through distinguishable admissible future accessibility."
+  },
+
+  "primitive_objects": {
+    "organizational_distinguishability_operator": {
+      "symbol": "\\mathcal D",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "pre-metric organizational distinguishability operator",
+      "formal_relation": "\\exists\\,\\mathcal D(x_i,x_j)>0",
+      "interpretation": "Measures organizational distinguishability prior to smooth metric geometry."
+    },
+
+    "organizationally_distinguishable_states": {
+      "symbol": "x_i,x_j",
+      "type_assignment": "\\mathsf{State}",
+      "role": "primitive organizationally distinguishable states",
+      "interpretation": "Define minimally distinguishable organizational configurations required for primitive recursive accessibility structure."
+    },
+
+    "admissibly_preservable_future_accessibility_relation": {
+      "symbol": "x_i\\rightsquigarrow_{\\mathrm{adm}}x_j",
+      "type_assignment": "\\mathsf{Rel}",
+      "role": "admissibly preservable future accessibility relation",
+      "interpretation": "Defines whether recursive organizational continuation from x_i to x_j remains admissibly reachable and recursively preservable."
+    },
+
+    "future_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "primitive future accessibility geometry",
+      "interpretation": "Defines structured future accessibility relations connecting organizationally distinguishable states."
+    },
+
+    "future_accessibility_measure": {
+      "symbol": "\\mu(\\mathfrak A_{\\mathrm{future}}(n))",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "future accessibility measure across recursive organizational scale",
+      "interpretation": "Measures the preserved future accessibility structure available across recursive organizational scale."
+    },
+
+    "accessibility_preservation_threshold": {
+      "symbol": "\\xi_{\\mathrm{acc}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "minimal future accessibility preservation threshold",
+      "formal_relation": "\\xi_{\\mathrm{acc}}>0",
+      "interpretation": "Defines the positive accessibility preservation floor required for recursive organizational viability."
+    }
+  },
+
+  "primitive_organizational_distinguishability": {
+    "formal_relation": "\\exists\\,\\mathcal D(x_i,x_j)>0",
+    "interpretation": "Primitive recursive organization requires minimally distinguishable organizational configurations. Without distinguishability, recursive accessibility structure cannot emerge.",
+    "deep_form": "Distinguishability precedes accessibility."
+  },
+
+  "primitive_future_accessibility_relation": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{adm}}x_j",
+    "interpretation": "Admissibly preservable future accessibility defines whether recursive organizational continuation from x_i to x_j remains admissibly reachable and recursively preservable.",
+    "deep_form": "Accessibility must be admissible and preservable."
+  },
+
+  "accessibility_origination_criterion": {
+    "formal_relation": "\\exists(x_i\\rightsquigarrow_{\\mathrm{adm}}x_j)",
+    "preservation_condition": "\\inf_{n<n_c}\\mu\\left(\\mathfrak A_{\\mathrm{future}}(n)\\right)>\\xi_{\\mathrm{acc}}",
+    "threshold": "\\xi_{\\mathrm{acc}}>0",
+    "interpretation": "Recursive organization originates only where distinguishable states admit sufficiently non-collapsing future accessibility structure across recursive organizational scale.",
+    "deep_form": "Recursive organization requires a positive future accessibility floor."
+  },
+
+  "accessibility_collapse_principle": {
+    "formal_relation": "\\inf_{n<n_c}\\mu\\left(\\mathfrak A_{\\mathrm{future}}(n)\\right)\\rightarrow0",
+    "interpretation": "Recursive organizational collapse emerges whenever future accessibility structure contracts toward non-preservability.",
+    "deep_form": "Collapse begins as future accessibility contraction."
+  },
+
+  "primitive_organizational_consequence": {
+    "formal_relation": "\\mathcal D(x_i,x_j)>0\\rightarrow x_i\\rightsquigarrow_{\\mathrm{adm}}x_j\\rightarrow\\mathfrak A_{\\mathrm{future}}\\rightarrow\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\Phi_{ij}^{\\mathrm{adm}}\\rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Organizational distinguishability structurally precedes future accessibility structure. Future accessibility structure structurally precedes overlap organization, transition compatibility, recursive continuation composability, recursive temporality, and coherent-sector smooth metric approximation.",
+    "deep_form": "Distinguishability and admissible accessibility precede temporality and geometry."
+  },
+
+  "non_residual_accessibility_rule": {
+    "formal_relation": "\\mu(\\mathfrak A_{\\mathrm{future}})>0\\not\\Rightarrow\\text{recursive viability}",
+    "interpretation": "Infinitesimal residual accessibility alone is insufficient for recursive organizational viability.",
+    "deep_form": "Residual accessibility is not sufficient for recursive viability."
+  },
+
+  "normalization_rules": [
+    "Recursive organization does not fundamentally originate from isolated objects.",
+    "Recursive organization does not fundamentally originate from static persistence.",
+    "Recursive organization does not fundamentally originate from pre-given smooth geometry.",
+    "Primitive recursive organization requires organizationally distinguishable states.",
+    "Organizational distinguishability is pre-metric.",
+    "Future accessibility must be admissibly reachable and recursively preservable.",
+    "Recursive organization requires sufficiently non-collapsing future accessibility structure.",
+    "Infinitesimal residual accessibility alone is insufficient for recursive organizational viability.",
+    "Future accessibility structurally precedes recursive temporality.",
+    "Recursive temporality structurally precedes smooth metric geometry."
+  ],
+
+  "deep_compressions": [
+    "Recursive organization begins through distinguishable admissible future accessibility.",
+    "Distinguishability precedes accessibility.",
+    "Accessibility must be admissible and preservable.",
+    "Recursive organization requires a positive future accessibility floor.",
+    "Collapse begins as future accessibility contraction.",
+    "Residual accessibility is not sufficient for recursive viability.",
+    "Future accessibility precedes temporality.",
+    "Temporality precedes smooth geometry."
+  ],
+
+  "connections": [
+    "primitive_dependency_architecture_principle_v2",
+    "recursive_future_accessibility_viability_criterion",
+    "accessibility_ordering_metric_emergence",
+    "admissible_overlap_organization",
+    "recursive_viability_atlas_structure",
+    "recursive_temporality_emergence_principle",
+    "recursive_curvature_principle",
+    "recursive_viability_state_geometry",
+    "recursive_scale_normalization"
+  ],
+
+  "one_sentence_lock": "Primitive Accessibility Origination Principle states that recursive organization begins only where organizationally distinguishable states admit admissibly preservable, sufficiently non-collapsing future accessibility relations across recursive organizational scale."
+}
