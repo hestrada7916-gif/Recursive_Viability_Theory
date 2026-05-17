@@ -1,0 +1,199 @@
+{
+  "artifact_id": "primitive_dependency_architecture_principle_v2",
+  "title": "Primitive Dependency Architecture Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "pre_geometric_recursive_dependency_architecture",
+
+  "canonical_statement": "Coherent existence-like recursive organization emerges only through preservation of admissible dependency architecture across recursive organizational scale.",
+
+  "deep_compression_statement": "Organizational continuation precedes temporality; temporality precedes smooth geometry.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{future}}\\rightarrow\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\Phi_{ij}^{\\mathrm{adm}}\\rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Recursive existence is not fundamentally primitive object persistence inside pre-given geometry. Coherent existence-like organization emerges through stabilized admissible organizational continuation compatibility capable of preserving recursive accessibility, recursive ordering, recursive temporality, and coherent-sector smoothability.",
+    "deep_form": "Coherent existence-like organization emerges through preserved dependency architecture."
+  },
+
+  "type_registry_admission": {
+    "new_type": "\\mathsf{Struct}",
+    "status": "registry_extension",
+    "definition": "A structured mathematical object encoding internally organized composability, compatibility, continuation, or dependency conditions not reducible to a scalar observable, isolated relation, operator, field, geometry, or trajectory.",
+    "normalization_rule": "Use \\mathsf{Struct} only when an object encodes organized dependency or composability architecture rather than a single observable or isolated relation."
+  },
+
+  "primitive_objects": {
+
+    "future_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "future accessibility geometry",
+      "interpretation": "Defines recursively reachable, recoverable, and reopenable future organizational accessibility structure."
+    },
+
+    "admissible_overlap_organization": {
+      "symbol": "\\mathfrak O_{ij}^{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "formal_relation": "\\mathfrak O_{ij}^{\\mathrm{adm}}\\subseteq\\mathfrak A_i\\cap\\mathfrak A_j",
+      "role": "admissibly compatible recursive overlap organization",
+      "interpretation": "Defines recursively organized compatibility structure governing overlap composability between recursively admissible organizational sectors."
+    },
+
+    "admissible_transition_map": {
+      "symbol": "\\Phi_{ij}^{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Op}",
+      "formal_relation": "\\Phi_{ij}^{\\mathrm{adm}}:\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\mathfrak O_{ji}^{\\mathrm{adm}}",
+      "role": "admissible recursive transition compatibility map",
+      "interpretation": "Defines viability-preserving recursive continuity transfer, coordination propagation, recoverability transmission, and recursive accessibility continuation across admissible overlap domains."
+    },
+
+    "recursive_continuation_composability": {
+      "symbol": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "formal_relation": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}:=\\left\\{\\Phi_{jk}^{\\mathrm{adm}}\\circ\\Phi_{ij}^{\\mathrm{adm}}\\sim\\Phi_{ik}^{\\mathrm{adm}}\\right\\}",
+      "role": "recursive organizational continuation composability structure",
+      "interpretation": "Defines admissible organizational continuation structure governing recursively preservable composability across recursive transition interfaces."
+    },
+
+    "recursive_holonomy_defect": {
+      "symbol": "\\mathcal H_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\mathcal H_{\\mathrm{rec}}\\sim\\Phi_{jk}^{\\mathrm{adm}}\\circ\\Phi_{ij}^{\\mathrm{adm}}-\\Phi_{ik}^{\\mathrm{adm}}",
+      "role": "recursive continuation composability defect",
+      "interpretation": "Measures compositional inconsistency of admissible recursive continuation across recursively coupled accessibility sectors."
+    },
+
+    "recursive_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\sim\\nabla_n\\mathcal H_{\\mathrm{rec}}",
+      "role": "recursive curvature observable",
+      "interpretation": "Measures recursive-scale deformation and directional instability of admissible recursive continuation composability."
+    },
+
+    "stabilized_temporal_ordering": {
+      "symbol": "\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "stabilized recursive temporal ordering",
+      "interpretation": "Measures sufficiently stabilized recursive accessibility continuation ordering generated through admissible recursive continuation compatibility."
+    },
+
+    "recursive_temporality": {
+      "symbol": "\\tau_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "emergent recursive temporal organization",
+      "interpretation": "Recursive temporality emerges as stabilized recursively preservable organizational continuation ordering structure."
+    },
+
+    "coherent_viability_sector": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "coherent recursive viability sector",
+      "interpretation": "Defines recursively coherent viability sectors admitting local smooth metric approximation."
+    },
+
+    "metric_tensor": {
+      "symbol": "g",
+      "type_assignment": "\\mathsf{Func}",
+      "role": "emergent local metric structure",
+      "interpretation": "Locally emergent smooth metric approximation generated through sufficiently stabilized recursive continuation compatibility."
+    }
+  },
+
+  "primitive_dependency_hierarchy": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{future}}\\rightarrow\\mathfrak O_{ij}^{\\mathrm{adm}}\\rightarrow\\Phi_{ij}^{\\mathrm{adm}}\\rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": [
+      "future accessibility geometry generates admissible overlap organization",
+      "admissible overlap organization permits recursive transition compatibility",
+      "recursive transition compatibility stabilizes recursive continuation composability",
+      "recursive continuation composability stabilizes recursive ordering",
+      "stabilized recursive ordering generates recursive temporality",
+      "recursive temporality permits coherent-sector smooth metric approximation"
+    ],
+    "deep_form": "Organizational continuation precedes temporality; temporality precedes smooth geometry."
+  },
+
+  "refined_dependency_preservation_criterion": {
+    "formal_relation": "\\inf_{n<n_c}\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}(n)>\\xi_{\\mathrm{cont}}",
+    "threshold": "\\xi_{\\mathrm{cont}}>0",
+    "interpretation": "Recursive viability requires sufficiently positive recursive continuation composability across recursive organizational scale. Nonempty continuation structure alone is insufficient because isolated residual continuation islands do not preserve global recursive viability.",
+    "deep_form": "Recursive viability requires a positive continuation composability floor."
+  },
+
+  "nonempty_continuation_non_equivalence": {
+    "formal_relation": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\neq\\varnothing\\not\\Rightarrow\\text{recursive viability}",
+    "interpretation": "Residual or isolated continuation structure does not necessarily preserve global recursive viability.",
+    "deep_form": "Nonempty continuation is not sufficient for recursive viability."
+  },
+
+  "dependency_nonlocality_principle": {
+    "formal_relation": "\\Phi_{ij}^{\\mathrm{adm}}\\downarrow\\not\\Rightarrow\\text{immediate local collapse}",
+    "interpretation": "Recursive dependency failure may accumulate structurally and geometrically prior to visible local operational fragmentation.",
+    "deep_form": "Collapse begins structurally before it becomes locally visible."
+  },
+
+  "organizational_precedence_consequence": {
+    "formal_relation": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+    "interpretation": "Recursive ordering, recursive temporality, and coherent-sector smoothability emerge downstream of stabilized recursive continuation composability.",
+    "deep_form": "Organizational continuation precedes smooth geometry."
+  },
+
+  "recursive_existence_compression": {
+    "formal_relation": "\\text{recursive existence}=\\text{stabilized admissible recursive continuation organization}",
+    "interpretation": "Recursive existence emerges through preservation of dependency-preserving admissible continuation organization rather than primitive object persistence inside pre-given geometry.",
+    "deep_form": "Recursive existence is stabilized admissible continuation organization."
+  },
+
+  "primitive_collapse_cascade": {
+    "formal_relation": "\\Phi_{ij}^{\\mathrm{adm}}\\downarrow\\Rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\downarrow\\Rightarrow\\mathcal H_{\\mathrm{rec}}\\uparrow\\Rightarrow\\mathcal K_{\\mathrm{rec}}\\uparrow\\Rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\downarrow\\Rightarrow\\tau_{\\mathrm{rec}}\\downarrow\\Rightarrow g\\text{ loses coherent-sector validity}",
+    "interpretation": "Recursive collapse propagates through progressive destabilization of recursive organizational dependency compatibility.",
+    "deep_form": "Collapse is failure of dependency-preserving continuation organization."
+  },
+
+  "primitive_recovery_cascade": {
+    "formal_relation": "\\mathcal W_{\\mathrm{rew}}\\Rightarrow\\Phi_{ij}^{\\mathrm{adm}}\\Rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\uparrow\\Rightarrow\\mathcal H_{\\mathrm{rec}}\\downarrow\\Rightarrow\\mathcal K_{\\mathrm{rec}}\\downarrow\\Rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\uparrow\\Rightarrow\\tau_{\\mathrm{rec}}\\uparrow",
+    "interpretation": "Recursive recovery restores admissible transition compatibility, recursive continuation composability, stabilized ordering, recursive temporal organization, and coherent-sector smoothability.",
+    "deep_form": "Recovery restores dependency-preserving continuation organization."
+  },
+
+  "normalization_rules": [
+    "Recursive existence is not primitive object persistence inside pre-given geometry.",
+    "Coherent existence-like recursive organization requires preserved admissible dependency architecture.",
+    "Admissible overlap organization is typed as \\mathsf{Struct} when it encodes organized compatibility structure rather than a single relation.",
+    "Recursive continuation composability is typed as \\mathsf{Struct}.",
+    "Recursive temporality is typed as \\mathsf{Struct} because it encodes ordered recursive continuation organization rather than primitive geometry.",
+    "Recursive viability requires sufficiently positive continuation composability across scale.",
+    "Nonempty continuation structure alone is insufficient for recursive viability.",
+    "Organizational continuation structurally precedes recursive temporality.",
+    "Recursive temporality structurally precedes smooth metric geometry.",
+    "Recursive collapse propagates through dependency hierarchy failure.",
+    "Recursive recovery restores dependency-preserving continuation organization."
+  ],
+
+  "deep_compressions": [
+    "Coherent existence-like organization emerges through preserved dependency architecture.",
+    "Organizational continuation precedes temporality; temporality precedes smooth geometry.",
+    "Recursive existence is stabilized admissible recursive continuation organization.",
+    "Recursive viability requires a positive continuation composability floor.",
+    "Nonempty continuation is not sufficient for recursive viability.",
+    "Collapse begins structurally before it becomes locally visible.",
+    "Collapse is failure of dependency-preserving continuation organization.",
+    "Recovery restores dependency-preserving recursive continuation organization.",
+    "Smooth metric geometry emerges locally from sufficiently stabilized recursive continuation compatibility."
+  ],
+
+  "connections": [
+    "recursive_temporality_emergence_principle",
+    "recursive_curvature_principle",
+    "core_object_type_registry",
+    "recursive_viability_atlas_structure",
+    "admissible_overlap_organization",
+    "accessibility_ordering_metric_emergence",
+    "recursive_future_accessibility_viability_criterion",
+    "recursive_accessibility_geometric_flow",
+    "recursive_viability_state_geometry",
+    "recursive_scale_normalization"
+  ],
+
+  "one_sentence_lock": "Primitive Dependency Architecture Principle states that coherent existence-like recursive organization emerges only when admissible recursive continuation composability remains sufficiently preserved across recursive organizational scale, allowing ordering, temporality, and local smooth geometry to emerge downstream."
+}
