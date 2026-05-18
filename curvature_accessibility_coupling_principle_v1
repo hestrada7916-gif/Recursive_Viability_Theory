@@ -1,0 +1,160 @@
+{
+  "artifact_id": "curvature_accessibility_coupling_principle_v1",
+  "title": "Curvature–Accessibility Coupling Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_curvature_accessibility_geometry",
+
+  "canonical_statement": "Recursive curvature deformation contracts traversable future accessibility geometry.",
+
+  "deep_compression_statement": "Recursive curvature compresses future navigability.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\uparrow\\Rightarrow\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\right)\\downarrow",
+    "interpretation": "Recursive curvature amplification compresses traversable future accessibility geometry under recursive deformation dynamics.",
+    "deep_form": "Recursive curvature compresses future navigability."
+  },
+
+  "primitive_objects": {
+
+    "recursive_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive curvature deformation geometry",
+      "interpretation": "Measures recursive geometric deformation, accessibility compression, and navigability distortion across recursive participation structure."
+    },
+
+    "preserved_future_accessibility": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "preserved future accessibility geometry",
+      "interpretation": "Defines the total preserved future accessibility structure remaining organizationally admissible in principle."
+    },
+
+    "traversable_future_accessibility": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\subseteq\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}",
+      "role": "traversably accessible future geometry",
+      "interpretation": "Defines the reopenable and recursively traversable subset of preserved future accessibility geometry."
+    },
+
+    "future_accessibility_measure": {
+      "symbol": "\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\right)",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "traversable future accessibility measure",
+      "interpretation": "Measures the effective size of recursively traversable future accessibility geometry."
+    },
+
+    "recursive_traversability": {
+      "symbol": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive participation traversability structure",
+      "interpretation": "Defines recursively admissible future participation navigability structure."
+    },
+
+    "recovery_corridor_width": {
+      "symbol": "W_{\\mathrm{corr}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recovery corridor width observable",
+      "interpretation": "Measures the breadth of admissibly traversable recovery accessibility geometry."
+    },
+
+    "fragmented_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{frag}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "fragmented future accessibility geometry",
+      "interpretation": "Defines recursively fragmented or disconnected future accessibility structure induced by excessive recursive curvature deformation."
+    },
+
+    "critical_recursive_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{crit}}",
+      "type_assignment": "\\mathsf{Param}",
+      "role": "critical recursive curvature threshold",
+      "interpretation": "Defines the recursive curvature threshold beyond which traversable accessibility fragmentation transitions emerge."
+    }
+  },
+
+  "primitive_accessibility_distinction": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\subseteq\\mathfrak A_{\\mathrm{future}}^{\\mathrm{pres}}",
+    "interpretation": "Not all preserved future accessibility remains recursively traversable under recursive deformation dynamics.",
+    "deep_form": "Preserved futures need not remain traversable."
+  },
+
+  "curvature_accessibility_relation": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\uparrow\\Rightarrow\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\right)\\downarrow",
+    "interpretation": "Increasing recursive curvature deformation compresses traversable future accessibility geometry.",
+    "deep_form": "Recursive curvature compresses future navigability."
+  },
+
+  "traversability_compression_principle": {
+    "formal_relation": "\\mathcal T_{\\mathrm{part}}^{\\mathrm{rec}}\\sim\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\right)",
+    "interpretation": "Recursive participation traversability depends upon sufficiently preserved traversable future accessibility geometry.",
+    "deep_form": "Traversability depends upon accessible futures remaining navigable."
+  },
+
+  "recovery_corridor_compression": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\uparrow\\Rightarrow W_{\\mathrm{corr}}\\downarrow",
+    "interpretation": "Recursive curvature deformation narrows admissibly traversable recovery corridor geometry.",
+    "deep_form": "Curvature pinches recovery corridors."
+  },
+
+  "curvature_pinch_transition": {
+    "formal_relation": "\\exists\\mathcal K_{\\mathrm{crit}}:\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\rightarrow\\mathfrak A_{\\mathrm{future}}^{\\mathrm{frag}}",
+    "interpretation": "Beyond critical recursive curvature threshold, traversable future accessibility geometry may fragment into disconnected or weakly reconnectable sectors.",
+    "deep_form": "Critical curvature fragments future accessibility."
+  },
+
+  "topological_disconnect_limit": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\rightarrow\\infty\\Rightarrow\\mathfrak C_{\\mathrm{rew}}\\rightarrow\\varnothing",
+    "interpretation": "Extreme recursive curvature deformation exhausts reopenable recovery topology and destroys recursively traversable future accessibility.",
+    "deep_form": "Extreme curvature exhausts recovery topology."
+  },
+
+  "recovery_curvature_reduction_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rec}}\\downarrow\\Rightarrow\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\right)\\uparrow",
+    "interpretation": "Reducing recursive curvature deformation reopens traversable future accessibility sectors and widens admissible recovery corridor geometry.",
+    "deep_form": "Recovery restores navigability by reducing recursive curvature."
+  },
+
+  "normalization_rules": [
+    "Recursive curvature deformation contracts traversable future accessibility geometry.",
+    "Preserved future accessibility need not remain traversable.",
+    "Traversability depends upon sufficiently preserved low-curvature accessibility geometry.",
+    "Recursive curvature amplification narrows recovery corridor geometry.",
+    "Accessibility fragmentation may emerge through recursive curvature pinch transitions.",
+    "Extreme recursive curvature deformation may exhaust recovery topology.",
+    "Recovery restores traversable future accessibility by reducing recursive curvature deformation."
+  ],
+
+  "canonical_compressions": [
+    "Recursive curvature compresses future navigability.",
+    "Not all preserved futures remain traversable.",
+    "Recoverability depends upon traversable future accessibility.",
+    "Collapse pinches future accessibility geometry."
+  ],
+
+  "deep_compressions": [
+    "Recursive curvature deformation contracts traversable future accessibility.",
+    "Preserved future accessibility need not remain traversable.",
+    "Recovery depends upon sufficiently low-curvature accessibility geometry.",
+    "Recursive curvature amplification narrows recovery corridors.",
+    "Collapse may emerge through accessibility pinch transitions.",
+    "Terminal collapse exhausts traversable recovery topology.",
+    "Recovery restores accessibility by reducing recursive curvature deformation.",
+    "Recursive curvature compresses future navigability."
+  ],
+
+  "connections": [
+    "pmm_rvt_recovery_geometry_unification_v2",
+    "future_accessibility_contraction_geometry",
+    "recursive_recovery_flow_geometry",
+    "recursive_hysteresis_geometry",
+    "thresholded_viability_geometry",
+    "recursive_participatory_traversability_principle",
+    "existential_percolation_principle",
+    "recursive_continuity_transport_geometry"
+  ],
+
+  "one_sentence_lock": "Curvature–Accessibility Coupling states that recursive curvature deformation contracts traversable future accessibility geometry, progressively narrowing recovery corridors and compressing recursively navigable future participation structure."
+}
