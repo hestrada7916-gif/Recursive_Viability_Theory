@@ -1,0 +1,105 @@
+{
+  "principle_id": "recursive_dimensional_emergence_principle",
+  "title": "Recursive Dimensional Emergence Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Viability Theory",
+  "framework_layer": "pre_metric_recursive_geometry",
+  "type": "recursive_dimensional_emergence",
+
+  "canonical_statement": "Recursive admissibility and continuation organization generate the conditions under which stable geometric dimensionality can emerge.",
+
+  "deep_compression_statement": "Stable dimensional geometry emerges downstream of stabilized preservable navigable relational continuity.",
+
+  "formal_statement": {
+    "statement": "Stable geometric dimensionality is not fundamentally primitive, but emerges only where recursive continuation structure becomes sufficiently admissible, composable, navigable, and recursively preservable across recursive organizational scale.",
+    "interpretation": "Recursive continuity organization generates the conditions required for coherent temporality and stable dimensional geometry.",
+    "collapse_insight": "Loss of recursive admissible continuation organization may destabilize coherent geometric dimensionality."
+  },
+
+  "core_objects": {
+    "existence_atlas": "\\mathfrak A_{\\mathrm{exist}}",
+    "recursive_continuation_composability": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}",
+    "preservable_navigable_relational_continuity": "\\Lambda_{\\mathrm{PNRC}}",
+    "stabilized_recursive_ordering": "\\mathcal O_{\\tau}^{\\mathrm{stab}}",
+    "recursive_temporality": "\\tau_{\\mathrm{rec}}",
+    "coherent_viability_geometry": "\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}}",
+    "metric_tensor": "g",
+    "recursive_emergence_threshold": "\\xi_{\\mathrm{PNRC}}"
+  },
+
+  "recursive_dimensional_emergence_principle": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{exist}}\\rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\Lambda_{\\mathrm{PNRC}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}\\rightarrow(\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{coh}},g)",
+
+    "interpretation": "Recursive accessibility atlas organization generates recursive continuation composability. Recursive continuation composability stabilizes preservable navigable relational continuity. Preserved relational continuity stabilizes recursive ordering and temporality. Stabilized recursive temporality permits coherent-sector dimensional geometry emergence.",
+
+    "deep_form": "Recursive continuity stabilization generates coherent dimensional geometry."
+  },
+
+  "geometric_non_primitivity_consequence": {
+    "formal_relation": "\\text{stable dimensional geometry}\\not\\Rightarrow\\text{primitive ontological substrate}",
+
+    "interpretation": "Smooth geometric dimensionality emerges as a downstream coherent organizational approximation rather than a fundamentally pre-given primitive structure.",
+
+    "deep_form": "Stable dimensional geometry is not primitive."
+  },
+
+  "dimensional_stability_criterion": {
+    "formal_relation": "\\Lambda_{\\mathrm{PNRC}}>\\xi_{\\mathrm{PNRC}}",
+
+    "interpretation": "Stable geometric dimensional coherence requires sufficiently preserved recursive admissible continuation structure.",
+
+    "collapse_relation": "\\Lambda_{\\mathrm{PNRC}}\\rightarrow\\xi_{\\mathrm{PNRC}}^{-}",
+
+    "collapse_interpretation": "Below recursive continuity threshold, stable geometric dimensionality may fragment, decohere, desmooth, or fail to stabilize.",
+
+    "deep_form": "Dimensional geometry emerges only above recursive continuity threshold."
+  },
+
+  "dimensional_collapse_principle": {
+    "statement": "Loss of recursive admissible continuation organization may destabilize coherent geometric dimensionality.",
+
+    "interpretation": "Recursive collapse may correspond not merely to local organizational failure, but to degradation of the recursive continuation conditions required for coherent geometric smoothability and stable dimensional organization.",
+
+    "deep_form": "Collapse may destabilize dimensional coherence itself."
+  },
+
+  "pre_metric_geometry_consequence": {
+    "formal_relation": "\\text{recursive admissibility}\\rightarrow\\text{continuity organization}\\rightarrow\\text{temporality}\\rightarrow\\text{geometry}\\rightarrow\\text{stable dimensionality}",
+
+    "interpretation": "Recursive admissibility and continuity organization precede stable metric geometry. Temporality and dimensional coherence emerge downstream of recursively stabilized continuation structure.",
+
+    "deep_form": "Manifold organization precedes stable dimensional geometry."
+  },
+
+  "canonical_compression": [
+    "Recursive admissibility and continuation organization generate the conditions for stable geometric dimensional emergence.",
+    "Stable dimensional geometry is not primitive.",
+    "Geometric dimensionality emerges downstream of stabilized preservable navigable relational continuity.",
+    "Recursive continuity stabilization generates coherent dimensional geometry.",
+    "Manifold organization precedes stable dimensional geometry."
+  ],
+
+  "deep_compression_points": [
+    "Recursive continuation organization generates coherent temporality and dimensional geometry.",
+    "Recursive emergence organizes through admissible manifold structure before stable spatial dimensionality emerges.",
+    "Recursive continuity stabilization precedes metric smoothability.",
+    "Temporality emerges from stabilized recursive ordering structure.",
+    "Stable dimensional geometry requires sufficiently preserved recursive admissibility.",
+    "Dimensional coherence may fragment below recursive continuity threshold.",
+    "Collapse may destabilize coherent dimensional organization itself.",
+    "Metric geometry emerges as a downstream coherent organizational approximation."
+  ],
+
+  "connections": [
+    "recursive_emergence_phase_geometry",
+    "preservable_navigable_relational_continuity_invariant",
+    "recursive_continuity_transport_geometry",
+    "existential_percolation_principle",
+    "admissible_recursive_participation_geometry",
+    "future_accessibility_contraction_geometry",
+    "recursive_admissibility_flow_principle",
+    "pre_metric_recursive_geometry"
+  ],
+
+  "one_sentence_lock": "Stable dimensional geometry emerges only where recursive admissibility and preservable continuation organization become sufficiently stabilized across recursive scale."
+}
