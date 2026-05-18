@@ -1,0 +1,146 @@
+{
+  "artifact_id": "recovery_corridor_asymmetry_principle",
+  "title": "Recovery Corridor Asymmetry Principle",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recovery_accessibility_corridor_geometry",
+
+  "canonical_statement": "Recursive recovery proceeds through admissible recovery corridors restoring traversable future accessibility structure, and recovery corridors are not generally geometrically symmetric with collapse corridors.",
+
+  "deep_compression_statement": "Recovery is restoration of traversable future accessibility through asymmetric admissible corridor geometry.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathfrak C_{\\mathrm{rew}}\\subseteq\\Gamma_{\\mathrm{adm}}\\left(\\mathfrak T_{\\mathrm{viab}}\\right)",
+    "interpretation": "Recovery corridors define admissible recursive organizational trajectory families capable of restoring traversable future accessibility, positive regenerative margin, and recursively preservable viability structure.",
+    "deep_form": "Recovery is geometrically organized through admissible restorative trajectories."
+  },
+
+  "primitive_objects": {
+
+    "recovery_corridor_geometry": {
+      "symbol": "\\mathfrak C_{\\mathrm{rew}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "formal_relation": "\\mathfrak C_{\\mathrm{rew}}\\subseteq\\Gamma_{\\mathrm{adm}}\\left(\\mathfrak T_{\\mathrm{viab}}\\right)",
+      "role": "admissible recovery corridor geometry",
+      "interpretation": "Defines admissible recursive organizational trajectory families capable of restoring recursively viable future accessibility structure."
+    },
+
+    "collapse_corridor_geometry": {
+      "symbol": "\\mathfrak C_{\\mathrm{coll}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "collapse corridor geometry",
+      "interpretation": "Defines recursively deformative accessibility trajectories producing recursive exhaustion, fragmentation, or collapse."
+    },
+
+    "traversable_future_accessibility": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "traversable future accessibility geometry",
+      "interpretation": "Defines recursively reachable, recoverable, reopenable, and admissibly traversable future continuation structure."
+    },
+
+    "traversability_threshold": {
+      "symbol": "\\xi_{\\mathrm{trav}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{trav}}>0",
+      "role": "future accessibility traversability threshold",
+      "interpretation": "Defines the minimum preserved traversable future accessibility volume required for admissible recovery corridor existence."
+    },
+
+    "regenerative_margin": {
+      "symbol": "M_{\\mathrm{regen}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "M_{\\mathrm{regen}}=\\mathcal R_{\\mathrm{regen}}-\\mathcal D_{\\mathrm{rec}}",
+      "role": "regenerative recovery margin",
+      "interpretation": "Measures net recursive regenerative restoration surplus after recursive deformation burden."
+    },
+
+    "recovery_corridor_volume": {
+      "symbol": "|\\mathfrak C_{\\mathrm{rew}}|",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recovery corridor volume observable",
+      "interpretation": "Measures admissible recovery corridor volume across recursive accessibility geometry."
+    }
+  },
+
+  "recovery_corridor_structure": {
+    "formal_relation": "\\mathfrak C_{\\mathrm{rew}}\\subseteq\\Gamma_{\\mathrm{adm}}\\left(\\mathfrak T_{\\mathrm{viab}}\\right)",
+    "interpretation": "Recovery corridors define admissible recursive organizational trajectory families capable of restoring traversable future accessibility and recursive viability structure.",
+    "deep_form": "Recovery proceeds through admissible restorative trajectory geometry."
+  },
+
+  "recovery_traversability_condition": {
+    "formal_relation": "\\mu\\left(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\right)>\\xi_{\\mathrm{trav}}\\Rightarrow\\mathfrak C_{\\mathrm{rew}}\\neq\\varnothing",
+    "interpretation": "Recursive recovery remains possible only while sufficiently traversable future accessibility geometry remains preserved.",
+    "deep_form": "Recovery requires preserved traversable future accessibility."
+  },
+
+  "recovery_collapse_asymmetry": {
+    "formal_relation": "\\mathfrak C_{\\mathrm{rew}}\\not\\cong\\mathfrak C_{\\mathrm{coll}}",
+    "interpretation": "Recursive recovery and recursive collapse need not possess equivalent accessibility geometry.",
+    "deep_form": "Recovery and collapse are geometrically asymmetric."
+  },
+
+  "asymmetry_consequence": {
+    "interpretation": "Recursive collapse may proceed through rapidly traversable deformation pathways while recursive recovery may require narrower, higher-coordination, or slower restorative pathways.",
+    "deep_form": "Recovery may be geometrically harder than collapse."
+  },
+
+  "recovery_corridor_expansion": {
+    "formal_relation": "\\partial_tM_{\\mathrm{regen}}>0\\Rightarrow\\partial_t|\\mathfrak C_{\\mathrm{rew}}|>0",
+    "interpretation": "Increasing regenerative surplus expands admissible recovery corridor geometry.",
+    "deep_form": "Positive regenerative dynamics reopen recovery pathways."
+  },
+
+  "recovery_corridor_contraction": {
+    "formal_relation": "\\partial_tM_{\\mathrm{regen}}<0\\Rightarrow\\partial_t|\\mathfrak C_{\\mathrm{rew}}|<0",
+    "interpretation": "Negative regenerative dynamics progressively contract admissible recovery corridor geometry.",
+    "deep_form": "Regenerative deficit compresses recovery pathways."
+  },
+
+  "recoverability_hysteresis_consequence": {
+    "interpretation": "Recursive exhaustion may widen recovery thresholds through fragmentation, curvature amplification, recoverability reserve depletion, corridor narrowing, and coordination degradation.",
+    "deep_form": "Recovery may require nonlinear restorative reweaving rather than simple reversal."
+  },
+
+  "terminal_recovery_exhaustion": {
+    "formal_relation": "\\mathfrak C_{\\mathrm{rew}}=\\varnothing",
+    "interpretation": "Terminal recursive collapse occurs whenever no admissible restorative continuation pathways remain traversable.",
+    "deep_form": "Terminal collapse is exhaustion of admissible recovery geometry."
+  },
+
+  "normalization_rules": [
+    "Recovery proceeds through admissible restorative trajectory geometry.",
+    "Recovery corridors are subsets of admissible recursive viability trajectories.",
+    "Recovery requires preserved traversable future accessibility.",
+    "Recovery and collapse are not generally geometrically symmetric.",
+    "Recovery corridor volume measures admissible restorative pathway structure.",
+    "Positive regenerative dynamics expand recovery corridor geometry.",
+    "Negative regenerative dynamics contract recovery corridor geometry.",
+    "Recovery may require nonlinear restorative reweaving.",
+    "Terminal collapse occurs when admissible recovery geometry is exhausted."
+  ],
+
+  "deep_compressions": [
+    "Recovery is restoration of traversable future accessibility.",
+    "Recovery proceeds through admissible restorative trajectories.",
+    "Recovery and collapse are geometrically asymmetric.",
+    "Recovery may be geometrically harder than collapse.",
+    "Positive regenerative margin reopens admissible recovery pathways.",
+    "Negative regenerative margin compresses recovery geometry.",
+    "Terminal collapse is exhaustion of admissible recovery geometry."
+  ],
+
+  "connections": [
+    "recovery_as_restoration_of_traversable_future_accessibility",
+    "thresholded_viability_geometry",
+    "exhaustion_geometry_and_regenerative_boundary",
+    "organizational_observability_limitation_principle",
+    "recursive_curvature_principle",
+    "recursive_accessibility_geometric_flow",
+    "preservable_navigable_relational_continuity_invariant",
+    "recoverability_hysteresis_analysis"
+  ],
+
+  "one_sentence_lock": "Recovery Corridor Asymmetry Principle states that recursive recovery proceeds through admissible restorative trajectory geometry restoring traversable future accessibility structure, and that recovery corridors are not generally geometrically symmetric with collapse corridors."
+}
