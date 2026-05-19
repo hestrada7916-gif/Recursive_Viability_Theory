@@ -1,0 +1,175 @@
+{
+  "artifact_id": "layer2_transportability_v2",
+  "title": "Layer 2 — Transportability",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "supportable_directional_transportability_layer",
+
+  "canonical_statement": "Recursive viability requires continuation to remain supportably transportable across recursive organizational scale under dissipation dynamics.",
+
+  "deep_compression_statement": "Not everything connected remains transportable.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathcal T_{\\mathrm{trans}}>\\xi_{\\mathrm{trans}}",
+    "interpretation": "Recursive viability requires sufficiently preserved supportable directional transport capacity under recursive dissipation dynamics.",
+    "deep_form": "Continuation alone is insufficient for recursive viability."
+  },
+
+  "primitive_objects": {
+
+    "recursive_transportability": {
+      "symbol": "\\mathcal T_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive transportability coordinate",
+      "interpretation": "Measures recursively supportable directional continuation transport capacity across recursive organizational scale."
+    },
+
+    "transportability_threshold": {
+      "symbol": "\\xi_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{trans}}>0",
+      "role": "recursive transportability threshold",
+      "interpretation": "Defines the minimum preserved supportable transport capacity required for recursive viability."
+    },
+
+    "recursive_dissipation_burden": {
+      "symbol": "\\mathcal D_{\\mathrm{diss}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive dissipation burden",
+      "interpretation": "Measures recursive dissipation, fragmentation, and transport-loss burden acting against supportable directional continuation propagation."
+    },
+
+    "traversable_future_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "traversable future accessibility geometry",
+      "interpretation": "Defines recursively reachable, recoverable, reopenable, and supportably traversable future continuation structure."
+    },
+
+    "local_transportability": {
+      "symbol": "\\mathcal T_{\\mathrm{trans}}^{\\mathrm{local}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "localized transport reservoir",
+      "interpretation": "Measures localized continuation transport capacity remaining preserved despite possible global transport collapse."
+    },
+
+    "global_transportability": {
+      "symbol": "\\mathcal T_{\\mathrm{trans}}^{\\mathrm{global}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "global recursive transportability",
+      "interpretation": "Measures globally scalable recursive continuation transport capacity across recursive organizational scale."
+    },
+
+    "transport_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive transport curvature observable",
+      "interpretation": "Measures recursive transport deformation curvature induced by dissipation amplification and directional transport instability."
+    }
+  },
+
+  "scale_indexed_transportability_criterion": {
+    "formal_relation": "\\inf_{n<n_c}\\mathcal T_{\\mathrm{trans}}(n)>\\xi_{\\mathrm{trans}}",
+    "interpretation": "Recursive transportability must remain sufficiently preserved across the admissible recursive scale range rather than only at isolated local scales.",
+    "deep_form": "Transportability is scale-indexed."
+  },
+
+  "continuation_transport_distinction": {
+    "formal_relation": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\not\\Rightarrow\\mathcal T_{\\mathrm{trans}}>\\xi_{\\mathrm{trans}}",
+    "interpretation": "Admissible recursive continuation structure may exist while nevertheless failing to remain supportably transportable across recursive scale.",
+    "deep_form": "Continuation does not imply viable transport."
+  },
+
+  "directional_transport_principle": {
+    "formal_relation": "\\mathcal D_{\\mathrm{diss}}\\uparrow\\Rightarrow\\mathcal T_{\\mathrm{trans}}\\downarrow",
+    "interpretation": "Recursive dissipation progressively degrades directional transport structure, reducing supportable continuation propagation capacity.",
+    "deep_form": "Dissipation contracts directional transportability."
+  },
+
+  "transport_curvature_coupling": {
+    "formal_relation": "\\mathcal K_{\\mathrm{trans}}\\uparrow\\Rightarrow\\mathcal T_{\\mathrm{trans}}\\downarrow",
+    "interpretation": "Recursive transport curvature amplification increases transport dissipation burden and degrades supportable directional continuation propagation.",
+    "deep_form": "Transport curvature amplifies transport loss."
+  },
+
+  "transport_dissipation_geometry": {
+    "formal_relation": "\\mathcal T_{\\mathrm{trans}}\\downarrow\\Rightarrow\\mu(\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}})\\downarrow",
+    "interpretation": "As supportable transportability contracts, traversable future accessibility geometry becomes progressively less traversable and less reopenable.",
+    "deep_form": "Transport collapse contracts traversable future accessibility geometry."
+  },
+
+  "transport_reservoir_localization": {
+    "formal_relation": "\\mathcal T_{\\mathrm{trans}}^{\\mathrm{local}}>0\\land\\mathcal T_{\\mathrm{trans}}^{\\mathrm{global}}\\rightarrow0",
+    "interpretation": "Localized continuation reservoirs may remain transportably stable while globally scalable continuation propagation fails.",
+    "deep_form": "Local transport reservoirs may survive global transport collapse."
+  },
+
+  "transport_collapse_principle": {
+    "formal_relation": "\\mathcal T_{\\mathrm{trans}}\\le\\xi_{\\mathrm{trans}}\\Rightarrow\\mathfrak A_{\\mathrm{future}}^{\\mathrm{trav}}\\text{ fragments}",
+    "interpretation": "Traversable future accessibility geometry fragments whenever continuation ceases remaining supportably transportable under recursive dissipation dynamics.",
+    "deep_form": "Collapse begins when scalable transportability fails."
+  },
+
+  "dynamic_existence_consequence": {
+    "formal_relation": "\\partial_t\\mathcal T_{\\mathrm{trans}}\\neq0",
+    "interpretation": "Existence-like recursive organization depends upon continuously maintained directional transport survivability under dissipation rather than static persistence.",
+    "deep_form": "Existence-like organization is sustained flow-maintenance."
+  },
+
+  "spectral_coordination_necessity": {
+    "interpretation": "Spectral Coordination Theory becomes necessary whenever recursive continuation must remain supportably transportable under dissipation.",
+    "deep_form": "SCT governs directional transport survival under dissipation.",
+    "governs": [
+      "coherence retention",
+      "directional transport persistence",
+      "dissipation survival",
+      "coordination preservation",
+      "transport scalability",
+      "recursive viability stabilization"
+    ]
+  },
+
+  "normalization_rules": [
+    "Recursive continuation alone is insufficient for recursive viability.",
+    "Continuation must remain supportably transportable under recursive dissipation dynamics.",
+    "Mere accessibility or connectivity does not imply viable transport propagation.",
+    "Transportability is scale-indexed.",
+    "Recursive dissipation progressively contracts directional transport capacity.",
+    "Transport curvature amplifies transport loss.",
+    "Transport contraction compresses traversable future accessibility geometry.",
+    "Traversable future accessibility may fragment under transport collapse.",
+    "Local transport reservoirs may persist during global transport collapse.",
+    "Recursive collapse begins when scalable transportability fails.",
+    "Existence-like organization depends upon sustained transport survivability.",
+    "Spectral Coordination Theory governs directional transport survival under dissipation."
+  ],
+
+  "deep_compressions": [
+    "Continuation must remain supportably transportable.",
+    "Not everything connected remains transportable.",
+    "Recursive viability depends upon directional transport survival under dissipation.",
+    "Transportability is scale-indexed.",
+    "Transport curvature amplifies transport loss.",
+    "Transport collapse contracts traversable future accessibility geometry.",
+    "Traversable future accessibility may fragment under transport collapse.",
+    "Local transport reservoirs may survive global transport collapse.",
+    "Collapse begins when scalable transportability fails.",
+    "Existence-like organization is sustained flow-maintenance.",
+    "SCT governs supportable directional transport structure."
+  ],
+
+  "connections": [
+    "recursive_transport_ontology_of_emergence",
+    "continuation_admissibility_topology",
+    "thresholded_viability_geometry",
+    "recursive_accessibility_geometric_flow",
+    "spectral_coordination_theory",
+    "organizational_observability_limitation_principle",
+    "recovery_as_restoration_of_traversable_future_accessibility",
+    "continuation_boundary_principle",
+    "recursive_curvature_principle",
+    "future_accessibility_fragmentation_geometry"
+  ],
+
+  "one_sentence_lock": "Layer 2 — Transportability states that recursive viability requires admissible continuation to remain supportably transportable across recursive organizational scale under dissipation dynamics, with collapse beginning whenever scalable directional transportability fails and traversable future accessibility geometry fragments."
+}
