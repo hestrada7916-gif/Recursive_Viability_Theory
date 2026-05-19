@@ -1,0 +1,293 @@
+{
+  "artifact_id": "layer1_5_propagation_v3",
+  "title": "Layer 1.5 — Propagation",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "directional_organizational_propagation_layer",
+
+  "canonical_statement": "Recursive propagation defines directional organizational transfer through transmission structure, constituting the first recursive layer where organizational structure becomes transmissible across organizational sectors.",
+
+  "deep_compression_statement": "Propagation is the first layer where organizational structure becomes transmissible across sectors.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\sigma}{\\longrightarrow}x_j",
+    "interpretation": "Recursive propagation defines directional organizational transfer between organizational configurations through transmission structure.",
+    "deep_form": "Propagation makes organizational structure transmissible."
+  },
+
+  "primitive_objects": {
+
+    "recursive_propagation_relation": {
+      "symbol": "\\overset{\\sigma}{\\longrightarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\sigma}{\\longrightarrow}x_j",
+      "role": "recursive propagation relation",
+      "interpretation": "Defines recursively propagatable organizational transfer between organizational configurations through transmission channel structure."
+    },
+
+    "propagation_channel_structure": {
+      "symbol": "\\sigma",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive propagation channel structure",
+      "interpretation": "Defines the transmission channel through which recursive organizational propagation occurs between sender and receiver configurations."
+    },
+
+    "recursive_propagation_structure": {
+      "symbol": "\\mathcal P_{\\mathrm{prop}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive propagation structure",
+      "interpretation": "Defines recursively preservable organizational propagation structure generated from stabilized recursive propagation relations."
+    },
+
+    "propagation_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{prop}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive propagation topology",
+      "interpretation": "Defines recursive propagation connectivity organization induced by stabilized propagation structure."
+    },
+
+    "propagation_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{prop}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive propagation geometry",
+      "interpretation": "Defines recursive propagation geometry induced by stabilized propagation topology."
+    },
+
+    "propagation_density": {
+      "symbol": "\\rho_{\\mathrm{prop}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive propagation density",
+      "interpretation": "Measures the density of recursively propagatable organizational transfer pathways preserved across recursive organizational structure."
+    },
+
+    "propagation_threshold": {
+      "symbol": "\\xi_{\\mathrm{prop}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{prop}}>0",
+      "role": "recursive propagation threshold",
+      "interpretation": "Defines the minimum propagation density required for stabilized recursive propagation organization."
+    },
+
+    "propagation_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{prop}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive propagation survivability",
+      "interpretation": "Measures recursively preservable propagation survivability under transmission deformation, receiver incompatibility, and recursive dissipation burden."
+    },
+
+    "propagation_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{prop}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{prop}}^{\\Sigma}>0",
+      "role": "recursive propagation survivability threshold",
+      "interpretation": "Defines the minimum recursive propagation survivability required for preservable organizational propagation across recursive transmission structure."
+    },
+
+    "propagation_decodability": {
+      "symbol": "\\mathcal D_{\\mathrm{decode}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive propagation decodability",
+      "interpretation": "Measures whether propagated organizational structure remains sufficiently reconstructible by receiver organizational structure."
+    },
+
+    "receiver_compatibility": {
+      "symbol": "\\chi_{\\mathrm{recv}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "receiver compatibility observable",
+      "interpretation": "Measures receiver interpretability, structural compatibility, synchronization capacity, organizational integration capacity, and propagation decodability compatibility."
+    },
+
+    "receiver_compatibility_threshold": {
+      "symbol": "\\xi_{\\mathrm{recv}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{recv}}>0",
+      "role": "receiver compatibility threshold",
+      "interpretation": "Defines the minimum receiver compatibility required for preservable organizational propagation."
+    },
+
+    "propagation_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{prop}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive propagation curvature",
+      "interpretation": "Measures recursive propagation deformation, transmission instability, receiver incompatibility amplification, and propagation survivability contraction across propagation geometry."
+    },
+
+    "propagation_burden": {
+      "symbol": "\\Gamma_{\\mathrm{prop}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive propagation burden",
+      "interpretation": "Measures recursive propagation maintenance burden, transmission strain, synchronization difficulty, and organizational transfer cost across recursive propagation geometry."
+    }
+
+  },
+
+  "propagation_dependence_on_continuation": {
+    "formal_relation": "x_i\\not\\rightsquigarrow_{\\mathrm{cont}}x_j\\Rightarrow x_i\\not\\overset{\\sigma}{\\longrightarrow}x_j",
+    "interpretation": "Recursive propagation cannot stabilize without prior preservable recursive continuation structure.",
+    "deep_form": "Propagation requires preservable continuation."
+  },
+
+  "continuation_beyond_propagation_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{cont}}x_j\\not\\Rightarrow x_i\\overset{\\sigma}{\\longrightarrow}x_j",
+    "interpretation": "Preservable continuation may exist while organizational transfer fails due to transmission instability, receiver incompatibility, synchronization failure, decoding degradation, pathway interruption, or recursive dissipation burden.",
+    "deep_form": "Continuation alone is insufficient for propagation."
+  },
+
+  "propagation_asymmetry_principle": {
+    "formal_relation": "x_i\\overset{\\sigma}{\\longrightarrow}x_j\\not\\Rightarrow x_j\\overset{\\sigma}{\\longrightarrow}x_i",
+    "interpretation": "Propagation organization may preserve directional asymmetry, irreversible transmission structure, receiver asymmetry, or propagation hysteresis.",
+    "deep_form": "Propagation may remain directionally asymmetric."
+  },
+
+  "propagation_survivability_hierarchy": {
+    "formal_relation": "\\sigma\\rightarrow\\Sigma_{\\mathrm{prop}}\\rightarrow\\mathcal P_{\\mathrm{prop}}",
+    "interpretation": "Transmission channel structure governs propagation survivability, which in turn constrains preservable propagation structure.",
+    "deep_form": "Channel structure governs propagation survivability."
+  },
+
+  "propagation_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{prop}}>\\xi_{\\mathrm{prop}}^{\\Sigma}",
+    "interpretation": "Recursive organizational propagation requires sufficiently preserved propagation survivability under transmission deformation, attenuation, recursive dissipation, synchronization instability, receiver incompatibility, decoding degradation, and pathway interruption.",
+    "deep_form": "Propagation requires preserved transmission survivability."
+  },
+
+  "decodability_survivability_coupling": {
+    "formal_relation": "\\mathcal D_{\\mathrm{decode}}\\downarrow\\Rightarrow\\Sigma_{\\mathrm{prop}}\\downarrow",
+    "interpretation": "Propagation survivability contracts as propagated organizational structure becomes insufficiently decodable.",
+    "deep_form": "Undecodable propagation destabilizes transmission survivability."
+  },
+
+  "receiver_compatibility_principle": {
+    "formal_relation": "\\chi_{\\mathrm{recv}}>\\xi_{\\mathrm{recv}}",
+    "interpretation": "Propagation survivability depends upon receiver interpretability, structural compatibility, synchronization capacity, organizational integration capacity, and propagation decodability structure.",
+    "deep_form": "Receiver compatibility governs propagation survivability."
+  },
+
+  "propagation_hierarchy": {
+    "formal_relation": "\\rightsquigarrow_{\\mathrm{cont}}\\rightarrow\\overset{\\sigma}{\\longrightarrow}\\rightarrow\\mathcal P_{\\mathrm{prop}}\\rightarrow\\mathfrak T_{\\mathrm{prop}}\\rightarrow\\mathfrak G_{\\mathrm{prop}}",
+    "interpretation": "Preservable continuation permits recursive propagation, propagation generates recursive propagation structure, propagation structure induces propagation topology, and stabilized propagation topology induces propagation geometry.",
+    "deep_form": "Propagation structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal P_{\\mathrm{prop}}\\Rightarrow\\mathfrak T_{\\mathrm{prop}}\\Rightarrow\\mathfrak G_{\\mathrm{prop}}",
+    "interpretation": "Propagation connectivity organization, sender–receiver structure, and fragmentation organization stabilize prior to emergence of coherent propagation geometry.",
+    "deep_form": "Propagation topology precedes propagation geometry."
+  },
+
+  "pre_metric_propagation_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{prop}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Propagation geometry organizes organizational transfer structure, receiver accessibility, transmission survivability, and synchronization organization prior to emergence of stable metric geometry.",
+    "deep_form": "Propagation geometry is organizational before metric."
+  },
+
+  "protoinformational_emergence_principle": {
+    "formal_relation": "\\overset{\\sigma}{\\longrightarrow}\\Rightarrow\\Delta_{\\mathrm{org}}^{\\mathrm{trans}}",
+    "interpretation": "Recursive propagation defines the primitive emergence of transmissible organizational differentiation across recursive organizational sectors prior to semantics, cognition, symbolic representation, language, or meaning attribution.",
+    "deep_form": "Propagation defines the primitive substrate for information-like transfer dynamics."
+  },
+
+  "propagation_stability_criterion": {
+    "formal_relation": "\\rho_{\\mathrm{prop}}>\\xi_{\\mathrm{prop}}",
+    "interpretation": "Recursive propagation organization requires sufficiently preserved propagation density.",
+    "deep_form": "Stable propagation requires preserved propagation density."
+  },
+
+  "propagation_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{prop}}\\uparrow\\Rightarrow\\mu(\\mathcal P_{\\mathrm{prop}})\\downarrow",
+    "interpretation": "Recursive propagation curvature amplification contracts organizational transfer survivability, increases transmission instability, and reduces recursively preservable propagation capacity.",
+    "deep_form": "Curvature contracts propagatable organizational transfer."
+  },
+
+  "propagation_fragmentation_principle": {
+    "formal_relation": "\\rho_{\\mathrm{prop}}\\le\\xi_{\\mathrm{prop}}\\Rightarrow\\mathfrak T_{\\mathrm{prop}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{prop}}^{(\\alpha)}",
+    "interpretation": "Recursive propagation sectors become increasingly disconnected as propagatable organizational transfer structure collapses.",
+    "deep_form": "Propagation collapse fragments organizational transfer structure."
+  },
+
+  "protected_propagation_sector_principle": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{prop}}^{\\mathrm{local}}\\neq\\varnothing\\land\\mathfrak T_{\\mathrm{prop}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Protected local propagation reservoirs may remain recursively propagatable while globally scalable propagation organization contracts.",
+    "deep_form": "Protected propagation reservoirs may survive global contraction."
+  },
+
+  "propagation_boundary_principle": {
+    "formal_relation": "\\partial\\mathcal P_{\\mathrm{prop}}",
+    "interpretation": "Propagation organization contains boundary structure separating recursively propagatable organizational transfer sectors from non-propagatable transmission regions.",
+    "deep_form": "Propagation possesses finite transmission boundary structure."
+  },
+
+  "propagation_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{prop}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{prop}}^{\\mathrm{collapse}}",
+    "interpretation": "Propagation collapse may deform propagation geometry such that restoration requires different propagation pathways than those traversed during collapse.",
+    "deep_form": "Propagation recovery and collapse need not follow identical geometry."
+  },
+
+  "propagation_curvature_well_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{prop}}\\uparrow\\land\\mathcal K_{\\mathrm{prop}}\\uparrow\\Rightarrow\\mu(\\mathcal P_{\\mathrm{prop}})\\downarrow",
+    "interpretation": "Propagation curvature wells emerge whenever propagation structure remains formally connected while preservable organizational transfer becomes prohibitively unstable.",
+    "deep_form": "Formal propagation connectivity may persist while preservable transmission collapses."
+  },
+
+  "pre_transportability_substrate_principle": {
+    "formal_relation": "x_i\\overset{\\sigma}{\\longrightarrow}x_j\\Rightarrow\\mathcal T_{\\mathrm{trans}}\\text{ becomes possible}",
+    "interpretation": "Stabilized scalable recursive transportability cannot emerge without prior organizational propagation structure.",
+    "deep_form": "Propagation precedes stabilized scalable transportability."
+  },
+
+  "normalization_rules": [
+    "Continuation permits propagation but does not guarantee propagation.",
+    "Propagation introduces sender, pathway, channel, and receiver structure.",
+    "Propagation is the first layer where organizational structure becomes transmissible across sectors.",
+    "Propagation defines transmissible organizational differentiation.",
+    "Propagation requires preservable continuation.",
+    "Propagation requires transmission survivability.",
+    "Propagation may remain directionally asymmetric.",
+    "Propagation topology precedes propagation geometry.",
+    "Propagation geometry governs transmission deformation, receiver accessibility, directional transmissibility, and propagation survivability structure.",
+    "Propagation geometry is organizational before metric.",
+    "Recursive curvature amplification contracts organizational propagation survivability.",
+    "Propagation fragmentation emerges through propagation collapse.",
+    "Protected propagation reservoirs may survive during global propagation contraction.",
+    "Propagation collapse and restoration need not follow identical geometry.",
+    "Receiver compatibility governs propagation survivability.",
+    "Propagation survivability depends upon propagation decodability structure.",
+    "Propagation defines the primitive substrate from which information-like organizational transfer dynamics may emerge.",
+    "Propagation precedes stabilized scalable transportability.",
+    "Propagation does not yet guarantee scalable transport stability."
+  ],
+
+  "deep_compressions": [
+    "Propagation defines directional organizational transfer.",
+    "Propagation is the first layer where organizational structure becomes transmissible across sectors.",
+    "Propagation defines transmissible organizational differentiation.",
+    "Continuation permits propagation but does not guarantee propagation.",
+    "Propagation requires transmission survivability.",
+    "Channel structure governs propagation survivability.",
+    "Propagation topology precedes propagation geometry.",
+    "Propagation geometry is organizational before metric.",
+    "Curvature contracts propagatable organizational transfer.",
+    "Propagation collapse fragments organizational transfer structure.",
+    "Protected propagation reservoirs may survive global contraction.",
+    "Propagation recovery and collapse need not follow identical geometry.",
+    "Undecodable propagation destabilizes transmission survivability.",
+    "Propagation defines the primitive substrate for information-like transfer dynamics.",
+    "Propagation precedes stabilized scalable transportability.",
+    "Propagation does not yet guarantee scalable transport stability."
+  ],
+
+  "connections": [
+    "layer0_distinguishability_v2",
+    "layer0_25_accessibility_v3",
+    "layer0_5_relation_v3",
+    "layer0_75_admissibility",
+    "layer1_continuation_v2",
+    "layer2_transportability_v2",
+    "continuation_boundary_principle",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "spectral_coordination_theory"
+  ],
+
+  "one_sentence_lock": "Layer 1.5 — Propagation states that recursive continuation may propagate organizationally between organizational sectors through directional transmission structure, introducing sender, pathway, channel, and receiver organization, constituting the first recursive layer where organizational structure becomes transmissible across sectors, with propagation survivability governing preservable organizational transfer under deformation and dissipation, channel structure governing transmission survivability, propagation topology inducing propagation geometry, recursive curvature compressing propagatable transfer structure, and recursive propagation forming the primitive substrate from which information-like organizational transfer dynamics and stabilized scalable transportability may later emerge."
+}
