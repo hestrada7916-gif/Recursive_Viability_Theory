@@ -1,0 +1,199 @@
+{
+  "artifact_id": "layer0_75_admissibility",
+  "title": "Layer 0.75 — Admissibility",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "admissibility_filtration_layer",
+
+  "canonical_statement": "Recursive admissibility filters stabilized relation into recursively preservable continuation structure.",
+
+  "deep_compression_statement": "Not every stabilized relation permits continuation.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{adm}}x_j",
+    "interpretation": "Recursive admissibility defines recursively preservable continuation between stabilized organizational configurations.",
+    "deep_form": "Admissibility filters stabilized relation into preservable continuation."
+  },
+
+  "primitive_objects": {
+    "admissible_continuation_relation": {
+      "symbol": "\\rightsquigarrow_{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{adm}}x_j",
+      "role": "recursive admissible continuation relation",
+      "interpretation": "Defines recursively preservable continuation between stabilized organizational configurations."
+    },
+
+    "admissibility_filtration_operator": {
+      "symbol": "\\mathcal F_{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "recursive admissibility filtration operator",
+      "interpretation": "Filters stabilized relational organization into recursively preservable continuation organization."
+    },
+
+    "admissibility_compatibility": {
+      "symbol": "\\chi_{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive admissibility compatibility",
+      "interpretation": "Measures whether stabilized relational organization remains sufficiently compatible with recursively preservable continuation under recursive deformation dynamics."
+    },
+
+    "admissibility_threshold": {
+      "symbol": "\\xi_{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{adm}}>0",
+      "role": "recursive admissibility threshold",
+      "interpretation": "Defines the minimum admissibility compatibility required for preservation of recursively admissible continuation."
+    },
+
+    "admissibility_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive admissibility topology",
+      "interpretation": "Defines recursively admissible continuation connectivity organization generated from admissibility-filtered continuation structure."
+    },
+
+    "admissibility_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive admissibility geometry",
+      "interpretation": "Defines recursive admissibility geometry induced by stabilized admissibility topology."
+    },
+
+    "admissible_continuation_structure": {
+      "symbol": "\\mathfrak A_{\\mathrm{adm}}^{\\mathrm{cont}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursively preservable continuation structure",
+      "interpretation": "Defines the recursively preservable continuation organization surviving admissibility filtration."
+    },
+
+    "admissibility_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{adm}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive admissibility curvature",
+      "interpretation": "Measures recursive admissibility deformation, compatibility compression, continuation instability propagation, and admissibility bottleneck amplification."
+    }
+  },
+
+  "admissibility_dependence_on_relation": {
+    "formal_relation": "x_i\\not\\sim_{\\mathrm{rel}}x_j\\Rightarrow x_i\\not\\rightsquigarrow_{\\mathrm{adm}}x_j",
+    "interpretation": "Recursive admissible continuation cannot stabilize without prior stabilized relational organization.",
+    "deep_form": "Admissibility requires stabilized relational organization."
+  },
+
+  "relation_beyond_admissibility_principle": {
+    "formal_relation": "x_i\\sim_{\\mathrm{rel}}x_j\\not\\Rightarrow x_i\\rightsquigarrow_{\\mathrm{adm}}x_j",
+    "interpretation": "Stabilized organizational relation alone is insufficient for recursively preservable continuation.",
+    "deep_form": "Not every stabilized relation permits continuation."
+  },
+
+  "admissibility_asymmetry_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{adm}}x_j\\not\\Rightarrow x_j\\rightsquigarrow_{\\mathrm{adm}}x_i",
+    "interpretation": "Recursive admissibility may preserve irreversible continuation structure, developmental asymmetry, recovery asymmetry, or hysteretic continuation organization.",
+    "deep_form": "Admissible continuation may remain directionally asymmetric."
+  },
+
+  "admissibility_hierarchy": {
+    "formal_relation": "\\rightsquigarrow_{\\mathrm{acc}}\\rightarrow\\sim_{\\mathrm{rel}}\\rightarrow\\mathcal F_{\\mathrm{adm}}\\rightarrow\\rightsquigarrow_{\\mathrm{adm}}",
+    "interpretation": "Primitive accessibility permits stabilized relation, stabilized relation undergoes admissibility filtration, and admissibility filtration generates recursively preservable continuation organization.",
+    "deep_form": "Admissibility filters relation into continuation."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{adm}}\\Rightarrow\\mathfrak G_{\\mathrm{adm}}",
+    "interpretation": "Admissible continuation connectivity organization stabilizes prior to emergence of coherent admissibility geometry.",
+    "deep_form": "Admissibility topology precedes admissibility geometry."
+  },
+
+  "pre_metric_admissibility_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{adm}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Admissibility geometry organizes recursively preservable continuation structure prior to emergence of stable metric geometry.",
+    "deep_form": "Admissibility geometry is organizational before metric."
+  },
+
+  "admissibility_stability_criterion": {
+    "formal_relation": "\\chi_{\\mathrm{adm}}>\\xi_{\\mathrm{adm}}",
+    "interpretation": "Recursive admissible continuation requires sufficiently preserved admissibility compatibility.",
+    "deep_form": "Admissible continuation requires preserved compatibility."
+  },
+
+  "admissibility_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{adm}}\\uparrow\\Rightarrow\\mu(\\mathfrak A_{\\mathrm{adm}}^{\\mathrm{cont}})\\downarrow",
+    "interpretation": "Recursive admissibility curvature amplification progressively contracts recursively preservable continuation organization.",
+    "deep_form": "Curvature contracts admissible continuation."
+  },
+
+  "admissibility_fragmentation_principle": {
+    "formal_relation": "\\chi_{\\mathrm{adm}}\\le\\xi_{\\mathrm{adm}}\\Rightarrow\\mathfrak T_{\\mathrm{adm}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{adm}}^{(\\alpha)}",
+    "interpretation": "Recursive admissible continuation sectors become increasingly disconnected as admissibility compatibility collapses.",
+    "deep_form": "Admissibility collapse fragments preservable continuation structure."
+  },
+
+  "protected_admissibility_sector_principle": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{adm}}^{\\mathrm{local}}\\neq\\varnothing\\land\\mathfrak T_{\\mathrm{adm}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Localized admissibility reservoirs may remain recursively preservable while globally scalable admissible continuation organization contracts.",
+    "deep_form": "Protected admissibility reservoirs may survive global contraction."
+  },
+
+  "admissibility_boundary_principle": {
+    "formal_relation": "\\partial\\mathfrak A_{\\mathrm{adm}}^{\\mathrm{cont}}",
+    "interpretation": "Admissible continuation organization contains boundary structure separating recursively preservable continuation sectors from non-preservable continuation regions.",
+    "deep_form": "Admissible continuation possesses finite boundary structure."
+  },
+
+  "admissibility_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{adm}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{adm}}^{\\mathrm{collapse}}",
+    "interpretation": "Admissibility collapse may deform admissibility geometry such that restoration requires different admissibility pathways than those traversed during collapse.",
+    "deep_form": "Admissibility recovery and collapse need not follow identical geometry."
+  },
+
+  "pre_transport_substrate_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{adm}}x_j\\Rightarrow\\mathcal T_{\\mathrm{trans}}\\text{ becomes possible}",
+    "interpretation": "Supportable recursive transport cannot emerge without prior admissibility-filtered continuation organization.",
+    "deep_form": "Admissibility precedes stable transportability."
+  },
+
+  "normalization_rules": [
+    "Accessibility permits relation but does not guarantee admissible continuation.",
+    "Admissibility filters stabilized relation into preservable continuation.",
+    "Admissibility requires stabilized relational organization.",
+    "Stabilized relation alone is insufficient for admissible continuation.",
+    "Admissible continuation may remain directionally asymmetric.",
+    "Admissibility topology precedes admissibility geometry.",
+    "Admissibility geometry governs preservable continuation structure.",
+    "Admissibility geometry is organizational before metric.",
+    "Recursive admissibility curvature contracts preservable continuation organization.",
+    "Admissibility fragmentation emerges through admissibility collapse.",
+    "Protected admissibility reservoirs may survive during global admissibility contraction.",
+    "Admissibility collapse and restoration need not follow identical geometry.",
+    "Admissibility precedes stable transportability."
+  ],
+
+  "deep_compressions": [
+    "Not every stabilized relation permits continuation.",
+    "Admissibility filters stabilized relation into preservable continuation.",
+    "Admissibility requires stabilized relational organization.",
+    "Admissible continuation may remain directionally asymmetric.",
+    "Admissibility topology precedes admissibility geometry.",
+    "Admissibility geometry is organizational before metric.",
+    "Curvature contracts admissible continuation.",
+    "Admissibility collapse fragments preservable continuation structure.",
+    "Protected admissibility reservoirs may survive global contraction.",
+    "Admissibility recovery and collapse need not follow identical geometry.",
+    "Admissibility precedes stable transportability."
+  ],
+
+  "connections": [
+    "layer0_distinguishability_v2",
+    "layer0_25_accessibility_v3",
+    "layer0_5_relation_v3",
+    "continuation_admissibility_topology",
+    "continuation_boundary_principle",
+    "layer2_transportability_v2",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "recovery_as_restoration_of_traversable_future_accessibility"
+  ],
+
+  "one_sentence_lock": "Layer 0.75 — Admissibility states that recursive admissibility filters stabilized relational organization into recursively preservable continuation structure, with relation alone being insufficient for admissible continuation, admissible continuation potentially remaining directionally asymmetric, admissibility topology inducing admissibility geometry, recursive curvature compressing preservable continuation organization, and admissibility defining the substrate from which stable transportability becomes possible."
+}
