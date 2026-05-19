@@ -1,0 +1,194 @@
+{
+  "artifact_id": "layer0_distinguishability_v2",
+  "title": "Layer 0 — Distinguishability",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "primitive_pre_relational_distinguishability_layer",
+
+  "canonical_statement": "Recursive organizational emergence requires sufficiently stabilized organizational distinguishability prior to relation, continuation, transport, coordination, or recursive emergence.",
+
+  "deep_compression_statement": "Difference precedes relation.",
+
+  "primitive_principle": {
+    "formal_relation": "\\inf_{t<t_c}\\Delta_{\\mathrm{org}}^{\\mathrm{stab}}(t)>\\xi_{\\mathrm{dist}}",
+    "interpretation": "Recursive organizational emergence requires sufficiently preserved stabilized organizational distinguishability throughout recursive organizational evolution.",
+    "deep_form": "Recursive emergence begins with stabilized distinguishability."
+  },
+
+  "primitive_objects": {
+
+    "organizational_distinguishability": {
+      "symbol": "\\Delta_{\\mathrm{org}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\Delta_{\\mathrm{org}}(x_i,x_j)>0",
+      "role": "organizational distinguishability observable",
+      "interpretation": "Measures recursively meaningful organizational differentiation between organizational configurations."
+    },
+
+    "stabilized_organizational_distinguishability": {
+      "symbol": "\\Delta_{\\mathrm{org}}^{\\mathrm{stab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\Delta_{\\mathrm{org}}^{\\mathrm{stab}}(x_i,x_j)>0",
+      "role": "stabilized organizational distinguishability",
+      "interpretation": "Measures recursively preserved organizational differentiation sufficiently stabilized for recursive relational organization."
+    },
+
+    "organizational_distinguishability_space": {
+      "symbol": "\\mathfrak D_{\\mathrm{org}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "organizational distinguishability substrate",
+      "interpretation": "Defines the primitive distinguishability substrate from which recursive relational organization may emerge."
+    },
+
+    "distinguishability_density": {
+      "symbol": "\\rho_{\\mathrm{dist}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive distinguishability density",
+      "interpretation": "Measures the density of recursively distinguishable organizational configurations preserved across recursive organizational structure."
+    },
+
+    "distinguishability_threshold": {
+      "symbol": "\\xi_{\\mathrm{dist}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{dist}}>0",
+      "role": "recursive distinguishability threshold",
+      "interpretation": "Defines the minimum distinguishability density required for stabilization of recursive organizational relational structure."
+    },
+
+    "primitive_relational_admissibility": {
+      "symbol": "\\sim_{\\mathrm{rel}}",
+      "type_assignment": "\\mathsf{Rel}",
+      "role": "primitive relational admissibility relation",
+      "interpretation": "Defines recursively admissible relational organization between distinguishable organizational configurations."
+    },
+
+    "organizational_relation_structure": {
+      "symbol": "\\mathfrak R_{\\mathrm{org}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive organizational relational structure",
+      "interpretation": "Defines recursively stabilizable organizational relational organization generated from distinguishable organizational configurations."
+    },
+
+    "recursive_observability": {
+      "symbol": "\\mathcal O_{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive observability structure",
+      "interpretation": "Measures recursively preservable observational accessibility generated from stabilized distinguishability preservation."
+    }
+  },
+
+  "pre_metric_distinguishability_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}(x_i,x_j)\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Organizational differentiation does not require pre-existing metric geometry.",
+    "deep_form": "Distinguishability precedes metric geometry."
+  },
+
+  "distinguishability_stability_criterion": {
+    "formal_relation": "\\rho_{\\mathrm{dist}}>\\xi_{\\mathrm{dist}}",
+    "interpretation": "Recursive organizational stabilization requires sufficiently preserved distinguishability density.",
+    "deep_form": "Distinguishability must remain sufficiently preserved."
+  },
+
+  "distinguishability_persistence_principle": {
+    "formal_relation": "\\inf_{t<t_c}\\Delta_{\\mathrm{org}}^{\\mathrm{stab}}(t)>\\xi_{\\mathrm{dist}}",
+    "interpretation": "Recursive distinguishability requires preservation of organizational differentiation throughout recursive organizational evolution rather than transient instantaneous differentiation alone.",
+    "deep_form": "Distinguishability must remain preservably stabilized."
+  },
+
+  "primitive_relational_emergence": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}(x_i,x_j)>0\\Rightarrow\\sim_{\\mathrm{rel}}\\text{ becomes admissibly constructible}",
+    "interpretation": "Recursive organizational distinguishability permits recursively admissible relational organization between organizational configurations.",
+    "deep_form": "Difference permits relation."
+  },
+
+  "relational_stabilization_necessity": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}(x_i,x_j)=0\\Rightarrow\\mathfrak R_{\\mathrm{org}}\\rightarrow\\varnothing",
+    "interpretation": "Without recursively distinguishable organizational configurations, recursive organizational relational structure cannot stabilize.",
+    "deep_form": "Without distinguishability, relation collapses."
+  },
+
+  "pre_continuation_substrate": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}(x_i,x_j)>0\\Rightarrow x_i,x_j\\text{ become admissibly relatable}",
+    "interpretation": "Recursive admissible continuation cannot emerge prior to sufficiently stabilized organizational distinguishability.",
+    "deep_form": "Distinguishability precedes continuation."
+  },
+
+  "pre_transport_substrate": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}(x_i,x_j)=0\\Rightarrow\\mathcal T_{\\mathrm{trans}}\\rightarrow0",
+    "interpretation": "Directional transport organization cannot emerge without organizationally distinguishable configurations.",
+    "deep_form": "Transport requires distinguishability."
+  },
+
+  "pre_coordination_substrate": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}(x_i,x_j)=0\\Rightarrow\\mathcal C_{\\mathrm{coord}}\\rightarrow0",
+    "interpretation": "Recursive coordination requires distinguishable relational structure capable of preserving differentiated continuation organization.",
+    "deep_form": "Coordination requires distinguishability."
+  },
+
+  "pre_emergence_substrate": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}(x_i,x_j)=0\\Rightarrow\\mathcal E_{\\mathrm{rec}}\\rightarrow0",
+    "interpretation": "Recursive emergence cannot stabilize without recursively distinguishable organizational differentiation.",
+    "deep_form": "Emergence requires distinguishability."
+  },
+
+  "distinguishability_collapse_principle": {
+    "formal_relation": "\\rho_{\\mathrm{dist}}\\le\\xi_{\\mathrm{dist}}\\Rightarrow\\mathfrak R_{\\mathrm{org}}\\rightarrow\\varnothing",
+    "interpretation": "Recursive organizational collapse may emerge through loss of organizational differentiation itself.",
+    "deep_form": "Distinguishability collapse destabilizes recursive organization."
+  },
+
+  "observability_emergence_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}^{\\mathrm{stab}}\\Rightarrow\\mathcal O_{\\mathrm{rec}}",
+    "interpretation": "Recursive observational accessibility, detection, recognition, memory, and informational organization require preserved stabilized organizational distinguishability.",
+    "deep_form": "Stabilized distinguishability precedes observability."
+  },
+
+  "spectral_coordination_emergence_bridge": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}^{\\mathrm{stab}}\\Rightarrow\\sim_{\\mathrm{rel}}\\Rightarrow\\mathfrak T_{\\mathrm{rel}}\\Rightarrow\\mathfrak G_{\\mathrm{rel}}\\Rightarrow\\rightsquigarrow_{\\mathrm{adm}}\\Rightarrow\\mathcal T_{\\mathrm{trans}}\\Rightarrow\\mathrm{SCT}",
+    "interpretation": "Spectral coordination dynamics emerge only after stabilized distinguishability permits relational organization, topology, geometry, admissible continuation, and supportable transportability.",
+    "deep_form": "SCT emerges downstream of distinguishability and transportability."
+  },
+
+  "normalization_rules": [
+    "Primitive non-equivalence alone is insufficient for recursive emergence.",
+    "Recursive emergence requires stabilized organizational distinguishability.",
+    "Distinguishability precedes relation.",
+    "Distinguishability precedes continuation.",
+    "Distinguishability precedes transport.",
+    "Distinguishability precedes coordination.",
+    "Distinguishability precedes recursive emergence.",
+    "Organizational distinguishability is pre-metric.",
+    "Distinguishability must remain preservably stabilized.",
+    "Recursive observability emerges from preserved stabilized distinguishability.",
+    "Recursive organizational collapse may emerge through distinguishability homogenization.",
+    "Without distinguishability, recursive relational structure destabilizes.",
+    "SCT emerges downstream of relational geometry and supportable transportability."
+  ],
+
+  "deep_compressions": [
+    "Difference precedes relation.",
+    "Recursive emergence begins with stabilized distinguishability.",
+    "Distinguishability precedes metric geometry.",
+    "Distinguishability must remain preservably stabilized.",
+    "Distinguishability precedes continuation.",
+    "Distinguishability precedes transport.",
+    "Distinguishability precedes coordination.",
+    "Distinguishability precedes recursive emergence.",
+    "Stabilized distinguishability precedes observability.",
+    "Without distinguishability, relation collapses.",
+    "SCT emerges downstream of continuation transportability."
+  ],
+
+  "connections": [
+    "layer0_5_relation",
+    "continuation_admissibility_topology",
+    "layer2_transportability_v2",
+    "spectral_coordination_emergence",
+    "recursive_transport_ontology_of_emergence",
+    "organizational_observability_limitation_principle",
+    "thresholded_viability_geometry",
+    "recursive_accessibility_geometric_flow"
+  ],
+
+  "one_sentence_lock": "Layer 0 — Distinguishability states that recursive organizational emergence requires sufficiently stabilized organizational distinguishability prior to relation, continuation, transport, coordination, observability, or recursive emergence, with stabilized differentiation constituting the primitive pre-relational substrate from which recursive organizational structure becomes admissibly constructible."
+}
