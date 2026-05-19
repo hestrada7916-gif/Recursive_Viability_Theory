@@ -1,0 +1,199 @@
+{
+  "artifact_id": "layer0_25_accessibility_v3",
+  "title": "Layer 0.25 — Accessibility",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "primitive_organizational_accessibility_layer",
+
+  "canonical_statement": "Recursive organizational distinguishability permits primitive organizational accessibility between distinguishable organizational configurations prior to stabilized relation, continuation, transportability, coordination, or recursive viability.",
+
+  "deep_compression_statement": "Accessibility defines potential organizational reachability prior to stabilized relation.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{acc}}x_j",
+    "interpretation": "Recursive accessibility defines primitive organizational reachability between organizationally distinguishable configurations.",
+    "deep_form": "Accessibility defines potential organizational reachability."
+  },
+
+  "primitive_objects": {
+
+    "primitive_accessibility_relation": {
+      "symbol": "\\rightsquigarrow_{\\mathrm{acc}}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{acc}}x_j",
+      "role": "primitive organizational accessibility relation",
+      "interpretation": "Defines primitive organizational accessibility between organizationally distinguishable configurations."
+    },
+
+    "accessibility_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{acc}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive accessibility topology",
+      "interpretation": "Defines recursively admissible accessibility connectivity organization generated from primitive accessibility relations."
+    },
+
+    "accessibility_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{acc}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive accessibility geometry",
+      "interpretation": "Defines recursive accessibility geometry induced by stabilized accessibility topology."
+    },
+
+    "traversable_accessibility_geometry": {
+      "symbol": "\\mathfrak A_{\\mathrm{acc}}^{\\mathrm{trav}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "formal_relation": "\\mathfrak A_{\\mathrm{acc}}^{\\mathrm{trav}}\\subseteq\\mathfrak G_{\\mathrm{acc}}",
+      "role": "traversably accessible geometry",
+      "interpretation": "Defines the traversably reachable subset of recursive accessibility geometry."
+    },
+
+    "accessibility_density": {
+      "symbol": "\\rho_{\\mathrm{acc}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive accessibility density",
+      "interpretation": "Measures the density of recursively accessible organizational reachability pathways preserved across recursive organizational structure."
+    },
+
+    "accessibility_threshold": {
+      "symbol": "\\xi_{\\mathrm{acc}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{acc}}>0",
+      "role": "recursive accessibility threshold",
+      "interpretation": "Defines the minimum accessibility density required for stabilization of recursively accessible organizational reachability structure."
+    },
+
+    "accessibility_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{acc}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive accessibility curvature",
+      "interpretation": "Measures recursive accessibility deformation, barrier amplification, reachability compression, and directional accessibility distortion induced across accessibility geometry."
+    },
+
+    "accessibility_traversal_burden": {
+      "symbol": "\\Gamma_{\\mathrm{acc}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive accessibility traversal burden",
+      "interpretation": "Measures traversal burden, accessibility resistance, barrier intensity, and organizational traversal difficulty across accessibility geometry."
+    }
+  },
+
+  "accessibility_dependence_on_distinguishability": {
+    "formal_relation": "\\Delta_{\\mathrm{org}}(x_i,x_j)=0\\Rightarrow x_i\\not\\rightsquigarrow_{\\mathrm{acc}}x_j",
+    "interpretation": "Recursive accessibility requires organizational distinguishability.",
+    "deep_form": "Without distinguishability, accessibility cannot stabilize."
+  },
+
+  "accessibility_nonrelational_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{acc}}x_j\\not\\Rightarrow x_i\\sim_{\\mathrm{rel}}x_j",
+    "interpretation": "Accessibility does not imply stabilized relational organization.",
+    "deep_form": "Potential organizational reachability alone is insufficient for stabilized relation."
+  },
+
+  "accessibility_asymmetry_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{acc}}x_j\\not\\Rightarrow x_j\\rightsquigarrow_{\\mathrm{acc}}x_i",
+    "interpretation": "Accessibility organization may preserve directional asymmetry, barrier structure, irreversible accessibility deformation, or accessibility hysteresis.",
+    "deep_form": "Accessibility may remain directionally asymmetric."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{acc}}x_j\\Rightarrow\\mathfrak T_{\\mathrm{acc}}\\Rightarrow\\mathfrak G_{\\mathrm{acc}}",
+    "interpretation": "Accessibility connectivity organization stabilizes prior to emergence of coherent accessibility geometry.",
+    "deep_form": "Accessibility topology precedes accessibility geometry."
+  },
+
+  "pre_metric_accessibility_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{acc}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Accessibility geometry organizes reachability, compression, barrier structure, and directional accessibility deformation prior to emergence of stable metric geometry.",
+    "deep_form": "Accessibility geometry is organizational before metric."
+  },
+
+  "accessibility_stability_criterion": {
+    "formal_relation": "\\rho_{\\mathrm{acc}}>\\xi_{\\mathrm{acc}}",
+    "interpretation": "Recursive accessibility organization requires sufficiently preserved accessibility density.",
+    "deep_form": "Accessibility requires preserved reachability density."
+  },
+
+  "accessibility_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{acc}}\\uparrow\\Rightarrow\\mu(\\mathfrak A_{\\mathrm{acc}}^{\\mathrm{trav}})\\downarrow",
+    "interpretation": "Recursive curvature amplification compresses traversably accessible organizational geometry, reducing future organizational reachability.",
+    "deep_form": "Curvature compresses traversable accessibility."
+  },
+
+  "accessibility_fragmentation_principle": {
+    "formal_relation": "\\rho_{\\mathrm{acc}}\\le\\xi_{\\mathrm{acc}}\\Rightarrow\\mathfrak T_{\\mathrm{acc}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{acc}}^{(\\alpha)}",
+    "interpretation": "Accessibility collapse induces accessibility fragmentation into increasingly isolated organizational sectors.",
+    "deep_form": "Accessibility collapse fragments organizational reachability."
+  },
+
+  "protected_accessibility_sector_principle": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{acc}}^{\\mathrm{local}}\\neq\\varnothing\\land\\mathfrak T_{\\mathrm{acc}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Localized accessibility reservoirs may remain reachable while globally scalable accessibility organization contracts.",
+    "deep_form": "Protected accessibility reservoirs may survive global contraction."
+  },
+
+  "accessibility_boundary_principle": {
+    "formal_relation": "\\partial\\mathfrak A_{\\mathrm{acc}}^{\\mathrm{trav}}",
+    "interpretation": "Traversable accessibility geometry contains boundary structure separating organizationally reachable from inaccessible sectors.",
+    "deep_form": "Accessibility possesses finite traversability boundary structure."
+  },
+
+  "accessibility_hysteresis_principle": {
+    "formal_relation": "\\mathfrak A_{\\mathrm{acc}}^{\\mathrm{trav,return}}\\neq\\mathfrak A_{\\mathrm{acc}}^{\\mathrm{trav,collapse}}",
+    "interpretation": "Accessibility collapse may deform traversable accessibility structure such that restoration requires different accessibility pathways than those traversed during collapse.",
+    "deep_form": "Accessibility recovery and collapse need not follow identical traversability geometry."
+  },
+
+  "accessibility_curvature_well_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{acc}}\\uparrow\\land\\mathcal K_{\\mathrm{acc}}\\uparrow\\Rightarrow\\mathfrak A_{\\mathrm{acc}}^{\\mathrm{trav}}\\downarrow",
+    "interpretation": "Accessibility curvature wells emerge whenever accessibility remains formally preserved but traversal burden becomes prohibitively amplified.",
+    "deep_form": "Formal accessibility may persist while practical traversability collapses."
+  },
+
+  "pre_relational_substrate_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{acc}}x_j\\Rightarrow\\text{relational stabilization becomes possible}",
+    "interpretation": "Recursive relational organization cannot stabilize without prior organizational accessibility structure.",
+    "deep_form": "Accessibility precedes stabilized relation."
+  },
+
+  "normalization_rules": [
+    "Accessibility defines primitive organizational reachability.",
+    "Accessibility precedes stabilized relation.",
+    "Accessibility does not imply stabilized relation.",
+    "Accessibility topology organizes reachability structure.",
+    "Accessibility topology precedes accessibility geometry.",
+    "Accessibility geometry governs accessibility deformation.",
+    "Accessibility geometry is organizational before metric.",
+    "Accessibility may remain directionally asymmetric.",
+    "Accessibility fragmentation emerges through accessibility collapse.",
+    "Recursive curvature amplification compresses traversable accessibility geometry.",
+    "Protected accessibility reservoirs may survive during global accessibility contraction.",
+    "Accessibility curvature wells may preserve formal accessibility while preventing practical traversability.",
+    "Accessibility defines the primitive reachability substrate from which stabilized relational organization becomes constructible."
+  ],
+
+  "deep_compressions": [
+    "Accessibility defines potential organizational reachability.",
+    "Accessibility precedes stabilized relation.",
+    "Potential organizational accessibility alone does not imply stabilized relation.",
+    "Accessibility topology precedes accessibility geometry.",
+    "Accessibility geometry is organizational before metric.",
+    "Accessibility may remain directionally asymmetric.",
+    "Curvature compresses traversable accessibility.",
+    "Accessibility collapse fragments organizational reachability.",
+    "Protected accessibility reservoirs may survive global contraction.",
+    "Formal accessibility may persist while practical traversability collapses."
+  ],
+
+  "connections": [
+    "layer0_distinguishability_v2",
+    "layer0_5_relation",
+    "continuation_admissibility_topology",
+    "continuation_boundary_principle",
+    "recovery_as_restoration_of_traversable_future_accessibility",
+    "future_accessibility_contraction_geometry",
+    "recursive_curvature_principle",
+    "organizational_observability_limitation_principle"
+  ],
+
+  "one_sentence_lock": "Layer 0.25 — Accessibility states that recursive organizational distinguishability permits primitive organizational accessibility between distinguishable configurations prior to stabilized relation, with accessibility topology generating accessibility geometry, curvature compressing traversable accessibility structure, and formal accessibility potentially persisting even while practical traversability collapses."
+}
