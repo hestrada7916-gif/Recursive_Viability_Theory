@@ -1,0 +1,214 @@
+{
+  "artifact_id": "layer0_5_relation_v3",
+  "title": "Layer 0.5 — Relation",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "stabilized_organizational_relation_layer",
+
+  "canonical_statement": "Recursive accessibility may stabilize into recursively meaningful organizational relational structure between organizationally accessible configurations.",
+
+  "deep_compression_statement": "Relation stabilizes organizational influence structure.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\sim_{\\mathrm{rel}}x_j",
+    "interpretation": "Recursive relation defines stabilized organizational influence structure between organizationally accessible configurations.",
+    "deep_form": "Relation stabilizes organizational influence structure."
+  },
+
+  "primitive_objects": {
+
+    "primitive_relational_relation": {
+      "symbol": "\\sim_{\\mathrm{rel}}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\sim_{\\mathrm{rel}}x_j",
+      "role": "primitive stabilized organizational relation",
+      "interpretation": "Defines recursively stabilized organizational relation between organizationally accessible configurations."
+    },
+
+    "organizational_relational_structure": {
+      "symbol": "\\mathfrak R_{\\mathrm{org}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive organizational relational structure",
+      "interpretation": "Defines recursively stabilized organizational relation structure generated between organizationally accessible configurations."
+    },
+
+    "stable_relational_structure": {
+      "symbol": "\\mathfrak R_{\\mathrm{rel}}^{\\mathrm{stable}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "formal_relation": "\\mathfrak R_{\\mathrm{rel}}^{\\mathrm{stable}}\\subseteq\\mathfrak R_{\\mathrm{org}}",
+      "role": "stabilized relational structure",
+      "interpretation": "Defines the stabilized subset of recursive organizational relational structure preserving recursively maintainable organizational influence organization."
+    },
+
+    "relational_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{rel}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive relational topology",
+      "interpretation": "Defines relational connectivity organization induced by stabilized organizational relations."
+    },
+
+    "relational_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{rel}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive relational geometry",
+      "interpretation": "Defines recursive relational geometry induced by stabilized relational topology."
+    },
+
+    "relational_density": {
+      "symbol": "\\rho_{\\mathrm{rel}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive relational density",
+      "interpretation": "Measures the density of recursively stabilized organizational relations preserved across recursive organizational structure."
+    },
+
+    "relational_threshold": {
+      "symbol": "\\xi_{\\mathrm{rel}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{rel}}>0",
+      "role": "recursive relational stabilization threshold",
+      "interpretation": "Defines the minimum stabilized relational density required for preservation of recursive relational organization."
+    },
+
+    "relational_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{rel}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive relational curvature",
+      "interpretation": "Measures recursive relational deformation, influence amplification, constraint concentration, and relational instability propagation across relational geometry."
+    },
+
+    "relational_stabilization_burden": {
+      "symbol": "\\Gamma_{\\mathrm{rel}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive relational stabilization burden",
+      "interpretation": "Measures recursive stabilization burden, interactional deformation pressure, and relational maintenance cost induced across recursive organizational structure."
+    }
+  },
+
+  "relation_dependence_on_accessibility": {
+    "formal_relation": "x_i\\not\\rightsquigarrow_{\\mathrm{acc}}x_j\\Rightarrow x_i\\not\\sim_{\\mathrm{rel}}x_j",
+    "interpretation": "Recursive relational stabilization requires accessibility.",
+    "deep_form": "Relation requires prior accessibility organization."
+  },
+
+  "relation_beyond_accessibility_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{acc}}x_j\\not\\Rightarrow x_i\\sim_{\\mathrm{rel}}x_j",
+    "interpretation": "Potential organizational reachability does not necessarily stabilize into persistent organizational influence structure.",
+    "deep_form": "Accessibility alone is insufficient for stabilized relation."
+  },
+
+  "relational_asymmetry_principle": {
+    "formal_relation": "x_i\\sim_{\\mathrm{rel}}x_j\\not\\Rightarrow x_j\\sim_{\\mathrm{rel}}x_i",
+    "interpretation": "Relational influence organization may preserve directional asymmetry, hierarchical influence structure, suppression organization, or irreversible relational deformation.",
+    "deep_form": "Relational organization may remain directionally asymmetric."
+  },
+
+  "relational_hierarchy": {
+    "formal_relation": "x_i\\sim_{\\mathrm{rel}}x_j\\Rightarrow\\mathfrak R_{\\mathrm{org}}\\Rightarrow\\mathfrak T_{\\mathrm{rel}}\\Rightarrow\\mathfrak G_{\\mathrm{rel}}",
+    "interpretation": "Primitive relational stabilization first generates recursively meaningful organizational relation structure, which induces relational topology and subsequently relational geometry.",
+    "deep_form": "Relational structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathfrak R_{\\mathrm{org}}\\Rightarrow\\mathfrak T_{\\mathrm{rel}}\\Rightarrow\\mathfrak G_{\\mathrm{rel}}",
+    "interpretation": "Relational connectivity organization stabilizes prior to emergence of coherent relational geometry.",
+    "deep_form": "Relational topology precedes relational geometry."
+  },
+
+  "pre_metric_relational_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{rel}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Relational geometry organizes influence structure, deformation, constraint propagation, and organizational interaction organization prior to emergence of stable metric geometry.",
+    "deep_form": "Relational geometry is organizational before metric."
+  },
+
+  "relational_stability_criterion": {
+    "formal_relation": "\\rho_{\\mathrm{rel}}>\\xi_{\\mathrm{rel}}",
+    "interpretation": "Recursive relational organization requires sufficiently preserved relational density.",
+    "deep_form": "Stable relation requires preserved relational density."
+  },
+
+  "relational_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{rel}}\\uparrow\\Rightarrow\\mu(\\mathfrak R_{\\mathrm{rel}}^{\\mathrm{stable}})\\downarrow",
+    "interpretation": "Recursive curvature amplification contracts stabilized relational organization, increasing relational instability and fragmentation pressure.",
+    "deep_form": "Curvature contracts stabilized relational organization."
+  },
+
+  "relational_fragmentation_principle": {
+    "formal_relation": "\\rho_{\\mathrm{rel}}\\le\\xi_{\\mathrm{rel}}\\Rightarrow\\mathfrak T_{\\mathrm{rel}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{rel}}^{(\\alpha)}",
+    "interpretation": "Recursive relational collapse induces fragmentation into increasingly disconnected relational sectors.",
+    "deep_form": "Relational collapse fragments stabilized organizational structure."
+  },
+
+  "protected_relational_sector_principle": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{rel}}^{\\mathrm{local}}\\neq\\varnothing\\land\\mathfrak T_{\\mathrm{rel}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Localized relational reservoirs may remain stable while globally scalable relational organization contracts.",
+    "deep_form": "Protected relational reservoirs may survive global contraction."
+  },
+
+  "relational_boundary_principle": {
+    "formal_relation": "\\partial\\mathfrak R_{\\mathrm{rel}}^{\\mathrm{stable}}",
+    "interpretation": "Stabilized relational organization contains boundary structure separating stable relational sectors from unstable or non-stabilizable relational regions.",
+    "deep_form": "Stable relational organization possesses finite boundary structure."
+  },
+
+  "relational_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{rel}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{rel}}^{\\mathrm{collapse}}",
+    "interpretation": "Relational collapse may deform relational geometry such that restoration requires different relational pathways than those traversed during collapse.",
+    "deep_form": "Relational recovery and collapse need not follow identical relational geometry."
+  },
+
+  "relational_curvature_well_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{rel}}\\uparrow\\land\\mathcal K_{\\mathrm{rel}}\\uparrow\\Rightarrow\\mathfrak R_{\\mathrm{rel}}^{\\mathrm{stable}}\\downarrow",
+    "interpretation": "Relational curvature wells emerge whenever relational organization remains formally connected while stabilized relational maintenance becomes prohibitively difficult.",
+    "deep_form": "Formal relational connectivity may persist while stable relational maintenance collapses."
+  },
+
+  "pre_constraint_substrate_principle": {
+    "formal_relation": "x_i\\sim_{\\mathrm{rel}}x_j\\Rightarrow\\text{constraint filtration becomes possible}",
+    "interpretation": "Recursive admissibility constraint cannot emerge without prior stabilized relational organization.",
+    "deep_form": "Relation permits admissibility filtration structure."
+  },
+
+  "normalization_rules": [
+    "Accessibility permits relation but does not guarantee stabilized relation.",
+    "Relation stabilizes organizational influence structure.",
+    "Relation requires prior accessibility organization.",
+    "Relational influence organization may remain directionally asymmetric.",
+    "Relational structure induces topology which induces geometry.",
+    "Relational topology organizes stabilized connectivity.",
+    "Relational topology precedes relational geometry.",
+    "Relational geometry governs influence deformation and constraint propagation.",
+    "Relational geometry is organizational before metric.",
+    "Recursive curvature amplification contracts stabilized relational organization.",
+    "Relational fragmentation emerges through relational collapse.",
+    "Protected local relational reservoirs may survive during global relational contraction.",
+    "Relational curvature wells may preserve formal connectivity while destabilizing practical relational maintenance.",
+    "Stabilized relational organization defines the substrate from which admissibility constraint becomes constructible."
+  ],
+
+  "deep_compressions": [
+    "Relation stabilizes organizational influence structure.",
+    "Accessibility permits relation, but does not guarantee stabilized relation.",
+    "Relation requires prior accessibility organization.",
+    "Relational structure induces topology which induces geometry.",
+    "Relational topology precedes relational geometry.",
+    "Relational geometry is organizational before metric.",
+    "Curvature contracts stabilized relational organization.",
+    "Relational collapse fragments stabilized organizational structure.",
+    "Protected relational reservoirs may survive global contraction.",
+    "Formal relational connectivity may persist while stable relational maintenance collapses.",
+    "Relation permits admissibility filtration structure."
+  ],
+
+  "connections": [
+    "layer0_distinguishability_v2",
+    "layer0_25_accessibility_v3",
+    "continuation_admissibility_topology",
+    "continuation_boundary_principle",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "organizational_observability_limitation_principle",
+    "layer2_transportability_v2"
+  ],
+
+  "one_sentence_lock": "Layer 0.5 — Relation states that recursive accessibility may stabilize into recursively meaningful organizational relational structure between organizationally accessible configurations, with relational structure inducing topology and topology inducing geometry, recursive curvature amplifying relational instability and fragmentation pressure, and stabilized relational organization forming the substrate from which admissibility constraint becomes constructible."
+}
