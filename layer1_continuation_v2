@@ -1,0 +1,246 @@
+{
+  "artifact_id": "layer1_continuation_v2",
+  "title": "Layer 1 — Continuation",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "preservable_recursive_continuation_layer",
+
+  "canonical_statement": "Recursive continuation emerges when admissibility-filtered organizational structure remains preservably traversable across recursive transformation.",
+
+  "deep_compression_statement": "Continuation is not sameness.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{cont}}x_j",
+    "interpretation": "Recursive continuation defines preservable recursive organizational continuation across transformation.",
+    "deep_form": "Continuation preserves organizational lineage across transformation."
+  },
+
+  "primitive_objects": {
+
+    "recursive_continuation_relation": {
+      "symbol": "\\rightsquigarrow_{\\mathrm{cont}}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{cont}}x_j",
+      "role": "recursive continuation relation",
+      "interpretation": "Defines preservable recursive organizational continuation between configurations."
+    },
+
+    "recursive_continuation_structure": {
+      "symbol": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive continuation structure",
+      "interpretation": "Defines recursively preservable organizational continuation structure generated from admissibility-filtered organizational relations."
+    },
+
+    "continuation_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{cont}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive continuation topology",
+      "interpretation": "Defines recursive continuation connectivity organization induced by stabilized continuation structure."
+    },
+
+    "continuation_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{cont}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive continuation geometry",
+      "interpretation": "Defines recursive continuation geometry induced by stabilized continuation topology."
+    },
+
+    "continuation_density": {
+      "symbol": "\\rho_{\\mathrm{cont}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive continuation density",
+      "interpretation": "Measures the density of recursively preservable continuation pathways maintained across recursive organizational structure."
+    },
+
+    "continuation_threshold": {
+      "symbol": "\\xi_{\\mathrm{cont}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{cont}}>0",
+      "role": "recursive continuation threshold",
+      "interpretation": "Defines the minimum continuation density required for stabilized recursive continuation organization."
+    },
+
+    "continuation_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{cont}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive continuation curvature",
+      "interpretation": "Measures recursive continuation deformation, lineage curvature, transformational bottleneck amplification, and continuation instability propagation across continuation geometry."
+    },
+
+    "continuation_burden": {
+      "symbol": "\\Gamma_{\\mathrm{cont}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive continuation burden",
+      "interpretation": "Measures recursive continuation maintenance burden, transformational strain, lineage preservation difficulty, and organizational persistence cost across recursive continuation geometry."
+    },
+
+    "continuation_equivalence_class": {
+      "symbol": "[x]_{\\mathrm{cont}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "formal_relation": "[x]_{\\mathrm{cont}}=\\{y:x\\rightsquigarrow_{\\mathrm{cont}}y\\land y\\rightsquigarrow_{\\mathrm{cont}}x\\}",
+      "role": "recursive continuation equivalence class",
+      "interpretation": "Defines the bidirectionally preservable continuation class associated with organizational state x."
+    },
+
+    "directional_continuation_lineage": {
+      "symbol": "\\mathcal L_{\\mathrm{cont}}(x)",
+      "type_assignment": "\\mathsf{Struct}",
+      "formal_relation": "\\mathcal L_{\\mathrm{cont}}(x)=\\{y:x\\rightsquigarrow_{\\mathrm{cont}}y\\}",
+      "role": "directional recursive continuation lineage",
+      "interpretation": "Defines the directional continuation lineage reachable from organizational state x."
+    }
+
+  },
+
+  "continuation_dependence_on_admissibility": {
+    "formal_relation": "x_i\\not\\rightsquigarrow_{\\mathrm{adm}}x_j\\Rightarrow x_i\\not\\rightsquigarrow_{\\mathrm{cont}}x_j",
+    "interpretation": "Recursive continuation cannot stabilize without prior admissible organizational continuation structure.",
+    "deep_form": "Continuation requires admissibility."
+  },
+
+  "admissibility_beyond_continuation_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{adm}}x_j\\not\\Rightarrow x_i\\rightsquigarrow_{\\mathrm{cont}}x_j",
+    "interpretation": "An admissible continuation relation may exist locally while failing to stabilize into preservable recursive continuation across transformation, scale, or deformation.",
+    "deep_form": "Admissibility alone is insufficient for stabilized continuation."
+  },
+
+  "continuation_nonidentity_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{cont}}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Recursive continuation preserves existence-like organizational lineage without requiring static identity.",
+    "deep_form": "Continuation is not identical persistence."
+  },
+
+  "continuation_hierarchy": {
+    "formal_relation": "\\rightsquigarrow_{\\mathrm{adm}}\\rightarrow\\rightsquigarrow_{\\mathrm{cont}}\\rightarrow\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathfrak T_{\\mathrm{cont}}\\rightarrow\\mathfrak G_{\\mathrm{cont}}",
+    "interpretation": "Admissibility-filtered structure permits continuation, continuation generates recursive continuation structure, continuation structure induces continuation topology, and stabilized continuation topology induces continuation geometry.",
+    "deep_form": "Continuation structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\Rightarrow\\mathfrak T_{\\mathrm{cont}}\\Rightarrow\\mathfrak G_{\\mathrm{cont}}",
+    "interpretation": "Continuation reachability, lineage structure, sector connectivity, and fragmentation organization stabilize prior to emergence of coherent continuation geometry.",
+    "deep_form": "Continuation topology precedes continuation geometry."
+  },
+
+  "pre_metric_continuation_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{cont}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Continuation geometry organizes preservable lineage, transformation, recoverability, and recursive persistence structure prior to emergence of stable metric geometry.",
+    "deep_form": "Continuation geometry is organizational before metric."
+  },
+
+  "continuation_stability_criterion": {
+    "formal_relation": "\\rho_{\\mathrm{cont}}>\\xi_{\\mathrm{cont}}",
+    "interpretation": "Recursive continuation requires sufficiently preserved continuation density.",
+    "deep_form": "Stable continuation requires preserved continuation density."
+  },
+
+  "continuation_asymmetry_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{cont}}x_j\\not\\Rightarrow x_j\\rightsquigarrow_{\\mathrm{cont}}x_i",
+    "interpretation": "Continuation organization may preserve developmental asymmetry, irreversible transformation, collapse asymmetry, recovery asymmetry, or hysteretic continuation structure.",
+    "deep_form": "Continuation may remain directionally asymmetric."
+  },
+
+  "transformational_continuation_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{cont}}x_j\\land x_i\\neq x_j",
+    "interpretation": "Transformation does not imply recursive collapse. Recursive continuation permits viable reorganization, development, morphogenesis, learning, repair, and regenerative restructuring.",
+    "deep_form": "Transformation does not imply collapse."
+  },
+
+  "continuation_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{cont}}\\uparrow\\Rightarrow\\mu(\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}})\\downarrow",
+    "interpretation": "Recursive curvature amplification contracts preservable continuation organization, increasing continuation instability and fragmentation pressure.",
+    "deep_form": "Curvature contracts preservable continuation."
+  },
+
+  "continuation_fragmentation_principle": {
+    "formal_relation": "\\rho_{\\mathrm{cont}}\\le\\xi_{\\mathrm{cont}}\\Rightarrow\\mathfrak T_{\\mathrm{cont}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{cont}}^{(\\alpha)}",
+    "interpretation": "Recursive continuation sectors become increasingly disconnected as preservable continuation organization collapses.",
+    "deep_form": "Continuation collapse fragments preservable continuation structure."
+  },
+
+  "protected_continuation_sector_principle": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{cont}}^{\\mathrm{local}}\\neq\\varnothing\\land\\mathfrak T_{\\mathrm{cont}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Protected local continuation reservoirs may remain recursively preservable while globally scalable continuation organization contracts.",
+    "deep_form": "Protected continuation reservoirs may survive global contraction."
+  },
+
+  "continuation_boundary_principle": {
+    "formal_relation": "\\partial\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}",
+    "interpretation": "Continuation organization contains boundary structure separating recursively preservable continuation sectors from non-preservable transformation regions.",
+    "deep_form": "Continuation possesses finite admissibility boundary structure."
+  },
+
+  "continuation_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{cont}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{cont}}^{\\mathrm{collapse}}",
+    "interpretation": "Continuation collapse may deform continuation geometry such that restoration requires different continuation pathways than those traversed during collapse.",
+    "deep_form": "Continuation recovery and collapse need not follow identical geometry."
+  },
+
+  "continuation_curvature_well_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{cont}}\\uparrow\\land\\mathcal K_{\\mathrm{cont}}\\uparrow\\Rightarrow\\mu(\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}})\\downarrow",
+    "interpretation": "Continuation curvature wells emerge whenever continuation structure remains formally connected while preservable continuation maintenance becomes prohibitively difficult.",
+    "deep_form": "Formal continuation connectivity may persist while preservable continuation collapses."
+  },
+
+  "temporal_emergence_consequence": {
+    "formal_relation": "\\mathcal C_{\\mathrm{cont}}^{\\mathrm{rec}}\\rightarrow\\mathcal O_{\\tau}^{\\mathrm{stab}}\\rightarrow\\tau_{\\mathrm{rec}}",
+    "interpretation": "Clock-like temporality is not primitive. Recursive temporal organization emerges from stabilized preservable continuation ordering.",
+    "deep_form": "Recursive temporality emerges from stabilized continuation ordering."
+  },
+
+  "pre_coordination_substrate_principle": {
+    "formal_relation": "x_i\\rightsquigarrow_{\\mathrm{cont}}x_j\\Rightarrow\\mathcal C_{\\mathrm{coord}}\\text{ becomes possible}",
+    "interpretation": "Recursive coordination cannot emerge without prior preservable recursive continuation structure.",
+    "deep_form": "Continuation precedes recursive coordination."
+  },
+
+  "normalization_rules": [
+    "Continuation is not identical state persistence.",
+    "Continuation emerges from admissibility-filtered organizational structure.",
+    "Admissibility alone is insufficient for stabilized continuation.",
+    "Continuation preserves organizational lineage across transformation.",
+    "Continuation equivalence classes preserve bidirectional organizational continuity.",
+    "Continuation may remain directionally asymmetric.",
+    "Directional continuation lineages need not remain reversible.",
+    "Continuation topology precedes continuation geometry.",
+    "Continuation geometry is organizational before metric.",
+    "Recursive curvature amplification contracts preservable continuation organization.",
+    "Continuation fragmentation emerges through continuation collapse.",
+    "Protected continuation reservoirs may survive during global continuation contraction.",
+    "Continuation collapse and restoration need not follow identical geometry.",
+    "Recursive temporality emerges from stabilized continuation ordering.",
+    "Continuation precedes recursive coordination."
+  ],
+
+  "deep_compressions": [
+    "Continuation is not sameness.",
+    "Continuation preserves organizational lineage across transformation.",
+    "Admissibility alone is insufficient for stabilized continuation.",
+    "Continuation may remain directionally asymmetric.",
+    "Transformation does not imply collapse.",
+    "Continuation topology precedes continuation geometry.",
+    "Continuation geometry is organizational before metric.",
+    "Curvature contracts preservable continuation.",
+    "Continuation collapse fragments preservable continuation structure.",
+    "Protected continuation reservoirs may survive global contraction.",
+    "Continuation recovery and collapse need not follow identical geometry.",
+    "Recursive temporality emerges from stabilized continuation ordering.",
+    "Continuation precedes recursive coordination."
+  ],
+
+  "connections": [
+    "layer0_distinguishability_v2",
+    "layer0_25_accessibility_v3",
+    "layer0_5_relation_v3",
+    "layer0_75_admissibility",
+    "continuation_admissibility_topology",
+    "continuation_boundary_principle",
+    "layer2_transportability_v2",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "recovery_as_restoration_of_traversable_future_accessibility"
+  ],
+
+  "one_sentence_lock": "Layer 1 — Continuation states that recursive continuation emerges when admissibility-filtered organizational structure remains preservably traversable across recursive transformation, with continuation preserving organizational lineage without requiring identical persistence, continuation topology inducing continuation geometry, recursive curvature compressing preservable continuation organization, stabilized continuation ordering generating recursive temporality, and recursive continuation forming the substrate from which recursive coordination becomes possible."
+}
