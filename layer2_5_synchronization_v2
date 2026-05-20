@@ -1,0 +1,313 @@
+{
+  "artifact_id": "layer2_5_synchronization_v2",
+  "title": "Layer 2.5 — Synchronization",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_phase_coherence_layer",
+
+  "canonical_statement": "Recursive synchronization governs whether recursively transportable organizational structure remains sufficiently phase-coherent through directional and reciprocal recursive timing alignment under recursive timing deformation, dissipation, and synchronization instability across recursive organizational sectors.",
+
+  "deep_compression_statement": "Synchronization defines recursive phase coherence.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\Phi}{\\longleftrightarrow}x_j",
+    "interpretation": "Recursive synchronization defines coherent recursive phase alignment between organizational configurations.",
+    "deep_form": "Synchronization defines recursive phase coherence."
+  },
+
+  "primitive_objects": {
+
+    "recursive_synchronization_relation": {
+      "symbol": "\\overset{\\Phi}{\\longleftrightarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\Phi}{\\longleftrightarrow}x_j",
+      "role": "recursive synchronization relation",
+      "interpretation": "Defines recursive phase-aligned synchronization between organizational configurations."
+    },
+
+    "directional_synchronization_relation": {
+      "symbol": "\\overset{\\Phi}{\\longrightarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\Phi}{\\longrightarrow}x_j",
+      "role": "directional recursive synchronization relation",
+      "interpretation": "Defines directional recursive phase influence, entrainment pressure, or cadence alignment between organizational configurations."
+    },
+
+    "recursive_synchronization_structure": {
+      "symbol": "\\mathcal S_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive synchronization structure",
+      "interpretation": "Defines recursively phase-coherent organizational synchronization structure generated from recursively transportable organizational transfer."
+    },
+
+    "synchronization_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive synchronization topology",
+      "interpretation": "Defines recursive synchronization connectivity organization induced by stabilized synchronization structure."
+    },
+
+    "synchronization_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive synchronization geometry",
+      "interpretation": "Defines recursive synchronization geometry induced by stabilized synchronization topology."
+    },
+
+    "synchronization_density": {
+      "symbol": "\\rho_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive synchronization density",
+      "interpretation": "Measures the density of recursively phase-coherent synchronization pathways preserved across recursive organizational structure."
+    },
+
+    "synchronization_threshold": {
+      "symbol": "\\xi_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{sync}}>0",
+      "role": "recursive synchronization threshold",
+      "interpretation": "Defines the minimum synchronization density required for stable recursive synchronization organization."
+    },
+
+    "synchronization_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive synchronization survivability",
+      "interpretation": "Measures recursively preservable synchronization survivability under timing drift, phase deformation, recursive dissipation, cadence instability, and synchronization burden amplification."
+    },
+
+    "synchronization_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{sync}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{sync}}^{\\Sigma}>0",
+      "role": "recursive synchronization survivability threshold",
+      "interpretation": "Defines the minimum synchronization survivability required for preservable recursive synchronization."
+    },
+
+    "synchronization_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive synchronization curvature",
+      "interpretation": "Measures recursive synchronization deformation, phase instability amplification, cadence distortion, and synchronization survivability contraction across recursive synchronization geometry."
+    },
+
+    "synchronization_burden": {
+      "symbol": "\\Gamma_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive synchronization burden",
+      "interpretation": "Measures synchronization maintenance burden, phase stabilization strain, cadence regulation cost, and recursive coherence maintenance pressure."
+    },
+
+    "entrainment_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "formal_relation": "\\mathcal B_{\\mathrm{sync}}\\subseteq\\mathfrak G_{\\mathrm{sync}}",
+      "role": "recursive synchronization entrainment basin",
+      "interpretation": "Defines regions of recursive phase-attractive coherence toward which organizational sectors naturally entrain under sufficiently preserved synchronization survivability."
+    },
+
+    "synchronization_attractor": {
+      "symbol": "\\mathcal A_{\\mathrm{sync}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive synchronization attractor",
+      "interpretation": "Defines stable recursive synchronization attractors generated through repeated survivability reinforcement and recursive entrainment dynamics."
+    }
+
+  },
+
+  "synchronization_dependence_on_transportability": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal T}{\\Longrightarrow}x_j\\Rightarrow x_i\\not\\overset{\\Phi}{\\longleftrightarrow}x_j",
+    "interpretation": "Recursive synchronization cannot stabilize without prior supportably scalable recursive transportability.",
+    "deep_form": "Synchronization requires transportability."
+  },
+
+  "transportability_beyond_synchronization_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal T}{\\Longrightarrow}x_j\\not\\Rightarrow x_i\\overset{\\Phi}{\\longleftrightarrow}x_j",
+    "interpretation": "Scalable recursive transport may remain survivable while failing to stabilize into coherent recursive phase alignment due to timing drift, synchronization instability, phase incompatibility, cadence mismatch, recursive desynchronization, or coherence collapse.",
+    "deep_form": "Transportability alone is insufficient for synchronization."
+  },
+
+  "directional_synchronization_asymmetry_principle": {
+    "formal_relation": "x_i\\overset{\\Phi}{\\longrightarrow}x_j\\not\\Rightarrow x_j\\overset{\\Phi}{\\longrightarrow}x_i",
+    "interpretation": "Recursive synchronization may preserve directional entrainment asymmetry, cadence dominance, phase-leading organization, or asymmetric synchronization influence.",
+    "deep_form": "Directional synchronization may remain asymmetric."
+  },
+
+  "synchronization_reciprocity_emergence": {
+    "formal_relation": "x_i\\overset{\\Phi}{\\longrightarrow}x_j\\land x_j\\overset{\\Phi}{\\longrightarrow}x_i\\Rightarrow x_i\\overset{\\Phi}{\\longleftrightarrow}x_j",
+    "interpretation": "Mutual recursive synchronization emerges through sufficiently preserved reciprocal phase-alignment organization.",
+    "deep_form": "Reciprocal synchronization emerges from stabilized mutual phase alignment."
+  },
+
+  "synchronization_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\Phi}{\\longleftrightarrow}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Reciprocal synchronization preserves mutual recursive phase coherence without requiring organizational identity, equivalence, or functional symmetry.",
+    "deep_form": "Synchronization does not require organizational equivalence."
+  },
+
+  "emergent_synchronization_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{sync}}\\text{ may emerge without centralized coordination intent}",
+    "interpretation": "Recursive synchronization may emerge spontaneously through mutually reinforcing survivability dynamics, reciprocal phase stabilization, shared burden minimization, or recursive entrainment pressure without requiring centralized coordination, intentional orchestration, or organizational equivalence.",
+    "deep_form": "Synchronization may emerge spontaneously through recursive mutual reinforcement."
+  },
+
+  "synchronization_attractor_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{sync}}\\rightarrow\\mathcal A_{\\mathrm{sync}}",
+    "interpretation": "Recursive synchronization geometry may generate stable synchronization attractors toward which organizational sectors recursively entrain through repeated survivability reinforcement dynamics.",
+    "deep_form": "Recursive reinforcement generates synchronization attractors."
+  },
+
+  "synchronization_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal T}{\\Longrightarrow}\\rightarrow\\overset{\\Phi}{\\longrightarrow}\\rightarrow\\overset{\\Phi}{\\longleftrightarrow}\\rightarrow\\mathcal S_{\\mathrm{sync}}\\rightarrow\\mathfrak T_{\\mathrm{sync}}\\rightarrow\\mathfrak G_{\\mathrm{sync}}",
+    "interpretation": "Transportability permits directional synchronization, directional synchronization may stabilize into reciprocal synchronization, reciprocal synchronization generates synchronization structure, synchronization structure induces synchronization topology, and stabilized synchronization topology induces synchronization geometry.",
+    "deep_form": "Synchronization structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{sync}}\\Rightarrow\\mathfrak T_{\\mathrm{sync}}\\Rightarrow\\mathfrak G_{\\mathrm{sync}}",
+    "interpretation": "Synchronization connectivity, cadence overlap structure, entrainment organization, and synchronization fragmentation stabilize prior to emergence of coherent synchronization geometry.",
+    "deep_form": "Synchronization topology precedes synchronization geometry."
+  },
+
+  "pre_metric_synchronization_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{sync}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Synchronization geometry organizes recursive timing coherence, cadence overlap, phase stability, and synchronization survivability prior to emergence of stable metric geometry.",
+    "deep_form": "Synchronization geometry is organizational before metric."
+  },
+
+  "synchronization_stability_criterion": {
+    "formal_relation": "\\rho_{\\mathrm{sync}}>\\xi_{\\mathrm{sync}}",
+    "interpretation": "Recursive synchronization requires sufficiently preserved synchronization density.",
+    "deep_form": "Stable synchronization requires preserved synchronization density."
+  },
+
+  "synchronization_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{sync}}>\\xi_{\\mathrm{sync}}^{\\Sigma}",
+    "interpretation": "Recursive synchronization requires sufficiently preserved coherence survivability under timing drift, cadence instability, recursive desynchronization, phase deformation, synchronization overload, recursive dissipation, and synchronization fragmentation pressure.",
+    "deep_form": "Synchronization requires preserved coherence survivability."
+  },
+
+  "synchronization_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{sync}}\\uparrow\\Rightarrow\\mu(\\mathcal S_{\\mathrm{sync}})\\downarrow",
+    "interpretation": "Recursive synchronization curvature amplification contracts phase-coherent synchronization organization, increasing desynchronization pressure and synchronization collapse risk.",
+    "deep_form": "Curvature contracts synchronization survivability."
+  },
+
+  "synchronization_fragmentation_principle": {
+    "formal_relation": "\\rho_{\\mathrm{sync}}\\le\\xi_{\\mathrm{sync}}\\Rightarrow\\mathfrak T_{\\mathrm{sync}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{sync}}^{(\\alpha)}",
+    "interpretation": "Recursive synchronization sectors become increasingly desynchronized as synchronization survivability collapses.",
+    "deep_form": "Synchronization collapse fragments phase coherence."
+  },
+
+  "protected_synchronization_sector_principle": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{sync}}^{\\mathrm{local}}\\neq\\varnothing\\land\\mathfrak T_{\\mathrm{sync}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Protected local synchronization reservoirs may remain recursively coherent while globally scalable synchronization organization contracts.",
+    "deep_form": "Protected synchronization reservoirs may survive global contraction."
+  },
+
+  "synchronization_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{sync}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{sync}}^{\\mathrm{collapse}}",
+    "interpretation": "Synchronization collapse may deform synchronization geometry such that re-entrainment requires different synchronization pathways than those traversed during desynchronization.",
+    "deep_form": "Synchronization recovery and collapse need not follow identical geometry."
+  },
+
+  "entrainment_basin_principle": {
+    "formal_relation": "\\mathcal B_{\\mathrm{sync}}\\subseteq\\mathfrak G_{\\mathrm{sync}}",
+    "interpretation": "Synchronization basins define regions of recursive phase-attractive coherence toward which organizational sectors naturally entrain under sufficiently preserved synchronization survivability.",
+    "deep_form": "Stable entrainment basins emerge from synchronization geometry."
+  },
+
+  "synchronization_basin_stability_principle": {
+    "formal_relation": "\\mu(\\mathcal B_{\\mathrm{sync}})\\uparrow\\Rightarrow\\Sigma_{\\mathrm{sync}}\\uparrow",
+    "interpretation": "Larger stable synchronization basins increase recursive synchronization survivability under perturbation and timing deformation.",
+    "deep_form": "Stable entrainment basins increase synchronization survivability."
+  },
+
+  "synchronization_coordination_distinction": {
+    "formal_relation": "x_i\\overset{\\Phi}{\\longleftrightarrow}x_j\\not\\Rightarrow\\mathcal C_{\\mathrm{coord}}",
+    "interpretation": "Synchronization defines coherent recursive timing alignment while coordination additionally requires organized phase-aligned action, directional consistency, recursively coherent functional integration, organizational task compatibility, load-balancing organization, and survivable coordinated structure.",
+    "deep_form": "Synchronization permits coordination but does not guarantee coordination."
+  },
+
+  "synchronization_maturation_hierarchy": {
+    "formal_relation": "\\overset{\\Phi}{\\longrightarrow}\\rightarrow\\overset{\\Phi}{\\longleftrightarrow}\\rightarrow\\mathcal C_{\\mathrm{coord}}",
+    "interpretation": "Recursive synchronization matures through progressively stabilized organizational coherence from directional synchronization to reciprocal synchronization and finally to recursive coordination.",
+    "deep_form": "Coordination emerges from stabilized reciprocal synchronization plus coherent organizational integration."
+  },
+
+  "pmm_emergence_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{sync}}\\Rightarrow\\mathcal M_{\\mathrm{PMM}}",
+    "interpretation": "Recursive synchronization geometry generates cadence overlap structure, synchronization margin, entrainment corridors, recovery timing windows, regenerative phase overlap, and desynchronization pressure dynamics.",
+    "deep_form": "PMM emerges naturally from recursive synchronization geometry."
+  },
+
+  "pre_coordination_substrate_principle": {
+    "formal_relation": "x_i\\overset{\\Phi}{\\longleftrightarrow}x_j\\Rightarrow\\mathcal C_{\\mathrm{coord}}\\text{ becomes possible}",
+    "interpretation": "Recursive coordination cannot emerge without prior coherent recursive synchronization organization.",
+    "deep_form": "Synchronization precedes recursive coordination."
+  },
+
+  "normalization_rules": [
+    "Synchronization defines recursive phase coherence.",
+    "Transportability permits synchronization but does not guarantee synchronization.",
+    "Synchronization introduces cadence overlap, entrainment, and coherence structure.",
+    "Synchronization requires scalable transport survivability.",
+    "Directional synchronization permits asymmetric recursive phase influence.",
+    "Reciprocal synchronization emerges through sufficiently preserved mutual phase alignment.",
+    "Synchronization does not require organizational equivalence.",
+    "Synchronization may emerge spontaneously through recursive mutual reinforcement.",
+    "Synchronization topology precedes synchronization geometry.",
+    "Synchronization geometry governs phase deformation, cadence instability, entrainment structure, and synchronization survivability.",
+    "Synchronization geometry is organizational before metric.",
+    "Recursive synchronization curvature contracts coherent phase organization.",
+    "Synchronization fragmentation emerges through desynchronization collapse.",
+    "Protected synchronization reservoirs may survive during global synchronization contraction.",
+    "Synchronization collapse and recovery need not follow identical geometry.",
+    "Stable entrainment basins emerge from synchronization geometry.",
+    "Stable entrainment basins increase synchronization survivability.",
+    "Recursive reinforcement generates synchronization attractors.",
+    "PMM emerges naturally from recursive synchronization geometry.",
+    "Synchronization permits coordination but does not guarantee coordination.",
+    "Coordination emerges from stabilized reciprocal synchronization plus coherent organizational integration.",
+    "Synchronization precedes recursive coordination."
+  ],
+
+  "deep_compressions": [
+    "Synchronization defines recursive phase coherence.",
+    "Transportability permits synchronization but does not guarantee synchronization.",
+    "Synchronization introduces cadence overlap, entrainment, and coherence structure.",
+    "Directional synchronization permits asymmetric recursive phase influence.",
+    "Reciprocal synchronization emerges from stabilized mutual phase alignment.",
+    "Synchronization does not require organizational equivalence.",
+    "Synchronization may emerge spontaneously through recursive mutual reinforcement.",
+    "Synchronization topology precedes synchronization geometry.",
+    "Synchronization geometry is organizational before metric.",
+    "Curvature contracts synchronization survivability.",
+    "Synchronization collapse fragments phase coherence.",
+    "Protected synchronization reservoirs may survive global contraction.",
+    "Synchronization recovery and collapse need not follow identical geometry.",
+    "Stable entrainment basins emerge from synchronization geometry.",
+    "Stable entrainment basins increase synchronization survivability.",
+    "Recursive reinforcement generates synchronization attractors.",
+    "PMM emerges naturally from recursive synchronization geometry.",
+    "Synchronization permits coordination but does not guarantee coordination.",
+    "Coordination emerges from stabilized reciprocal synchronization plus coherent organizational integration."
+  ],
+
+  "connections": [
+    "layer0_distinguishability_v2",
+    "layer0_25_accessibility_v3",
+    "layer0_5_relation_v3",
+    "layer0_75_admissibility",
+    "layer1_continuation_v2",
+    "layer1_5_propagation_v3",
+    "layer2_transportability_v3",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "recovery_as_restoration_of_traversable_future_accessibility"
+  ],
+
+  "one_sentence_lock": "Layer 2.5 — Synchronization states that recursively transportable organizational structure may stabilize into directional and reciprocal recursive phase coherence across organizational sectors, with synchronization survivability governing preservable cadence alignment under timing deformation and dissipation, synchronization topology inducing synchronization geometry, recursive curvature compressing coherent synchronization organization, PMM emerging naturally from recursive synchronization geometry, and recursive coordination emerging only where synchronized organizational sectors additionally preserve coherent functional integration."
+}
