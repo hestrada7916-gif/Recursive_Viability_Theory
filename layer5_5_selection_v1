@@ -1,0 +1,241 @@
+{
+  "artifact_id": "layer5_5_selection_v1",
+  "title": "Layer 5.5 — Selection",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_weighted_selection_layer",
+
+  "canonical_statement": "Recursive detection may stabilize into recursive selection whenever detected viability signals become sufficiently weighted, prioritized, and differentially actionable across recursive organizational trajectory space.",
+
+  "deep_compression_statement": "Selection prioritizes detected viability pathways.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal S}{\\leadsto}x_j",
+    "interpretation": "Recursive selection defines viability-weighted trajectory selection from organizational configuration x_i toward organizational configuration x_j.",
+    "deep_form": "Selection introduces viability-weighted trajectory asymmetry."
+  },
+
+  "primitive_objects": {
+
+    "recursive_selection_relation": {
+      "symbol": "\\overset{\\mathcal S}{\\leadsto}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal S}{\\leadsto}x_j",
+      "role": "recursive selection relation",
+      "interpretation": "Defines recursive viability-weighted trajectory selection between organizational configurations."
+    },
+
+    "selection_weight_observable": {
+      "symbol": "\\omega_{\\mathrm{select}}(x_i,x_j)",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive selection weight observable",
+      "interpretation": "Measures viability-weighted organizational priority assigned to a detected recursive trajectory from organizational configuration x_i toward organizational configuration x_j."
+    },
+
+    "selection_structure": {
+      "symbol": "\\mathcal S_{\\mathrm{select}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive selection structure",
+      "interpretation": "Defines recursive viability-weighted trajectory selection structure generated from stabilized organizational detectability."
+    },
+
+    "selection_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{select}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive selection topology",
+      "interpretation": "Defines recursive selection connectivity organization induced by stabilized selection structure."
+    },
+
+    "selection_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{select}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive selection geometry",
+      "interpretation": "Defines recursive selection geometry induced by stabilized selection topology."
+    },
+
+    "selection_threshold": {
+      "symbol": "\\xi_{\\mathrm{select}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{select}}>0",
+      "role": "recursive selection threshold",
+      "interpretation": "Defines the minimum viability-weighted priority required for recursive selection stabilization."
+    },
+
+    "selection_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{select}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive selection survivability",
+      "interpretation": "Measures recursively preservable selection survivability under priority conflict, selection noise, trajectory overload, viability tradeoff instability, and recursive pathway fragmentation."
+    },
+
+    "selection_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{select}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{select}}^{\\Sigma}>0",
+      "role": "recursive selection survivability threshold",
+      "interpretation": "Defines the minimum selection survivability required for preservable viability-weighted trajectory prioritization."
+    },
+
+    "selection_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{select}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive selection curvature",
+      "interpretation": "Measures recursive selection deformation, priority distortion, trajectory compression, and viability-weighted pathway instability across recursive selection geometry."
+    },
+
+    "selection_basin_structure": {
+      "symbol": "\\mathcal B_{\\mathrm{select}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive selection basin structure",
+      "interpretation": "Defines stable recursive trajectory-selection attractor regions toward which viability-weighted organizational selection recurrently converges."
+    }
+
+  },
+
+  "selection_dependence_on_detection": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal D}{\\hookrightarrow}x_j\\Rightarrow x_i\\not\\overset{\\mathcal S}{\\leadsto}x_j",
+    "interpretation": "Recursive selection cannot stabilize without prior actionable viability detectability.",
+    "deep_form": "Selection requires detection."
+  },
+
+  "detection_insufficiency_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal D}{\\hookrightarrow}x_j\\not\\Rightarrow x_i\\overset{\\mathcal S}{\\leadsto}x_j",
+    "interpretation": "Detected viability signals may remain organizationally registered without stabilizing into pathway prioritization due to competing detected signals, insufficient weighting, selection ambiguity, action pathway conflict, viability tradeoff instability, organizational indecision, or recursive priority fragmentation.",
+    "deep_form": "Detection permits selection but does not guarantee selection."
+  },
+
+  "selection_stability_criterion": {
+    "formal_relation": "\\omega_{\\mathrm{select}}(x_i,x_j)>\\xi_{\\mathrm{select}}",
+    "interpretation": "Selection stabilizes only where detected viability signals become sufficiently weighted to bias organizational trajectory orientation.",
+    "deep_form": "Selection requires sufficiently preserved viability-weighted priority."
+  },
+
+  "selection_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal D}{\\hookrightarrow}\\rightarrow\\overset{\\mathcal S}{\\leadsto}\\rightarrow\\mathcal S_{\\mathrm{select}}\\rightarrow\\mathfrak T_{\\mathrm{select}}\\rightarrow\\mathfrak G_{\\mathrm{select}}",
+    "interpretation": "Recursive detection permits recursive selection, selection generates selection structure, selection structure induces selection topology, and stabilized selection topology induces selection geometry.",
+    "deep_form": "Selection structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{select}}\\Rightarrow\\mathfrak T_{\\mathrm{select}}\\Rightarrow\\mathfrak G_{\\mathrm{select}}",
+    "interpretation": "Trajectory prioritization, branching structure, selection reachability, and priority conflict organization stabilize prior to emergence of coherent selection geometry.",
+    "deep_form": "Selection topology precedes selection geometry."
+  },
+
+  "pre_metric_selection_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{select}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Selection geometry organizes viability-weighted prioritization, trajectory differentiation, and pathway selection pressure prior to emergence of stable metric geometry.",
+    "deep_form": "Selection geometry is organizational before metric."
+  },
+
+  "selection_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{select}}>\\xi_{\\mathrm{select}}^{\\Sigma}",
+    "interpretation": "Recursive selection requires sufficiently preserved viability-weighted trajectory prioritization under recursive deformation dynamics.",
+    "deep_form": "Selection requires preserved trajectory prioritization survivability."
+  },
+
+  "selection_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{select}}\\uparrow\\Rightarrow\\mu(\\mathcal S_{\\mathrm{select}})\\downarrow",
+    "interpretation": "Recursive selection deformation contracts viable pathway selection structure, increasing priority rigidity, maladaptive narrowing, and selection collapse pressure.",
+    "deep_form": "Selection curvature contracts viable trajectory choice-space."
+  },
+
+  "selection_fragmentation_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{select}}\\le\\xi_{\\mathrm{select}}^{\\Sigma}\\Rightarrow\\mathfrak T_{\\mathrm{select}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{select}}^{(\\alpha)}",
+    "interpretation": "Recursive trajectory prioritization becomes increasingly fragmented whenever viability-weighted pathway selection fails to remain sufficiently preservable.",
+    "deep_form": "Selection collapse fragments trajectory prioritization."
+  },
+
+  "selection_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal S}{\\leadsto}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Selection preserves viability-weighted trajectory orientation without requiring static identity equivalence.",
+    "deep_form": "Selection does not require static identity persistence."
+  },
+
+  "selection_nonuniformity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal S}{\\leadsto}x_j\\not\\Rightarrow\\omega_i=\\omega_j",
+    "interpretation": "Selection may stabilize through asymmetric weighting, localized prioritization, differential viability pressure, or uneven trajectory accessibility.",
+    "deep_form": "Selection does not require uniform pathway weighting."
+  },
+
+  "selection_conflict_principle": {
+    "formal_relation": "\\omega_{\\mathrm{select}}(x_i,x_j)\\approx\\omega_{\\mathrm{select}}(x_i,x_k)\\land x_j\\not\\sim_{\\mathrm{adm}}x_k\\Rightarrow\\Sigma_{\\mathrm{select}}\\downarrow",
+    "interpretation": "Selection survivability contracts whenever competing viability-weighted trajectories cannot be jointly preserved or admissibly reconciled.",
+    "deep_form": "Selection conflict destabilizes selection survivability."
+  },
+
+  "maladaptive_selection_principle": {
+    "formal_relation": "\\omega_{\\mathrm{select}}(x_i,x_j)>\\xi_{\\mathrm{select}}\\not\\Rightarrow\\Sigma_{\\mathrm{viab}}\\uparrow",
+    "interpretation": "Selection can become locally stabilized around trajectories that reduce long-horizon viability, recoverability, or future accessibility.",
+    "deep_form": "Selection may stabilize around locally weighted but globally nonviable trajectories."
+  },
+
+  "selection_attractor_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{select}}\\rightarrow\\mathcal B_{\\mathrm{select}}",
+    "interpretation": "Recursive selection geometry may generate stable viability-weighted trajectory attractors toward which organizational selection repeatedly converges.",
+    "deep_form": "Recursive selection generates trajectory attractors."
+  },
+
+  "local_global_selection_divergence_principle": {
+    "formal_relation": "\\omega_{\\mathrm{local}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{viab}}^{\\mathrm{global}}\\uparrow",
+    "interpretation": "Locally reinforced trajectory selection may destabilize large-scale recursive viability through future accessibility contraction, recoverability suppression, or maladaptive survivability narrowing.",
+    "deep_form": "Locally reinforced selection may globally destabilize viability."
+  },
+
+  "selection_preference_distinction": {
+    "formal_relation": "\\mathcal S_{\\mathrm{select}}\\not\\Rightarrow\\mathcal P_{\\mathrm{pref}}",
+    "interpretation": "Selection stabilizes viability-weighted pathway prioritization while preference additionally requires recurrent selection stabilization, cross-context weighting persistence, trajectory-class memory, preference coherence, and recursive prioritization continuity.",
+    "deep_form": "Selection permits preference but does not yet imply persistent preference structure."
+  },
+
+  "preference_precondition_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal S}{\\leadsto}x_j\\Rightarrow\\mathcal P_{\\mathrm{pref}}\\text{ becomes possible}",
+    "interpretation": "Recursive preference cannot emerge without prior viability-weighted selection organization.",
+    "deep_form": "Selection precedes recursive preference."
+  },
+
+  "normalization_rules": [
+    "Selection prioritizes detected viability pathways.",
+    "Detection permits selection but does not guarantee selection.",
+    "Selection introduces viability-weighted trajectory asymmetry.",
+    "Selection requires stabilized organizational detectability.",
+    "Selection topology precedes selection geometry.",
+    "Selection geometry governs pathway weighting, priority conflict, and trajectory selection pressure.",
+    "Selection geometry is organizational before metric.",
+    "Recursive selection curvature contracts viable choice-space.",
+    "Selection does not require uniform pathway weighting.",
+    "Selection conflict destabilizes selection survivability.",
+    "Selection collapse fragments trajectory prioritization.",
+    "Recursive selection generates trajectory attractors.",
+    "Locally reinforced selection may globally destabilize viability.",
+    "Maladaptive selection may stabilize around locally weighted but globally nonviable trajectories.",
+    "Selection permits preference but does not yet imply preference.",
+    "Selection precedes recursive preference."
+  ],
+
+  "deep_compressions": [
+    "Selection prioritizes detected viability pathways.",
+    "Detection permits selection but does not guarantee selection.",
+    "Selection introduces viability-weighted trajectory asymmetry.",
+    "Selection topology precedes selection geometry.",
+    "Selection geometry is organizational before metric.",
+    "Recursive selection curvature contracts viable choice-space.",
+    "Selection conflict destabilizes selection survivability.",
+    "Selection collapse fragments trajectory prioritization.",
+    "Recursive selection generates trajectory attractors.",
+    "Locally reinforced selection may globally destabilize viability.",
+    "Selection permits preference but does not yet imply preference.",
+    "Selection precedes recursive preference."
+  ],
+
+  "connections": [
+    "layer4_5_viability_awareness_v1",
+    "layer5_detection_v1",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model"
+  ],
+
+  "one_sentence_lock": "Layer 5.5 — Selection states that recursive detection may stabilize into viability-weighted trajectory prioritization across recursive organizational structure, with stabilized selection generating recursive pathway asymmetry, trajectory attractors, viability-weighted branching organization, and differential survivability pressure, while recursive selection curvature contracts viable choice-space, competing trajectory weighting destabilizes selection survivability, and locally reinforced selection may globally destabilize recursive viability."
+}
