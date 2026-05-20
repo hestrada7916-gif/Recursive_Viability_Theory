@@ -1,0 +1,275 @@
+{
+  "artifact_id": "layer3_coordination_v1",
+  "title": "Layer 3 — Coordination",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_coordination_layer",
+
+  "canonical_statement": "Recursive coordination emerges when synchronized organizational sectors preserve directional consistency, functional integration, burden distribution, and survivable coordinated structure.",
+
+  "deep_compression_statement": "Synchronization permits coordination, but does not guarantee coordination.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Longleftrightarrow}x_j",
+    "interpretation": "Recursive coordination defines coherent functional integration across synchronized organizational sectors.",
+    "deep_form": "Coordination stabilizes synchronized structure into survivable organized function."
+  },
+
+  "primitive_objects": {
+    "recursive_coordination_relation": {
+      "symbol": "\\overset{\\mathcal C}{\\Longleftrightarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal C}{\\Longleftrightarrow}x_j",
+      "role": "recursive coordination relation",
+      "interpretation": "Defines recursively coordinated organizational integration between organizational configurations."
+    },
+
+    "directional_coordination_relation": {
+      "symbol": "\\overset{\\mathcal C}{\\Longrightarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal C}{\\Longrightarrow}x_j",
+      "role": "directional recursive coordination relation",
+      "interpretation": "Defines asymmetric organizational integration influence, functional dependency, burden allocation, or directional coordinated structure."
+    },
+
+    "recursive_coordination_structure": {
+      "symbol": "\\mathcal C_{\\mathrm{coord}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive coordination structure",
+      "interpretation": "Defines recursively integrated coordinated organizational structure generated from stabilized synchronization and coherent functional integration."
+    },
+
+    "coordination_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{coord}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive coordination topology",
+      "interpretation": "Defines recursive coordination connectivity organization induced by stabilized coordination structure."
+    },
+
+    "coordination_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{coord}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive coordination geometry",
+      "interpretation": "Defines recursive coordination geometry induced by stabilized coordination topology."
+    },
+
+    "coordination_density": {
+      "symbol": "\\rho_{\\mathrm{coord}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive coordination density",
+      "interpretation": "Measures the density of recursively coordinated organizational integration pathways preserved across recursive organizational structure."
+    },
+
+    "coordination_threshold": {
+      "symbol": "\\xi_{\\mathrm{coord}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{coord}}>0",
+      "role": "recursive coordination threshold",
+      "interpretation": "Defines the minimum coordination density required for stabilized recursive coordination organization."
+    },
+
+    "coordination_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{coord}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive coordination survivability",
+      "interpretation": "Measures recursively preservable coordinated survivability under dependency instability, burden imbalance, coordination overload, recursive dissipation, and coordinated fragmentation pressure."
+    },
+
+    "coordination_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{coord}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{coord}}^{\\Sigma}>0",
+      "role": "recursive coordination survivability threshold",
+      "interpretation": "Defines the minimum coordination survivability required for preservable recursive coordination."
+    },
+
+    "coordination_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{coord}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive coordination curvature",
+      "interpretation": "Measures recursive coordination deformation, dependency amplification, coordination instability propagation, and coordinated survivability contraction across recursive coordination geometry."
+    },
+
+    "coordination_burden": {
+      "symbol": "\\Gamma_{\\mathrm{coord}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive coordination burden",
+      "interpretation": "Measures coordinated maintenance burden, dependency strain, burden redistribution pressure, and coordinated survivability maintenance cost."
+    },
+
+    "organizational_role": {
+      "symbol": "R_i",
+      "type_assignment": "\\mathsf{Role}",
+      "role": "organizational role structure",
+      "interpretation": "Defines differentiated organizational function, specialization, burden position, or coordinated contribution associated with organizational sector i."
+    }
+  },
+
+  "coordination_dependence_on_synchronization": {
+    "formal_relation": "x_i\\not\\overset{\\Phi}{\\longleftrightarrow}x_j\\Rightarrow x_i\\not\\overset{\\mathcal C}{\\Longleftrightarrow}x_j",
+    "interpretation": "Recursive coordination cannot stabilize without prior coherent recursive synchronization organization.",
+    "deep_form": "Coordination requires synchronization."
+  },
+
+  "synchronization_beyond_coordination_principle": {
+    "formal_relation": "x_i\\overset{\\Phi}{\\longleftrightarrow}x_j\\not\\Rightarrow\\mathcal C_{\\mathrm{coord}}",
+    "interpretation": "Recursive synchronization preserves timing coherence, while recursive coordination additionally requires functional integration, directional consistency, role compatibility, burden distribution, organizational survivability, and recursively coherent organized action.",
+    "deep_form": "Synchronization alone is insufficient for coordination."
+  },
+
+  "coordination_nonuniformity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Longleftrightarrow}x_j\\not\\Rightarrow R_i=R_j",
+    "interpretation": "Recursive coordination may stabilize through differentiated organizational specialization, asymmetric burden distribution, functional partitioning, or directional role structure while preserving survivable coherent organizational integration.",
+    "deep_form": "Coordination does not require identical roles."
+  },
+
+  "directional_coordination_asymmetry_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Longrightarrow}x_j\\not\\Rightarrow x_j\\overset{\\mathcal C}{\\Longrightarrow}x_i",
+    "interpretation": "Recursive coordination may preserve asymmetric functional dependency, directional organizational influence, burden concentration, or irreversible coordinated structure.",
+    "deep_form": "Directional coordination may remain asymmetric."
+  },
+
+  "coordination_reciprocity_emergence": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Longrightarrow}x_j\\land x_j\\overset{\\mathcal C}{\\Longrightarrow}x_i\\Rightarrow x_i\\overset{\\mathcal C}{\\Longleftrightarrow}x_j",
+    "interpretation": "Mutual recursive coordination emerges through sufficiently preserved reciprocal functional integration and coordinated survivability organization.",
+    "deep_form": "Reciprocal coordination emerges from stabilized mutual functional integration."
+  },
+
+  "coordination_hierarchy": {
+    "formal_relation": "\\overset{\\Phi}{\\longrightarrow}\\rightarrow\\overset{\\Phi}{\\longleftrightarrow}\\rightarrow\\overset{\\mathcal C}{\\Longrightarrow}\\rightarrow\\overset{\\mathcal C}{\\Longleftrightarrow}\\rightarrow\\mathcal C_{\\mathrm{coord}}\\rightarrow\\mathfrak T_{\\mathrm{coord}}\\rightarrow\\mathfrak G_{\\mathrm{coord}}",
+    "interpretation": "Directional synchronization may stabilize into reciprocal synchronization; reciprocal synchronization permits directional coordination; directional coordination may stabilize into reciprocal coordination; reciprocal coordination generates coordination structure; coordination structure induces coordination topology; and stabilized coordination topology induces coordination geometry.",
+    "deep_form": "Coordination structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coord}}\\Rightarrow\\mathfrak T_{\\mathrm{coord}}\\Rightarrow\\mathfrak G_{\\mathrm{coord}}",
+    "interpretation": "Functional integration, coordinated dependency organization, burden distribution structure, and coordination fragmentation stabilize prior to emergence of coherent coordination geometry.",
+    "deep_form": "Coordination topology precedes coordination geometry."
+  },
+
+  "pre_metric_coordination_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{coord}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Coordination geometry organizes coordinated survivability, functional integration, dependency structure, and coordinated burden organization prior to emergence of stable metric geometry.",
+    "deep_form": "Coordination geometry is organizational before metric."
+  },
+
+  "coordination_stability_criterion": {
+    "formal_relation": "\\rho_{\\mathrm{coord}}>\\xi_{\\mathrm{coord}}",
+    "interpretation": "Recursive coordination requires sufficiently preserved coordination density.",
+    "deep_form": "Stable coordination requires preserved coordination density."
+  },
+
+  "coordination_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{coord}}>\\xi_{\\mathrm{coord}}^{\\Sigma}",
+    "interpretation": "Recursive coordination requires sufficiently preserved coordinated survivability under dependency amplification, burden imbalance, coordination overload, recursive dissipation, fragmentation pressure, synchronization instability, and coordinated recovery failure.",
+    "deep_form": "Coordination requires preserved coordinated survivability."
+  },
+
+  "coordination_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{coord}}\\uparrow\\Rightarrow\\mu(\\mathcal C_{\\mathrm{coord}})\\downarrow",
+    "interpretation": "Recursive coordination curvature amplification contracts coordinated survivability organization, increasing coordination instability, dependency overload, and fragmentation pressure.",
+    "deep_form": "Curvature contracts coordinated survivability."
+  },
+
+  "coordination_fragmentation_principle": {
+    "formal_relation": "\\rho_{\\mathrm{coord}}\\le\\xi_{\\mathrm{coord}}\\Rightarrow\\mathfrak T_{\\mathrm{coord}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{coord}}^{(\\alpha)}",
+    "interpretation": "Recursive coordination sectors become increasingly fragmented as coordinated survivability collapses.",
+    "deep_form": "Coordination collapse fragments organized function."
+  },
+
+  "protected_coordination_sector_principle": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{coord}}^{\\mathrm{local}}\\neq\\varnothing\\land\\mathfrak T_{\\mathrm{coord}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Protected local coordination reservoirs may preserve coordinated function while globally scalable coordination organization contracts.",
+    "deep_form": "Protected coordination reservoirs may survive global contraction."
+  },
+
+  "coordination_boundary_principle": {
+    "formal_relation": "\\partial\\mathcal C_{\\mathrm{coord}}",
+    "interpretation": "Recursive coordination contains boundary structure separating preservable coordinated organizational sectors from non-coordinated or non-survivable organizational regions.",
+    "deep_form": "Coordination possesses finite survivability boundary structure."
+  },
+
+  "coordination_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{coord}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{coord}}^{\\mathrm{collapse}}",
+    "interpretation": "Coordination collapse may deform coordination geometry such that recovery requires different coordination pathways than those traversed during coordination failure.",
+    "deep_form": "Coordination recovery and collapse need not follow identical geometry."
+  },
+
+  "coordination_curvature_well_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{coord}}\\uparrow\\land\\mathcal K_{\\mathrm{coord}}\\uparrow\\Rightarrow\\mu(\\mathcal C_{\\mathrm{coord}})\\downarrow",
+    "interpretation": "Coordination curvature wells emerge whenever coordination structure remains formally connected while coordinated survivability becomes prohibitively unstable.",
+    "deep_form": "Formal coordination connectivity may persist while coordinated survivability collapses."
+  },
+
+  "coordination_functional_integration_principle": {
+    "formal_relation": "\\mathcal I_{\\mathrm{func}}>\\xi_{\\mathrm{func}}\\Rightarrow\\mathcal C_{\\mathrm{coord}}\\text{ becomes stabilizable}",
+    "interpretation": "Recursive coordination requires sufficiently preserved functional integration among synchronized organizational sectors.",
+    "deep_form": "Coordination requires coherent functional integration."
+  },
+
+  "coordination_burden_distribution_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{coord}}^{\\mathrm{imbalanced}}\\uparrow\\Rightarrow\\Sigma_{\\mathrm{coord}}\\downarrow",
+    "interpretation": "Coordinated survivability contracts when coordination burden becomes excessively imbalanced across organizational sectors.",
+    "deep_form": "Burden imbalance destabilizes coordination survivability."
+  },
+
+  "sct_coordination_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coord}}\\Rightarrow\\mathcal C_{\\mathrm{spectral}}",
+    "interpretation": "Spectral coordination dynamics naturally govern coherent survivable coordination where directional persistence, burden distribution, transport survivability, synchronization structure, and functional integration jointly stabilize.",
+    "deep_form": "SCT governs survivable recursive coordination."
+  },
+
+  "normalization_rules": [
+    "Synchronization permits coordination but does not guarantee coordination.",
+    "Coordination stabilizes synchronized structure into survivable organized function.",
+    "Recursive coordination requires functional integration.",
+    "Recursive coordination requires directional consistency.",
+    "Recursive coordination requires burden distribution.",
+    "Recursive coordination does not require identical organizational roles.",
+    "Directional coordination may remain asymmetric.",
+    "Reciprocal coordination emerges from stabilized mutual functional integration.",
+    "Coordination topology precedes coordination geometry.",
+    "Coordination geometry governs coordinated survivability, burden distribution, dependency amplification, and coordinated recovery structure.",
+    "Coordination geometry is organizational before metric.",
+    "Recursive coordination curvature contracts coordinated survivability.",
+    "Coordination fragmentation emerges through coordination collapse.",
+    "Protected coordination reservoirs may survive during global coordination contraction.",
+    "Coordination collapse and recovery need not follow identical geometry.",
+    "Burden imbalance destabilizes coordination survivability.",
+    "SCT governs survivable recursive coordination."
+  ],
+
+  "deep_compressions": [
+    "Synchronization alone is insufficient for coordination.",
+    "Coordination stabilizes synchronized structure into survivable organized function.",
+    "Coordination requires coherent functional integration.",
+    "Coordination does not require identical roles.",
+    "Directional coordination may remain asymmetric.",
+    "Coordination topology precedes coordination geometry.",
+    "Coordination geometry is organizational before metric.",
+    "Curvature contracts coordinated survivability.",
+    "Coordination collapse fragments organized function.",
+    "Protected coordination reservoirs may survive global contraction.",
+    "Coordination recovery and collapse need not follow identical geometry.",
+    "Burden imbalance destabilizes coordination survivability.",
+    "SCT governs survivable recursive coordination."
+  ],
+
+  "connections": [
+    "layer0_distinguishability_v2",
+    "layer0_25_accessibility_v3",
+    "layer0_5_relation_v3",
+    "layer0_75_admissibility",
+    "layer1_continuation_v2",
+    "layer1_5_propagation_v3",
+    "layer2_transportability_v3",
+    "layer2_5_synchronization_v1",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "recovery_as_restoration_of_traversable_future_accessibility"
+  ],
+
+  "one_sentence_lock": "Layer 3 — Coordination states that recursive synchronization may stabilize into coherent recursive coordination whenever phase-aligned organizational sectors preserve directional consistency, functional integration, burden distribution, and survivable coordinated structure, with coordination topology inducing coordination geometry, recursive curvature compressing coordinated survivability, differentiated roles remaining compatible with coordination, burden imbalance destabilizing coordination survivability, and SCT governing survivable recursive coordination."
+}
