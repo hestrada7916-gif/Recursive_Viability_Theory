@@ -1,0 +1,265 @@
+{
+  "artifact_id": "layer7_meaning_v2",
+  "title": "Layer 7 — Meaning",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_interpretive_coherence_layer",
+
+  "canonical_statement": "Recursive valuation may stabilize into recursive meaning whenever generalized comparative importance organization becomes sufficiently coherent, persistent, and interpretively integrated across recursive organizational structure.",
+
+  "deep_compression_statement": "Meaning stabilizes interpretive coherence.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal M}{\\models}x_j",
+    "interpretation": "Recursive meaning defines recursively stabilized interpretive coherence relating organizational configuration x_i to organizational configuration x_j.",
+    "deep_form": "Meaning stabilizes interpretive coherence."
+  },
+
+  "primitive_objects": {
+    "recursive_meaning_relation": {
+      "symbol": "\\overset{\\mathcal M}{\\models}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal M}{\\models}x_j",
+      "role": "recursive meaning relation",
+      "interpretation": "Defines recursively stabilized interpretive coherence between organizational configurations."
+    },
+
+    "interpretive_coherence_observable": {
+      "symbol": "\\Omega_{\\mathrm{meaning}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive interpretive coherence observable",
+      "interpretation": "Measures coherence of generalized interpretive organization across recursive organizational structure, time, and symbolic context."
+    },
+
+    "meaning_threshold": {
+      "symbol": "\\xi_{\\mathrm{meaning}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{meaning}}>0",
+      "role": "recursive meaning threshold",
+      "interpretation": "Defines the minimum interpretive coherence required for stabilized recursive meaning organization."
+    },
+
+    "recursive_meaning_structure": {
+      "symbol": "\\mathcal M_{\\mathrm{meaning}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive meaning structure",
+      "interpretation": "Defines recursively stabilized interpretive organization generated from generalized valuation coherence."
+    },
+
+    "meaning_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{meaning}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive meaning topology",
+      "interpretation": "Defines recursive interpretive connectivity organization induced by stabilized meaning structure."
+    },
+
+    "meaning_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{meaning}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive meaning geometry",
+      "interpretation": "Defines recursive meaning geometry induced by stabilized meaning topology."
+    },
+
+    "meaning_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{meaning}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive meaning survivability",
+      "interpretation": "Measures recursively preservable interpretive coherence under symbolic fragmentation, semantic collapse, narrative incoherence, interpretive rigidity, future accessibility contraction, and recursive survivability destabilization."
+    },
+
+    "meaning_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{meaning}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{meaning}}^{\\Sigma}>0",
+      "role": "recursive meaning survivability threshold",
+      "interpretation": "Defines the minimum meaning survivability required for preservable recursive interpretive coherence."
+    },
+
+    "meaning_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{meaning}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive meaning curvature",
+      "interpretation": "Measures recursive interpretive deformation, semantic rigidity amplification, symbolic overcompression, narrative destabilization, and meaning accessibility contraction across recursive meaning geometry."
+    },
+
+    "narrative_basin_structure": {
+      "symbol": "\\mathcal B_{\\mathrm{meaning}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive narrative basin structure",
+      "interpretation": "Defines stable recursively reinforced interpretive regions toward which organizational meaning repeatedly converges."
+    },
+
+    "reinterpretive_flexibility_observable": {
+      "symbol": "\\mathcal F_{\\mathrm{reinterpret}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "reinterpretive flexibility observable",
+      "interpretation": "Measures adaptive reinterpretive flexibility, semantic recoverability, cross-context interpretive revision capacity, and recursive symbolic reorganization accessibility."
+    },
+
+    "agency_projection_observable": {
+      "symbol": "\\Pi_{\\mathrm{agency}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "agency projection observable",
+      "interpretation": "Measures recursive tendency toward agency-like interpretive projection under recursive interpretive uncertainty."
+    }
+  },
+
+  "meaning_dependence_on_valuation": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal V}{\\triangleright}x_j\\Rightarrow x_i\\not\\overset{\\mathcal M}{\\models}x_j",
+    "interpretation": "Recursive meaning cannot stabilize without prior generalized comparative importance organization.",
+    "deep_form": "Meaning requires valuation."
+  },
+
+  "valuation_insufficiency_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal V}{\\triangleright}x_j\\not\\Rightarrow x_i\\overset{\\mathcal M}{\\models}x_j",
+    "interpretation": "Generalized valuation may remain fragmented, localized, context-isolated, or symbolically disconnected without stabilizing into coherent interpretive organization.",
+    "deep_form": "Valuation permits meaning but does not guarantee meaning."
+  },
+
+  "meaning_stability_criterion": {
+    "formal_relation": "\\Omega_{\\mathrm{meaning}}>\\xi_{\\mathrm{meaning}}",
+    "interpretation": "Recursive meaning stabilizes only where generalized valuation remains sufficiently integrated into coherent interpretive structure.",
+    "deep_form": "Meaning requires preserved interpretive coherence."
+  },
+
+  "meaning_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal V}{\\triangleright}\\rightarrow\\overset{\\mathcal M}{\\models}\\rightarrow\\mathcal M_{\\mathrm{meaning}}\\rightarrow\\mathfrak T_{\\mathrm{meaning}}\\rightarrow\\mathfrak G_{\\mathrm{meaning}}",
+    "interpretation": "Recursive valuation permits recursive meaning, recursive meaning generates meaning structure, meaning structure induces meaning topology, and stabilized meaning topology induces meaning geometry.",
+    "deep_form": "Meaning structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal M_{\\mathrm{meaning}}\\Rightarrow\\mathfrak T_{\\mathrm{meaning}}\\Rightarrow\\mathfrak G_{\\mathrm{meaning}}",
+    "interpretation": "Interpretive connectivity, symbolic organization, and semantic continuity stabilize prior to emergence of coherent meaning geometry.",
+    "deep_form": "Meaning topology precedes meaning geometry."
+  },
+
+  "pre_metric_meaning_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{meaning}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Meaning geometry organizes interpretive coherence, symbolic integration, and semantic continuity prior to emergence of stable metric geometry.",
+    "deep_form": "Meaning geometry is organizational before metric."
+  },
+
+  "meaning_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{meaning}}>\\xi_{\\mathrm{meaning}}^{\\Sigma}",
+    "interpretation": "Recursive meaning requires sufficiently preserved interpretive coherence under recursive deformation dynamics.",
+    "deep_form": "Meaning requires preserved interpretive survivability."
+  },
+
+  "meaning_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{meaning}}\\uparrow\\Rightarrow\\mu(\\mathcal M_{\\mathrm{meaning}})\\downarrow",
+    "interpretation": "Recursive interpretive deformation contracts symbolic adaptability, narrative flexibility, and semantic recoverability, increasing rigidity, collapse pressure, and meaning-lock amplification.",
+    "deep_form": "Meaning curvature contracts interpretive flexibility."
+  },
+
+  "meaning_fragmentation_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{meaning}}\\le\\xi_{\\mathrm{meaning}}^{\\Sigma}\\Rightarrow\\mathfrak T_{\\mathrm{meaning}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{meaning}}^{(\\alpha)}",
+    "interpretation": "Interpretive organization becomes increasingly fragmented whenever symbolic coherence fails to remain sufficiently preservable.",
+    "deep_form": "Meaning collapse fragments interpretive coherence."
+  },
+
+  "meaning_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal M}{\\models}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Recursive meaning preserves interpretive coherence without requiring static organizational identity equivalence.",
+    "deep_form": "Meaning does not require static identity persistence."
+  },
+
+  "meaning_nonuniformity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal M}{\\models}x_j\\not\\Rightarrow\\Omega_i=\\Omega_j",
+    "interpretation": "Recursive meaning may stabilize through asymmetric interpretive coherence, localized semantic reinforcement, uneven narrative stabilization, or differentiated symbolic integration across recursive organizational sectors.",
+    "deep_form": "Meaning does not require uniform interpretive coherence."
+  },
+
+  "meaning_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{meaning}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{meaning}}^{\\mathrm{collapse}}",
+    "interpretation": "Recursive meaning collapse may deform interpretive geometry such that recovery requires different meaning pathways than those traversed during prior semantic collapse, symbolic rigidification, or narrative lock-in.",
+    "deep_form": "Meaning recovery and collapse need not follow identical geometry."
+  },
+
+  "narrative_basin_principle": {
+    "formal_relation": "\\mathcal B_{\\mathrm{meaning}}\\subseteq\\mathfrak G_{\\mathrm{meaning}}",
+    "interpretation": "Narrative basins define recursively reinforced interpretive regions toward which organizational meaning repeatedly converges.",
+    "deep_form": "Recursive meaning geometry generates narrative attractors."
+  },
+
+  "anthropomorphic_compression_principle": {
+    "formal_relation": "\\mathcal U_{\\mathrm{interpret}}\\uparrow\\Rightarrow\\Pi_{\\mathrm{agency}}\\uparrow",
+    "interpretation": "Recursive organizational systems may compress uncertain dynamics through agency-like interpretive structure whenever agency modeling preserves higher predictive, coordination, or survivability coherence than non-agentic interpretation.",
+    "deep_form": "Agency-like projection may emerge under recursive interpretive uncertainty."
+  },
+
+  "meaning_rigidity_principle": {
+    "formal_relation": "\\Omega_{\\mathrm{meaning}}\\uparrow\\land\\mathcal K_{\\mathrm{meaning}}\\uparrow\\Rightarrow\\mathcal F_{\\mathrm{reinterpret}}\\downarrow",
+    "interpretation": "Recursive meaning systems may become increasingly resistant to reinterpretation whenever semantic curvature, narrative rigidity, symbolic overcompression, or interpretive basin stabilization excessively constrain adaptive interpretive flexibility.",
+    "deep_form": "Meaning rigidity suppresses reinterpretive flexibility."
+  },
+
+  "maladaptive_meaning_principle": {
+    "formal_relation": "\\Omega_{\\mathrm{meaning}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{viab}}\\uparrow",
+    "interpretation": "Coherent recursive meaning may stabilize around interpretive structures that suppress recoverability, future accessibility, adaptive survivability, or long-horizon recursive viability.",
+    "deep_form": "Coherent meaning may stabilize globally nonviable interpretation."
+  },
+
+  "meaning_belief_distinction": {
+    "formal_relation": "\\mathcal M_{\\mathrm{meaning}}\\not\\Rightarrow\\mathcal B_{\\mathrm{belief}}",
+    "interpretation": "Meaning stabilizes interpretive coherence while belief additionally requires interpretive commitment, recursive truth-stabilization, epistemic persistence, confidence reinforcement, and recursively defended interpretive continuity.",
+    "deep_form": "Meaning permits belief but does not yet imply belief."
+  },
+
+  "belief_precondition_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal M}{\\models}x_j\\Rightarrow\\mathcal B_{\\mathrm{belief}}\\text{ becomes possible}",
+    "interpretation": "Recursive belief cannot emerge without prior coherent interpretive organization.",
+    "deep_form": "Meaning precedes recursive belief."
+  },
+
+  "normalization_rules": [
+    "Meaning stabilizes interpretive coherence.",
+    "Valuation permits meaning but does not guarantee meaning.",
+    "Meaning introduces symbolic interpretive organization.",
+    "Meaning requires generalized comparative valuation.",
+    "Meaning topology precedes meaning geometry.",
+    "Meaning geometry governs symbolic integration, semantic continuity, and narrative stabilization.",
+    "Meaning geometry is organizational before metric.",
+    "Recursive meaning curvature contracts interpretive flexibility.",
+    "Meaning collapse fragments interpretive coherence.",
+    "Meaning does not require static identity persistence.",
+    "Meaning does not require uniform interpretive coherence.",
+    "Meaning recovery and collapse need not follow identical geometry.",
+    "Recursive meaning geometry generates narrative attractors.",
+    "Agency-like projection may emerge under recursive interpretive uncertainty.",
+    "Meaning rigidity may suppress reinterpretive flexibility and adaptive semantic revision.",
+    "Coherent meaning may stabilize globally nonviable interpretation.",
+    "Meaning permits belief but does not yet imply belief.",
+    "Meaning precedes recursive belief."
+  ],
+
+  "deep_compressions": [
+    "Meaning stabilizes interpretive coherence.",
+    "Valuation permits meaning but does not guarantee meaning.",
+    "Meaning introduces symbolic interpretive organization.",
+    "Meaning topology precedes meaning geometry.",
+    "Meaning geometry is organizational before metric.",
+    "Recursive meaning curvature contracts interpretive flexibility.",
+    "Meaning collapse fragments interpretive coherence.",
+    "Meaning does not require static identity persistence.",
+    "Meaning does not require uniform interpretive coherence.",
+    "Meaning recovery and collapse need not follow identical geometry.",
+    "Recursive meaning geometry generates narrative attractors.",
+    "Agency-like projection may emerge under recursive interpretive uncertainty.",
+    "Meaning rigidity suppresses reinterpretive flexibility.",
+    "Coherent meaning may stabilize globally nonviable interpretation.",
+    "Meaning permits belief but does not yet imply belief.",
+    "Meaning precedes recursive belief."
+  ],
+
+  "connections": [
+    "layer6_5_valuation_v1",
+    "layer6_preference_v2",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model"
+  ],
+
+  "one_sentence_lock": "Layer 7 — Meaning states that recursive valuation may stabilize into recursive meaning whenever generalized comparative importance organization becomes sufficiently coherent, persistent, and interpretively integrated across recursive organizational structure, with meaning introducing symbolic integration, semantic continuity, narrative basins, interpretive attractor dynamics, and recursively stabilized interpretive organization, while recursive meaning curvature contracts interpretive flexibility, meaning rigidity may suppress reinterpretive adaptability, coherent meaning may stabilize globally nonviable interpretation, anthropomorphic compression may emerge under recursive interpretive uncertainty, and recursive belief becomes possible only after coherent interpretive organization stabilizes."
+}
