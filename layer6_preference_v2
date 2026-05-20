@@ -1,0 +1,271 @@
+{
+  "artifact_id": "layer6_preference_v2",
+  "title": "Layer 6 — Preference",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_weighted_preference_layer",
+
+  "canonical_statement": "Recursive selection may stabilize into recursive preference whenever viability-weighted trajectory prioritization becomes sufficiently persistent across recursive time, context, and trajectory-class organization.",
+
+  "deep_compression_statement": "Preference preserves persistent viability-weighted trajectory orientation.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal P}{\\succ}x_j",
+    "interpretation": "Recursive preference defines persistent viability-weighted trajectory orientation from organizational configuration x_i toward organizational configuration x_j.",
+    "deep_form": "Preference stabilizes persistent directional weighting."
+  },
+
+  "primitive_objects": {
+
+    "recursive_preference_relation": {
+      "symbol": "\\overset{\\mathcal P}{\\succ}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal P}{\\succ}x_j",
+      "role": "recursive preference relation",
+      "interpretation": "Defines persistent viability-weighted trajectory preference between organizational configurations."
+    },
+
+    "preference_strength_observable": {
+      "symbol": "\\Pi(x_i,x_j)",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive preference strength observable",
+      "interpretation": "Measures persistent viability-weighted trajectory attraction and recursive prioritization continuity from organizational configuration x_i toward organizational configuration x_j."
+    },
+
+    "preference_threshold": {
+      "symbol": "\\xi_{\\mathrm{pref}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{pref}}>0",
+      "role": "recursive preference threshold",
+      "interpretation": "Defines the minimum persistent viability-weighted trajectory reinforcement required for recursive preference stabilization."
+    },
+
+    "recursive_preference_structure": {
+      "symbol": "\\mathcal P_{\\mathrm{pref}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive preference structure",
+      "interpretation": "Defines recursively stabilized viability-weighted trajectory preference organization generated from persistent recursive selection reinforcement."
+    },
+
+    "preference_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{pref}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive preference topology",
+      "interpretation": "Defines recursive preference connectivity organization induced by stabilized preference structure."
+    },
+
+    "preference_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{pref}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive preference geometry",
+      "interpretation": "Defines recursive preference geometry induced by stabilized preference topology."
+    },
+
+    "preference_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{pref}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive preference survivability",
+      "interpretation": "Measures recursively preservable preference survivability under preference conflict, reinforcement instability, maladaptive lock-in, recursive rigidity, and trajectory fragmentation."
+    },
+
+    "preference_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{pref}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{pref}}^{\\Sigma}>0",
+      "role": "recursive preference survivability threshold",
+      "interpretation": "Defines the minimum preference survivability required for preservable persistent trajectory weighting."
+    },
+
+    "preference_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{pref}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive preference curvature",
+      "interpretation": "Measures recursive preference deformation, rigidity amplification, trajectory lock-in, and adaptive preference contraction across recursive preference geometry."
+    },
+
+    "preference_basin_structure": {
+      "symbol": "\\mathcal B_{\\mathrm{pref}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive preference basin structure",
+      "interpretation": "Defines stable recursive preference attractor regions toward which viability-weighted organizational trajectory orientation recurrently converges."
+    },
+
+    "selection_memory_structure": {
+      "symbol": "\\mathcal M_{\\mathrm{select}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive selection-memory structure",
+      "interpretation": "Defines preserved recursive memory of prior viability-weighted selection reinforcement across recursive organizational time, context, and trajectory-class variation."
+    },
+
+    "memory_threshold": {
+      "symbol": "\\xi_{\\mathrm{mem}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{mem}}>0",
+      "role": "recursive memory threshold",
+      "interpretation": "Defines the minimum preserved recursive selection-memory required for stabilized recursive preference persistence."
+    }
+
+  },
+
+  "preference_dependence_on_selection": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal S}{\\leadsto}x_j\\Rightarrow x_i\\not\\overset{\\mathcal P}{\\succ}x_j",
+    "interpretation": "Recursive preference cannot stabilize without prior viability-weighted recursive selection organization.",
+    "deep_form": "Preference requires selection."
+  },
+
+  "selection_insufficiency_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal S}{\\leadsto}x_j\\not\\Rightarrow x_i\\overset{\\mathcal P}{\\succ}x_j",
+    "interpretation": "Selection may remain local, transient, or context-fragmented without stabilizing into persistent recursive trajectory preference across recursive organizational time and trajectory-class organization.",
+    "deep_form": "Selection permits preference but does not guarantee preference."
+  },
+
+  "preference_memory_principle": {
+    "formal_relation": "\\mathcal M_{\\mathrm{select}}>\\xi_{\\mathrm{mem}}",
+    "interpretation": "Recursive preference stabilizes only where prior selection weighting remains sufficiently retained across recursive organizational time, context, and trajectory-class variation.",
+    "deep_form": "Preference requires preserved selection-memory structure."
+  },
+
+  "preference_stability_criterion": {
+    "formal_relation": "\\Pi(x_i,x_j)>\\xi_{\\mathrm{pref}}",
+    "interpretation": "Recursive preference stabilizes only where viability-weighted trajectory attraction remains sufficiently persistent across recursive organizational variation.",
+    "deep_form": "Preference requires persistent viability-weighted reinforcement."
+  },
+
+  "preference_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal S}{\\leadsto}\\rightarrow\\overset{\\mathcal P}{\\succ}\\rightarrow\\mathcal P_{\\mathrm{pref}}\\rightarrow\\mathfrak T_{\\mathrm{pref}}\\rightarrow\\mathfrak G_{\\mathrm{pref}}",
+    "interpretation": "Recursive selection permits recursive preference, recursive preference generates preference structure, preference structure induces preference topology, and stabilized preference topology induces preference geometry.",
+    "deep_form": "Preference structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal P_{\\mathrm{pref}}\\Rightarrow\\mathfrak T_{\\mathrm{pref}}\\Rightarrow\\mathfrak G_{\\mathrm{pref}}",
+    "interpretation": "Persistent trajectory reinforcement, preference continuity organization, and recursive attraction structure stabilize prior to emergence of coherent preference geometry.",
+    "deep_form": "Preference topology precedes preference geometry."
+  },
+
+  "pre_metric_preference_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{pref}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Preference geometry organizes persistent viability-weighted trajectory attraction, reinforcement continuity, and recursive preference stabilization prior to emergence of stable metric geometry.",
+    "deep_form": "Preference geometry is organizational before metric."
+  },
+
+  "preference_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{pref}}>\\xi_{\\mathrm{pref}}^{\\Sigma}",
+    "interpretation": "Recursive preference requires sufficiently preserved persistent viability-weighted trajectory reinforcement under recursive deformation dynamics.",
+    "deep_form": "Preference requires preserved persistent trajectory survivability."
+  },
+
+  "preference_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal P}{\\succ}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Recursive preference preserves persistent trajectory orientation without requiring static organizational identity equivalence.",
+    "deep_form": "Preference does not require static identity persistence."
+  },
+
+  "preference_nonuniformity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal P}{\\succ}x_j\\not\\Rightarrow\\Pi_i=\\Pi_j",
+    "interpretation": "Recursive preference may stabilize through asymmetric preference strength, localized reinforcement, differential trajectory attraction, or uneven cross-context weighting persistence.",
+    "deep_form": "Preference does not require uniform preference strength across organizational sectors."
+  },
+
+  "preference_reinforcement_principle": {
+    "formal_relation": "\\Pi(x_i,x_j)\\uparrow\\Rightarrow\\mathcal B_{\\mathrm{pref}}\\text{ deepens}",
+    "interpretation": "Persistent recursive preference reinforcement may deepen preference basins, increasing recurrent trajectory attraction and reducing adaptive reorientation flexibility.",
+    "deep_form": "Preference reinforcement deepens trajectory attraction."
+  },
+
+  "preference_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{pref}}\\uparrow\\Rightarrow\\mu(\\mathcal P_{\\mathrm{pref}})\\downarrow",
+    "interpretation": "Recursive preference deformation contracts adaptive trajectory flexibility, increasing rigidity amplification, maladaptive lock-in, and preference collapse pressure.",
+    "deep_form": "Preference curvature contracts adaptive trajectory flexibility."
+  },
+
+  "preference_fragmentation_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{pref}}\\le\\xi_{\\mathrm{pref}}^{\\Sigma}\\Rightarrow\\mathfrak T_{\\mathrm{pref}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{pref}}^{(\\alpha)}",
+    "interpretation": "Recursive preference organization becomes increasingly fragmented whenever persistent trajectory weighting fails to remain sufficiently preservable.",
+    "deep_form": "Preference collapse fragments persistent trajectory weighting."
+  },
+
+  "preference_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{pref}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{pref}}^{\\mathrm{collapse}}",
+    "interpretation": "Persistent trajectory reinforcement may deform preference geometry such that recovery requires different preference pathways than those traversed during prior preference collapse, rigidification, or maladaptive lock-in.",
+    "deep_form": "Preference recovery and collapse need not follow identical geometry."
+  },
+
+  "preference_attractor_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{pref}}\\rightarrow\\mathcal B_{\\mathrm{pref}}",
+    "interpretation": "Recursive preference geometry may generate stable preference attractors toward which organizational trajectory orientation recurrently converges.",
+    "deep_form": "Recursive preference generates persistent trajectory attractors."
+  },
+
+  "maladaptive_preference_principle": {
+    "formal_relation": "\\Pi(x_i,x_j)>\\xi_{\\mathrm{pref}}\\not\\Rightarrow\\Sigma_{\\mathrm{viab}}\\uparrow",
+    "interpretation": "Persistent recursive preference may stabilize around trajectories that reduce long-horizon viability, future accessibility, recoverability, or adaptive survivability.",
+    "deep_form": "Persistent preference may stabilize around globally nonviable trajectories."
+  },
+
+  "local_global_preference_divergence_principle": {
+    "formal_relation": "\\Pi_{\\mathrm{local}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{viab}}^{\\mathrm{global}}\\uparrow",
+    "interpretation": "Locally persistent trajectory preference may destabilize large-scale recursive viability through recoverability suppression, future accessibility contraction, rigid preference lock-in, or maladaptive survivability narrowing.",
+    "deep_form": "Locally reinforced preference may globally destabilize viability."
+  },
+
+  "preference_valuation_distinction": {
+    "formal_relation": "\\mathcal P_{\\mathrm{pref}}\\not\\Rightarrow\\mathcal V_{\\mathrm{value}}",
+    "interpretation": "Preference stabilizes persistent trajectory weighting while valuation additionally requires comparative viability abstraction, cross-domain weighting consistency, recursive importance organization, generalized viability ranking, and stable value hierarchy formation.",
+    "deep_form": "Preference permits valuation but does not yet imply valuation."
+  },
+
+  "valuation_precondition_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal P}{\\succ}x_j\\Rightarrow\\mathcal V_{\\mathrm{value}}\\text{ becomes possible}",
+    "interpretation": "Recursive valuation cannot emerge without prior persistent recursive preference organization.",
+    "deep_form": "Preference precedes recursive valuation."
+  },
+
+  "normalization_rules": [
+    "Preference preserves persistent viability-weighted trajectory orientation.",
+    "Selection permits preference but does not guarantee preference.",
+    "Preference introduces selection-memory and persistent trajectory attraction.",
+    "Preference requires preserved selection-memory structure.",
+    "Preference topology precedes preference geometry.",
+    "Preference geometry governs persistent trajectory reinforcement, attraction continuity, and preference lock-in dynamics.",
+    "Preference geometry is organizational before metric.",
+    "Preference does not require uniform preference strength across organizational sectors.",
+    "Preference reinforcement may deepen trajectory attraction.",
+    "Recursive preference curvature contracts adaptive trajectory flexibility.",
+    "Preference collapse fragments persistent trajectory weighting.",
+    "Preference recovery and collapse need not follow identical geometry.",
+    "Recursive preference generates persistent trajectory attractors.",
+    "Persistent preference may stabilize around globally nonviable trajectories.",
+    "Locally reinforced preference may globally destabilize viability.",
+    "Preference permits valuation but does not yet imply valuation.",
+    "Preference precedes recursive valuation."
+  ],
+
+  "deep_compressions": [
+    "Preference preserves persistent viability-weighted trajectory orientation.",
+    "Selection permits preference but does not guarantee preference.",
+    "Preference requires preserved selection-memory structure.",
+    "Preference topology precedes preference geometry.",
+    "Preference geometry is organizational before metric.",
+    "Preference reinforcement deepens trajectory attraction.",
+    "Recursive preference curvature contracts adaptive trajectory flexibility.",
+    "Preference collapse fragments persistent trajectory weighting.",
+    "Preference recovery and collapse need not follow identical geometry.",
+    "Recursive preference generates persistent trajectory attractors.",
+    "Persistent preference may stabilize around globally nonviable trajectories.",
+    "Locally reinforced preference may globally destabilize viability.",
+    "Preference permits valuation but does not yet imply valuation.",
+    "Preference precedes recursive valuation."
+  ],
+
+  "connections": [
+    "layer5_detection_v1",
+    "layer5_5_selection_v1",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model"
+  ],
+
+  "one_sentence_lock": "Layer 6 — Preference states that recursive selection may stabilize into recursive preference whenever viability-weighted trajectory prioritization becomes sufficiently persistent across recursive time, context, and trajectory-class organization, with preference introducing selection-memory, cross-context weighting continuity, persistent trajectory attraction, preference basins, and recurrent directional bias, while preference reinforcement deepens trajectory attractors, preference curvature contracts adaptive trajectory flexibility, maladaptive preference lock-in may suppress future accessibility and recoverability, and recursive valuation becomes possible only after persistent preference organization stabilizes."
+}
