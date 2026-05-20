@@ -1,0 +1,258 @@
+{
+  "artifact_id": "layer6_5_valuation_v1",
+  "title": "Layer 6.5 — Valuation",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_generalized_comparative_valuation_layer",
+
+  "canonical_statement": "Recursive preference may stabilize into recursive valuation whenever persistent viability-weighted trajectory orientation becomes sufficiently generalized across recursive context, trajectory-class organization, and comparative survivability abstraction.",
+
+  "deep_compression_statement": "Valuation generalizes comparative importance organization.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal V}{\\triangleright}x_j",
+    "interpretation": "Recursive valuation defines generalized viability-weighted comparative importance organization between organizational configurations.",
+    "deep_form": "Valuation stabilizes generalized comparative weighting."
+  },
+
+  "primitive_objects": {
+
+    "recursive_valuation_relation": {
+      "symbol": "\\overset{\\mathcal V}{\\triangleright}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal V}{\\triangleright}x_j",
+      "role": "recursive valuation relation",
+      "interpretation": "Defines generalized comparative viability-weighted importance organization between organizational configurations."
+    },
+
+    "valuation_persistence_observable": {
+      "symbol": "\\Upsilon_{\\mathrm{value}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive valuation persistence observable",
+      "interpretation": "Measures persistence of generalized comparative weighting across recursive organizational contexts, trajectory classes, and survivability conditions."
+    },
+
+    "valuation_threshold": {
+      "symbol": "\\xi_{\\mathrm{value}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{value}}>0",
+      "role": "recursive valuation threshold",
+      "interpretation": "Defines the minimum generalized comparative weighting persistence required for stabilized recursive valuation organization."
+    },
+
+    "recursive_valuation_structure": {
+      "symbol": "\\mathcal V_{\\mathrm{value}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive valuation structure",
+      "interpretation": "Defines recursively stabilized comparative viability-weighted importance organization generated from generalized recursive preference reinforcement."
+    },
+
+    "valuation_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{value}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive valuation topology",
+      "interpretation": "Defines recursive valuation connectivity organization induced by stabilized valuation structure."
+    },
+
+    "valuation_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{value}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive valuation geometry",
+      "interpretation": "Defines recursive valuation geometry induced by stabilized valuation topology."
+    },
+
+    "valuation_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{value}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive valuation survivability",
+      "interpretation": "Measures recursively preservable generalized comparative importance organization under valuation conflict, importance rigidity, future accessibility contraction, recoverability suppression, symbolic overcompression, and maladaptive survivability narrowing."
+    },
+
+    "valuation_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{value}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{value}}^{\\Sigma}>0",
+      "role": "recursive valuation survivability threshold",
+      "interpretation": "Defines the minimum valuation survivability required for preservable generalized comparative importance organization."
+    },
+
+    "valuation_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{value}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive valuation curvature",
+      "interpretation": "Measures recursive valuation deformation, comparative weighting rigidity, symbolic compression amplification, importance narrowing, and generalized survivability distortion across recursive valuation geometry."
+    },
+
+    "valuation_basin_structure": {
+      "symbol": "\\mathcal B_{\\mathrm{value}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive valuation basin structure",
+      "interpretation": "Defines stable recursive valuation attractor regions toward which generalized comparative importance organization recurrently converges."
+    },
+
+    "comparative_importance_structure": {
+      "symbol": "\\mathcal I_{\\mathrm{value}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "comparative importance organization structure",
+      "interpretation": "Defines generalized recursive organizational importance ranking generated through cross-context survivability weighting stabilization."
+    }
+
+  },
+
+  "valuation_dependence_on_preference": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal P}{\\succ}x_j\\Rightarrow x_i\\not\\overset{\\mathcal V}{\\triangleright}x_j",
+    "interpretation": "Recursive valuation cannot stabilize without prior persistent recursive preference organization.",
+    "deep_form": "Valuation requires preference."
+  },
+
+  "preference_insufficiency_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal P}{\\succ}x_j\\not\\Rightarrow x_i\\overset{\\mathcal V}{\\triangleright}x_j",
+    "interpretation": "Persistent recursive preference may remain localized, trajectory-specific, or context-bound without stabilizing into generalized comparative importance organization.",
+    "deep_form": "Preference permits valuation but does not guarantee valuation."
+  },
+
+  "generalization_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal P}{\\succ}x_j\\not\\Rightarrow\\forall\\mathcal C_\\alpha:x_i\\overset{\\mathcal V}{\\triangleright}x_j",
+    "interpretation": "Recursive preference may remain restricted to localized organizational conditions while recursive valuation emerges only where comparative weighting stabilizes across multiple recursive contexts and trajectory classes.",
+    "deep_form": "Preference can remain local. Valuation begins generalization."
+  },
+
+  "valuation_stability_criterion": {
+    "formal_relation": "\\Upsilon_{\\mathrm{value}}>\\xi_{\\mathrm{value}}",
+    "interpretation": "Recursive valuation stabilizes only where generalized comparative importance organization remains sufficiently persistent across recursive organizational variation.",
+    "deep_form": "Valuation requires persistent generalized comparative weighting."
+  },
+
+  "valuation_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal P}{\\succ}\\rightarrow\\overset{\\mathcal V}{\\triangleright}\\rightarrow\\mathcal V_{\\mathrm{value}}\\rightarrow\\mathfrak T_{\\mathrm{value}}\\rightarrow\\mathfrak G_{\\mathrm{value}}",
+    "interpretation": "Recursive preference permits recursive valuation, recursive valuation generates valuation structure, valuation structure induces valuation topology, and stabilized valuation topology induces valuation geometry.",
+    "deep_form": "Valuation structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal V_{\\mathrm{value}}\\Rightarrow\\mathfrak T_{\\mathrm{value}}\\Rightarrow\\mathfrak G_{\\mathrm{value}}",
+    "interpretation": "Generalized importance organization, comparative weighting continuity, and survivability ranking stabilization emerge prior to coherent valuation geometry.",
+    "deep_form": "Valuation topology precedes valuation geometry."
+  },
+
+  "pre_metric_valuation_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{value}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Valuation geometry organizes generalized comparative weighting, importance stabilization, and survivability ranking organization prior to emergence of stable metric geometry.",
+    "deep_form": "Valuation geometry is organizational before metric."
+  },
+
+  "valuation_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{value}}>\\xi_{\\mathrm{value}}^{\\Sigma}",
+    "interpretation": "Recursive valuation requires sufficiently preserved generalized comparative importance organization under recursive deformation, valuation conflict, recoverability suppression, future accessibility contraction, and maladaptive importance rigidity dynamics.",
+    "deep_form": "Valuation requires preserved generalized comparative survivability."
+  },
+
+  "valuation_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal V}{\\triangleright}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Recursive valuation preserves generalized comparative weighting without requiring static organizational identity equivalence.",
+    "deep_form": "Valuation does not require static identity persistence."
+  },
+
+  "valuation_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{value}}\\uparrow\\Rightarrow\\mu(\\mathcal V_{\\mathrm{value}})\\downarrow",
+    "interpretation": "Recursive valuation deformation contracts generalized comparative flexibility, increasing valuation rigidity, importance narrowing, symbolic overcompression, and maladaptive value lock-in.",
+    "deep_form": "Valuation curvature contracts comparative flexibility."
+  },
+
+  "valuation_fragmentation_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{value}}\\le\\xi_{\\mathrm{value}}^{\\Sigma}\\Rightarrow\\mathfrak T_{\\mathrm{value}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{value}}^{(\\alpha)}",
+    "interpretation": "Recursive valuation organization becomes increasingly fragmented whenever generalized comparative importance structures fail to remain sufficiently preservable across recursive organizational conditions.",
+    "deep_form": "Valuation collapse fragments generalized importance organization."
+  },
+
+  "valuation_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{value}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{value}}^{\\mathrm{collapse}}",
+    "interpretation": "Generalized comparative importance organization may deform valuation geometry such that recovery requires different valuation pathways than those traversed during prior valuation collapse, rigidity amplification, or maladaptive lock-in.",
+    "deep_form": "Valuation recovery and collapse need not follow identical geometry."
+  },
+
+  "valuation_attractor_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{value}}\\rightarrow\\mathcal B_{\\mathrm{value}}",
+    "interpretation": "Recursive valuation geometry may generate stable generalized importance attractors toward which organizational valuation recurrently converges.",
+    "deep_form": "Recursive valuation generates comparative importance attractors."
+  },
+
+  "valuation_conflict_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal V}{\\triangleright}x_j\\land x_i\\overset{\\mathcal V}{\\triangleright}x_k\\land x_j\\not\\sim_{\\mathrm{adm}}x_k\\Rightarrow\\Sigma_{\\mathrm{value}}\\downarrow",
+    "interpretation": "Valuation survivability contracts whenever generalized comparative importance structures cannot be jointly reconciled across recursive organizational conditions.",
+    "deep_form": "Competing generalized valuation structures destabilize survivability."
+  },
+
+  "maladaptive_valuation_principle": {
+    "formal_relation": "\\Upsilon_{\\mathrm{value}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{viab}}\\uparrow",
+    "interpretation": "Generalized comparative weighting may stabilize around importance structures that suppress recoverability, future accessibility, adaptive survivability, or long-horizon recursive viability.",
+    "deep_form": "Maladaptive valuation may stabilize around globally nonviable importance organization."
+  },
+
+  "local_global_valuation_divergence_principle": {
+    "formal_relation": "\\Upsilon_{\\mathrm{local}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{viab}}^{\\mathrm{global}}\\uparrow",
+    "interpretation": "Locally reinforced comparative importance organization may destabilize large-scale recursive viability through recoverability suppression, future accessibility contraction, symbolic rigidity amplification, or maladaptive survivability narrowing.",
+    "deep_form": "Locally reinforced valuation may globally destabilize viability."
+  },
+
+  "valuation_meaning_distinction": {
+    "formal_relation": "\\mathcal V_{\\mathrm{value}}\\not\\Rightarrow\\mathcal M_{\\mathrm{meaning}}",
+    "interpretation": "Valuation stabilizes generalized comparative importance organization while meaning additionally requires symbolic continuity, narrative coherence, recursive interpretability, semantic stabilization, and persistent organizational significance integration.",
+    "deep_form": "Valuation permits meaning but does not yet imply meaning."
+  },
+
+  "meaning_precondition_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal V}{\\triangleright}x_j\\Rightarrow\\mathcal M_{\\mathrm{meaning}}\\text{ becomes possible}",
+    "interpretation": "Recursive meaning cannot emerge without prior generalized comparative valuation organization.",
+    "deep_form": "Valuation precedes recursive meaning."
+  },
+
+  "normalization_rules": [
+    "Valuation generalizes comparative importance organization.",
+    "Preference permits valuation but does not guarantee valuation.",
+    "Preference can remain local. Valuation begins generalization.",
+    "Valuation introduces generalized comparative weighting.",
+    "Valuation requires persistent recursive preference organization.",
+    "Valuation topology precedes valuation geometry.",
+    "Valuation geometry governs generalized importance organization and survivability ranking dynamics.",
+    "Valuation geometry is organizational before metric.",
+    "Recursive valuation curvature contracts comparative flexibility.",
+    "Valuation collapse fragments generalized importance organization.",
+    "Valuation recovery and collapse need not follow identical geometry.",
+    "Recursive valuation generates comparative importance attractors.",
+    "Competing generalized valuation structures destabilize survivability.",
+    "Maladaptive valuation may stabilize around globally nonviable importance organization.",
+    "Locally reinforced valuation may globally destabilize viability.",
+    "Valuation permits meaning but does not yet imply meaning.",
+    "Valuation precedes recursive meaning."
+  ],
+
+  "deep_compressions": [
+    "Valuation generalizes comparative importance organization.",
+    "Preference permits valuation but does not guarantee valuation.",
+    "Preference can remain local. Valuation begins generalization.",
+    "Valuation introduces generalized comparative weighting.",
+    "Valuation topology precedes valuation geometry.",
+    "Valuation geometry is organizational before metric.",
+    "Recursive valuation curvature contracts comparative flexibility.",
+    "Valuation collapse fragments generalized importance organization.",
+    "Valuation recovery and collapse need not follow identical geometry.",
+    "Recursive valuation generates comparative importance attractors.",
+    "Competing generalized valuation structures destabilize survivability.",
+    "Maladaptive valuation may stabilize around globally nonviable importance organization.",
+    "Locally reinforced valuation may globally destabilize viability.",
+    "Valuation permits meaning but does not yet imply meaning.",
+    "Valuation precedes recursive meaning."
+  ],
+
+  "connections": [
+    "layer6_preference_v2",
+    "layer5_5_selection_v1",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model"
+  ],
+
+  "one_sentence_lock": "Layer 6.5 — Valuation states that recursive preference may stabilize into recursive valuation whenever persistent viability-weighted trajectory orientation becomes sufficiently generalized across recursive context, trajectory-class organization, and comparative survivability abstraction, with valuation introducing generalized comparative weighting, cross-context importance organization, survivability ranking structures, valuation basins, and comparative attractor dynamics, while recursive valuation curvature contracts comparative flexibility, valuation collapse fragments generalized importance organization, maladaptive valuation may suppress long-horizon viability, and recursive meaning becomes possible only after generalized comparative valuation organization stabilizes."
+}
