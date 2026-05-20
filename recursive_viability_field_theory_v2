@@ -1,0 +1,273 @@
+{
+  "artifact_id": "recursive_viability_field_theory_v2",
+  "title": "Recursive Viability Field Theory",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_field_dynamics_layer",
+
+  "canonical_statement": "Recursive organizational viability emerges through the dynamical preservation, transport, deformation, and recoverability of navigable future accessibility fields.",
+
+  "deep_compression_statement": "Recursive viability emerges through preservation of recoverable navigable future accessibility.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability field theory governs the large-scale dynamics of navigable future accessibility, recoverability, participation, coordination, and survivability evolution across recursive organizational scales.",
+    "deep_form": "Viability is field-organized future accessibility preservation."
+  },
+
+  "primitive_objects": {
+
+    "viability_field_structure": {
+      "symbol": "\\mathfrak F_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "recursive viability field structure",
+      "interpretation": "Defines recursive field organization governing navigable future accessibility, recoverability, participation, coordination, and organizational survivability dynamics."
+    },
+
+    "future_accessibility_field": {
+      "symbol": "\\mathcal F(x,t)",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "future accessibility field",
+      "interpretation": "Defines general future accessibility density across recursive organizational configuration space and temporal evolution."
+    },
+
+    "navigable_future_accessibility_field": {
+      "symbol": "\\mathcal F_{\\mathrm{navigable}}(x,t)",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "navigable future accessibility field",
+      "interpretation": "Defines the recoverable, traversable, participatory, and viability-preserving subfield of future accessibility."
+    },
+
+    "viability_density": {
+      "symbol": "\\Sigma(x,t)",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive viability density observable",
+      "interpretation": "Measures recursively preservable organizational viability across accessibility field structure."
+    },
+
+    "viability_threshold": {
+      "symbol": "\\xi_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{viab}}>0",
+      "role": "recursive viability threshold",
+      "interpretation": "Defines the minimum viability density required for preservable recursive organization."
+    },
+
+    "recoverability_structure": {
+      "symbol": "\\mathcal R_{\\mathrm{recover}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recoverability structure",
+      "interpretation": "Defines recoverable future accessibility pathways under recursive organizational deformation."
+    },
+
+    "participation_density": {
+      "symbol": "\\mathcal P(x,t)",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "participation accessibility density",
+      "interpretation": "Measures participatory accessibility across recursive organizational accessibility geometry."
+    },
+
+    "coordination_field": {
+      "symbol": "\\mathcal C_{\\mathrm{coord}}(x,t)",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "coordination coherence field",
+      "interpretation": "Measures recursive organizational coordination coherence across future accessibility structure."
+    },
+
+    "viability_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive viability topology",
+      "interpretation": "Defines recursive connectivity organization governing accessibility continuity, recoverability, participation, and coordination across viability field structure."
+    },
+
+    "viability_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive viability geometry",
+      "interpretation": "Defines recursive large-scale accessibility geometry induced by stabilized viability topology."
+    },
+
+    "viability_curvature": {
+      "symbol": "\\mathcal K(x,t)",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive viability curvature observable",
+      "interpretation": "Measures recursive organizational deformation, rigidity amplification, recoverability contraction, participation suppression, and navigability distortion across recursive viability geometry."
+    },
+
+    "accessibility_gradient_operator": {
+      "symbol": "\\nabla_{\\mathcal F}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "future accessibility gradient operator",
+      "interpretation": "Measures directional gradients in navigable future accessibility structure."
+    },
+
+    "collapse_operator": {
+      "symbol": "\\Delta_{\\mathrm{collapse}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "collapse deformation operator",
+      "interpretation": "Models recursive accessibility contraction, rigidity amplification, coordination fragmentation, and future accessibility collapse dynamics."
+    },
+
+    "preservation_generator": {
+      "symbol": "\\mathcal G_{\\mathrm{preserve}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "future accessibility preservation generator",
+      "interpretation": "Models recursive preservation, stabilization, regeneration, and maintenance dynamics across future accessibility structure."
+    },
+
+    "collapse_generator": {
+      "symbol": "\\mathcal G_{\\mathrm{collapse}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "future accessibility collapse generator",
+      "interpretation": "Models recursive accessibility erosion, fragmentation, contraction, and viability collapse dynamics."
+    },
+
+    "recoverability_regeneration_operator": {
+      "symbol": "\\mathcal R_{\\mathrm{regen}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "recoverability regeneration operator",
+      "interpretation": "Models repair, restoration, recoverability regeneration, and navigable future accessibility reconstruction."
+    },
+
+    "coordination_transport_operator": {
+      "symbol": "\\mathcal T_{\\mathrm{coord}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "coordination transport operator",
+      "interpretation": "Models recursive organizational coherence propagation, participatory connectivity, and coordination transport dynamics across recursive accessibility structure."
+    },
+
+    "stewardship_operator": {
+      "symbol": "\\mathcal S_{\\mathrm{steward}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "stewardship stabilization operator",
+      "interpretation": "Models long-horizon preservation of recoverable navigable future accessibility under recursive organizational dynamics."
+    },
+
+    "participation_diffusion_operator": {
+      "symbol": "\\mathcal D_{\\mathrm{part}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "participation diffusion operator",
+      "interpretation": "Models participatory accessibility propagation, inclusion dynamics, and accessibility permeability across recursive organizational structure."
+    }
+
+  },
+
+  "viability_hierarchy": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{viab}}\\rightarrow\\mathfrak T_{\\mathrm{viab}}\\rightarrow\\mathfrak G_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability field organization induces viability topology which induces large-scale viability geometry.",
+    "deep_form": "Viability topology precedes viability geometry."
+  },
+
+  "accessibility_preservation_relation": {
+    "formal_relation": "\\frac{d\\mathcal F}{dt}=\\mathcal G_{\\mathrm{preserve}}-\\mathcal G_{\\mathrm{collapse}}",
+    "interpretation": "Future accessibility fields evolve through competing preservation, regeneration, coordination, and contraction dynamics.",
+    "deep_form": "Future accessibility evolves through competing preservation and collapse dynamics."
+  },
+
+  "recoverability_constraint": {
+    "formal_relation": "\\Sigma\\sim\\mathcal F_{\\mathrm{navigable}}\\cap\\mathcal R_{\\mathrm{recover}}",
+    "interpretation": "Future accessibility without recoverability is insufficient for recursive viability preservation.",
+    "deep_form": "Recoverability is required for recursive viability."
+  },
+
+  "viability_criterion": {
+    "formal_relation": "\\Sigma(x,t)>\\xi_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability remains preservable only where viability density exceeds viability threshold.",
+    "deep_form": "Recursive viability requires sufficient viability density."
+  },
+
+  "curvature_compression_relation": {
+    "formal_relation": "\\mathcal K\\uparrow\\Rightarrow\\mu(\\mathcal F_{\\mathrm{navigable}})\\downarrow",
+    "interpretation": "Rigidity amplification, coordination distortion, recoverability contraction, or participation suppression contract navigable future accessibility.",
+    "deep_form": "Rigidity amplification contracts navigable futures."
+  },
+
+  "participation_viability_relation": {
+    "formal_relation": "\\mathcal P\\subseteq\\mathcal F_{\\mathrm{navigable}}",
+    "interpretation": "Participation remains viable only where future accessibility remains sufficiently navigable, recoverable, and organizationally traversable.",
+    "deep_form": "Participation requires navigable future accessibility."
+  },
+
+  "local_global_viability_divergence_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{local}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{global}}\\uparrow",
+    "interpretation": "Localized organizational optimization may suppress broader recoverability, participation, future accessibility, or large-scale recursive viability across organizational scales.",
+    "deep_form": "Local optimization may globally destabilize recursive viability."
+  },
+
+  "recoverability_asymmetry_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{recover}}^{\\mathrm{return}}\\neq\\mathcal R_{\\mathrm{recover}}^{\\mathrm{collapse}}",
+    "interpretation": "Recoverability pathways may require organizational structures, coordination dynamics, or accessibility geometries distinct from those through which collapse originally emerged.",
+    "deep_form": "Recoverability and collapse need not follow identical geometry."
+  },
+
+  "rigidity_amplification_principle": {
+    "formal_relation": "\\mathcal K\\uparrow\\Rightarrow\\Sigma\\downarrow",
+    "interpretation": "Increasing organizational rigidity amplifies navigability distortion, recoverability contraction, coordination brittleness, and recursive viability suppression.",
+    "deep_form": "Rigidity amplification suppresses recursive viability."
+  },
+
+  "participation_fragmentation_principle": {
+    "formal_relation": "\\mathcal P\\downarrow\\Rightarrow\\Sigma\\downarrow",
+    "interpretation": "Participation collapse suppresses coordination continuity, future accessibility preservation, and recursive organizational survivability.",
+    "deep_form": "Participation fragmentation contracts recursive viability."
+  },
+
+  "viability_field_fragmentation_principle": {
+    "formal_relation": "\\Sigma\\le\\xi_{\\mathrm{viab}}\\Rightarrow\\mathfrak F_{\\mathrm{viab}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak F_{\\mathrm{viab}}^{(\\alpha)}",
+    "interpretation": "Recursive viability collapse fragments coupled viability field organization into increasingly disconnected survivability sectors.",
+    "deep_form": "Viability collapse fragments recursive field organization."
+  },
+
+  "stewardship_stabilization_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{steward}}\\Rightarrow\\mathbb P(\\Sigma>\\xi_{\\mathrm{viab}})\\uparrow",
+    "interpretation": "Stewardship increases the probability that recursive viability remains sufficiently preservable across organizational scales.",
+    "deep_form": "Stewardship stabilizes long-horizon viability."
+  },
+
+  "primitive_viability_dynamics_principle": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{viab}}\\sim(\\mathcal F,\\Sigma,\\mathcal R_{\\mathrm{recover}},\\mathcal P,\\mathcal C_{\\mathrm{coord}},\\mathcal K)",
+    "interpretation": "Recursive viability fields evolve through coupled accessibility, recoverability, coordination, participation, and deformation dynamics.",
+    "deep_form": "Viability emerges through coupled recursive field dynamics."
+  },
+
+  "pre_equation_principle": {
+    "formal_relation": "\\mathsf{Obs}\\rightarrow\\mathsf{Op}\\rightarrow\\mathsf{Dyn}\\rightarrow\\mathsf{FieldEq}",
+    "interpretation": "Primitive observables, operators, directional relations, deformation dynamics, and recoverability structure stabilize prior to locking complete recursive viability field equations.",
+    "deep_form": "Field observables and operators stabilize before full viability equations."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability emerges through preservation of recoverable navigable future accessibility.",
+    "Future accessibility evolves through competing preservation and collapse dynamics.",
+    "Recoverability is required for recursive viability.",
+    "Rigidity amplification contracts navigable futures.",
+    "Participation remains viable only where future accessibility remains navigable."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability emerges through preservation of recoverable navigable future accessibility.",
+    "Future accessibility fields evolve through competing preservation and collapse dynamics.",
+    "Recoverability is required for recursive viability.",
+    "Participation requires navigable future accessibility.",
+    "Coordination transport stabilizes recursive viability.",
+    "Rigidity amplification contracts navigable futures.",
+    "Recoverability and collapse need not follow identical geometry.",
+    "Local optimization may globally destabilize recursive viability.",
+    "Stewardship stabilizes long-horizon future accessibility.",
+    "Recursive viability field theory governs the dynamics of future accessibility evolution across organizational scales."
+  ],
+
+  "connections": [
+    "recursive_future_accessibility_loop",
+    "civilizational_viability_principle_v2",
+    "layer8_5_agency_v1",
+    "future_accessibility_contraction_geometry",
+    "recursive_viability_theory",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "open_future_project"
+  ],
+
+  "one_sentence_lock": "Recursive Viability Field Theory states that recursive organizational viability emerges through the dynamical preservation, transport, deformation, recoverability, coordination, and participation dynamics of navigable future accessibility fields, with future accessibility evolving through competing preservation and collapse dynamics, recoverability required for recursive viability, viability topology inducing viability geometry, rigidity amplification contracting navigable futures, coordination transport stabilizing recursive viability, viability collapse fragmenting recursive field organization, and stewardship increasing the probability that recoverable navigable future accessibility remains preservable across recursive organizational scales."
+}
