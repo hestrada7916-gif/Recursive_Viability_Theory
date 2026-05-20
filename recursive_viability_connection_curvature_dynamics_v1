@@ -1,0 +1,263 @@
+{
+  "artifact_id": "recursive_viability_connection_curvature_dynamics_v1",
+  "title": "Recursive Viability Connection and Curvature Dynamics",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_geometric_dynamics_layer",
+
+  "canonical_statement": "Recursive viability geometry evolves through dynamic deformation of accessibility connections, curvature, transport flow, permeability structure, and recoverability organization across recursive organizational scales.",
+
+  "deep_compression_statement": "Recursive systems deform the geometry that determines which futures remain reachable.",
+
+  "primitive_principle": {
+    "formal_relation": "\\partial_t g^{(\\mathrm{viab})}_{ij}",
+    "interpretation": "Recursive viability geometry evolves dynamically under transport pressure, curvature accumulation, recoverability regeneration, and accessibility deformation.",
+    "deep_form": "Viability geometry evolves through recursive transport and curvature dynamics."
+  },
+
+  "primitive_objects": {
+
+    "dynamic_viability_metric": {
+      "symbol": "g^{(\\mathrm{viab})}_{ij}(x,t)",
+      "type_assignment": "\\mathsf{DynamicMetric}",
+      "role": "dynamic recursive viability metric tensor",
+      "interpretation": "Defines evolving recursive accessibility geometry governing transport deformation, recoverability distance, coordination friction, and future navigability."
+    },
+
+    "viability_connection": {
+      "symbol": "\\Gamma^k_{ij}(x,t)",
+      "type_assignment": "\\mathsf{Connection}",
+      "role": "recursive viability connection structure",
+      "interpretation": "Defines evolving recursive transport connection geometry governing curved accessibility trajectories and pathway deformation across recursive organizational structure."
+    },
+
+    "viability_transport_current": {
+      "symbol": "J^i_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{TransportCurrent}",
+      "role": "recursive viability transport current",
+      "interpretation": "Defines directional recursive transport flow of navigable future accessibility across recursive viability geometry."
+    },
+
+    "viability_geodesic": {
+      "symbol": "\\gamma_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Geodesic}",
+      "role": "recursive viability geodesic",
+      "interpretation": "Defines viability-preserving transport trajectories across recursive accessibility geometry."
+    },
+
+    "viability_curvature_tensor": {
+      "symbol": "\\mathrm{Ric}_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{CurvatureTensor}",
+      "role": "recursive viability curvature tensor",
+      "interpretation": "Measures accessibility deformation, trajectory convergence/divergence, transport instability, and recoverability suppression across recursive viability geometry."
+    },
+
+    "boundary_permeability": {
+      "symbol": "\\Pi_{\\partial}",
+      "type_assignment": "\\mathsf{BoundaryPermeability}",
+      "role": "viability boundary permeability",
+      "interpretation": "Defines permeability of recursive viability basin boundaries governing accessibility exchange, participation flow, repair transport, and coordination coupling across survivability sectors."
+    },
+
+    "accessibility_opening_tensor": {
+      "symbol": "\\mathcal A_{ij}",
+      "type_assignment": "\\mathsf{GeometrySource}",
+      "role": "accessibility-opening geometric process",
+      "interpretation": "Defines geometric deformation processes that expand navigable future accessibility and reduce transport restriction."
+    },
+
+    "accessibility_compression_tensor": {
+      "symbol": "\\mathcal C_{ij}",
+      "type_assignment": "\\mathsf{GeometrySink}",
+      "role": "accessibility-compressing geometric process",
+      "interpretation": "Defines geometric deformation processes that contract navigable future accessibility and increase transport restriction."
+    },
+
+    "connection_deformation_operator": {
+      "symbol": "\\mathcal D^k_{ij}",
+      "type_assignment": "\\mathsf{ConnectionDynamics}",
+      "role": "deformation-driven connection evolution",
+      "interpretation": "Defines recursive deformation-induced changes to accessibility connection structure."
+    },
+
+    "transport_adaptation_operator": {
+      "symbol": "\\mathcal T^k_{ij}",
+      "type_assignment": "\\mathsf{TransportAdaptation}",
+      "role": "transport-induced connection adaptation",
+      "interpretation": "Defines accessibility connection evolution induced by recursive transport flow and organizational transport pressure."
+    },
+
+    "connection_rigidity_operator": {
+      "symbol": "\\mathcal Q^k_{ij}",
+      "type_assignment": "\\mathsf{RigidityOperator}",
+      "role": "connection rigidity obstruction",
+      "interpretation": "Defines rigidity-induced obstruction suppressing adaptive accessibility trajectory evolution."
+    },
+
+    "curvature_flow_operator": {
+      "symbol": "\\mathcal H_{\\mathrm{flow}}",
+      "type_assignment": "\\mathsf{CurvatureFlow}",
+      "role": "transport-induced curvature flow",
+      "interpretation": "Defines recursive curvature evolution induced by transport imbalance and accessibility deformation."
+    },
+
+    "curvature_compression_operator": {
+      "symbol": "\\mathcal H_{\\mathrm{compress}}",
+      "type_assignment": "\\mathsf{CurvatureCompression}",
+      "role": "curvature amplification process",
+      "interpretation": "Defines recursive curvature accumulation induced by rigidity amplification, pathway narrowing, coordination overload, and extractive accessibility contraction."
+    },
+
+    "curvature_regeneration_operator": {
+      "symbol": "\\mathcal H_{\\mathrm{regen}}",
+      "type_assignment": "\\mathsf{CurvatureRegeneration}",
+      "role": "curvature dissipation process",
+      "interpretation": "Defines recursive curvature reduction through repair, permeability restoration, participation expansion, and recoverability regeneration."
+    },
+
+    "viability_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{ViabilityBasin}",
+      "role": "recursive viability basin",
+      "interpretation": "Defines connected recoverable regions of recursive viability geometry within which future accessibility remains sufficiently preservable."
+    },
+
+    "viability_basin_boundary": {
+      "symbol": "\\partial\\mathcal B_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Boundary}",
+      "role": "viability basin boundary structure",
+      "interpretation": "Defines recoverability transition boundaries separating recursively connected viability sectors."
+    },
+
+    "recoverability_capacity": {
+      "symbol": "\\kappa_{\\mathrm{recover}}",
+      "type_assignment": "\\mathsf{Threshold}",
+      "role": "recoverability curvature threshold",
+      "interpretation": "Defines maximum recoverable curvature capacity before viability basin fragmentation occurs."
+    }
+
+  },
+
+  "viability_geometric_hierarchy": {
+    "formal_relation": "g^{(\\mathrm{viab})}_{ij}\\rightarrow\\Gamma^k_{ij}\\rightarrow\\mathrm{Ric}_{\\mathrm{viab}}\\rightarrow\\mathcal B_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability geometry evolves from metric structure through connection dynamics, curvature accumulation, and viability basin organization.",
+    "deep_form": "Viability basins emerge from recursive geometric evolution."
+  },
+
+  "metric_evolution_equation": {
+    "formal_relation": "\\frac{\\partial g^{(\\mathrm{viab})}_{ij}}{\\partial t}=\\mathcal A_{ij}-\\mathcal C_{ij}",
+    "interpretation": "Recursive viability geometry evolves through the balance between accessibility-opening and accessibility-compressing deformation.",
+    "deep_form": "Viability geometry evolves through accessibility expansion and compression."
+  },
+
+  "connection_evolution_equation": {
+    "formal_relation": "\\frac{\\partial\\Gamma^k_{ij}}{\\partial t}=\\mathcal D^k_{ij}+\\mathcal T^k_{ij}-\\mathcal Q^k_{ij}",
+    "interpretation": "Recursive viability connections evolve through deformation dynamics, transport adaptation, and rigidity obstruction.",
+    "deep_form": "Connection geometry evolves through deformation, transport, and rigidity."
+  },
+
+  "curvature_evolution_equation": {
+    "formal_relation": "\\frac{\\partial\\mathrm{Ric}_{\\mathrm{viab}}}{\\partial t}=\\mathcal H_{\\mathrm{flow}}-\\mathcal H_{\\mathrm{compress}}+\\mathcal H_{\\mathrm{regen}}",
+    "interpretation": "Recursive viability curvature evolves through transport flow, curvature compression, and regenerative repair.",
+    "deep_form": "Curvature evolves through imbalance, compression, and regeneration."
+  },
+
+  "curvature_flow_compression_principle": {
+    "formal_relation": "\\frac{\\partial\\mathrm{Ric}_{\\mathrm{viab}}}{\\partial t}>0\\Rightarrow\\frac{\\partial}{\\partial t}\\mu(\\mathcal B_{\\mathrm{viab}})<0",
+    "interpretation": "Positive recursive curvature flow contracts viable basin volume and suppresses future accessibility continuity.",
+    "deep_form": "Curvature accumulation contracts viability basins."
+  },
+
+  "recoverability_curvature_dissipation_principle": {
+    "formal_relation": "\\mathcal H_{\\mathrm{regen}}\\uparrow\\Rightarrow\\mathrm{Ric}_{\\mathrm{viab}}\\downarrow",
+    "interpretation": "Repair, reconnection, and participation regeneration dissipate recursive curvature by restoring transportable future accessibility.",
+    "deep_form": "Recoverability regeneration dissipates curvature."
+  },
+
+  "transport_induced_curvature_principle": {
+    "formal_relation": "\\nabla_iJ^i_{\\mathrm{viab}}\\neq0\\Rightarrow\\partial_tg^{(\\mathrm{viab})}_{ij}\\neq0",
+    "interpretation": "Nonuniform accessibility transport deforms recursive viability geometry.",
+    "deep_form": "Transport imbalance deforms accessibility geometry."
+  },
+
+  "connection_rigidity_principle": {
+    "formal_relation": "\\mathcal Q^k_{ij}\\uparrow\\Rightarrow\\nabla_{\\lambda}\\gamma_{\\mathrm{viab}}\\downarrow",
+    "interpretation": "Connection rigidity suppresses adaptive trajectory reorientation across recursive viability geometry.",
+    "deep_form": "Rigidity suppresses adaptive geodesic evolution."
+  },
+
+  "geodesic_deformation_principle": {
+    "formal_relation": "\\partial_tg^{(\\mathrm{viab})}_{ij}\\neq0\\Rightarrow\\partial_t\\gamma_{\\mathrm{viab}}\\neq0",
+    "interpretation": "Preferred viability-preserving trajectories deform as recursive accessibility geometry evolves.",
+    "deep_form": "Geodesics evolve with accessibility geometry."
+  },
+
+  "curvature_threshold_fragmentation_principle": {
+    "formal_relation": "\\mathrm{Ric}_{\\mathrm{viab}}>\\kappa_{\\mathrm{recover}}\\Rightarrow\\mathcal B_{\\mathrm{viab}}\\rightarrow\\bigcup_{\\alpha}\\mathcal B^{(\\alpha)}_{\\mathrm{viab}}",
+    "interpretation": "Viability basins fragment when recursive curvature exceeds recoverability capacity.",
+    "deep_form": "Excess curvature fragments viability geometry."
+  },
+
+  "curvature_permeability_coupling": {
+    "formal_relation": "\\mathrm{Ric}_{\\mathrm{viab}}\\uparrow\\Rightarrow\\Pi_{\\partial}\\downarrow",
+    "interpretation": "Curvature accumulation suppresses permeability and restricts accessibility exchange across recursive viability boundaries.",
+    "deep_form": "Curvature suppresses permeability."
+  },
+
+  "permeability_regeneration_coupling": {
+    "formal_relation": "\\Pi_{\\partial}\\uparrow\\Rightarrow\\mathrm{Ric}_{\\mathrm{viab}}\\downarrow",
+    "interpretation": "Restored permeability dissipates recursive curvature by reopening transport, repair, participation, and coordination pathways.",
+    "deep_form": "Permeability restoration dissipates curvature."
+  },
+
+  "canonical_curvature_dynamics_compression": {
+    "formal_relation": "\\mathfrak C_{\\mathrm{viab}}=(\\partial_tg^{(\\mathrm{viab})}_{ij},\\partial_t\\Gamma^k_{ij},\\partial_t\\mathrm{Ric}_{\\mathrm{viab}},J^i_{\\mathrm{viab}},\\Pi_{\\partial},\\mathcal H_{\\mathrm{regen}},\\mathcal B_{\\mathrm{viab}})",
+    "interpretation": "Recursive viability connection and curvature dynamics govern evolving accessibility geometry through coupled metric deformation, connection evolution, curvature accumulation, transport imbalance, permeability dynamics, regenerative repair, and basin fragmentation.",
+    "deep_form": "Recursive viability geometry evolves through coupled transport and curvature dynamics."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability geometry evolves dynamically.",
+    "Recursive transport deforms accessibility geometry.",
+    "Connection structure evolves through deformation, transport, and rigidity.",
+    "Curvature accumulation contracts viability basins.",
+    "Recoverability regeneration dissipates recursive curvature.",
+    "Transport imbalance deforms accessibility geometry.",
+    "Rigidity suppresses adaptive geodesic evolution.",
+    "Viability basins fragment when curvature exceeds recoverability capacity.",
+    "Curvature suppresses permeability.",
+    "Restored permeability dissipates recursive curvature."
+  ],
+
+  "deep_compressions": [
+    "Recursive systems deform the geometry that determines which futures remain reachable.",
+    "Viability geometry evolves through transport and curvature dynamics.",
+    "Accessibility transport reshapes recursive organizational geometry.",
+    "Curvature contracts recoverable future accessibility.",
+    "Recoverability regeneration restores navigable geometry.",
+    "Adaptive survivability depends on evolving geodesic accessibility structure.",
+    "Fragmentation emerges when curvature exceeds recoverability capacity.",
+    "Recursive survivability depends on preserving transportable accessibility geometry."
+  ],
+
+  "connections": [
+    "recursive_viability_metric_theory_v1",
+    "recursive_viability_continuity_theory_v1",
+    "recursive_viability_field_theory_v2",
+    "future_accessibility_contraction_geometry",
+    "recursive_future_accessibility_loop",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "recursive_admissibility_flow_theory"
+  ],
+
+  "next_layer_candidates": [
+    "recursive_accessibility_horizon_theory",
+    "recursive_viability_curvature_flow_theory",
+    "recursive_viability_renormalization_theory",
+    "recursive_viability_causal_structure",
+    "multi_scale_accessibility_geometry"
+  ],
+
+  "one_sentence_lock": "Recursive Viability Connection and Curvature Dynamics states that recursive organizational systems continuously deform the accessibility geometry governing future viability through coupled metric evolution, connection dynamics, curvature accumulation, transport imbalance, permeability suppression, regenerative dissipation, and viability basin fragmentation across recursive organizational scales."
+}
