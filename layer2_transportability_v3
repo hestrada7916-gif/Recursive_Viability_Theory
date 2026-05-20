@@ -1,0 +1,283 @@
+{
+  "artifact_id": "layer2_transportability_v3",
+  "title": "Layer 2 — Transportability",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "scalable_recursive_transportability_layer",
+
+  "canonical_statement": "Recursive transportability governs whether organizational propagation remains supportably scalable and recursively survivable across recursive organizational scale under recursive dissipation dynamics.",
+
+  "deep_compression_statement": "Transportability defines scalable survivable organizational transfer.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal T}{\\Longrightarrow}x_j",
+    "interpretation": "Recursive transportability defines supportably scalable recursive organizational transfer between organizational configurations.",
+    "deep_form": "Transportability governs scalable survivable transfer."
+  },
+
+  "primitive_objects": {
+
+    "recursive_transportability_relation": {
+      "symbol": "\\overset{\\mathcal T}{\\Longrightarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal T}{\\Longrightarrow}x_j",
+      "role": "recursive transportability relation",
+      "interpretation": "Defines supportably scalable recursive organizational transfer between organizational configurations."
+    },
+
+    "recursive_transportability_structure": {
+      "symbol": "\\mathcal T_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive transportability structure",
+      "interpretation": "Defines recursively supportable organizational transport structure generated from scalable recursive propagation."
+    },
+
+    "transport_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive transport topology",
+      "interpretation": "Defines recursive transport connectivity organization induced by stabilized transportability structure."
+    },
+
+    "transport_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive transport geometry",
+      "interpretation": "Defines recursive transport geometry induced by stabilized transport topology."
+    },
+
+    "transport_density": {
+      "symbol": "\\rho_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive transport density",
+      "interpretation": "Measures the density of recursively supportable transport pathways preserved across recursive organizational scale."
+    },
+
+    "transport_threshold": {
+      "symbol": "\\xi_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{trans}}>0",
+      "role": "recursive transport threshold",
+      "interpretation": "Defines the minimum transport density required for stabilized recursive transportability."
+    },
+
+    "transport_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive transport survivability",
+      "interpretation": "Measures recursively preservable scalable transport survivability under recursive dissipation, attenuation, transport burden amplification, and recursive organizational deformation."
+    },
+
+    "transport_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{trans}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{trans}}^{\\Sigma}>0",
+      "role": "recursive transport survivability threshold",
+      "interpretation": "Defines the minimum scalable transport survivability required for preservable recursive transportability."
+    },
+
+    "transport_burden": {
+      "symbol": "\\Gamma_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive transport burden",
+      "interpretation": "Measures recursive transport load, throughput strain, dissipation burden, and scalability pressure induced across recursive transport geometry."
+    },
+
+    "localized_transport_burden": {
+      "symbol": "\\Gamma_{\\mathrm{trans}}^{\\mathrm{localized}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "localized recursive transport burden",
+      "interpretation": "Measures recursively concentrated transport burden localized within constrained transport sectors or bottleneck regions."
+    },
+
+    "transport_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{trans}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive transport curvature",
+      "interpretation": "Measures recursive transport deformation, dissipation amplification, transport instability propagation, and scalability contraction across recursive transport geometry."
+    }
+
+  },
+
+  "transportability_dependence_on_propagation": {
+    "formal_relation": "x_i\\not\\overset{\\sigma}{\\longrightarrow}x_j\\Rightarrow x_i\\not\\overset{\\mathcal T}{\\Longrightarrow}x_j",
+    "interpretation": "Recursive transportability cannot stabilize without prior recursive propagation structure.",
+    "deep_form": "Transportability requires propagation."
+  },
+
+  "propagation_transport_distinction": {
+    "formal_relation": "x_i\\overset{\\sigma}{\\longrightarrow}x_j\\not\\Rightarrow x_i\\overset{\\mathcal T}{\\Longrightarrow}x_j",
+    "interpretation": "Propagation defines transmissibility while transportability additionally requires scalable survivability under recursive dissipation dynamics.",
+    "deep_form": "Propagation alone is insufficient for scalable transportability."
+  },
+
+  "scalability_emergence_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{trans}}>\\xi_{\\mathrm{trans}}^{\\Sigma}\\Rightarrow\\mathcal S_{\\mathrm{scale}}",
+    "interpretation": "Recursive transportability defines the first recursive organizational layer in which scalability becomes structurally governing under recursive dissipation dynamics.",
+    "deep_form": "Recursive scalability emerges from stabilized transportability."
+  },
+
+  "transportability_asymmetry_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal T}{\\Longrightarrow}x_j\\not\\Rightarrow x_j\\overset{\\mathcal T}{\\Longrightarrow}x_i",
+    "interpretation": "Recursive transportability may preserve directional asymmetry, irreversible transport structure, survivability asymmetry, or hysteretic transport organization.",
+    "deep_form": "Transportability may remain directionally asymmetric."
+  },
+
+  "transportability_hierarchy": {
+    "formal_relation": "x_i\\overset{\\sigma}{\\longrightarrow}x_j\\rightarrow x_i\\overset{\\mathcal T}{\\Longrightarrow}x_j\\rightarrow\\mathcal T_{\\mathrm{trans}}\\rightarrow\\mathfrak T_{\\mathrm{trans}}\\rightarrow\\mathfrak G_{\\mathrm{trans}}",
+    "interpretation": "Propagation permits scalable transportability, transportability generates recursive transport structure, transport structure induces transport topology, and stabilized transport topology induces transport geometry.",
+    "deep_form": "Transport structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal T_{\\mathrm{trans}}\\Rightarrow\\mathfrak T_{\\mathrm{trans}}\\Rightarrow\\mathfrak G_{\\mathrm{trans}}",
+    "interpretation": "Recursive transport reachability, load-bearing connectivity, and transport fragmentation organization stabilize prior to emergence of coherent transport geometry.",
+    "deep_form": "Transport topology precedes transport geometry."
+  },
+
+  "pre_metric_transport_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{trans}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Transport geometry organizes scalable survivability structure, transport burden, dissipation amplification, recursive transfer deformation, and scalable transport accessibility prior to emergence of stable metric geometry.",
+    "deep_form": "Transport geometry is organizational before metric."
+  },
+
+  "transport_stability_criterion": {
+    "formal_relation": "\\rho_{\\mathrm{trans}}>\\xi_{\\mathrm{trans}}",
+    "interpretation": "Recursive transportability requires sufficiently preserved transport density.",
+    "deep_form": "Stable transportability requires preserved transport density."
+  },
+
+  "transport_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{trans}}>\\xi_{\\mathrm{trans}}^{\\Sigma}",
+    "interpretation": "Recursive scalable transport requires sufficiently preserved transport survivability under recursive dissipation, attenuation amplification, transport overload, synchronization instability, recursive deformation, transport bottleneck amplification, and recursive propagation loss.",
+    "deep_form": "Transportability requires preserved scalable survivability."
+  },
+
+  "transport_phase_regimes": {
+    "stable_transport_regime": {
+      "formal_relation": "\\Sigma_{\\mathrm{trans}}\\gg\\xi_{\\mathrm{trans}}^{\\Sigma}",
+      "interpretation": "Defines transport-stable scalable organization."
+    },
+
+    "critical_transport_regime": {
+      "formal_relation": "\\Sigma_{\\mathrm{trans}}\\approx\\xi_{\\mathrm{trans}}^{\\Sigma}",
+      "interpretation": "Defines marginal transport survivability."
+    },
+
+    "transport_collapse_regime": {
+      "formal_relation": "\\Sigma_{\\mathrm{trans}}<\\xi_{\\mathrm{trans}}^{\\Sigma}",
+      "interpretation": "Defines transport collapse dynamics."
+    },
+
+    "deep_form": "Transport organization undergoes phase-like survivability transitions."
+  },
+
+  "transport_load_balancing_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{trans}}^{\\mathrm{localized}}\\uparrow\\Rightarrow\\Sigma_{\\mathrm{trans}}\\downarrow",
+    "interpretation": "Localized recursive transport burden concentration amplifies recursive dissipation pressure and destabilizes scalable transport survivability.",
+    "deep_form": "Localized burden concentration destabilizes transport survivability."
+  },
+
+  "transport_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{trans}}\\uparrow\\Rightarrow\\mu(\\mathcal T_{\\mathrm{trans}})\\downarrow",
+    "interpretation": "Recursive transport curvature amplification contracts scalable transport organization, increasing transport instability, dissipation burden, and survivability collapse pressure.",
+    "deep_form": "Curvature contracts scalable transport survivability."
+  },
+
+  "transport_fragmentation_principle": {
+    "formal_relation": "\\rho_{\\mathrm{trans}}\\le\\xi_{\\mathrm{trans}}\\Rightarrow\\mathfrak T_{\\mathrm{trans}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{trans}}^{(\\alpha)}",
+    "interpretation": "Recursive transport sectors become increasingly disconnected as scalable transport survivability collapses.",
+    "deep_form": "Transport collapse fragments scalable transport structure."
+  },
+
+  "protected_transport_sector_principle": {
+    "formal_relation": "\\mathfrak T_{\\mathrm{trans}}^{\\mathrm{local}}\\neq\\varnothing\\land\\mathfrak T_{\\mathrm{trans}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Protected local transport reservoirs may remain recursively supportable while globally scalable transport organization contracts.",
+    "deep_form": "Protected transport reservoirs may survive global contraction."
+  },
+
+  "transport_boundary_principle": {
+    "formal_relation": "\\partial\\mathcal T_{\\mathrm{trans}}",
+    "interpretation": "Recursive transport organization contains boundary structure separating recursively supportable transport sectors from non-scalable transport regions.",
+    "deep_form": "Transportability possesses finite scalable transport boundary structure."
+  },
+
+  "transport_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{trans}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{trans}}^{\\mathrm{collapse}}",
+    "interpretation": "Transport collapse may deform transport geometry such that restoration requires different transport pathways than those traversed during collapse.",
+    "deep_form": "Transport recovery and collapse need not follow identical geometry."
+  },
+
+  "transport_curvature_well_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{trans}}\\uparrow\\land\\mathcal K_{\\mathrm{trans}}\\uparrow\\Rightarrow\\mu(\\mathcal T_{\\mathrm{trans}})\\downarrow",
+    "interpretation": "Transport curvature wells emerge whenever transport structure remains formally connected while scalable transport survivability becomes prohibitively unstable.",
+    "deep_form": "Formal transport connectivity may persist while scalable survivability collapses."
+  },
+
+  "spectral_coordination_emergence_principle": {
+    "formal_relation": "\\mathcal T_{\\mathrm{trans}}\\Rightarrow\\mathcal C_{\\mathrm{spectral}}",
+    "interpretation": "Spectral coordination dynamics emerge naturally from recursive transport survivability dynamics governing scalable directional transport persistence under recursive dissipation.",
+    "deep_form": "SCT governs survivable directional transport persistence under dissipation."
+  },
+
+  "pre_coordination_substrate_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal T}{\\Longrightarrow}x_j\\Rightarrow\\mathcal C_{\\mathrm{coord}}\\text{ becomes scalable}",
+    "interpretation": "Scalable recursive coordination cannot emerge without prior supportable scalable transport organization.",
+    "deep_form": "Transportability precedes scalable recursive coordination."
+  },
+
+  "normalization_rules": [
+    "Propagation permits transportability but does not guarantee scalable transport stability.",
+    "Transportability defines scalable survivable organizational transfer.",
+    "Scalability requires survivable transport rather than mere transmissibility.",
+    "Transportability introduces scalability, dissipation, and recursive survivability structure.",
+    "Recursive scalability emerges from stabilized transportability.",
+    "Transport topology precedes transport geometry.",
+    "Transport geometry governs dissipation amplification, survivability deformation, and scalable transport accessibility.",
+    "Transport geometry is organizational before metric.",
+    "Recursive transport curvature contracts scalable transport survivability.",
+    "Localized transport burden concentration destabilizes scalable transport survivability.",
+    "Transport fragmentation emerges through transport collapse.",
+    "Protected transport reservoirs may survive during global transport contraction.",
+    "Transport collapse and restoration need not follow identical geometry.",
+    "Transport curvature wells may preserve formal connectivity while scalable transport survivability collapses.",
+    "SCT emerges naturally from recursive transport survivability dynamics.",
+    "SCT governs survivable directional transport persistence under recursive dissipation.",
+    "Scalable recursive coordination requires prior transportability stabilization."
+  ],
+
+  "deep_compressions": [
+    "Transportability defines scalable survivable organizational transfer.",
+    "Recursive scalability emerges from stabilized transportability.",
+    "Transmissibility alone does not imply scalability.",
+    "Propagation alone is insufficient for scalable transportability.",
+    "Transportability introduces scalability, dissipation, and recursive survivability structure.",
+    "Transport topology precedes transport geometry.",
+    "Transport geometry is organizational before metric.",
+    "Curvature contracts scalable transport survivability.",
+    "Localized burden concentration destabilizes transport survivability.",
+    "Transport organization undergoes phase-like survivability transitions.",
+    "Transport collapse fragments scalable transport structure.",
+    "Protected transport reservoirs may survive global contraction.",
+    "Transport recovery and collapse need not follow identical geometry.",
+    "Formal transport connectivity may persist while scalable survivability collapses.",
+    "SCT governs survivable directional transport persistence under dissipation.",
+    "Transportability precedes scalable recursive coordination."
+  ],
+
+  "connections": [
+    "layer0_distinguishability_v2",
+    "layer0_25_accessibility_v3",
+    "layer0_5_relation_v3",
+    "layer0_75_admissibility",
+    "layer1_continuation_v2",
+    "layer1_5_propagation_v3",
+    "spectral_coordination_theory",
+    "continuation_boundary_principle",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "recovery_as_restoration_of_traversable_future_accessibility"
+  ],
+
+  "one_sentence_lock": "Layer 2 — Transportability states that recursive transportability governs whether organizational propagation remains supportably scalable and recursively survivable across recursive organizational scale under recursive dissipation dynamics, with recursive scalability emerging from stabilized transportability, transport survivability undergoing phase-like transitions under dissipation pressure, localized transport burden concentration destabilizing survivability, transport topology inducing transport geometry, recursive curvature compressing scalable transport organization, and spectral coordination dynamics emerging naturally as the governing structure of survivable directional transport persistence under recursive dissipation."
+}
