@@ -1,0 +1,294 @@
+{
+  "artifact_id": "layer3_5_regulation_v3",
+  "title": "Layer 3.5 — Regulation",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "adaptive_recursive_survivability_regulation_layer",
+
+  "canonical_statement": "Recursive regulation governs whether coordinated organizational structure remains sufficiently adaptively survivable through directional and reciprocal survivability modulation under recursive deformation dynamics across recursive organizational sectors.",
+
+  "deep_compression_statement": "Regulation stabilizes coordinated survivability through adaptive constraint modulation.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal R}{\\rightleftharpoons}x_j",
+    "interpretation": "Recursive regulation defines reciprocally stabilized adaptive survivability modulation between coordinated organizational configurations.",
+    "deep_form": "Regulation stabilizes coordinated survivability."
+  },
+
+  "primitive_objects": {
+    "directional_regulation_relation": {
+      "symbol": "\\overset{\\mathcal R}{\\Longrightarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal R}{\\Longrightarrow}x_j",
+      "role": "directional recursive regulation relation",
+      "interpretation": "Defines directional recursive survivability modulation from organizational configuration x_i toward organizational configuration x_j."
+    },
+
+    "reciprocal_regulation_relation": {
+      "symbol": "\\overset{\\mathcal R}{\\rightleftharpoons}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal R}{\\rightleftharpoons}x_j",
+      "role": "reciprocal recursive regulation relation",
+      "interpretation": "Defines reciprocally stabilized adaptive survivability modulation between coordinated organizational configurations."
+    },
+
+    "internal_regulation_structure": {
+      "symbol": "\\mathcal R_{\\mathrm{int}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "internal recursive regulation structure",
+      "interpretation": "Defines internally generated recursive survivability regulation including feedback stabilization, burden redistribution, repair signaling, pacing modulation, inhibitory regulation, recursive correction, and adaptive organizational self-modulation."
+    },
+
+    "external_regulation_structure": {
+      "symbol": "\\mathcal R_{\\mathrm{ext}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "external recursive regulation structure",
+      "interpretation": "Defines externally imposed recursive survivability constraint including environmental limitation, ecological constraint, institutional enforcement, resource boundary structure, social pressure, and recursive survivability boundary dynamics."
+    },
+
+    "recursive_regulation_structure": {
+      "symbol": "\\mathcal R_{\\mathrm{reg}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive regulation structure",
+      "interpretation": "Defines recursively adaptive survivability regulation structure generated from coordinated organizational systems."
+    },
+
+    "regulation_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{reg}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive regulation topology",
+      "interpretation": "Defines recursive regulation connectivity organization induced by stabilized regulation structure."
+    },
+
+    "regulation_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{reg}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive regulation geometry",
+      "interpretation": "Defines recursive regulation geometry induced by stabilized regulation topology."
+    },
+
+    "regulation_density": {
+      "symbol": "\\rho_{\\mathrm{reg}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive regulation density",
+      "interpretation": "Measures the density of recursively adaptive survivability regulation pathways preserved across recursive organizational structure."
+    },
+
+    "regulation_threshold": {
+      "symbol": "\\xi_{\\mathrm{reg}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{reg}}>0",
+      "role": "recursive regulation threshold",
+      "interpretation": "Defines the minimum regulation density required for stabilized recursive survivability regulation."
+    },
+
+    "regulation_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{reg}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive regulation survivability",
+      "interpretation": "Measures recursively preservable regulation survivability under overload, feedback failure, burden concentration, repair suppression, rigidity amplification, recursive dissipation, and adaptive destabilization pressure."
+    },
+
+    "regulation_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{reg}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{reg}}^{\\Sigma}>0",
+      "role": "recursive regulation survivability threshold",
+      "interpretation": "Defines the minimum regulation survivability required for preservable adaptive survivability modulation."
+    },
+
+    "regulation_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{reg}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive regulation curvature",
+      "interpretation": "Measures recursive regulation deformation, feedback instability amplification, repair suppression, burden concentration, and survivability contraction across recursive regulation geometry."
+    },
+
+    "regulation_burden": {
+      "symbol": "\\Gamma_{\\mathrm{reg}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive regulation burden",
+      "interpretation": "Measures recursive regulation maintenance burden, adaptive correction strain, constraint management cost, and survivability stabilization pressure."
+    },
+
+    "regulatory_rigidity": {
+      "symbol": "\\mathcal R_{\\mathrm{rigid}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "regulatory rigidity observable",
+      "interpretation": "Measures excessive survivability constraint rigidity, adaptive suppression, recoverability inhibition, and recursive regulatory inflexibility."
+    },
+
+    "adaptive_regulation": {
+      "symbol": "\\mathcal R_{\\mathrm{adaptive}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "adaptive regulation capacity",
+      "interpretation": "Measures recursively preservable adaptive regulatory responsiveness, repair accessibility, burden redistribution flexibility, and deformation-responsive survivability modulation."
+    },
+
+    "imbalanced_regulation_burden": {
+      "symbol": "\\Gamma_{\\mathrm{reg}}^{\\mathrm{imbalanced}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "imbalanced recursive regulation burden",
+      "interpretation": "Measures excessive concentration of recursive regulation burden across constrained organizational sectors."
+    },
+
+    "recoverability_structure": {
+      "symbol": "\\mathcal R_{\\mathrm{recv}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive recoverability structure",
+      "interpretation": "Defines recursively preservable recoverability organization generated from stabilized adaptive survivability regulation."
+    }
+  },
+
+  "regulation_dependence_on_coordination": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal C}{\\Longleftrightarrow}x_j\\Rightarrow x_i\\not\\overset{\\mathcal R}{\\rightleftharpoons}x_j",
+    "interpretation": "Recursive regulation cannot stabilize without prior coordinated organizational integration.",
+    "deep_form": "Regulation requires coordination."
+  },
+
+  "coordination_insufficiency_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Longleftrightarrow}x_j\\not\\Rightarrow x_i\\overset{\\mathcal R}{\\rightleftharpoons}x_j",
+    "interpretation": "Coordinated organizational sectors may remain functionally integrated while failing to preserve adaptive survivability modulation under recursive deformation dynamics.",
+    "deep_form": "Coordination alone is insufficient for survivability regulation."
+  },
+
+  "directional_regulation_asymmetry_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal R}{\\Longrightarrow}x_j\\not\\Rightarrow x_j\\overset{\\mathcal R}{\\Longrightarrow}x_i",
+    "interpretation": "Recursive regulation may preserve asymmetric regulatory influence, directional burden correction, adaptive constraint modulation, repair signaling asymmetry, or survivability stabilization pressure.",
+    "deep_form": "Regulation may remain directionally asymmetric."
+  },
+
+  "regulation_reciprocity_emergence": {
+    "formal_relation": "x_i\\overset{\\mathcal R}{\\Longrightarrow}x_j\\land x_j\\overset{\\mathcal R}{\\Longrightarrow}x_i\\Rightarrow x_i\\overset{\\mathcal R}{\\rightleftharpoons}x_j",
+    "interpretation": "Mutual recursive regulation emerges through sufficiently preserved reciprocal survivability modulation and adaptive constraint stabilization.",
+    "deep_form": "Reciprocal regulation emerges through mutual survivability stabilization."
+  },
+
+  "regulation_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal R}{\\rightleftharpoons}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Reciprocal recursive regulation preserves mutual adaptive survivability modulation without requiring organizational identity, equivalence, or symmetric regulatory function.",
+    "deep_form": "Regulation does not require organizational equivalence."
+  },
+
+  "unified_regulation_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{reg}}=\\mathcal R_{\\mathrm{int}}\\oplus\\mathcal R_{\\mathrm{ext}}",
+    "interpretation": "Recursive survivability regulation emerges from interaction between internally adaptive regulation and externally imposed constraint structure.",
+    "deep_form": "Regulation emerges through coupled internal and external constraint dynamics."
+  },
+
+  "regulation_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal C}{\\Longleftrightarrow}\\rightarrow\\overset{\\mathcal R}{\\Longrightarrow}\\rightarrow\\overset{\\mathcal R}{\\rightleftharpoons}\\rightarrow\\mathcal R_{\\mathrm{reg}}\\rightarrow\\mathfrak T_{\\mathrm{reg}}\\rightarrow\\mathfrak G_{\\mathrm{reg}}",
+    "interpretation": "Coordination permits directional recursive regulation, directional recursive regulation may stabilize into reciprocal recursive regulation, reciprocal regulation generates recursive regulation structure, regulation structure induces regulation topology, and stabilized regulation topology induces regulation geometry.",
+    "deep_form": "Regulation structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{reg}}\\Rightarrow\\mathfrak T_{\\mathrm{reg}}\\Rightarrow\\mathfrak G_{\\mathrm{reg}}",
+    "interpretation": "Feedback organization, repair connectivity, burden redistribution structure, and adaptive correction pathways stabilize prior to emergence of coherent regulation geometry.",
+    "deep_form": "Regulation topology precedes regulation geometry."
+  },
+
+  "pre_metric_regulation_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{reg}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Regulation geometry organizes adaptive survivability modulation, repair accessibility, feedback stabilization, and recoverability structure prior to emergence of stable metric geometry.",
+    "deep_form": "Regulation geometry is organizational before metric."
+  },
+
+  "regulation_stability_criterion": {
+    "formal_relation": "\\rho_{\\mathrm{reg}}>\\xi_{\\mathrm{reg}}",
+    "interpretation": "Recursive regulation requires sufficiently preserved regulation density.",
+    "deep_form": "Stable regulation requires preserved adaptive survivability structure."
+  },
+
+  "regulation_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{reg}}>\\xi_{\\mathrm{reg}}^{\\Sigma}",
+    "interpretation": "Recursive regulation requires sufficiently preserved adaptive survivability modulation under recursive deformation dynamics.",
+    "deep_form": "Regulation requires preserved adaptive survivability."
+  },
+
+  "regulation_burden_imbalance_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{reg}}^{\\mathrm{imbalanced}}\\uparrow\\Rightarrow\\Sigma_{\\mathrm{reg}}\\downarrow",
+    "interpretation": "Adaptive survivability contracts whenever recursive regulation burden becomes excessively concentrated across organizational sectors.",
+    "deep_form": "Regulatory burden imbalance destabilizes survivability."
+  },
+
+  "regulatory_rigidity_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{rigid}}\\uparrow\\Rightarrow\\Sigma_{\\mathrm{reg}}\\downarrow",
+    "interpretation": "Excessively rigid survivability constraint suppresses repair accessibility, adaptive responsiveness, recoverability, burden redistribution, regulatory flexibility, and recursive organizational adaptation under changing deformation dynamics.",
+    "deep_form": "Excessive rigidity destabilizes survivability."
+  },
+
+  "overconstraint_collapse_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{rigid}}\\gg\\mathcal R_{\\mathrm{adaptive}}\\Rightarrow\\Sigma_{\\mathrm{reg}}\\downarrow",
+    "interpretation": "Recursive survivability destabilizes whenever rigid survivability constraint suppresses adaptive responsiveness beyond preservable recoverability limits.",
+    "deep_form": "Excessive constraint destabilizes survivability."
+  },
+
+  "regulation_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{reg}}\\uparrow\\Rightarrow\\mu(\\mathcal R_{\\mathrm{reg}})\\downarrow",
+    "interpretation": "Recursive regulation curvature amplification contracts adaptive survivability regulation structure, increasing collapse risk, repair suppression, and recoverability degradation.",
+    "deep_form": "Curvature contracts adaptive survivability regulation."
+  },
+
+  "regulation_fragmentation_principle": {
+    "formal_relation": "\\rho_{\\mathrm{reg}}\\le\\xi_{\\mathrm{reg}}\\Rightarrow\\mathfrak T_{\\mathrm{reg}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{reg}}^{(\\alpha)}",
+    "interpretation": "Recursive regulation sectors become increasingly disconnected as adaptive survivability regulation collapses.",
+    "deep_form": "Regulation collapse fragments adaptive survivability organization."
+  },
+
+  "recoverability_emergence_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{reg}}\\Rightarrow\\mathcal R_{\\mathrm{recv}}",
+    "interpretation": "Recoverability emerges from stabilized recursive regulation through sufficiently preserved repair accessibility, feedback stabilization, adaptive survivability modulation, and recoverability corridor structure.",
+    "deep_form": "Recoverability emerges from stabilized regulation."
+  },
+
+  "normalization_rules": [
+    "Coordination alone does not guarantee survivability.",
+    "Regulation stabilizes coordinated survivability.",
+    "Regulation emerges through coupled internal and external constraint dynamics.",
+    "Regulation requires coordinated organizational structure.",
+    "Directional regulation may remain asymmetric.",
+    "Reciprocal regulation emerges through mutual survivability stabilization.",
+    "Regulation does not require organizational equivalence.",
+    "Regulation topology precedes regulation geometry.",
+    "Regulation geometry governs feedback stabilization, repair accessibility, burden redistribution, and survivability modulation.",
+    "Regulation geometry is organizational before metric.",
+    "Recursive regulation curvature contracts adaptive survivability structure.",
+    "Regulatory burden imbalance destabilizes survivability.",
+    "Excessive rigidity destabilizes survivability.",
+    "Excessive constraint destabilizes survivability.",
+    "Regulation fragmentation emerges through regulation collapse.",
+    "Recoverability emerges from stabilized regulation.",
+    "Regulation precedes recoverability."
+  ],
+
+  "deep_compressions": [
+    "Regulation stabilizes coordinated survivability.",
+    "Coordination alone does not guarantee survivability.",
+    "Regulation emerges through coupled internal and external constraint dynamics.",
+    "Directional regulation may remain asymmetric.",
+    "Reciprocal regulation emerges through mutual survivability stabilization.",
+    "Regulation does not require organizational equivalence.",
+    "Regulation topology precedes regulation geometry.",
+    "Regulation geometry is organizational before metric.",
+    "Curvature contracts adaptive survivability regulation.",
+    "Regulatory burden imbalance destabilizes survivability.",
+    "Excessive rigidity destabilizes survivability.",
+    "Excessive constraint destabilizes survivability.",
+    "Regulation collapse fragments adaptive survivability organization.",
+    "Recoverability emerges from stabilized regulation.",
+    "Regulation precedes recoverability."
+  ],
+
+  "connections": [
+    "layer2_5_synchronization_v2",
+    "layer3_coordination_v1",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "recovery_as_restoration_of_traversable_future_accessibility",
+    "PMM_recovery_geometry",
+    "spectral_coordination_theory"
+  ],
+
+  "one_sentence_lock": "Layer 3.5 — Regulation states that coordinated organizational structure may stabilize into directional and reciprocal adaptive survivability regulation across recursive organizational sectors, with regulation emerging through coupled internal and external constraint dynamics, recursive regulation survivability governing adaptive modulation under recursive deformation pressure, excessive rigidity destabilizing survivability through repair suppression and adaptive inflexibility, regulation topology inducing regulation geometry, recursive curvature compressing adaptive survivability organization, and recoverability emerging naturally from stabilized recursive regulation."
+}
