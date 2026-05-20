@@ -1,0 +1,199 @@
+{
+  "artifact_id": "recursive_viability_metric_theory_v1",
+  "title": "Recursive Viability Metric Theory",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_metric_geometry_layer",
+
+  "canonical_statement": "Recursive organizational viability admits metric organization through accessibility-preserving transport geometry across recursive organizational structure.",
+
+  "deep_compression_statement": "Viability depends on navigable accessibility geometry.",
+
+  "primitive_principle": {
+    "formal_relation": "g^{(\\mathrm{viab})}_{ij}",
+    "interpretation": "Recursive viability evolves through metric accessibility geometry governing transport cost, recoverability distance, coordination friction, and future navigability.",
+    "deep_form": "Viability is metric accessibility geometry."
+  },
+
+  "primitive_objects": {
+
+    "viability_metric_tensor": {
+      "symbol": "g^{(\\mathrm{viab})}_{ij}",
+      "type_assignment": "\\mathsf{Metric}",
+      "role": "recursive viability metric tensor",
+      "interpretation": "Defines recursive accessibility geometry across organizational configuration space governing accessibility separation, transport deformation, recoverability distance, and organizational navigability.",
+      "constraints": [
+        "g^{(\\mathrm{viab})}_{ij}=g^{(\\mathrm{viab})}_{ji}"
+      ]
+    },
+
+    "viability_interval": {
+      "symbol": "ds_{\\mathrm{viab}}^2",
+      "type_assignment": "\\mathsf{Interval}",
+      "formal_relation": "ds_{\\mathrm{viab}}^2=g^{(\\mathrm{viab})}_{ij}dx^idx^j",
+      "role": "recursive viability interval structure",
+      "interpretation": "Measures accessibility deformation between neighboring recursive organizational states."
+    },
+
+    "accessibility_geodesic": {
+      "symbol": "\\gamma_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Geodesic}",
+      "role": "recursive accessibility geodesic",
+      "interpretation": "Defines minimally resistive organizational trajectories preserving future accessibility transport continuity."
+    },
+
+    "viability_connection": {
+      "symbol": "\\Gamma^k_{ij}",
+      "type_assignment": "\\mathsf{Connection}",
+      "role": "recursive viability connection structure",
+      "interpretation": "Defines recursive transport connection geometry governing curved accessibility trajectories across recursive organizational structure."
+    },
+
+    "transport_resistance": {
+      "symbol": "\\mathcal R_{\\mathrm{transport}}",
+      "type_assignment": "\\mathsf{Resistance}",
+      "role": "recursive transport resistance structure",
+      "interpretation": "Measures friction opposing future accessibility propagation across recursive organizational geometry."
+    },
+
+    "viability_curvature_tensor": {
+      "symbol": "\\mathrm{Ric}_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{CurvatureTensor}",
+      "role": "recursive viability curvature tensor",
+      "interpretation": "Measures accessibility deformation, trajectory convergence/divergence, transport instability, and recoverability suppression across recursive organizational geometry."
+    },
+
+    "transport_asymmetry_tensor": {
+      "symbol": "\\mathcal T^{(\\mathrm{viab})}_{ij}",
+      "type_assignment": "\\mathsf{TransportTensor}",
+      "role": "directional accessibility transport asymmetry",
+      "interpretation": "Defines directional asymmetry in recursive accessibility transport arising from transport pressure, institutional rigidity, coordination asymmetry, or resource gradients."
+    },
+
+    "viability_basin_volume": {
+      "symbol": "\\mu(\\mathcal B_{\\mathrm{viab}})",
+      "type_assignment": "\\mathsf{Measure}",
+      "role": "recursive viability basin measure",
+      "interpretation": "Measures effective navigable volume of recoverable recursive organizational accessibility basins."
+    },
+
+    "metric_determinant": {
+      "symbol": "\\det(g^{(\\mathrm{viab})}_{ij})",
+      "type_assignment": "\\mathsf{Determinant}",
+      "role": "recursive viability metric determinant",
+      "interpretation": "Measures effective navigable dimensionality of recursive accessibility geometry."
+    }
+
+  },
+
+  "viability_metric_principle": {
+    "formal_relation": "g^{(\\mathrm{viab})}_{ij}",
+    "interpretation": "Recursive organizational viability admits metric organization through accessibility-preserving transport geometry.",
+    "deep_form": "Viability possesses navigable metric geometry."
+  },
+
+  "viability_interval_structure": {
+    "formal_relation": "ds_{\\mathrm{viab}}^2=g^{(\\mathrm{viab})}_{ij}dx^idx^j",
+    "interpretation": "Recursive viability intervals measure accessibility deformation between neighboring recursive organizational states.",
+    "deep_form": "Accessibility deformation defines viability distance."
+  },
+
+  "accessibility_geodesic_principle": {
+    "formal_relation": "\\gamma_{\\mathrm{viab}}",
+    "interpretation": "Recursive accessibility geodesics define minimally resistive viability-preserving organizational trajectories.",
+    "deep_form": "Geodesics preserve accessibility continuity."
+  },
+
+  "geodesic_evolution_equation": {
+    "formal_relation": "\\frac{d^2x^k}{d\\lambda^2}+\\Gamma^k_{ij}\\frac{dx^i}{d\\lambda}\\frac{dx^j}{d\\lambda}=0",
+    "interpretation": "Recursive organizational trajectories evolve through curved accessibility geometry governed by recursive viability connection structure.",
+    "deep_form": "Accessibility trajectories follow curved viability geometry."
+  },
+
+  "transport_resistance_structure": {
+    "formal_relation": "\\mathcal R_{\\mathrm{transport}}",
+    "interpretation": "Recursive transport resistance measures friction opposing future accessibility propagation across recursive organizational geometry.",
+    "deep_form": "Transport resistance suppresses accessibility propagation."
+  },
+
+  "curvature_tensor_structure": {
+    "formal_relation": "\\mathrm{Ric}_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability curvature measures accessibility deformation, trajectory convergence/divergence, transport instability, and recoverability suppression.",
+    "deep_form": "Curvature deforms accessibility geometry."
+  },
+
+  "curvature_induced_compression_principle": {
+    "formal_relation": "\\mathrm{Ric}_{\\mathrm{viab}}\\uparrow\\Rightarrow\\mu(\\mathcal B_{\\mathrm{viab}})\\downarrow",
+    "interpretation": "Increasing recursive curvature contracts viable organizational basin volume, reducing recoverability, participation capacity, adaptive flexibility, and future accessibility continuity.",
+    "deep_form": "Curvature compresses viable basin geometry."
+  },
+
+  "anisotropic_accessibility_principle": {
+    "formal_relation": "\\mathcal T^{(\\mathrm{viab})}_{ij}\\neq\\mathcal T^{(\\mathrm{viab})}_{ji}",
+    "interpretation": "Recursive organizational accessibility transport is generally anisotropic and directionally asymmetric.",
+    "deep_form": "Accessibility transport possesses directional asymmetry."
+  },
+
+  "directional_accessibility_principle": {
+    "formal_relation": "\\mathcal T^{(\\mathrm{viab})}_{ij}\\neq\\mathcal T^{(\\mathrm{viab})}_{ji}",
+    "interpretation": "Future accessibility may become directionally biased through asymmetric transport pressure, institutional rigidity, resource gradients, or coordination asymmetry.",
+    "deep_form": "Future accessibility is not necessarily reversibly navigable."
+  },
+
+  "metric_degeneracy_principle": {
+    "formal_relation": "\\det(g^{(\\mathrm{viab})}_{ij})\\rightarrow0\\Rightarrow\\Sigma_{\\mathrm{viab}}\\downarrow",
+    "interpretation": "Recursive viability collapses as accessibility geometry loses effective navigable dimensionality.",
+    "deep_form": "Metric degeneracy collapses recursive viability."
+  },
+
+  "canonical_metric_compression": {
+    "formal_relation": "\\mathfrak M_{\\mathrm{viab}}=(g^{(\\mathrm{viab})}_{ij},\\gamma_{\\mathrm{viab}},\\mathcal R_{\\mathrm{transport}},\\mathrm{Ric}_{\\mathrm{viab}})",
+    "interpretation": "Recursive viability metric theory governs accessibility geometry, viability-preserving trajectories, transport resistance, and curvature-induced accessibility deformation.",
+    "deep_form": "Viability metric geometry couples accessibility, transport, resistance, and curvature."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability admits metric accessibility organization.",
+    "Viability intervals measure accessibility deformation.",
+    "Accessibility geodesics preserve viability transport continuity.",
+    "Transport resistance suppresses future accessibility propagation.",
+    "Curvature deforms recursive accessibility geometry.",
+    "Curvature contracts viable basin volume.",
+    "Accessibility transport is generally anisotropic.",
+    "Future accessibility is not necessarily reversibly navigable.",
+    "Metric degeneracy collapses recursive viability.",
+    "Recursive survivability depends on navigable accessibility geometry."
+  ],
+
+  "deep_compressions": [
+    "Viability depends on navigable accessibility geometry.",
+    "Accessibility transport evolves through curved recursive geometry.",
+    "Recoverability depends on preservation of viable geodesic structure.",
+    "Transport resistance generates accessibility friction across recursive organizational structure.",
+    "Curvature compresses recoverable accessibility basins.",
+    "Directional asymmetry deforms future navigability.",
+    "Metric degeneracy contracts effective navigable dimensionality.",
+    "Recursive organizational survivability depends on preservation of sufficiently traversable accessibility geometry."
+  ],
+
+  "connections": [
+    "recursive_viability_continuity_theory_v1",
+    "recursive_viability_field_theory_v2",
+    "future_accessibility_contraction_geometry",
+    "recursive_future_accessibility_loop",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "recursive_admissibility_flow_theory",
+    "open_future_project"
+  ],
+
+  "next_layer_candidates": [
+    "recursive_viability_connection_dynamics",
+    "recursive_accessibility_horizon_theory",
+    "recursive_viability_curvature_flow_theory",
+    "recursive_viability_renormalization_theory",
+    "multi_scale_accessibility_geometry"
+  ],
+
+  "one_sentence_lock": "Recursive Viability Metric Theory states that recursive organizational survivability depends on preservation of sufficiently navigable accessibility geometry, with recursive viability governed through metric accessibility structure, curved transport geodesics, transport resistance, anisotropic accessibility propagation, curvature-induced basin compression, and metric degeneracy across recursive organizational scales."
+}
