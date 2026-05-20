@@ -1,0 +1,284 @@
+{
+  "artifact_id": "layer5_detection_v1",
+  "title": "Layer 5 — Detection",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_detectability_layer",
+
+  "canonical_statement": "Recursive detection governs whether viability-sensitive organizational variation becomes sufficiently distinguishable, salient, and organizationally actionable under recursive signal deformation dynamics across recursive organizational structure.",
+
+  "deep_compression_statement": "Detection stabilizes actionable viability distinguishability.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal D}{\\hookrightarrow}x_j",
+    "interpretation": "Recursive detection defines stabilized organizational detectability of viability-relevant organizational variation.",
+    "deep_form": "Detection stabilizes actionable viability distinguishability."
+  },
+
+  "primitive_objects": {
+
+    "recursive_detection_relation": {
+      "symbol": "\\overset{\\mathcal D}{\\hookrightarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal D}{\\hookrightarrow}x_j",
+      "role": "recursive detection relation",
+      "interpretation": "Defines recursively stabilized organizational detectability of viability-relevant organizational variation."
+    },
+
+    "detection_signal_observable": {
+      "symbol": "\\mathcal D_{\\mathrm{detect}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive detection signal observable",
+      "interpretation": "Measures actionable viability signal distinguishability across recursive organizational structure."
+    },
+
+    "detection_noise_observable": {
+      "symbol": "\\mathcal N_{\\mathrm{detect}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive detection noise observable",
+      "interpretation": "Measures recursive organizational variation that interferes with viability signal distinguishability and actionable organizational registration."
+    },
+
+    "signal_salience_observable": {
+      "symbol": "\\mathcal S_{\\mathrm{salience}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive signal salience observable",
+      "interpretation": "Measures organizational viability signal salience, persistence, and actionable detectability stabilization."
+    },
+
+    "detection_structure": {
+      "symbol": "\\mathcal D_{\\mathrm{struct}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive detection structure",
+      "interpretation": "Defines recursively stabilized organizational detectability structure generated from viability-sensitive awareness organization."
+    },
+
+    "detection_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{detect}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive detection topology",
+      "interpretation": "Defines recursive detectability connectivity organization induced by stabilized detection structure."
+    },
+
+    "detection_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{detect}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive detection geometry",
+      "interpretation": "Defines recursive detection geometry induced by stabilized detection topology."
+    },
+
+    "detectability_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{detect}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive detectability survivability",
+      "interpretation": "Measures recursively preservable detectability survivability under signal masking, noise amplification, detectability suppression, recursive dissipation, and salience degradation dynamics."
+    },
+
+    "detectability_threshold": {
+      "symbol": "\\xi_{\\mathrm{detect}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{detect}}>0",
+      "role": "recursive detectability threshold",
+      "interpretation": "Defines the minimum viability signal distinguishability required for stabilized recursive detection."
+    },
+
+    "detectability_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{detect}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{detect}}^{\\Sigma}>0",
+      "role": "recursive detectability survivability threshold",
+      "interpretation": "Defines the minimum detectability survivability required for preservable recursive detection."
+    },
+
+    "signal_to_noise_threshold": {
+      "symbol": "\\xi_{\\mathrm{SNR}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{SNR}}>0",
+      "role": "signal-to-noise detectability threshold",
+      "interpretation": "Defines the minimum signal-to-noise differentiation required for stable recursive detectability."
+    },
+
+    "signal_salience_threshold": {
+      "symbol": "\\xi_{\\mathrm{salience}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{salience}}>0",
+      "role": "signal salience threshold",
+      "interpretation": "Defines the minimum viability signal salience required for stabilized recursive detectability."
+    },
+
+    "detection_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{detect}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive detection curvature",
+      "interpretation": "Measures recursive detectability deformation, signal masking amplification, salience instability, and actionable signal contraction across recursive detection geometry."
+    }
+
+  },
+
+  "detection_dependence_on_awareness": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal W}{\\curvearrowright}x_j\\Rightarrow x_i\\not\\overset{\\mathcal D}{\\hookrightarrow}x_j",
+    "interpretation": "Recursive detection cannot stabilize without prior viability-sensitive awareness organization.",
+    "deep_form": "Detection requires awareness."
+  },
+
+  "awareness_beyond_detection_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal W}{\\curvearrowright}x_j\\not\\Rightarrow x_i\\overset{\\mathcal D}{\\hookrightarrow}x_j",
+    "interpretation": "Recursive awareness may preserve viability sensitivity while failing to stabilize actionable organizational signal registration due to signal diffusion, signal masking, recursive noise amplification, detectability suppression, insufficient salience, viability ambiguity, or recursive signal fragmentation.",
+    "deep_form": "Awareness alone is insufficient for detection."
+  },
+
+  "detection_threshold_principle": {
+    "formal_relation": "\\mathcal D_{\\mathrm{detect}}>\\xi_{\\mathrm{detect}}",
+    "interpretation": "Recursive organizational detection stabilizes only where viability-sensitive organizational differentiation becomes sufficiently distinguishable from recursive organizational background variation.",
+    "deep_form": "Detection requires distinguishable viability signals."
+  },
+
+  "signal_to_noise_detection_principle": {
+    "formal_relation": "\\frac{\\mathcal D_{\\mathrm{detect}}}{\\mathcal N_{\\mathrm{detect}}}>\\xi_{\\mathrm{SNR}}",
+    "interpretation": "Recursive detection destabilizes whenever viability-sensitive organizational differentiation becomes insufficiently distinguishable from recursive organizational noise.",
+    "deep_form": "Detection requires sufficient signal-to-noise differentiation."
+  },
+
+  "signal_salience_threshold_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{salience}}>\\xi_{\\mathrm{salience}}",
+    "interpretation": "Recursive detectability stabilizes only where viability signals remain sufficiently organizationally salient to preserve actionable distinguishability under recursive deformation and noise amplification dynamics.",
+    "deep_form": "Detection requires sufficient signal salience."
+  },
+
+  "detection_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal D}{\\hookrightarrow}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Recursive detection preserves actionable viability distinguishability without requiring static organizational identity equivalence.",
+    "deep_form": "Detection does not require organizational identity equivalence."
+  },
+
+  "detection_nonuniformity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal D}{\\hookrightarrow}x_j\\not\\Rightarrow \\mathcal D_i=\\mathcal D_j",
+    "interpretation": "Recursive detectability may stabilize through asymmetric signal sensitivity, uneven salience amplification, localized detectability preservation, or differentiated organizational signal extraction.",
+    "deep_form": "Detection does not require uniform detectability."
+  },
+
+  "salience_amplification_principle": {
+    "formal_relation": "\\mathcal D_{\\mathrm{detect}}\\uparrow\\Rightarrow\\mathcal S_{\\mathrm{salience}}\\uparrow",
+    "interpretation": "Repeated recursive detectability may increase organizational signal salience, signal persistence, and viability-directed organizational orientation.",
+    "deep_form": "Recursive detectability amplifies salience."
+  },
+
+  "detection_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal W}{\\curvearrowright}\\rightarrow\\overset{\\mathcal D}{\\hookrightarrow}\\rightarrow\\mathcal D_{\\mathrm{struct}}\\rightarrow\\mathfrak T_{\\mathrm{detect}}\\rightarrow\\mathfrak G_{\\mathrm{detect}}",
+    "interpretation": "Recursive awareness permits recursive detection, recursive detection generates detection structure, detection structure induces detection topology, and stabilized detection topology induces detection geometry.",
+    "deep_form": "Detection structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal D_{\\mathrm{struct}}\\Rightarrow\\mathfrak T_{\\mathrm{detect}}\\Rightarrow\\mathfrak G_{\\mathrm{detect}}",
+    "interpretation": "Signal connectivity, salience organization, and detectability structure stabilize prior to emergence of coherent detection geometry.",
+    "deep_form": "Detection topology precedes detection geometry."
+  },
+
+  "pre_metric_detection_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{detect}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Detection geometry organizes signal distinguishability, salience structure, and actionable viability detectability prior to emergence of stable metric geometry.",
+    "deep_form": "Detection geometry is organizational before metric."
+  },
+
+  "detection_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{detect}}>\\xi_{\\mathrm{detect}}^{\\Sigma}",
+    "interpretation": "Recursive detection requires sufficiently preserved actionable viability signal distinguishability under recursive deformation dynamics.",
+    "deep_form": "Detection requires preserved detectability survivability."
+  },
+
+  "detection_viability_criterion": {
+    "formal_relation": "\\Psi_{\\mathrm{aware}}>\\xi_{\\mathrm{aware}}\\land\\mathcal D_{\\mathrm{detect}}>\\xi_{\\mathrm{detect}}\\land\\frac{\\mathcal D_{\\mathrm{detect}}}{\\mathcal N_{\\mathrm{detect}}}>\\xi_{\\mathrm{SNR}}\\land\\Sigma_{\\mathrm{detect}}>\\xi_{\\mathrm{detect}}^{\\Sigma}\\Rightarrow\\mathcal D_{\\mathrm{struct}}\\text{ becomes stabilizable}",
+    "interpretation": "Recursive detection emerges only where viability-sensitive awareness, signal distinguishability, signal-to-noise separation, and detectability survivability remain jointly preserved above their respective thresholds.",
+    "deep_form": "Detection requires jointly preserved awareness, salience, distinguishability, and survivability."
+  },
+
+  "detection_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{detect}}\\uparrow\\Rightarrow\\mu(\\mathcal D_{\\mathrm{struct}})\\downarrow",
+    "interpretation": "Recursive detectability deformation contracts actionable viability distinguishability, increasing signal ambiguity, collapse blindness, and viability signal suppression.",
+    "deep_form": "Curvature contracts actionable detectability."
+  },
+
+  "noise_amplification_collapse_principle": {
+    "formal_relation": "\\mathcal N_{\\mathrm{detect}}\\uparrow\\Rightarrow\\Sigma_{\\mathrm{detect}}\\downarrow",
+    "interpretation": "Recursive organizational systems lose actionable viability detectability whenever recursive noise amplification suppresses signal salience, detectability stability, or organizational distinguishability.",
+    "deep_form": "Noise amplification destabilizes detectability."
+  },
+
+  "detection_fragmentation_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{detect}}\\le\\xi_{\\mathrm{detect}}^{\\Sigma}\\Rightarrow\\mathfrak T_{\\mathrm{detect}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{detect}}^{(\\alpha)}",
+    "interpretation": "Recursive organizational detectability becomes increasingly fragmented whenever actionable viability signal registration fails to remain sufficiently preservable.",
+    "deep_form": "Detection collapse fragments detectability organization."
+  },
+
+  "false_detection_principle": {
+    "formal_relation": "\\mathcal D_{\\mathrm{detect}}>\\xi_{\\mathrm{detect}}\\not\\Rightarrow\\mathcal M_{\\mathrm{viab}}^{\\mathrm{accurate}}",
+    "interpretation": "Recursive organizational systems may preserve strong detectability while stabilizing around distorted, misleading, or maladaptive viability representations.",
+    "deep_form": "Detection does not guarantee accurate viability representation."
+  },
+
+  "detection_accuracy_distinction": {
+    "formal_relation": "\\mathcal D_{\\mathrm{detect}}\\uparrow\\not\\Rightarrow\\mathcal I_{\\mathrm{accurate}}",
+    "interpretation": "Recursive organizational systems may strongly detect viability signals while inaccurately interpreting their source, trajectory, or survivability implications.",
+    "deep_form": "Strong detection does not guarantee accurate interpretation."
+  },
+
+  "detection_selection_distinction": {
+    "formal_relation": "\\mathcal D_{\\mathrm{struct}}\\not\\Rightarrow\\mathcal S_{\\mathrm{select}}",
+    "interpretation": "Recursive detection stabilizes actionable organizational distinguishability while selection additionally requires viability weighting, trajectory prioritization, adaptive preference stabilization, recursive asymmetry generation, and viability-directed organizational choice dynamics.",
+    "deep_form": "Detection permits selection but does not yet imply selection."
+  },
+
+  "pre_selection_substrate_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal D}{\\hookrightarrow}x_j\\Rightarrow\\mathcal S_{\\mathrm{select}}\\text{ becomes possible}",
+    "interpretation": "Recursive selection cannot emerge without prior stabilized organizational detectability.",
+    "deep_form": "Detection precedes recursive selection."
+  },
+
+  "normalization_rules": [
+    "Detection stabilizes actionable viability distinguishability.",
+    "Awareness permits detection but does not guarantee detection.",
+    "Detection introduces actionable signal registration.",
+    "Detection requires recursive awareness organization.",
+    "Signal distinguishability must exceed detectability threshold.",
+    "Detection depends upon sufficiently preserved signal-to-noise differentiation.",
+    "Detection requires sufficient signal salience.",
+    "Detection topology precedes detection geometry.",
+    "Detection geometry governs signal distinguishability, salience propagation, and detectability stabilization.",
+    "Detection geometry is organizational before metric.",
+    "Recursive detection curvature contracts actionable detectability.",
+    "Noise amplification destabilizes detectability.",
+    "Detection collapse fragments detectability organization.",
+    "Detection does not guarantee accurate viability representation.",
+    "Strong detection does not guarantee accurate interpretation.",
+    "Detection permits selection but does not yet imply selection.",
+    "Detection precedes recursive selection."
+  ],
+
+  "deep_compressions": [
+    "Detection stabilizes actionable viability distinguishability.",
+    "Awareness permits detection but does not guarantee detection.",
+    "Detection requires sufficient signal-to-noise differentiation.",
+    "Detection requires sufficient signal salience.",
+    "Detection topology precedes detection geometry.",
+    "Detection geometry is organizational before metric.",
+    "Curvature contracts actionable detectability.",
+    "Noise amplification destabilizes detectability.",
+    "Detection collapse fragments detectability organization.",
+    "Detection does not guarantee accurate viability representation.",
+    "Strong detection does not guarantee accurate interpretation.",
+    "Detection permits selection but does not yet imply selection.",
+    "Detection precedes recursive selection."
+  ],
+
+  "connections": [
+    "layer4_viability_v1",
+    "layer4_5_viability_awareness_v1",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model"
+  ],
+
+  "one_sentence_lock": "Layer 5 — Detection states that recursive viability awareness may stabilize into recursively actionable detectability whenever viability-sensitive organizational variation becomes sufficiently distinguishable, salient, and organizationally actionable under recursive signal deformation dynamics, with detection depending upon preserved signal-to-noise differentiation, salience stabilization, and detectability survivability, recursive detection topology inducing recursive detection geometry, recursive curvature compressing actionable detectability, false detection remaining possible despite strong signal stabilization, and recursive selection becoming possible only after stabilized organizational detectability emerges."
+}
