@@ -1,0 +1,300 @@
+{
+  "artifact_id": "layer4_viability_v1",
+  "title": "Layer 4 — Viability",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "future_accessible_recursive_viability_layer",
+
+  "canonical_statement": "Recursive viability governs whether recursively regulated organizational structure remains sufficiently recoverable, adaptively survivable, and future-accessible under recursive deformation dynamics across recursive organizational scale.",
+
+  "deep_compression_statement": "Viability preserves future-accessible survivable continuation.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal V}{\\rightsquigarrow}x_j",
+    "interpretation": "Recursive viability defines future-accessible survivable organizational continuation under recursive deformation dynamics.",
+    "deep_form": "Viability preserves future-accessible survivable continuation."
+  },
+
+  "primitive_objects": {
+
+    "recursive_viability_relation": {
+      "symbol": "\\overset{\\mathcal V}{\\rightsquigarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal V}{\\rightsquigarrow}x_j",
+      "role": "recursive viability relation",
+      "interpretation": "Defines recursively viable organizational continuation between organizational configurations."
+    },
+
+    "recursive_viability_structure": {
+      "symbol": "\\mathcal V_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive viability structure",
+      "interpretation": "Defines recursively preservable viability organization generated from stabilized adaptive survivability regulation."
+    },
+
+    "viability_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive viability topology",
+      "interpretation": "Defines recursive viability connectivity organization induced by stabilized viability structure."
+    },
+
+    "viability_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive viability geometry",
+      "interpretation": "Defines recursive viability geometry induced by stabilized viability topology."
+    },
+
+    "viability_density": {
+      "symbol": "\\rho_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive viability density",
+      "interpretation": "Measures the density of recursively viable future-preserving organizational trajectories preserved across recursive organizational structure."
+    },
+
+    "viability_threshold": {
+      "symbol": "\\xi_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{viab}}>0",
+      "role": "recursive viability threshold",
+      "interpretation": "Defines the minimum viability density required for stabilized recursive viability organization."
+    },
+
+    "future_accessibility": {
+      "symbol": "\\mathcal A_{\\mathrm{future}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "future accessibility structure",
+      "interpretation": "Defines recursively traversable future organizational accessibility pathways."
+    },
+
+    "future_accessibility_threshold": {
+      "symbol": "\\xi_{\\mathrm{future}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{future}}>0",
+      "role": "future accessibility threshold",
+      "interpretation": "Defines the minimum future accessibility required for recursive viability preservation."
+    },
+
+    "recoverability_structure": {
+      "symbol": "\\mathcal R_{\\mathrm{recv}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive recoverability structure",
+      "interpretation": "Defines recursively preservable recoverability organization preserving re-openable future-accessible continuation pathways."
+    },
+
+    "recoverability_threshold": {
+      "symbol": "\\xi_{\\mathrm{recv}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{recv}}>0",
+      "role": "recoverability threshold",
+      "interpretation": "Defines the minimum recoverability required for recursive viability preservation."
+    },
+
+    "viability_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive viability survivability",
+      "interpretation": "Measures recursively preservable viability survivability under future accessibility contraction, recoverability degradation, recursive dissipation, burden amplification, regenerative suppression, and collapse pressure."
+    },
+
+    "viability_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{viab}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{viab}}^{\\Sigma}>0",
+      "role": "viability survivability threshold",
+      "interpretation": "Defines the minimum viability survivability required for recursively preservable viability."
+    },
+
+    "viability_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive viability curvature",
+      "interpretation": "Measures recursive viability deformation, future accessibility contraction, recoverability suppression, collapse amplification, and viable trajectory compression across recursive viability geometry."
+    },
+
+    "viability_burden": {
+      "symbol": "\\Gamma_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive viability burden",
+      "interpretation": "Measures recursive viability maintenance burden, recoverability stabilization strain, adaptive survivability cost, and future accessibility preservation pressure."
+    },
+
+    "viability_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive viability basin",
+      "interpretation": "Defines stable survivability regions toward which organizational systems recover under sufficiently preserved recoverability and future accessibility structure."
+    },
+
+    "collapse_attractor": {
+      "symbol": "\\mathcal A_{\\mathrm{collapse}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "collapse attractor structure",
+      "interpretation": "Defines dynamically self-reinforcing collapse basins generated through recursive viability contraction."
+    }
+
+  },
+
+  "viability_dependence_on_regulation": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal R}{\\rightleftharpoons}x_j\\Rightarrow x_i\\not\\overset{\\mathcal V}{\\rightsquigarrow}x_j",
+    "interpretation": "Recursive viability cannot stabilize without prior adaptive survivability regulation.",
+    "deep_form": "Viability requires regulation."
+  },
+
+  "regulation_insufficiency_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal R}{\\rightleftharpoons}x_j\\not\\Rightarrow x_i\\overset{\\mathcal V}{\\rightsquigarrow}x_j",
+    "interpretation": "Recursively regulated systems may remain temporarily stabilized while failing to preserve recoverability, future accessibility, regenerative capacity, adaptive continuation, survivable trajectory preservation, or recursively traversable future organization.",
+    "deep_form": "Regulation alone is insufficient for viability."
+  },
+
+  "viability_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal V}{\\rightsquigarrow}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Recursive viability preserves future-accessible organizational continuation without requiring static identity.",
+    "deep_form": "Viability is not identical state persistence."
+  },
+
+  "viability_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal R}{\\Longrightarrow}\\rightarrow\\overset{\\mathcal R}{\\rightleftharpoons}\\rightarrow\\overset{\\mathcal V}{\\rightsquigarrow}\\rightarrow\\mathcal V_{\\mathrm{viab}}\\rightarrow\\mathfrak T_{\\mathrm{viab}}\\rightarrow\\mathfrak G_{\\mathrm{viab}}",
+    "interpretation": "Directional regulation may stabilize into reciprocal regulation, reciprocal regulation permits recursive viability, recursive viability generates viability structure, viability structure induces viability topology, and stabilized viability topology induces viability geometry.",
+    "deep_form": "Viability structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal V_{\\mathrm{viab}}\\Rightarrow\\mathfrak T_{\\mathrm{viab}}\\Rightarrow\\mathfrak G_{\\mathrm{viab}}",
+    "interpretation": "Future accessibility organization, recoverability connectivity, viable trajectory preservation, and collapse fragmentation stabilize prior to emergence of coherent viability geometry.",
+    "deep_form": "Viability topology precedes viability geometry."
+  },
+
+  "pre_metric_viability_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{viab}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Viability geometry organizes future accessibility, recoverability, survivability preservation, and viable trajectory structure prior to emergence of stable metric geometry.",
+    "deep_form": "Viability geometry is organizational before metric."
+  },
+
+  "future_accessibility_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{future}}>\\xi_{\\mathrm{future}}",
+    "interpretation": "Recursive viability requires future organizational pathways to remain sufficiently traversable, recoverable, and reopenable under recursive deformation dynamics.",
+    "deep_form": "Viability requires preserved future accessibility."
+  },
+
+  "recoverability_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{recv}}>\\xi_{\\mathrm{recv}}",
+    "interpretation": "Recursive viability requires recoverability pathways to remain sufficiently preservable for future-accessible continuation.",
+    "deep_form": "Viability requires preserved recoverability."
+  },
+
+  "viability_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{viab}}>\\xi_{\\mathrm{viab}}^{\\Sigma}",
+    "interpretation": "Recursive viability requires sufficiently preserved future accessibility and recoverability under recursive deformation, recoverability suppression, future accessibility contraction, regenerative exhaustion, burden amplification, recursive dissipation, and survivability fragmentation pressure.",
+    "deep_form": "Viability requires preserved future-accessible survivability."
+  },
+
+  "recursive_viability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{reg}}>\\xi_{\\mathrm{reg}}^{\\Sigma}\\land\\mathcal R_{\\mathrm{recv}}>\\xi_{\\mathrm{recv}}\\land\\mathcal A_{\\mathrm{future}}>\\xi_{\\mathrm{future}}\\Rightarrow\\Sigma_{\\mathrm{viab}}>\\xi_{\\mathrm{viab}}^{\\Sigma}",
+    "interpretation": "Recursive viability emerges only where adaptive survivability regulation, recoverability, and traversable future accessibility remain jointly preserved above their respective thresholds.",
+    "deep_form": "Viability requires jointly preserved regulation, recoverability, and future accessibility."
+  },
+
+  "recursive_viability_scalability_principle": {
+    "formal_relation": "\\frac{\\partial\\Sigma_{\\mathrm{viab}}}{\\partial s}\\not\\rightarrow0^{-}",
+    "interpretation": "Recursive organizational systems may remain locally survivable while becoming globally nonviable under recursive scale amplification. Recursive viability therefore requires sufficiently scalable future-preserving organizational continuation under recursive scale amplification dynamics.",
+    "deep_form": "Local survivability does not imply scalable viability."
+  },
+
+  "optimization_viability_distinction": {
+    "formal_relation": "\\mathcal O_{\\mathrm{opt}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{viab}}\\uparrow",
+    "interpretation": "Optimized systems may become brittle, overconstrained, non-recoverable, or future-inaccessible despite high local efficiency.",
+    "deep_form": "Optimization alone does not imply viability."
+  },
+
+  "viability_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{viab}}\\uparrow\\Rightarrow\\mu(\\mathcal V_{\\mathrm{viab}})\\downarrow",
+    "interpretation": "Recursive viability curvature amplification contracts viable organizational future accessibility, increasing collapse pressure, recoverability suppression, and survivability degradation.",
+    "deep_form": "Curvature contracts viable future accessibility."
+  },
+
+  "viability_fragmentation_principle": {
+    "formal_relation": "\\rho_{\\mathrm{viab}}\\le\\xi_{\\mathrm{viab}}\\Rightarrow\\mathfrak T_{\\mathrm{viab}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{viab}}^{(\\alpha)}",
+    "interpretation": "Viable organizational sectors become increasingly disconnected as future accessibility and recoverability collapse.",
+    "deep_form": "Viability collapse fragments future-preserving organization."
+  },
+
+  "protected_viability_basin_principle": {
+    "formal_relation": "\\mathcal B_{\\mathrm{viab}}^{\\mathrm{local}}\\neq\\varnothing\\land\\mathfrak T_{\\mathrm{viab}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Protected local viability basins may remain recursively recoverable while globally scalable viability organization contracts.",
+    "deep_form": "Protected viability basins may survive global contraction."
+  },
+
+  "viability_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{viab}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{viab}}^{\\mathrm{collapse}}",
+    "interpretation": "Viability collapse may deform viability geometry such that recoverability requires different viable trajectories than those traversed during collapse.",
+    "deep_form": "Viability recovery and collapse need not follow identical geometry."
+  },
+
+  "collapse_attractor_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{viab}}\\rightarrow\\mathcal A_{\\mathrm{collapse}}",
+    "interpretation": "Recursive viability contraction may generate dynamically self-reinforcing collapse basins toward which organizational systems become increasingly difficult to recover from.",
+    "deep_form": "Collapse contraction generates self-reinforcing collapse attractors."
+  },
+
+  "viability_basin_emergence_principle": {
+    "formal_relation": "\\mathcal B_{\\mathrm{viab}}\\subseteq\\mathfrak G_{\\mathrm{viab}}",
+    "interpretation": "Viability basins define regions of recursive survivability stabilization toward which organizational systems naturally recover under sufficiently preserved recoverability and future accessibility structure.",
+    "deep_form": "Stable viability basins emerge through preserved recoverability."
+  },
+
+  "existence_like_emergence_principle": {
+    "formal_relation": "\\mathcal V_{\\mathrm{viab}}\\Rightarrow\\mathcal E_{\\mathrm{exist}}",
+    "interpretation": "Existence-like organization emerges wherever recursively viable future-preserving continuation remains sufficiently recoverable, adaptive, and traversably preservable under recursive deformation dynamics.",
+    "deep_form": "Existence-like persistence emerges from recursive viability."
+  },
+
+  "normalization_rules": [
+    "Regulation permits viability but does not guarantee viability.",
+    "Viability preserves future-accessible survivable continuation.",
+    "Viability requires jointly preserved regulation, recoverability, and future accessibility.",
+    "Viability does not require identical state persistence.",
+    "Viability topology precedes viability geometry.",
+    "Viability geometry governs recoverability, future accessibility, collapse dynamics, and survivable trajectory organization.",
+    "Viability geometry is organizational before metric.",
+    "Recursive viability curvature contracts future accessibility.",
+    "Viability fragmentation emerges through viability collapse.",
+    "Protected viability basins may survive global viability contraction.",
+    "Viability collapse and recovery need not follow identical geometry.",
+    "Collapse contraction generates self-reinforcing collapse attractors.",
+    "Stable viability basins emerge through preserved recoverability.",
+    "Optimization alone does not imply viability.",
+    "Local survivability does not imply scalable viability.",
+    "Existence-like persistence emerges from recursive viability."
+  ],
+
+  "deep_compressions": [
+    "Viability preserves future-accessible survivable continuation.",
+    "Regulation alone is insufficient for viability.",
+    "Viability requires jointly preserved regulation, recoverability, and future accessibility.",
+    "Viability is not identical state persistence.",
+    "Viability topology precedes viability geometry.",
+    "Viability geometry is organizational before metric.",
+    "Curvature contracts viable future accessibility.",
+    "Viability collapse fragments future-preserving organization.",
+    "Protected viability basins may survive global contraction.",
+    "Viability recovery and collapse need not follow identical geometry.",
+    "Optimization alone does not imply viability.",
+    "Local survivability does not imply scalable viability.",
+    "Existence-like persistence emerges from recursive viability."
+  ],
+
+  "connections": [
+    "layer3_coordination_v1",
+    "layer3_5_regulation_v3",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "recovery_as_restoration_of_traversable_future_accessibility",
+    "PMM_recovery_geometry",
+    "spectral_coordination_theory",
+    "recursive_viability_phase_geometry"
+  ],
+
+  "one_sentence_lock": "Layer 4 — Viability states that recursively regulated organizational structure may stabilize into recursively preservable future-accessible survivability under recursive deformation dynamics, with viability emerging only where regulation, recoverability, and future accessibility remain jointly preserved above critical thresholds, recursive viability geometry governing recoverability and collapse accessibility structure, recursive curvature contracting viable future accessibility, optimization remaining insufficient for viability, and scalable recursive viability requiring preservation of future-accessible survivability under recursive organizational scale amplification."
+}
