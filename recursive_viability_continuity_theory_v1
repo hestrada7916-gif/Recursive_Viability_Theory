@@ -1,0 +1,192 @@
+{
+  "artifact_id": "recursive_viability_continuity_theory_v1",
+  "title": "Recursive Viability Continuity Theory",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_field_dynamics_layer",
+
+  "canonical_statement": "Recursive viability evolves through the transport, preservation, deformation, generation, loss, and recoverability of future accessibility flux across recursive organizational geometry.",
+
+  "deep_compression_statement": "Viability depends on preservable future accessibility transport.",
+
+  "primitive_principle": {
+    "formal_relation": "J_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability evolves through accessibility flux across recursive organizational geometry.",
+    "deep_form": "Viability is transported future accessibility."
+  },
+
+  "primitive_objects": {
+    "viability_accessibility_density": {
+      "symbol": "\\rho_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Density}",
+      "role": "recursive viability accessibility density",
+      "interpretation": "Defines the local density of preservable future accessibility across recursive organizational geometry."
+    },
+
+    "viability_transport_flux": {
+      "symbol": "J_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Flux}",
+      "role": "recursive accessibility transport flux",
+      "interpretation": "Defines the transport, propagation, diffusion, contraction, or fragmentation of future accessibility across recursive viability geometry."
+    },
+
+    "accessibility_generation_rate": {
+      "symbol": "\\Gamma_{\\mathrm{gen}}",
+      "type_assignment": "\\mathsf{Source}",
+      "role": "accessibility-generating organizational processes",
+      "interpretation": "Defines organizational processes that increase future accessibility, recoverability, participation, and adaptive continuity."
+    },
+
+    "accessibility_loss_rate": {
+      "symbol": "\\Gamma_{\\mathrm{loss}}",
+      "type_assignment": "\\mathsf{Sink}",
+      "role": "accessibility-destructive organizational processes",
+      "interpretation": "Defines organizational processes that destroy, fragment, contract, or suppress future accessibility."
+    },
+
+    "net_accessibility_generation": {
+      "symbol": "\\Gamma_{\\mathrm{net}}",
+      "type_assignment": "\\mathsf{SourceSink}",
+      "formal_relation": "\\Gamma_{\\mathrm{net}}=\\Gamma_{\\mathrm{gen}}-\\Gamma_{\\mathrm{loss}}",
+      "role": "net recursive accessibility source/sink structure",
+      "interpretation": "Defines whether recursive organizational sectors generate, destroy, or neutrally transport future accessibility."
+    },
+
+    "boundary_permeability": {
+      "symbol": "\\Pi_{\\partial}",
+      "type_assignment": "\\mathsf{BoundaryOp}",
+      "formal_relation": "\\Pi_{\\partial}:\\partial\\mathfrak G_{\\mathrm{viab}}\\rightarrow[0,1]",
+      "role": "recursive viability boundary permeability structure",
+      "interpretation": "Measures permeability of viability boundaries to organizational transport, participation, repair, resource flow, coordination, and future accessibility propagation."
+    },
+
+    "viability_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Curvature}",
+      "role": "recursive viability curvature observable",
+      "interpretation": "Measures deformation, rigidity amplification, transport friction, pathway instability, and recoverability suppression across recursive viability geometry."
+    },
+
+    "viability_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{viab}}^{(\\alpha)}",
+      "type_assignment": "\\mathsf{Basin}",
+      "role": "recursive viability basin",
+      "interpretation": "Defines a recurrent viability attractor region toward which organizational trajectories converge under recursive dynamics."
+    },
+
+    "viability_probability_density": {
+      "symbol": "P_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{ProbabilityDensity}",
+      "role": "viability-state probability density",
+      "interpretation": "Defines probabilistic distribution over recursive viability states under transport, deformation, selection, repair, and stochastic perturbation dynamics."
+    },
+
+    "viability_evolution_operator": {
+      "symbol": "\\mathcal L_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Operator}",
+      "role": "recursive viability transport dynamics operator",
+      "interpretation": "Defines probabilistic viability evolution across recursive accessibility state space."
+    }
+  },
+
+  "continuity_equation": {
+    "formal_relation": "\\frac{\\partial \\rho_{\\mathrm{viab}}}{\\partial t}+\\nabla\\cdot J_{\\mathrm{viab}}=\\Gamma_{\\mathrm{gen}}-\\Gamma_{\\mathrm{loss}}",
+    "interpretation": "Recursive viability evolves through accessibility density change, transport flux, accessibility generation, and accessibility loss.",
+    "deep_form": "Viability evolves through transport, generation, and loss."
+  },
+
+  "boundary_permeability_geometry": {
+    "formal_relation": "\\Pi_{\\partial}:\\partial\\mathfrak G_{\\mathrm{viab}}\\rightarrow[0,1]",
+    "interpretation": "Recursive viability boundaries possess variable permeability to transport, participation, repair, resource flow, coordination, and future accessibility propagation.",
+    "deep_form": "Boundaries regulate accessibility transport."
+  },
+
+  "curvature_coupled_transport_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{viab}}\\uparrow\\Rightarrow\\|J_{\\mathrm{viab}}\\|\\downarrow",
+    "interpretation": "Recursive organizational curvature suppresses accessibility transport, increasing friction, coordination difficulty, pathway instability, and recoverability suppression.",
+    "deep_form": "Curvature suppresses viability transport."
+  },
+
+  "accessibility_source_sink_dynamics": {
+    "formal_relation": "\\Gamma_{\\mathrm{net}}=\\Gamma_{\\mathrm{gen}}-\\Gamma_{\\mathrm{loss}}",
+    "interpretation": "Recursive organizational sectors may function as accessibility sources, accessibility sinks, or transport-neutral regions.",
+    "deep_form": "Generative systems increase future accessibility; extractive systems destroy it."
+  },
+
+  "viability_basin_geometry": {
+    "formal_relation": "\\mathcal B_{\\mathrm{viab}}^{(\\alpha)}",
+    "interpretation": "Recursive organizational dynamics generate viability basins with differing recoverability, participation capacity, adaptive flexibility, transport continuity, and future accessibility preservation.",
+    "deep_form": "Viability organizes into recursive basins."
+  },
+
+  "basin_transition_principle": {
+    "formal_relation": "\\mathcal B_{\\mathrm{viab}}^{(\\alpha)}\\rightarrow\\mathcal B_{\\mathrm{viab}}^{(\\beta)}\\Rightarrow\\Delta\\mathcal F_{\\mathrm{surplus}}>0\\;\\mathrm{or}\\;\\mathcal K_{\\mathrm{viab}}\\downarrow",
+    "interpretation": "Transitions between viability basins may require substantial accessibility surplus or curvature reduction.",
+    "deep_form": "Basin transition requires surplus accessibility or reduced curvature."
+  },
+
+  "probabilistic_viability_evolution": {
+    "formal_relation": "\\frac{\\partial P_{\\mathrm{viab}}}{\\partial t}=\\mathcal L_{\\mathrm{viab}}P_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability evolution is probabilistic rather than deterministic; organizational systems evolve through constrained accessibility distributions.",
+    "deep_form": "Viability evolves probabilistically through recursive transport."
+  },
+
+  "pre_equation_stochastic_principle": {
+    "formal_relation": "\\mathsf{Uncertainty}\\rightarrow\\mathsf{MetricStabilization}",
+    "interpretation": "Recursive viability uncertainty precedes stabilized metric dynamics; stochasticity is primitive to recursive viability evolution rather than merely external noise.",
+    "deep_form": "Stochasticity precedes stabilized viability geometry."
+  },
+
+  "canonical_continuity_compression": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{viab}}=(\\rho_{\\mathrm{viab}},J_{\\mathrm{viab}},\\Gamma_{\\mathrm{net}},\\mathcal K_{\\mathrm{viab}},\\mathcal B_{\\mathrm{viab}})",
+    "interpretation": "Recursive viability continuity emerges through coupled dynamics of accessibility density, accessibility transport, source/sink generation, recursive curvature, and viability basin organization.",
+    "deep_form": "Viability continuity couples density, flux, source/sink balance, curvature, and basins."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability evolves through preservable accessibility transport.",
+    "Viability continuity balances accessibility density, flux, generation, and loss.",
+    "Boundaries regulate accessibility transport.",
+    "Curvature suppresses viability flux.",
+    "Generative systems increase future accessibility.",
+    "Extractive systems destroy future accessibility faster than it can regenerate.",
+    "Viability organizes into recursive basins.",
+    "Basin transitions require accessibility surplus or curvature reduction.",
+    "Recursive viability evolution is probabilistic rather than deterministic.",
+    "Stochasticity is primitive to recursive viability evolution."
+  ],
+
+  "deep_compressions": [
+    "Viability depends on preservable future accessibility transport.",
+    "Recursive survivability requires continuity of recoverable accessibility flux.",
+    "Accessibility density evolves through transport, generation, and loss.",
+    "Boundary permeability governs exchange between recursive viability sectors.",
+    "Curvature increases transport friction and suppresses recoverability.",
+    "Source sectors generate future accessibility; sink sectors deplete it.",
+    "Viability basins organize recursive trajectories into recurrent accessibility regimes.",
+    "Recovery between basins may require surplus accessibility or curvature reduction.",
+    "Recursive viability evolves through constrained probability distributions.",
+    "Stochasticity precedes fully stabilized recursive metric dynamics."
+  ],
+
+  "connections": [
+    "recursive_viability_field_theory_v2",
+    "recursive_future_accessibility_loop",
+    "civilizational_viability_principle_v2",
+    "future_accessibility_contraction_geometry",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "recursive_admissibility_flow_theory",
+    "open_future_project"
+  ],
+
+  "next_layer_candidates": [
+    "recursive_viability_metric_theory",
+    "recursive_accessibility_transport_geometry",
+    "recursive_viability_geodesic_theory",
+    "multi_field_viability_dynamics",
+    "recursive_viability_renormalization_theory"
+  ],
+
+  "one_sentence_lock": "Recursive Viability Continuity Theory states that recursive organizational survivability depends on preservable future accessibility transport, with viability density evolving through accessibility flux, source/sink generation, boundary permeability, curvature-coupled transport suppression, recursive basin organization, and probabilistic viability evolution across recursive organizational geometry."
+}
