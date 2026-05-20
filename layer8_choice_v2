@@ -1,0 +1,312 @@
+{
+  "artifact_id": "layer8_choice_v2",
+  "title": "Layer 8 — Choice",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_choice_and_agency_layer",
+
+  "canonical_statement": "Recursive belief may stabilize into recursive choice whenever defended interpretive commitment becomes capable of internally arbitrating among admissible future trajectories.",
+
+  "deep_compression_statement": "Choice arbitrates admissible futures.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Rrightarrow}x_j",
+    "interpretation": "Recursive choice defines internally stabilized trajectory commitment from organizational configuration x_i toward admissible future configuration x_j.",
+    "deep_form": "Choice introduces internally arbitrated future commitment."
+  },
+
+  "primitive_objects": {
+
+    "recursive_choice_relation": {
+      "symbol": "\\overset{\\mathcal C}{\\Rrightarrow}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal C}{\\Rrightarrow}x_j",
+      "role": "recursive choice relation",
+      "interpretation": "Defines recursively stabilized admissible future trajectory commitment."
+    },
+
+    "choice_arbitration_observable": {
+      "symbol": "\\Alpha_{\\mathrm{choice}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive choice arbitration observable",
+      "interpretation": "Measures internally stabilized admissible future trajectory arbitration capacity."
+    },
+
+    "choice_threshold": {
+      "symbol": "\\xi_{\\mathrm{choice}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{choice}}>0",
+      "role": "recursive choice threshold",
+      "interpretation": "Defines the minimum arbitration capacity required for stabilized recursive choice."
+    },
+
+    "admissible_alternative_structure": {
+      "symbol": "\\mathcal D_{\\mathrm{alt}}",
+      "type_assignment": "\\mathsf{Set}",
+      "role": "admissible alternative structure",
+      "interpretation": "Defines distinguishable admissible future trajectories available for recursive choice arbitration."
+    },
+
+    "recursive_choice_structure": {
+      "symbol": "\\mathcal C_{\\mathrm{choice}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive choice structure",
+      "interpretation": "Defines recursive trajectory arbitration structure generated from defended interpretive commitment and admissible future differentiation."
+    },
+
+    "choice_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{choice}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive choice topology",
+      "interpretation": "Defines recursive choice connectivity organization induced by stabilized choice structure."
+    },
+
+    "choice_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{choice}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive choice geometry",
+      "interpretation": "Defines recursive organizational geometry governing admissible future arbitration and commitment deformation."
+    },
+
+    "choice_survivability": {
+      "symbol": "\\Sigma_{\\mathrm{choice}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive choice survivability",
+      "interpretation": "Measures preservability of recursive trajectory arbitration under organizational deformation."
+    },
+
+    "choice_survivability_threshold": {
+      "symbol": "\\xi_{\\mathrm{choice}}^{\\Sigma}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{choice}}^{\\Sigma}>0",
+      "role": "recursive choice survivability threshold",
+      "interpretation": "Defines the minimum survivability required for preservable recursive choice."
+    },
+
+    "choice_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{choice}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive choice curvature",
+      "interpretation": "Measures recursive deformation of admissible alternative accessibility and trajectory arbitration."
+    },
+
+    "agency_observable": {
+      "symbol": "\\mathcal A_{\\mathrm{agency}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive agency observable",
+      "interpretation": "Measures degree of preservable future-accessibility modulation achievable under recursive organizational constraint."
+    },
+
+    "agency_threshold": {
+      "symbol": "\\xi_{\\mathrm{agency}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{agency}}>0",
+      "role": "recursive agency threshold",
+      "interpretation": "Defines the minimum future-accessibility modulation capacity required for stabilized recursive agency."
+    }
+
+  },
+
+  "choice_dependence_on_belief": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal B}{\\Vdash}x_j\\Rightarrow x_i\\not\\overset{\\mathcal C}{\\Rrightarrow}x_j",
+    "interpretation": "Recursive choice requires prior defended interpretive commitment.",
+    "deep_form": "Choice requires belief."
+  },
+
+  "belief_insufficiency_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal B}{\\Vdash}x_j\\not\\Rightarrow x_i\\overset{\\mathcal C}{\\Rrightarrow}x_j",
+    "interpretation": "Belief alone is insufficient for stabilized recursive choice.",
+    "deep_form": "Belief permits choice but does not guarantee choice."
+  },
+
+  "choice_stability_criterion": {
+    "formal_relation": "\\Alpha_{\\mathrm{choice}}>\\xi_{\\mathrm{choice}}",
+    "interpretation": "Recursive choice stabilizes only where arbitration capacity exceeds threshold.",
+    "deep_form": "Choice requires sufficient arbitration capacity."
+  },
+
+  "alternative_availability_criterion": {
+    "formal_relation": "\\mu(\\mathcal D_{\\mathrm{alt}})>1",
+    "interpretation": "Recursive choice requires distinguishable admissible alternatives.",
+    "deep_form": "Choice requires admissible alternatives."
+  },
+
+  "choice_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal B}{\\Vdash}\\rightarrow\\overset{\\mathcal C}{\\Rrightarrow}\\rightarrow\\mathcal C_{\\mathrm{choice}}\\rightarrow\\mathfrak T_{\\mathrm{choice}}\\rightarrow\\mathfrak G_{\\mathrm{choice}}",
+    "interpretation": "Belief permits choice, choice generates structure, structure induces topology, and topology induces geometry.",
+    "deep_form": "Choice structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{choice}}\\Rightarrow\\mathfrak T_{\\mathrm{choice}}\\Rightarrow\\mathfrak G_{\\mathrm{choice}}",
+    "interpretation": "Recursive choice topology stabilizes prior to recursive choice geometry.",
+    "deep_form": "Choice topology precedes choice geometry."
+  },
+
+  "pre_metric_choice_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{choice}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Choice geometry organizes admissible future arbitration before stable metric geometry emerges.",
+    "deep_form": "Choice geometry is organizational before metric."
+  },
+
+  "choice_survivability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{choice}}>\\xi_{\\mathrm{choice}}^{\\Sigma}",
+    "interpretation": "Recursive choice remains preservable only where survivability exceeds survivability threshold.",
+    "deep_form": "Choice requires preserved arbitration survivability."
+  },
+
+  "choice_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{choice}}\\uparrow\\Rightarrow\\mu(\\mathcal D_{\\mathrm{alt}})\\downarrow",
+    "interpretation": "Recursive choice curvature contracts accessible alternative structure.",
+    "deep_form": "Choice curvature contracts accessible alternatives."
+  },
+
+  "choice_fragmentation_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{choice}}\\le\\xi_{\\mathrm{choice}}^{\\Sigma}\\Rightarrow\\mathfrak T_{\\mathrm{choice}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{choice}}^{(\\alpha)}",
+    "interpretation": "Choice collapse fragments recursive arbitration topology.",
+    "deep_form": "Choice collapse fragments arbitration organization."
+  },
+
+  "choice_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Rrightarrow}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Recursive choice does not require static organizational identity.",
+    "deep_form": "Choice does not require static identity persistence."
+  },
+
+  "choice_nonuniformity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Rrightarrow}x_j\\not\\Rightarrow\\Alpha_i=\\Alpha_j",
+    "interpretation": "Recursive choice does not require uniform arbitration capacity.",
+    "deep_form": "Choice does not require uniform arbitration capacity."
+  },
+
+  "choice_conflict_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Rrightarrow}x_j\\land x_i\\overset{\\mathcal C}{\\Rrightarrow}x_k\\land x_j\\not\\sim_{\\mathrm{adm}}x_k\\Rightarrow\\Sigma_{\\mathrm{choice}}\\downarrow",
+    "interpretation": "Competing incompatible commitments destabilize recursive choice.",
+    "deep_form": "Competing commitments destabilize arbitration survivability."
+  },
+
+  "opportunity_cost_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Rrightarrow}x_j\\Rightarrow\\mathcal D_{\\mathrm{alt}}\\setminus\\{x_j\\}\\neq\\varnothing",
+    "interpretation": "Choice preserves unrealized admissible alternative structure.",
+    "deep_form": "Choice generates unrealized alternatives."
+  },
+
+  "choice_hysteresis_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{choice}}^{\\mathrm{return}}\\neq\\mathfrak G_{\\mathrm{choice}}^{\\mathrm{collapse}}",
+    "interpretation": "Choice collapse and recovery need not follow identical geometry.",
+    "deep_form": "Choice recovery and collapse need not follow identical geometry."
+  },
+
+  "maladaptive_choice_principle": {
+    "formal_relation": "\\Alpha_{\\mathrm{choice}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{viab}}\\uparrow",
+    "interpretation": "Stable recursive choice does not guarantee recursive viability.",
+    "deep_form": "Stable choice may stabilize globally nonviable trajectories."
+  },
+
+  "choice_action_distinction": {
+    "formal_relation": "\\mathcal C_{\\mathrm{choice}}\\not\\Rightarrow\\mathcal A_{\\mathrm{action}}",
+    "interpretation": "Choice alone does not imply recursive action.",
+    "deep_form": "Choice permits action but does not yet imply action."
+  },
+
+  "action_precondition_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal C}{\\Rrightarrow}x_j\\Rightarrow\\mathcal A_{\\mathrm{action}}\\text{ becomes possible}",
+    "interpretation": "Recursive choice precedes recursive action.",
+    "deep_form": "Choice precedes recursive action."
+  },
+
+  "primitive_agency_determination_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agency}}\\Leftarrow\\mathcal F_{\\mathrm{future}}\\cap\\mathcal V_{\\mathrm{value}}\\cap\\mathcal C_{\\mathrm{choice}}\\cap\\mathcal E_{\\mathrm{exec}}\\cap\\mathcal R_{\\mathrm{feedback}}",
+    "interpretation": "Agency emerges from future accessibility, valuation, choice, execution, and feedback integration.",
+    "deep_form": "Agency emerges through recursive future-accessibility modulation."
+  },
+
+  "primitive_agency_stratification_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agency}}\\in\\mathbb R_{\\ge0}",
+    "interpretation": "Agency is graded rather than binary.",
+    "deep_form": "Agency stratifies through future-accessibility modulation capacity."
+  },
+
+  "agency_nonmetaphysical_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agency}}\\not\\Rightarrow\\mathcal F_{\\mathrm{absolute}}",
+    "interpretation": "Agency is organizational rather than metaphysical.",
+    "deep_form": "Agency is organizational, not metaphysical."
+  },
+
+  "agency_consciousness_distinction": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agency}}\\not\\Rightarrow\\mathcal C_{\\mathrm{subjective}}",
+    "interpretation": "Recursive agency does not require subjective consciousness.",
+    "deep_form": "Agency does not require consciousness."
+  },
+
+  "agency_moral_status_distinction": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agency}}\\not\\Rightarrow\\mathcal M_{\\mathrm{moral}}",
+    "interpretation": "Recursive agency defines organizational future-accessibility modulation capacity and does not by itself imply moral status, personhood, rights-bearing status, or ethical equivalence.",
+    "deep_form": "Agency does not by itself imply moral status."
+  },
+
+  "agency_threshold_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agency}}>\\xi_{\\mathrm{agency}}",
+    "interpretation": "Recursive agency requires sufficiently preserved future-accessibility modulation.",
+    "deep_form": "Agency requires preserved future-accessibility modulation."
+  },
+
+  "choice_agency_distinction": {
+    "formal_relation": "\\mathcal C_{\\mathrm{choice}}\\not\\Rightarrow\\mathcal A_{\\mathrm{agency}}",
+    "interpretation": "Choice alone does not imply recursive agency.",
+    "deep_form": "Choice permits agency but does not yet imply agency."
+  },
+
+  "agency_emergence_compression": {
+    "formal_relation": "\\text{Agency emerges when choice can recursively alter future accessibility.}",
+    "interpretation": "Recursive agency emerges where internally arbitrated trajectories can recursively modulate future accessibility through execution and feedback integration.",
+    "deep_form": "Agency emerges when choice recursively alters accessible futures."
+  },
+
+  "canonical_compressions": [
+
+    "Choice arbitrates admissible futures.",
+    "Belief permits choice but does not guarantee choice.",
+    "Choice introduces internally stabilized trajectory arbitration.",
+    "Choice topology precedes choice geometry.",
+    "Choice geometry is organizational before metric.",
+    "Agency is organizational, not metaphysical.",
+    "Agency emerges when choice can recursively alter future accessibility."
+
+  ],
+
+  "deep_compressions": [
+
+    "Choice arbitrates admissible futures.",
+    "Belief permits choice but does not guarantee choice.",
+    "Choice introduces internally stabilized trajectory arbitration.",
+    "Choice requires distinguishable admissible alternatives.",
+    "Choice topology precedes choice geometry.",
+    "Choice geometry governs trajectory arbitration, opportunity-cost structure, and future commitment dynamics.",
+    "Choice geometry is organizational before metric.",
+    "Recursive choice curvature contracts accessible alternative structure.",
+    "Choice collapse fragments trajectory arbitration.",
+    "Choice does not require static identity persistence.",
+    "Choice does not require uniform arbitration capacity.",
+    "Choice generates unrealized alternative structure.",
+    "Stable choice may stabilize globally nonviable trajectories.",
+    "Choice permits action but does not yet imply action.",
+    "Agency is organizational, not metaphysical.",
+    "Agency is graded, not binary.",
+    "Agency does not require consciousness.",
+    "Agency does not by itself imply moral status.",
+    "Agency emerges when choice can recursively alter future accessibility."
+
+  ],
+
+  "connections": [
+    "layer7_5_belief_v1",
+    "layer7_meaning_v2",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model"
+  ],
+
+  "one_sentence_lock": "Layer 8 — Choice states that recursive belief may stabilize into recursive choice whenever defended interpretive commitment becomes capable of internally arbitrating among admissible future trajectories, with choice introducing admissible alternative differentiation, internally stabilized trajectory arbitration, opportunity-cost structure, and future-directed commitment organization, while recursive choice curvature contracts accessible alternatives, choice collapse fragments arbitration topology, agency emerges through recursive future-accessibility modulation under organizational constraint, agency is graded rather than binary, and agency remains organizational rather than metaphysical, conscious, or intrinsically moral."
+}
