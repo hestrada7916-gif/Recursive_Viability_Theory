@@ -1,0 +1,220 @@
+{
+  "artifact_id": "layer4_5_viability_awareness_v1",
+  "title": "Layer 4.5 — Viability Awareness",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_detectability_layer",
+
+  "canonical_statement": "Recursive viability awareness governs whether recursively viable organizational systems become sufficiently sensitive to viability differentials, future accessibility gradients, recoverability variation, and survivability deformation across recursive organizational structure.",
+
+  "deep_compression_statement": "Awareness detects viability gradients.",
+
+  "primitive_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal W}{\\curvearrowright}x_j",
+    "interpretation": "Recursive viability awareness defines recursively viability-sensitive organizational detectability toward viability-relevant organizational variation.",
+    "deep_form": "Awareness detects viability gradients."
+  },
+
+  "primitive_objects": {
+
+    "recursive_awareness_relation": {
+      "symbol": "\\overset{\\mathcal W}{\\curvearrowright}",
+      "type_assignment": "\\mathsf{Rel}",
+      "formal_relation": "x_i\\overset{\\mathcal W}{\\curvearrowright}x_j",
+      "role": "recursive viability awareness relation",
+      "interpretation": "Defines recursively viability-aware organizational sensitivity toward viability-relevant organizational variation."
+    },
+
+    "viability_sensitivity_observable": {
+      "symbol": "\\Psi_{\\mathrm{aware}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive viability sensitivity observable",
+      "interpretation": "Measures organizational sensitivity to viability gradients, future accessibility variation, recoverability deformation, and survivability instability."
+    },
+
+    "awareness_threshold": {
+      "symbol": "\\xi_{\\mathrm{aware}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "formal_relation": "\\xi_{\\mathrm{aware}}>0",
+      "role": "recursive awareness threshold",
+      "interpretation": "Defines the minimum viability sensitivity required for stable recursive viability awareness."
+    },
+
+    "recursive_awareness_structure": {
+      "symbol": "\\mathcal A_{\\mathrm{aware}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive viability awareness structure",
+      "interpretation": "Defines recursively viability-sensitive organizational awareness structure generated from stabilized viability differentiation."
+    },
+
+    "awareness_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{aware}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "recursive awareness topology",
+      "interpretation": "Defines recursive awareness connectivity organization induced by stabilized awareness structure."
+    },
+
+    "awareness_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{aware}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "recursive awareness geometry",
+      "interpretation": "Defines recursive awareness geometry induced by stabilized awareness topology."
+    },
+
+    "awareness_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{aware}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive awareness curvature",
+      "interpretation": "Measures recursive awareness deformation, viability signal distortion, detectability contraction, collapse blindness amplification, and survivability differentiation instability across recursive awareness geometry."
+    },
+
+    "viability_model_accuracy": {
+      "symbol": "\\mathcal M_{\\mathrm{viab}}^{\\mathrm{accurate}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "accurate viability representation structure",
+      "interpretation": "Defines sufficiently accurate viability representation across recursive organizational structure."
+    },
+
+    "selection_structure": {
+      "symbol": "\\mathcal S_{\\mathrm{select}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive selection structure",
+      "interpretation": "Defines viability-weighted recursive trajectory prioritization and organizational pathway selection."
+    }
+
+  },
+
+  "viability_dependence_on_awareness": {
+    "formal_relation": "x_i\\not\\overset{\\mathcal V}{\\rightsquigarrow}x_j\\Rightarrow x_i\\not\\overset{\\mathcal W}{\\curvearrowright}x_j",
+    "interpretation": "Recursive viability awareness cannot stabilize without prior future-accessible survivable organizational continuation.",
+    "deep_form": "Awareness requires viability."
+  },
+
+  "viability_beyond_awareness_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal V}{\\rightsquigarrow}x_j\\not\\Rightarrow x_i\\overset{\\mathcal W}{\\curvearrowright}x_j",
+    "interpretation": "Recursively viable systems may preserve survivable future continuation while remaining insensitive to viability gradients, recoverability variation, survivability deformation, future accessibility contraction, or recursive collapse approach dynamics.",
+    "deep_form": "Viability alone is insufficient for awareness."
+  },
+
+  "viability_differential_principle": {
+    "formal_relation": "\\nabla\\Sigma_{\\mathrm{viab}}\\neq0",
+    "interpretation": "Recursive awareness requires organizational sensitivity to variation in viability survivability structure across recursive organizational geometry.",
+    "deep_form": "Awareness emerges through viability differential detectability."
+  },
+
+  "awareness_stability_criterion": {
+    "formal_relation": "\\Psi_{\\mathrm{aware}}>\\xi_{\\mathrm{aware}}",
+    "interpretation": "Recursive awareness destabilizes whenever viability differentiation sensitivity becomes insufficiently preserved.",
+    "deep_form": "Stable awareness requires preserved viability sensitivity."
+  },
+
+  "awareness_hierarchy": {
+    "formal_relation": "\\overset{\\mathcal V}{\\rightsquigarrow}\\rightarrow\\overset{\\mathcal W}{\\curvearrowright}\\rightarrow\\mathcal A_{\\mathrm{aware}}\\rightarrow\\mathfrak T_{\\mathrm{aware}}\\rightarrow\\mathfrak G_{\\mathrm{aware}}",
+    "interpretation": "Recursive viability permits recursive viability awareness, awareness generates awareness structure, awareness structure induces awareness topology, and stabilized awareness topology induces awareness geometry.",
+    "deep_form": "Awareness structure induces topology which induces geometry."
+  },
+
+  "topology_before_geometry_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{aware}}\\Rightarrow\\mathfrak T_{\\mathrm{aware}}\\Rightarrow\\mathfrak G_{\\mathrm{aware}}",
+    "interpretation": "Viability detectability organization, gradient differentiation, and awareness connectivity stabilize prior to emergence of coherent awareness geometry.",
+    "deep_form": "Awareness topology precedes awareness geometry."
+  },
+
+  "pre_metric_awareness_principle": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{aware}}\\not\\Rightarrow d(x_i,x_j)",
+    "interpretation": "Awareness geometry organizes viability detectability, recoverability sensitivity, and survivability differentiation prior to emergence of stable metric geometry.",
+    "deep_form": "Awareness geometry is organizational before metric."
+  },
+
+  "awareness_nonidentity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal W}{\\curvearrowright}x_j\\not\\Rightarrow x_i=x_j",
+    "interpretation": "Viability awareness preserves viability sensitivity and organizational detectability without requiring static identity equivalence.",
+    "deep_form": "Awareness does not require organizational identity equivalence."
+  },
+
+  "awareness_nonuniformity_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal W}{\\curvearrowright}x_j\\not\\Rightarrow\\Psi_i=\\Psi_j",
+    "interpretation": "Recursive awareness may stabilize through asymmetric viability sensitivity, differential recoverability detection, or uneven survivability responsiveness while preserving organizational viability detectability.",
+    "deep_form": "Awareness does not require equivalent viability sensitivity."
+  },
+
+  "emergent_awareness_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{aware}}\\text{ may emerge without centralized orchestration}",
+    "interpretation": "Recursive awareness may emerge naturally through mutually reinforcing viability sensitivity, recoverability differentiation, and survivability gradient stabilization dynamics.",
+    "deep_form": "Awareness may emerge spontaneously through recursive mutual reinforcement."
+  },
+
+  "awareness_curvature_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{aware}}\\uparrow\\Rightarrow\\mu(\\mathcal A_{\\mathrm{aware}})\\downarrow",
+    "interpretation": "Recursive awareness deformation contracts viability detectability structure, increasing collapse blindness, recoverability insensitivity, and viability differentiation failure.",
+    "deep_form": "Awareness curvature contracts viability detectability."
+  },
+
+  "awareness_fragmentation_principle": {
+    "formal_relation": "\\Psi_{\\mathrm{aware}}\\le\\xi_{\\mathrm{aware}}\\Rightarrow\\mathfrak T_{\\mathrm{aware}}\\rightarrow\\bigcup_{\\alpha}\\mathfrak T_{\\mathrm{aware}}^{(\\alpha)}",
+    "interpretation": "Recursive awareness sectors become increasingly disconnected as viability detectability and survivability differentiation collapse.",
+    "deep_form": "Awareness collapse fragments viability detectability."
+  },
+
+  "awareness_accuracy_distinction": {
+    "formal_relation": "\\mathcal A_{\\mathrm{aware}}\\not\\Rightarrow\\mathcal M_{\\mathrm{viab}}^{\\mathrm{accurate}}",
+    "interpretation": "Recursive awareness may preserve partial, distorted, delayed, localized, or incomplete viability sensitivity while remaining organizationally actionable.",
+    "deep_form": "Awareness does not guarantee accurate viability representation."
+  },
+
+  "awareness_selection_distinction": {
+    "formal_relation": "\\mathcal A_{\\mathrm{aware}}\\not\\Rightarrow\\mathcal S_{\\mathrm{select}}",
+    "interpretation": "Recursive awareness permits viability differentiation while selection additionally requires viability preference stabilization, trajectory prioritization, adaptive pathway weighting, recursive decision asymmetry, and viability-directed organizational choice dynamics.",
+    "deep_form": "Awareness permits selection but does not imply selection."
+  },
+
+  "pre_selection_substrate_principle": {
+    "formal_relation": "x_i\\overset{\\mathcal W}{\\curvearrowright}x_j\\Rightarrow\\mathcal S_{\\mathrm{select}}\\text{ becomes possible}",
+    "interpretation": "Recursive selection cannot emerge without prior viability differentiation awareness.",
+    "deep_form": "Awareness precedes recursive selection."
+  },
+
+  "normalization_rules": [
+    "Awareness detects viability gradients.",
+    "Viability permits awareness but does not guarantee awareness.",
+    "Awareness introduces viability differentiation sensitivity.",
+    "Awareness requires recursively viable organizational structure.",
+    "Awareness topology precedes awareness geometry.",
+    "Awareness geometry governs viability detectability, survivability differentiation, and recoverability sensitivity.",
+    "Awareness geometry is organizational before metric.",
+    "Recursive awareness curvature contracts viability detectability.",
+    "Awareness fragmentation emerges through viability insensitivity collapse.",
+    "Awareness may emerge spontaneously through recursive mutual reinforcement dynamics.",
+    "Awareness does not require equivalent viability sensitivity.",
+    "Awareness does not guarantee accurate viability representation.",
+    "Awareness permits selection but does not imply selection.",
+    "Awareness precedes recursive selection."
+  ],
+
+  "deep_compressions": [
+    "Awareness detects viability gradients.",
+    "Viability permits awareness but does not guarantee awareness.",
+    "Awareness introduces viability differentiation sensitivity.",
+    "Awareness topology precedes awareness geometry.",
+    "Awareness geometry is organizational before metric.",
+    "Recursive awareness curvature contracts viability detectability.",
+    "Awareness collapse fragments viability detectability.",
+    "Awareness may emerge spontaneously through recursive mutual reinforcement dynamics.",
+    "Awareness does not require equivalent viability sensitivity.",
+    "Awareness does not guarantee accurate viability representation.",
+    "Awareness permits selection but does not imply selection.",
+    "Awareness precedes recursive selection."
+  ],
+
+  "connections": [
+    "layer4_viability_v1",
+    "layer3_5_regulation_v2",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "recursive_curvature_principle",
+    "future_accessibility_contraction_geometry",
+    "recovery_as_restoration_of_traversable_future_accessibility"
+  ],
+
+  "one_sentence_lock": "Layer 4.5 — Viability Awareness states that recursively viable organizational systems may stabilize into recursively viability-aware organizational structure whenever survivability differentials, future accessibility gradients, recoverability variation, and viability deformation become organizationally detectable and recursively actionable, with awareness topology inducing awareness geometry, recursive awareness curvature compressing viability detectability, awareness fragmentation emerging through viability insensitivity collapse, awareness remaining compatible with asymmetric sensitivity and incomplete representation, and recursive selection becoming possible only after stabilized viability differentiation awareness emerges."
+}
