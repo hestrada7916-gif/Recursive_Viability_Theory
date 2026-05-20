@@ -1,0 +1,248 @@
+{
+  "artifact_id": "civilizational_viability_principle_v2",
+  "title": "Civilizational Viability Principle",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_civilizational_viability_layer",
+
+  "canonical_statement": "Civilization emerges through recursive stewardship of recoverable navigable futures.",
+
+  "deep_compression_statement": "Civilization is recursive stewardship of recoverable navigable futures.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{civilization}}=\\mathcal S_{\\mathrm{steward}}(\\mathcal F_{\\mathrm{navigable}})",
+    "interpretation": "Civilization defines recursively stabilized stewardship of recoverable navigable future accessibility structure.",
+    "deep_form": "Civilizations are accessibility architectures."
+  },
+
+  "primitive_objects": {
+
+    "civilization_structure": {
+      "symbol": "\\mathcal C_{\\mathrm{civilization}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive civilization structure",
+      "interpretation": "Defines large-scale recursive organization of recoverable navigable future accessibility."
+    },
+
+    "stewardship_operator": {
+      "symbol": "\\mathcal S_{\\mathrm{steward}}",
+      "type_assignment": "\\mathsf{Op}",
+      "role": "recursive stewardship operator",
+      "interpretation": "Stabilizes preservation, recoverability, participation, and navigability of future accessibility."
+    },
+
+    "reachable_future_accessibility": {
+      "symbol": "\\mathcal F_{\\mathrm{reachable}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "reachable future accessibility structure",
+      "interpretation": "Defines future trajectories that remain sufficiently reachable across recursive organizational scales."
+    },
+
+    "navigable_future_accessibility": {
+      "symbol": "\\mathcal F_{\\mathrm{navigable}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "navigable future accessibility structure",
+      "interpretation": "Defines sufficiently recoverable, participatory, and recursively traversable future accessibility across organizational scales."
+    },
+
+    "civilizational_viability": {
+      "symbol": "\\Sigma_{\\mathrm{civilization}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "civilizational viability observable",
+      "interpretation": "Measures recursively preservable future accessibility across civilizational organizational scales."
+    },
+
+    "recoverability_structure": {
+      "symbol": "\\mathcal R_{\\mathrm{recover}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "civilizational recoverability structure",
+      "interpretation": "Defines pathways by which future accessibility remains recoverable after deformation, disruption, or contraction."
+    },
+
+    "participation_pathways": {
+      "symbol": "\\mathcal P_{\\mathrm{participation}}",
+      "type_assignment": "\\mathsf{Struct}",
+      "role": "recursive participation pathways",
+      "interpretation": "Defines participatory future accessibility preserved across recursive organizational scales."
+    },
+
+    "civilizational_history": {
+      "symbol": "\\mathcal H_t",
+      "type_assignment": "\\mathsf{Hist}",
+      "role": "civilizational accessibility deformation history",
+      "interpretation": "Encodes prior institutional trajectories, infrastructure accumulation, recoverability erosion, coordination memory, and historical accessibility deformation."
+    },
+
+    "civilizational_topology": {
+      "symbol": "\\mathfrak T_{\\mathrm{civilization}}",
+      "type_assignment": "\\mathsf{Topo}",
+      "role": "civilizational accessibility topology",
+      "interpretation": "Defines recursive connectivity organization governing participation, coordination, recoverability, and future accessibility across organizational scales."
+    },
+
+    "civilizational_geometry": {
+      "symbol": "\\mathfrak G_{\\mathrm{civilization}}",
+      "type_assignment": "\\mathsf{Geom}",
+      "role": "civilizational accessibility geometry",
+      "interpretation": "Defines recursive large-scale accessibility geometry induced by stabilized civilizational topology."
+    },
+
+    "civilizational_curvature": {
+      "symbol": "\\mathcal K_{\\mathrm{civilization}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "civilizational accessibility curvature",
+      "interpretation": "Measures recursive deformation, rigidity amplification, recoverability contraction, participation suppression, and navigability distortion across civilizational accessibility geometry."
+    },
+
+    "trust_observable": {
+      "symbol": "\\mathcal T",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "civilizational trust observable",
+      "interpretation": "Measures confidence that future accessibility remains sufficiently preservable."
+    },
+
+    "hope_observable": {
+      "symbol": "\\mathcal H_{\\mathrm{hope}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "hope observable",
+      "interpretation": "Measures perceived persistence of meaningful reachable future participation."
+    }
+
+  },
+
+  "civilization_accessibility_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{civilization}}=\\mathcal S_{\\mathrm{steward}}(\\mathcal F_{\\mathrm{navigable}})",
+    "interpretation": "Civilizations are large-scale organizational accessibility architectures that recursively organize future reachability, coordination accessibility, participation pathways, recoverability structure, institutional continuity, infrastructure survivability, and recursive future navigability.",
+    "deep_form": "Civilizations are accessibility architectures."
+  },
+
+  "civilizational_hierarchy": {
+    "formal_relation": "\\mathcal C_{\\mathrm{civilization}}\\rightarrow\\mathfrak T_{\\mathrm{civilization}}\\rightarrow\\mathfrak G_{\\mathrm{civilization}}",
+    "interpretation": "Civilizational organization induces accessibility topology which induces large-scale accessibility geometry.",
+    "deep_form": "Civilizational topology precedes civilizational geometry."
+  },
+
+  "civilizational_recoverability_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{civilization}}\\sim\\mathcal F_{\\mathrm{reachable}}\\cap\\mathcal R_{\\mathrm{recover}}",
+    "interpretation": "Civilizational viability depends not only on preserving future accessibility, but also on preserving recoverability after accessibility deformation.",
+    "deep_form": "Viability requires recoverable future accessibility."
+  },
+
+  "recoverability_asymmetry_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{recover}}^{\\mathrm{return}}\\neq\\mathcal R_{\\mathrm{recover}}^{\\mathrm{collapse}}",
+    "interpretation": "Civilizational recoverability pathways need not mirror the pathways through which accessibility collapse originally emerged.",
+    "deep_form": "Civilizational recovery and collapse need not follow identical accessibility geometry."
+  },
+
+  "civilizational_viability_criterion": {
+    "formal_relation": "\\frac{d\\mathcal F_{\\mathrm{preserve}}}{dt}>\\frac{d\\mathcal F_{\\mathrm{collapse}}}{dt}",
+    "interpretation": "Civilizational survivability depends on preserving recoverable navigable future accessibility faster than recursive collapse dynamics contract it.",
+    "deep_form": "Civilizations survive by preserving recoverable navigable futures."
+  },
+
+  "civilizational_instability_criterion": {
+    "formal_relation": "\\Sigma_{\\mathrm{civilization}}\\rightarrow0\\quad\\text{as}\\quad\\frac{d\\mathcal F_{\\mathrm{collapse}}}{dt}\\ge\\frac{d\\mathcal F_{\\mathrm{preserve}}}{dt}",
+    "interpretation": "Civilizational instability emerges whenever recursive accessibility collapse dynamics equal or exceed the rate of future accessibility preservation.",
+    "deep_form": "Collapse begins when accessibility contraction overtakes preservation."
+  },
+
+  "civilizational_collapse_principle": {
+    "formal_relation": "\\mu(\\mathcal F_{\\mathrm{navigable}})\\downarrow",
+    "interpretation": "Civilizational collapse emerges through large-scale contraction of navigable futures, including contraction of participation pathways, recoverability, coordination flexibility, trust, optionality, or admissible future accessibility.",
+    "deep_form": "Civilizational collapse emerges through contraction of navigable futures."
+  },
+
+  "civilizational_path_dependence_principle": {
+    "formal_relation": "\\mathcal C_{t+1}=\\Phi(\\mathcal C_t,\\mathcal H_t)",
+    "interpretation": "Civilizational future accessibility depends not only on present organizational structure, but also on prior institutional trajectories, infrastructure accumulation, recoverability erosion, coordination memory, and historical accessibility deformation.",
+    "deep_form": "Civilizational accessibility is historically conditioned."
+  },
+
+  "civilizational_accessibility_asymmetry_principle": {
+    "formal_relation": "\\Delta\\mathcal F_i\\neq\\Delta\\mathcal F_j",
+    "interpretation": "Civilizational systems may expand future accessibility for some organizational sectors while simultaneously contracting future accessibility for others.",
+    "deep_form": "Aggregate viability may conceal localized accessibility collapse."
+  },
+
+  "civilizational_compression_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{civilization}}\\uparrow\\Rightarrow\\mu(\\mathcal F_{\\mathrm{navigable}})\\downarrow",
+    "interpretation": "Civilizational rigidity amplification contracts navigable future accessibility, recoverability pathways, participation capacity, and adaptive coordination flexibility.",
+    "deep_form": "Civilizational curvature contracts navigable futures."
+  },
+
+  "local_global_civilizational_divergence_principle": {
+    "formal_relation": "\\Sigma_{\\mathrm{local}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{civilization}}\\uparrow",
+    "interpretation": "Localized organizational stabilization may suppress broader civilizational viability through accessibility asymmetry, recoverability contraction, participation exclusion, or large-scale coordination destabilization.",
+    "deep_form": "Local stabilization may globally destabilize civilization."
+  },
+
+  "trust_principle": {
+    "formal_relation": "\\mathcal T\\propto\\mathbb P(\\Sigma_{\\mathrm{future}}>\\xi_{\\mathrm{future}})",
+    "interpretation": "Trust reflects organizational confidence that admissible future trajectories remain sufficiently navigable, recoverable, and participatorily accessible under recursive organizational dynamics.",
+    "deep_form": "Trust is confidence that future accessibility remains sufficiently preservable."
+  },
+
+  "hopelessness_principle": {
+    "formal_relation": "\\mathbb P(\\mu(\\mathcal F_{\\mathrm{reachable}})\\downarrow)\\uparrow\\Rightarrow\\mathcal H_{\\mathrm{hope}}\\downarrow",
+    "interpretation": "Hopelessness emerges whenever organizational systems perceive that reachable future trajectories have sufficiently contracted such that meaningful future participation no longer appears viable.",
+    "deep_form": "Hopelessness is perceived future accessibility collapse."
+  },
+
+  "participation_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{civilization}}\\Rightarrow\\mathcal P_{\\mathrm{participation}}\\subseteq\\mathcal F_{\\mathrm{navigable}}",
+    "interpretation": "Civilizational survivability requires sufficiently preservable future participation pathways across recursive organizational scales.",
+    "deep_form": "Healthy civilizations preserve participatory future navigability."
+  },
+
+  "control_viability_distinction": {
+    "formal_relation": "\\mathcal K_{\\mathrm{control}}\\uparrow\\not\\Rightarrow\\Sigma_{\\mathrm{civilization}}\\uparrow",
+    "interpretation": "Excessive rigidity, over-centralization, participation suppression, or accessibility restriction may temporarily stabilize local organizational control while contracting long-horizon civilizational survivability.",
+    "deep_form": "Control is not viability."
+  },
+
+  "civilizational_stewardship_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{civilization}}\\Rightarrow\\mathcal S_{\\mathrm{steward}}(\\mathcal F_{\\mathrm{navigable}})",
+    "interpretation": "Civilization fundamentally exists to preserve sufficiently reachable, recoverable, participatory, and navigable future accessibility across recursive organizational scales.",
+    "deep_form": "The deepest function of civilization is preserving navigable future accessibility for recursive participation."
+  },
+
+  "canonical_compressions": [
+    "Civilizations are accessibility architectures.",
+    "Civilization is recursive stewardship of recoverable navigable futures.",
+    "Civilizations survive by preserving recoverable navigable futures.",
+    "Trust is confidence that future accessibility remains sufficiently preservable.",
+    "Hopelessness is perceived future accessibility collapse.",
+    "The deepest function of civilization is not control.",
+    "It is preserving navigable future accessibility for recursive participation."
+  ],
+
+  "deep_compressions": [
+    "Civilizations are accessibility architectures.",
+    "Civilization is recursive stewardship of recoverable navigable futures.",
+    "Civilizational survivability depends on preserving recoverable future accessibility faster than collapse dynamics contract it.",
+    "Civilizational viability requires recoverability in addition to accessibility preservation.",
+    "Civilizational collapse emerges through large-scale contraction of navigable futures.",
+    "Civilizational evolution is path dependent under prior accessibility deformation history.",
+    "Future accessibility may distribute asymmetrically across organizational sectors.",
+    "Aggregate civilizational viability may conceal localized accessibility collapse.",
+    "Trust emerges through confidence that future accessibility remains sufficiently preservable.",
+    "Hopelessness emerges through perceived future accessibility collapse.",
+    "Healthy civilizations preserve participatory future navigability.",
+    "Civilizational curvature contracts navigable future accessibility.",
+    "Local stabilization may globally destabilize civilization.",
+    "Civilization fundamentally exists to preserve navigable future accessibility for recursive participation."
+  ],
+
+  "connections": [
+    "layer8_5_agency_v1",
+    "recursive_future_accessibility_loop",
+    "recursive_civilizational_stewardship",
+    "future_accessibility_contraction_geometry",
+    "recursive_viability_theory",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "open_future_project"
+  ],
+
+  "one_sentence_lock": "The Civilizational Viability Principle states that civilization is recursive stewardship of recoverable navigable futures, with civilizations functioning as accessibility architectures that survive by preserving navigable, recoverable, and participatory future accessibility faster than collapse dynamics contract it, while civilizational curvature contracts navigable futures, recoverability and collapse need not follow identical accessibility geometry, local stabilization may globally destabilize civilization, trust reflects confidence in preservable future accessibility, hopelessness reflects perceived future accessibility collapse, and civilization fundamentally exists to preserve navigable future accessibility for recursive participation."
+}
