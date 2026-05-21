@@ -1,0 +1,283 @@
+{
+  "artifact_id": "recursive_accessibility_cone_dynamics_v1",
+  "title": "Recursive Accessibility Cone Dynamics",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "type": "recursive_accessibility_causal_geometry",
+
+  "canonical_statement": "Recursive viability evolves through the opening, closure, deformation, fragmentation, and collapse of admissible future accessibility cones governing recoverably reachable future directionality.",
+
+  "deep_compression_statement": "Recursive viability depends on keeping future directionality open.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{access}}(x,t)",
+    "interpretation": "Recursive organizational systems evolve through dynamically deforming future accessibility cone geometry governing admissible future directionality, recoverability, navigability, and recursive survivability.",
+    "deep_form": "Future accessibility is directional, deformable, and dynamically constrained."
+  },
+
+  "primitive_objects": {
+
+    "accessibility_cone_field": {
+      "symbol": "\\mathcal C_{\\mathrm{access}}(x,t)",
+      "type_assignment": "\\mathsf{ConeField}",
+      "role": "dynamic future accessibility cone field",
+      "interpretation": "Defines the locally admissible future accessibility sector available from organizational state x at time t."
+    },
+
+    "cone_evolution": {
+      "symbol": "\\partial_t \\mathcal C_{\\mathrm{access}}",
+      "type_assignment": "\\mathsf{ConeEvolution}",
+      "role": "temporal cone deformation observable",
+      "interpretation": "Measures temporal deformation of admissible future accessibility geometry."
+    },
+
+    "cone_expansion_rate": {
+      "symbol": "\\Theta_{\\mathrm{cone}}",
+      "type_assignment": "\\mathsf{ExpansionObservable}",
+      "role": "cone angular expansion/compression rate",
+      "interpretation": "Measures widening or contraction of admissible future accessibility directionality."
+    },
+
+    "cone_shear": {
+      "symbol": "S^{(\\mathrm{cone})}_i",
+      "type_assignment": "\\mathsf{ShearField}",
+      "role": "directional cone deformation",
+      "interpretation": "Measures uneven deformation of future accessibility geometry across recursive organizational structure."
+    },
+
+    "cone_tilt": {
+      "symbol": "\\Omega_{\\mathrm{cone}}",
+      "type_assignment": "\\mathsf{TiltObservable}",
+      "role": "future accessibility reorientation",
+      "interpretation": "Measures directional reorientation of admissible future accessibility sectors."
+    },
+
+    "cone_fragmentation": {
+      "symbol": "\\mathcal F_{\\mathrm{cone}}",
+      "type_assignment": "\\mathsf{FragmentationObservable}",
+      "role": "cone fragmentation measure",
+      "interpretation": "Measures fragmentation of previously coherent future accessibility cones into disconnected directional sectors."
+    },
+
+    "cone_opening_operator": {
+      "symbol": "\\mathcal W_{\\mathrm{open}}",
+      "type_assignment": "\\mathsf{OpeningOperator}",
+      "role": "future accessibility widening dynamics",
+      "interpretation": "Generates widening and reopening of admissible future accessibility structure."
+    },
+
+    "cone_closure_operator": {
+      "symbol": "\\mathcal W_{\\mathrm{close}}",
+      "type_assignment": "\\mathsf{ClosureOperator}",
+      "role": "future accessibility closure dynamics",
+      "interpretation": "Generates contraction and suppression of admissible future accessibility structure."
+    },
+
+    "cone_geometric_deformation": {
+      "symbol": "\\mathcal D_{\\mathrm{geom}}",
+      "type_assignment": "\\mathsf{GeometricDeformationOperator}",
+      "role": "non-scalar cone deformation",
+      "interpretation": "Encodes cone tilt, shear, and fragmentation deformation dynamics."
+    },
+
+    "collapse_velocity": {
+      "symbol": "v_{\\mathrm{collapse}}",
+      "type_assignment": "\\mathsf{Velocity}",
+      "role": "collapse propagation velocity",
+      "interpretation": "Measures the propagation speed of recursive collapse dynamics."
+    },
+
+    "accessibility_velocity": {
+      "symbol": "v_{\\mathrm{access}}",
+      "type_assignment": "\\mathsf{Velocity}",
+      "role": "accessibility reopening velocity",
+      "interpretation": "Measures the propagation speed of accessibility restoration dynamics."
+    },
+
+    "accessibility_horizon": {
+      "symbol": "\\mathcal H_{\\mathrm{access}}",
+      "type_assignment": "\\mathsf{Horizon}",
+      "role": "future accessibility truncation boundary",
+      "interpretation": "Defines recursive boundaries beyond which recoverable future accessibility becomes effectively unreachable."
+    }
+
+  },
+
+  "governing_equations": [
+
+    {
+      "name": "cone evolution observable",
+      "equation": "\\partial_t \\mathcal C_{\\mathrm{access}}"
+    },
+
+    {
+      "name": "cone angular expansion rate",
+      "equation": "\\Theta_{\\mathrm{cone}} = \\partial_t \\theta(\\mathcal C_{\\mathrm{access}})"
+    },
+
+    {
+      "name": "cone shear observable",
+      "equation": "S^{(\\mathrm{cone})}_i = \\nabla_i \\mathcal C_{\\mathrm{access}}"
+    },
+
+    {
+      "name": "cone dynamics decomposition",
+      "equation": "\\partial_t \\mathcal C_{\\mathrm{access}} = \\mathcal G_{\\mathrm{open/close}}(\\mathcal C_{\\mathrm{access}}) + \\mathcal D_{\\mathrm{geom}}(\\mathcal C_{\\mathrm{access}})"
+    },
+
+    {
+      "name": "geometric deformation operator",
+      "equation": "\\mathcal D_{\\mathrm{geom}} = \\mathcal W_{\\mathrm{tilt}} + \\mathcal W_{\\mathrm{shear}} - \\mathcal W_{\\mathrm{frag}}"
+    },
+
+    {
+      "name": "cone opening principle",
+      "equation": "\\mathcal R_{\\mathrm{regen}} \\uparrow + \\mathcal P \\uparrow \\Rightarrow \\theta(\\mathcal C_{\\mathrm{access}}) \\uparrow"
+    },
+
+    {
+      "name": "cone closure principle",
+      "equation": "\\mathrm{Ric}_{\\mathrm{viab}} \\uparrow + \\mathcal Q \\uparrow \\Rightarrow \\theta(\\mathcal C_{\\mathrm{access}}) \\downarrow"
+    },
+
+    {
+      "name": "cone shear principle",
+      "equation": "\\nabla_i \\mathcal C_{\\mathrm{access}} \\neq 0 \\Rightarrow S^{(\\mathrm{cone})}_i \\neq 0"
+    },
+
+    {
+      "name": "cone tilt principle",
+      "equation": "J^i_{\\mathrm{viab}} \\neq 0 \\Rightarrow \\Omega_{\\mathrm{cone}} \\neq 0"
+    },
+
+    {
+      "name": "cone fragmentation principle",
+      "equation": "\\mathrm{Conn}(J_{\\mathrm{viab}}) \\downarrow \\Rightarrow \\mathcal F_{\\mathrm{cone}} \\uparrow"
+    },
+
+    {
+      "name": "cone collapse principle",
+      "equation": "\\theta(\\mathcal C_{\\mathrm{access}}) \\rightarrow 0 \\Rightarrow \\mu(\\mathcal J^+_{\\mathrm{viab}}) \\rightarrow 0"
+    },
+
+    {
+      "name": "velocity-driven cone closure",
+      "equation": "v_{\\mathrm{collapse}} > v_{\\mathrm{access}} \\Rightarrow \\Theta_{\\mathrm{cone}} < 0"
+    },
+
+    {
+      "name": "horizon-induced cone truncation",
+      "equation": "\\mathcal H_{\\mathrm{access}} \\cap \\mathcal C_{\\mathrm{access}} \\neq \\emptyset \\Rightarrow \\theta(\\mathcal C_{\\mathrm{access}}) \\downarrow"
+    },
+
+    {
+      "name": "cone coherence condition",
+      "equation": "\\theta(\\mathcal C_{\\mathrm{access}}) > 0 \\quad \\text{and} \\quad \\mathcal F_{\\mathrm{cone}} < \\phi_{\\mathrm{frag}}"
+    },
+
+    {
+      "name": "cone-basin coupling",
+      "equation": "\\theta(\\mathcal C_{\\mathrm{access}}) \\uparrow \\Rightarrow \\mu(\\mathcal B_{\\mathrm{viab}} \\cap \\mathcal J^+_{\\mathrm{viab}}) \\uparrow"
+    }
+
+  ],
+
+  "dynamical_regimes": {
+
+    "opening_regime": {
+      "condition": "\\mathcal W_{\\mathrm{open}} > \\mathcal W_{\\mathrm{close}}",
+      "interpretation": "Future accessibility expands."
+    },
+
+    "closure_regime": {
+      "condition": "\\mathcal W_{\\mathrm{close}} > \\mathcal W_{\\mathrm{open}}",
+      "interpretation": "Future accessibility contracts."
+    },
+
+    "fragmentation_regime": {
+      "condition": "\\mathcal F_{\\mathrm{cone}} \\uparrow",
+      "interpretation": "Future accessibility sectors disconnect."
+    },
+
+    "collapse_regime": {
+      "condition": "\\theta(\\mathcal C_{\\mathrm{access}}) \\rightarrow 0",
+      "interpretation": "Future accessibility collapses toward exhaustion."
+    },
+
+    "percolation_collapse_regime": {
+      "condition": "v_{\\mathrm{collapse}} > v_{\\mathrm{access}}",
+      "interpretation": "Collapse propagates through recursive accessibility structure faster than regenerative reopening can restore connectivity."
+    }
+
+  },
+
+  "deep_structural_interpretations": [
+
+    "Repair and participation widen reachable futures.",
+
+    "Curvature and rigidity narrow reachable futures.",
+
+    "Fragmented transport fragments reachable futures.",
+
+    "Nonzero but fragmented cones may still fail recoverability.",
+
+    "Future accessibility may exist mathematically while remaining organizationally unusable.",
+
+    "Collapse corresponds to directional exhaustion of recoverably reachable futures.",
+
+    "Recursive survivability depends on preserving coherent future accessibility directionality.",
+
+    "Percolation-style collapse emerges when closure propagation outruns accessibility restoration."
+
+  ],
+
+  "canonical_compressions": [
+
+    "Recursive viability depends on keeping future directionality open.",
+
+    "Accessibility cones evolve dynamically.",
+
+    "Cone width measures future flexibility.",
+
+    "Repair and participation widen reachable futures.",
+
+    "Curvature and rigidity narrow reachable futures.",
+
+    "Cone shear produces uneven future accessibility.",
+
+    "Cone tilt reorients future viability.",
+
+    "Fragmented transport fragments reachable futures.",
+
+    "Collapse propagation may close cones faster than repair can reopen them.",
+
+    "Accessibility horizons truncate cone dynamics.",
+
+    "Nonzero but fragmented cones may still fail recoverability."
+
+  ],
+
+  "deep_compressions": [
+
+    "Recursive viability is directional accessibility geometry.",
+
+    "Future accessibility behaves like a deformable causal cone field.",
+
+    "Collapse emerges through progressive cone closure and fragmentation.",
+
+    "Recoverability depends on preserving coherent future accessibility sectors.",
+
+    "Percolation collapse occurs when accessibility restoration loses to collapse propagation.",
+
+    "Viable futures may exist while remaining directionally inaccessible.",
+
+    "Recursive survivability depends on preserving recoverably connected future directionality."
+
+  ],
+
+  "canonical_kernel": {
+    "symbol": "\\mathfrak D_{\\mathrm{cone}}",
+    "definition": "\\left( \\mathcal C_{\\mathrm{access}}(x,t), \\Theta_{\\mathrm{cone}}, S^{(\\mathrm{cone})}_i, \\Omega_{\\mathrm{cone}}, \\mathcal F_{\\mathrm{cone}}, v_{\\mathrm{access}}, v_{\\mathrm{collapse}} \\right)",
+    "interpretation": "Unified recursive accessibility cone dynamics kernel governing future directional viability geometry."
+  }
+}
