@@ -1,0 +1,179 @@
+{
+  "artifact_id": "recursive_accessibility_horizon_theory_v2",
+  "title": "Recursive Accessibility Horizon Theory",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_accessibility_causal_structure",
+
+  "canonical_statement": "Recursive organizational systems generate accessibility horizons where future viability becomes effectively non-recoverably unreachable.",
+
+  "deep_compression_statement": "Recursive collapse occurs when future accessibility becomes geometrically unreachable faster than recoverability can reopen it.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathcal H_{\\mathrm{access}}",
+    "interpretation": "Recursive organizational systems may generate accessibility horizons under excessive curvature accumulation, transport fragmentation, permeability suppression, or recoverability depletion, beyond which recursively viable future accessibility becomes effectively unreachable.",
+    "deep_form": "Accessibility horizons define emergent future inaccessibility."
+  },
+
+  "primitive_objects": {
+
+    "recursive_accessibility_horizon": {
+      "symbol": "\\mathcal H_{\\mathrm{access}}",
+      "type_assignment": "\\mathsf{Boundary}",
+      "role": "recursive accessibility horizon",
+      "interpretation": "Defines recursive organizational boundaries beyond which recoverable future accessibility becomes effectively unreachable."
+    },
+
+    "viability_basin_boundary": {
+      "symbol": "\\partial\\mathcal B_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Boundary}",
+      "role": "recursive viability basin boundary",
+      "interpretation": "Defines transition surfaces separating recoverably connected viability sectors from partially or fully inaccessible organizational regions."
+    },
+
+    "recoverability_distance": {
+      "symbol": "d_{\\mathrm{recover}}",
+      "type_assignment": "\\mathsf{Func}",
+      "role": "recoverability separation function",
+      "interpretation": "Measures effective recoverability separation between organizational states across recursive accessibility geometry.",
+      "non_equivalence": "d_{\\mathrm{recover}}\\neq d_g",
+      "non_equivalence_interpretation": "Recoverability separation is not equivalent to ordinary local metric proximity."
+    },
+
+    "return_time_structure": {
+      "symbol": "\\tau_{\\mathrm{return}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive return-time structure",
+      "interpretation": "Defines expected recoverability timescales required for organizational trajectories to return to viability-preserving accessibility basins."
+    },
+
+    "return_probability": {
+      "symbol": "P_{\\mathrm{return}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recoverability return probability",
+      "interpretation": "Measures probability that recursive organizational trajectories successfully return to recoverably connected viability structure."
+    },
+
+    "horizon_crossing_indicator": {
+      "symbol": "\\chi_{\\mathrm{horizon}}",
+      "type_assignment": "\\mathsf{Obs}",
+      "role": "recursive horizon crossing indicator",
+      "interpretation": "Measures whether recursive organizational trajectories remain recoverably connected to viability-preserving accessibility basins."
+    },
+
+    "fragmented_viability_geodesic": {
+      "symbol": "\\gamma_{\\mathrm{fragmented}}",
+      "type_assignment": "\\mathsf{Trajectory}",
+      "role": "fragmented recursive accessibility trajectory",
+      "interpretation": "Defines disconnected, unstable, or non-recoverable organizational transport pathways generated through accessibility horizon formation."
+    }
+  },
+
+  "curvature_induced_horizon_formation": {
+    "formal_relation": "\\limsup\\mathrm{Ric}_{\\mathrm{viab}}>\\kappa_{\\mathrm{recover}}",
+    "interpretation": "Recursive accessibility horizons emerge when recursive curvature asymptotically exceeds recoverability capacity.",
+    "deep_form": "Excessive curvature generates future inaccessibility."
+  },
+
+  "transport_fragmentation_horizon_principle": {
+    "formal_relation": "\\mathrm{Conn}(J_{\\mathrm{viab}})\\downarrow\\Rightarrow\\mathcal H_{\\mathrm{access}}\\uparrow",
+    "interpretation": "Accessibility horizon formation emerges when recursive accessibility transport loses recoverably connected transport continuity.",
+    "deep_form": "Transport fragmentation amplifies accessibility horizons."
+  },
+
+  "permeability_collapse_principle": {
+    "formal_relation": "\\Pi_{\\partial}\\rightarrow0\\Rightarrow d_{\\mathrm{recover}}\\rightarrow\\infty",
+    "interpretation": "Permeability collapse suppresses repair, participation, coordination, and accessibility exchange across recursive organizational geometry, increasing recoverability separation.",
+    "deep_form": "Permeability collapse increases recoverability separation."
+  },
+
+  "recoverability_divergence_principle": {
+    "formal_relation": "d_{\\mathrm{recover}}\\rightarrow\\infty\\Rightarrow P_{\\mathrm{return}}\\rightarrow0",
+    "interpretation": "As recoverability separation diverges, organizational return probability collapses toward effective non-recoverability.",
+    "deep_form": "Recoverability divergence suppresses return probability."
+  },
+
+  "return_time_divergence_principle": {
+    "formal_relation": "\\tau_{\\mathrm{return}}\\rightarrow\\infty\\Rightarrow\\chi_{\\mathrm{horizon}}\\rightarrow1",
+    "interpretation": "Accessibility horizons emerge when recoverability timescales diverge beyond effectively traversable organizational return structure.",
+    "deep_form": "Return-time divergence signals accessibility horizon crossing."
+  },
+
+  "geodesic_fragmentation_principle": {
+    "formal_relation": "\\mathcal H_{\\mathrm{access}}\\uparrow\\Rightarrow\\gamma_{\\mathrm{viab}}\\rightarrow\\gamma_{\\mathrm{fragmented}}",
+    "interpretation": "Accessibility horizon formation fragments previously viable organizational trajectories into disconnected or unstable transport pathways.",
+    "deep_form": "Accessibility horizons fragment viability-preserving geodesics."
+  },
+
+  "local_global_horizon_asymmetry": {
+    "formal_relation": "\\mathcal B_{\\mathrm{viab}}^{\\mathrm{local}}\\ \\mathrm{stable}\\not\\Rightarrow\\mathcal H_{\\mathrm{access}}^{\\mathrm{global}}\\downarrow",
+    "interpretation": "Locally survivable organizational sectors may coexist with expanding large-scale accessibility horizon formation.",
+    "deep_form": "Local survivability may mask global horizon expansion."
+  },
+
+  "regenerative_horizon_retraction": {
+    "formal_relation": "\\mathcal H_{\\mathrm{regen}}\\uparrow\\Rightarrow\\mathcal H_{\\mathrm{access}}\\downarrow",
+    "interpretation": "Repair, reconnection, participation restoration, and permeability recovery may retract accessibility horizons by restoring transportable future accessibility.",
+    "deep_form": "Regeneration retracts accessibility horizons."
+  },
+
+  "horizon_hysteresis_principle": {
+    "formal_relation": "\\mathcal H_{\\mathrm{access}}^{\\mathrm{return}}\\neq\\mathcal H_{\\mathrm{access}}^{\\mathrm{collapse}}",
+    "interpretation": "Recovery accessibility structure need not geometrically coincide with collapse accessibility structure after fragmentation, curvature accumulation, or recoverability depletion.",
+    "deep_form": "Recovery and collapse horizons need not coincide."
+  },
+
+  "canonical_horizon_structure": {
+    "formal_relation": "\\mathcal S_{\\mathrm{horizon}}=(\\mathcal H_{\\mathrm{access}},\\partial\\mathcal B_{\\mathrm{viab}},d_{\\mathrm{recover}},\\tau_{\\mathrm{return}},\\chi_{\\mathrm{horizon}})",
+    "interpretation": "Recursive accessibility horizon theory governs emergence of future inaccessibility through coupled dynamics of curvature accumulation, transport fragmentation, permeability suppression, recoverability divergence, and basin disconnectivity.",
+    "deep_form": "Accessibility horizons organize recursive future inaccessibility geometry."
+  },
+
+  "causal_accessibility_consequence": {
+    "formal_relation": "\\tau_{\\mathrm{return}}\\rightarrow\\infty\\Rightarrow\\text{effective causal disconnectivity}",
+    "interpretation": "Recursive accessibility horizons induce viability-causal separation between organizational sectors through recoverability divergence.",
+    "deep_form": "Accessibility horizons generate viability-causal disconnectivity."
+  },
+
+  "normalization_rules": [
+    "Recursive accessibility horizons define effectively non-recoverable future inaccessibility.",
+    "Recoverability separation is not equivalent to ordinary metric proximity.",
+    "Accessibility horizon formation emerges asymptotically through excessive curvature accumulation.",
+    "Transport fragmentation amplifies accessibility horizon formation.",
+    "Permeability collapse increases recoverability separation.",
+    "Recoverability divergence suppresses organizational return probability.",
+    "Return-time divergence signals accessibility horizon crossing.",
+    "Accessibility horizons fragment viability-preserving geodesics.",
+    "Local survivability may coexist with expanding large-scale accessibility horizons.",
+    "Recovery and collapse horizon geometries need not coincide.",
+    "Recursive survivability depends on preventing effective future inaccessibility."
+  ],
+
+  "deep_compressions": [
+    "Recursive collapse occurs when future accessibility becomes geometrically unreachable faster than recoverability can reopen it.",
+    "Accessibility horizons define emergent future inaccessibility.",
+    "Recoverability separation is not equivalent to ordinary metric proximity.",
+    "Excessive curvature generates future inaccessibility.",
+    "Transport fragmentation amplifies accessibility horizons.",
+    "Permeability collapse increases recoverability separation.",
+    "Recoverability divergence suppresses return probability.",
+    "Accessibility horizons fragment viability-preserving geodesics.",
+    "Local survivability may mask global horizon expansion.",
+    "Recovery and collapse horizons need not coincide.",
+    "Accessibility horizons generate viability-causal disconnectivity."
+  ],
+
+  "connections": [
+    "recursive_viability_connection_curvature_dynamics_v1",
+    "thresholded_viability_geometry",
+    "recursive_accessibility_geometric_flow",
+    "recursive_viability_state_geometry",
+    "future_accessibility_contraction_geometry",
+    "recoverability_corridor_geometry",
+    "recursive_viability_basin_topology",
+    "recursive_transport_fragmentation_theory",
+    "recursive_collapse_hysteresis_geometry"
+  ],
+
+  "one_sentence_lock": "Recursive Accessibility Horizon Theory states that recursive organizational systems generate accessibility horizons through curvature accumulation, transport fragmentation, permeability suppression, and recoverability divergence, producing effectively non-recoverable future inaccessibility and viability-causal disconnectivity across recursive organizational geometry."
+}
