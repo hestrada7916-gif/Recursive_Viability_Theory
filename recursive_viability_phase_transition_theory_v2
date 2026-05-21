@@ -1,0 +1,249 @@
+{
+  "artifact_id": "recursive_viability_phase_transition_theory_v2",
+  "title": "Recursive Viability Phase Transition Theory",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_phase_dynamics_layer",
+
+  "canonical_statement": "Recursive organizational systems undergo qualitative viability regime transitions when recoverable future accessibility geometry loses sufficient continuity, connectivity, or regenerative capacity to preserve recursive viability.",
+
+  "deep_compression_statement": "Collapse is a phase transition in future accessibility geometry.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathfrak P_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability possesses large-scale phase organization governed by accessibility coherence, transport continuity, curvature accumulation, recoverability structure, and fragmentation dynamics across recursive organizational geometry.",
+    "deep_form": "Recursive viability evolves through phase-organized accessibility dynamics."
+  },
+
+  "primitive_objects": {
+
+    "viability_phase_space": {
+      "symbol": "\\mathfrak P_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{PhaseSpace}",
+      "role": "recursive viability phase space",
+      "interpretation": "Defines the large-scale organizational phase structure governing recursive viability regimes under varying accessibility, curvature, transport, recoverability, and fragmentation conditions."
+    },
+
+    "viability_order_parameter": {
+      "symbol": "\\Xi_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "recursive viability coherence observable",
+      "interpretation": "Measures large-scale recursive viability coherence across organizational accessibility geometry."
+    },
+
+    "critical_viability_threshold": {
+      "symbol": "\\Xi_{\\mathrm{crit}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "critical viability coherence threshold",
+      "interpretation": "Defines the approximate viability coherence threshold below which recursive organizational accessibility continuity becomes increasingly unstable or fragmentation-sensitive."
+    },
+
+    "critical_susceptibility": {
+      "symbol": "\\chi_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "viability critical susceptibility",
+      "interpretation": "Measures amplification sensitivity of recursive viability structure to perturbation near critical accessibility transitions."
+    },
+
+    "viability_regime_sector": {
+      "symbol": "\\mathcal R_{\\alpha}",
+      "type_assignment": "\\mathsf{Region}",
+      "role": "viability regime sector",
+      "interpretation": "Defines emergent sectors of recursive viability phase space corresponding to differing accessibility continuity, fragmentation, recoverability, and collapse organization."
+    },
+
+    "recoverability_time": {
+      "symbol": "\\tau_{\\mathrm{recover}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "recoverability timescale",
+      "interpretation": "Measures characteristic recursive timescales required for accessibility restoration, coordination recovery, and viability regeneration."
+    },
+
+    "viability_basin_connectivity": {
+      "symbol": "\\mathrm{Conn}(\\mathcal B_{\\mathrm{viab}})",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "viability basin connectivity observable",
+      "interpretation": "Measures large-scale recoverable connectivity across recursive viability basin structure."
+    },
+
+    "transport_fragmentation": {
+      "symbol": "\\mathcal F_{\\mathrm{transport}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "transport fragmentation observable",
+      "interpretation": "Measures loss of coherent accessibility transport continuity across recursive organizational geometry."
+    },
+
+    "fragmentation_threshold": {
+      "symbol": "\\chi_{\\mathrm{frag}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "critical fragmentation threshold",
+      "interpretation": "Defines approximate transport connectivity thresholds below which recursive accessibility continuity becomes fragmentation-sensitive."
+    },
+
+    "percolation_threshold": {
+      "symbol": "\\chi_{\\mathrm{perc}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "critical basin connectivity threshold",
+      "interpretation": "Defines approximate basin connectivity thresholds below which large-scale recoverable accessibility continuity becomes unstable."
+    },
+
+    "viability_island_structure": {
+      "symbol": "\\mathcal I_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Structure}",
+      "role": "localized viability island structure",
+      "interpretation": "Defines locally survivable accessibility regions that may remain internally viable despite broader recursive accessibility fragmentation or global viability degradation."
+    }
+
+  },
+
+  "phase_transition_condition": {
+    "formal_relation": "\\Xi_{\\mathrm{viab}}\\downarrow\\Xi_{\\mathrm{crit}}",
+    "interpretation": "Recursive viability regime transitions emerge as accessibility coherence approaches critical viability thresholds.",
+    "deep_form": "Critical accessibility coherence loss prepares viability transition."
+  },
+
+  "stable_viability_regime": {
+    "formal_relation": "\\Xi_{\\mathrm{viab}}>\\Xi_{\\mathrm{crit}}",
+    "interpretation": "Stable recursive viability corresponds to sufficiently coherent accessibility transport, recoverability continuity, basin connectivity, participation continuity, and regenerative accessibility preservation.",
+    "deep_form": "Stable viability preserves coherent future accessibility."
+  },
+
+  "fragmentation_regime": {
+    "formal_relation": "\\mathrm{Conn}(J_{\\mathrm{viab}})\\rightarrow\\chi_{\\mathrm{frag}}",
+    "interpretation": "Fragmentation regimes emerge when recursive accessibility transport loses sufficient continuity to preserve large-scale recoverable future accessibility coherence.",
+    "deep_form": "Transport fragmentation destabilizes accessibility continuity."
+  },
+
+  "collapse_regime": {
+    "formal_relation": "\\mu(\\mathcal J^+_{\\mathrm{viab}})\\rightarrow0",
+    "interpretation": "Collapse regimes emerge when recoverably reachable future accessibility sectors contract toward effective exhaustion.",
+    "deep_form": "Collapse contracts recoverable future accessibility."
+  },
+
+  "regenerative_reopening_regime": {
+    "formal_relation": "\\partial_t\\mu(\\mathcal B_{\\mathrm{viab}})>0",
+    "interpretation": "Regenerative reopening regimes emerge when repair, participation, reconnection, and accessibility restoration reopen recoverable future accessibility structure.",
+    "deep_form": "Regeneration reopens future accessibility."
+  },
+
+  "critical_slowing_principle": {
+    "formal_relation": "\\Xi_{\\mathrm{viab}}\\rightarrow\\Xi_{\\mathrm{crit}}\\Rightarrow\\tau_{\\mathrm{recover}}\\uparrow",
+    "interpretation": "Recoverability timescales increase as recursive organizational systems approach critical viability transition regions.",
+    "deep_form": "Repair slows near critical accessibility transition."
+  },
+
+  "critical_susceptibility_principle": {
+    "formal_relation": "\\Xi_{\\mathrm{viab}}\\rightarrow\\Xi_{\\mathrm{crit}}\\Rightarrow\\chi_{\\mathrm{viab}}\\uparrow",
+    "interpretation": "Recursive organizational systems become increasingly perturbation-sensitive near critical viability transition regions.",
+    "deep_form": "Critical accessibility systems amplify perturbations."
+  },
+
+  "accessibility_variance_amplification": {
+    "formal_relation": "\\mathrm{Var}(\\Sigma)\\uparrow\\quad\\text{as}\\quad\\Xi_{\\mathrm{viab}}\\rightarrow\\Xi_{\\mathrm{crit}}",
+    "interpretation": "Accessibility fluctuations amplify near recursive viability transition regions.",
+    "deep_form": "Accessibility instability amplifies near criticality."
+  },
+
+  "curvature_transition_relation": {
+    "formal_relation": "\\mathrm{Ric}_{\\mathrm{viab}}\\uparrow\\Rightarrow\\Xi_{\\mathrm{viab}}\\downarrow",
+    "interpretation": "Curvature accumulation suppresses recoverable future accessibility coherence and destabilizes recursive viability organization.",
+    "deep_form": "Curvature destabilizes recursive viability coherence."
+  },
+
+  "transport_fragmentation_transition_relation": {
+    "formal_relation": "\\mathcal F_{\\mathrm{transport}}\\uparrow\\Rightarrow\\Xi_{\\mathrm{viab}}\\downarrow",
+    "interpretation": "Fragmented accessibility transport suppresses coordination continuity, repair propagation, participation continuity, and recoverable future accessibility coherence.",
+    "deep_form": "Transport fragmentation suppresses viability coherence."
+  },
+
+  "basin_percolation_transition": {
+    "formal_relation": "\\mathrm{Conn}(\\mathcal B_{\\mathrm{viab}})\\rightarrow\\chi_{\\mathrm{perc}}",
+    "interpretation": "Recursive viability destabilizes as basin connectivity approaches critical percolation thresholds governing large-scale recoverable accessibility continuity.",
+    "deep_form": "Percolation loss destabilizes future accessibility continuity."
+  },
+
+  "viability_island_principle": {
+    "formal_relation": "\\mathcal I_{\\mathrm{viab}}\\subset\\mathcal B_{\\mathrm{viab}}",
+    "interpretation": "Localized survivability regions may remain internally viable despite broader recursive accessibility fragmentation or global viability degradation.",
+    "deep_form": "Local viability may persist during broader collapse."
+  },
+
+  "hysteresis_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{return}}\\neq\\mathcal R_{\\mathrm{collapse}}",
+    "interpretation": "Recoverability trajectories need not follow the same accessibility geometry, transport organization, or basin structure through which collapse originally emerged.",
+    "deep_form": "Recovery and collapse need not follow identical geometry."
+  },
+
+  "metastability_principle": {
+    "formal_relation": "\\partial_t\\Xi_{\\mathrm{viab}}\\approx0\\quad\\text{while}\\quad\\Xi_{\\mathrm{viab}}\\approx\\Xi_{\\mathrm{crit}}",
+    "interpretation": "Recursive organizational systems may temporarily exhibit apparent stability while remaining highly transition-sensitive near critical accessibility thresholds.",
+    "deep_form": "Apparent stability may conceal critical accessibility fragility."
+  },
+
+  "phase_transition_early_warning_relation": {
+    "formal_relation": "\\tau_{\\mathrm{recover}}\\uparrow,\\quad\\mathrm{Var}(\\Sigma)\\uparrow,\\quad\\mathrm{Conn}(J_{\\mathrm{viab}})\\downarrow",
+    "interpretation": "Early warning indicators of recursive viability transition include slowing recoverability, amplified accessibility fluctuations, and transport fragmentation.",
+    "deep_form": "Critical accessibility transitions generate observable precursors."
+  },
+
+  "effective_irreversibility_relation": {
+    "formal_relation": "\\mu(\\mathcal J^+_{\\mathrm{viab}})\\rightarrow0\\Rightarrow P_{\\mathrm{return}}\\downarrow",
+    "interpretation": "As recoverably reachable future accessibility contracts toward exhaustion, organizational recovery may become effectively inaccessible within relevant organizational timescales.",
+    "deep_form": "Exhausted future accessibility suppresses recoverability."
+  },
+
+  "canonical_phase_compression": {
+    "formal_relation": "\\mathfrak P_{\\mathrm{phase}}=(\\Xi_{\\mathrm{viab}},\\Xi_{\\mathrm{crit}},\\chi_{\\mathrm{viab}},\\mathcal R_{\\alpha},\\tau_{\\mathrm{recover}},\\mathcal F_{\\mathrm{transport}},\\chi_{\\mathrm{frag}},\\chi_{\\mathrm{perc}})",
+    "interpretation": "Recursive viability phase transition theory governs qualitative accessibility regime transitions through coupled dynamics of accessibility coherence, transport fragmentation, curvature accumulation, basin connectivity, recoverability slowing, and regenerative reopening.",
+    "deep_form": "Collapse is a phase transition in future accessibility geometry."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability possesses distinct accessibility regimes.",
+    "Collapse emerges through critical accessibility contraction.",
+    "Recoverable future accessibility governs viability coherence.",
+    "Curvature accumulation destabilizes recursive viability.",
+    "Transport fragmentation destabilizes accessibility continuity.",
+    "Regenerative reopening restores future accessibility continuity.",
+    "Recovery and collapse need not follow identical geometry.",
+    "Critical accessibility transitions amplify instability and slow repair.",
+    "Local viability may persist during broader collapse.",
+    "Recursive survivability depends on preserving recoverable future accessibility continuity."
+  ],
+
+  "deep_compressions": [
+    "Collapse is a phase transition in future accessibility geometry.",
+    "Recursive viability evolves through phase-organized accessibility dynamics.",
+    "Recoverable future accessibility governs viability phase stability.",
+    "Curvature accumulation destabilizes recursive accessibility continuity.",
+    "Transport fragmentation suppresses recoverable future accessibility coherence.",
+    "Regeneration reopens accessibility continuity.",
+    "Percolation loss destabilizes future accessibility continuity.",
+    "Recovery and collapse need not follow identical accessibility geometry.",
+    "Critical transitions amplify instability and slow recoverability.",
+    "Recursive survivability depends on preserving coherent recoverable future accessibility."
+  ],
+
+  "connections": [
+    "recursive_viability_geometric_flow_theory_v1",
+    "recursive_accessibility_cone_dynamics_v1",
+    "recursive_accessibility_causal_structure_v2",
+    "recursive_viability_connection_curvature_dynamics_v1",
+    "recursive_transport_fragmentation_theory",
+    "recursive_collapse_hysteresis_geometry",
+    "recursive_viability_basin_topology",
+    "recursive_admissibility_flow_theory",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model"
+  ],
+
+  "next_layer_candidates": [
+    "recursive_viability_renormalization_theory",
+    "multi_scale_viability_criticality",
+    "recursive_accessibility_thermodynamics",
+    "recursive_phase_hysteresis_dynamics",
+    "recursive_viability_scaling_theory"
+  ],
+
+  "one_sentence_lock": "Recursive Viability Phase Transition Theory states that recursive organizational systems undergo qualitative accessibility regime transitions when recoverable future accessibility geometry loses sufficient coherence, continuity, connectivity, or regenerative capacity to preserve recursive viability across organizational scales."
+}
