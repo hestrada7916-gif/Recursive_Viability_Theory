@@ -1,0 +1,223 @@
+{
+  "artifact_id": "recursive_viability_geometric_flow_theory_v1",
+  "title": "Recursive Viability Geometric Flow Theory",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_geometric_flow_dynamics",
+
+  "canonical_statement": "Recursive viability geometry evolves through transport imbalance, curvature accumulation, regenerative reopening, accessibility compression, and basin deformation across recursive organizational geometry.",
+
+  "deep_compression_statement": "Recursive systems deform the geometry through which futures remain reachable.",
+
+  "primitive_principle": {
+    "formal_relation": "\\partial_t g^{(\\mathrm{viab})}_{ij}",
+    "interpretation": "Recursive viability geometry evolves dynamically under transport flow, collapse propagation, regenerative reopening, curvature accumulation, and accessibility deformation.",
+    "deep_form": "Recursive viability geometry evolves through transport and curvature flow."
+  },
+
+  "primitive_objects": {
+
+    "viability_metric_flow": {
+      "symbol": "\\partial_t g^{(\\mathrm{viab})}_{ij}",
+      "type_assignment": "\\mathsf{Tensor}",
+      "role": "recursive viability metric flow",
+      "interpretation": "Measures temporal evolution of recursive accessibility geometry governing transport cost, recoverability distance, accessibility curvature, basin deformation, and future navigability."
+    },
+
+    "viability_curvature_flow": {
+      "symbol": "\\partial_t \\mathrm{Ric}_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Tensor}",
+      "role": "recursive curvature flow",
+      "interpretation": "Measures temporal evolution of recursive accessibility curvature governing rigidity accumulation, pathway distortion, transport suppression, and basin compression."
+    },
+
+    "viability_basin_flow": {
+      "symbol": "\\partial_t \\mathcal B_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "viability basin deformation flow",
+      "interpretation": "Measures temporal deformation of recursive viability basin structure under metric flow, curvature flow, transport fragmentation, and regenerative reopening."
+    },
+
+    "viability_transport_flow": {
+      "symbol": "J^i_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "recursive viability transport flow",
+      "interpretation": "Defines directional transport of recoverable future accessibility across recursive organizational geometry."
+    },
+
+    "regenerative_transport_flow": {
+      "symbol": "J^i_{\\mathrm{regen}}",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "regenerative accessibility transport flow",
+      "interpretation": "Defines directional propagation of repair, participation restoration, coordination recovery, and recoverability reopening across recursive organizational geometry."
+    },
+
+    "collapse_transport_flow": {
+      "symbol": "J^i_{\\mathrm{collapse}}",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "collapse accessibility transport flow",
+      "interpretation": "Defines directional propagation of accessibility contraction, recoverability suppression, rigidity amplification, and recursive viability collapse across recursive organizational geometry."
+    },
+
+    "accessibility_horizon_flow": {
+      "symbol": "\\partial_t \\mathcal H_{\\mathrm{access}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "accessibility horizon migration flow",
+      "interpretation": "Measures dynamic migration of recursive accessibility horizons under evolving viability geometry."
+    },
+
+    "accessibility_cone_flow": {
+      "symbol": "\\partial_t \\mathcal C_{\\mathrm{access}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "accessibility cone deformation flow",
+      "interpretation": "Measures dynamic deformation of admissible future accessibility cones under evolving recursive viability geometry."
+    },
+
+    "metric_degeneracy_observable": {
+      "symbol": "\\det(g^{(\\mathrm{viab})}_{ij})",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "metric degeneracy observable",
+      "interpretation": "Measures effective navigable dimensionality of recursive accessibility geometry."
+    }
+
+  },
+
+  "geometric_flow_equation": {
+    "formal_relation": "\\partial_t g^{(\\mathrm{viab})}_{ij}=\\mathcal U^{\\mathrm{regen}}_{ij}-\\mathcal U^{\\mathrm{collapse}}_{ij}+\\mathcal U^{\\mathrm{transport}}_{ij}-\\mathcal U^{\\mathrm{curv}}_{ij}",
+    "interpretation": "Recursive viability geometry evolves through competing dynamics of regenerative reopening, collapse compression, transport-induced deformation, and curvature-driven accessibility contraction.",
+    "deep_form": "Recursive viability geometry evolves through regeneration, transport, collapse, and curvature flow."
+  },
+
+  "transport_induced_metric_deformation": {
+    "formal_relation": "\\nabla_iJ^i_{\\mathrm{viab}}\\neq0\\Rightarrow\\partial_tg^{(\\mathrm{viab})}_{ij}\\neq0",
+    "interpretation": "Nonuniform accessibility transport reshapes recursive viability geometry by redistributing recoverable future accessibility across recursive organizational structure.",
+    "deep_form": "Accessibility transport reshapes recursive geometry."
+  },
+
+  "regenerative_metric_opening_principle": {
+    "formal_relation": "\\left|J^i_{\\mathrm{regen}}\\right|\\uparrow\\Rightarrow\\partial_tg^{(\\mathrm{viab})}_{ij}\\ \\mathrm{opens}",
+    "interpretation": "Repair, participation restoration, coordination recovery, and recoverability regeneration reduce transport friction and expand navigable future accessibility geometry.",
+    "deep_form": "Regenerative flow opens viability geometry."
+  },
+
+  "collapse_metric_compression_principle": {
+    "formal_relation": "\\left|J^i_{\\mathrm{collapse}}\\right|\\uparrow\\Rightarrow\\partial_tg^{(\\mathrm{viab})}_{ij}\\ \\mathrm{compresses}",
+    "interpretation": "Collapse propagation increases transport friction, contracts recoverability pathways, narrows admissible futures, and suppresses navigable accessibility geometry.",
+    "deep_form": "Collapse flow compresses viability geometry."
+  },
+
+  "curvature_flow_equation": {
+    "formal_relation": "\\partial_t\\mathrm{Ric}_{\\mathrm{viab}}=\\mathcal K_{\\mathrm{accum}}-\\mathcal K_{\\mathrm{diss}}+\\mathcal K_{\\mathrm{transport}}",
+    "interpretation": "Recursive accessibility curvature evolves through accumulation, dissipation, and transport-induced deformation.",
+    "deep_form": "Recursive curvature evolves through accumulation, dissipation, and transport deformation."
+  },
+
+  "curvature_accumulation_principle": {
+    "formal_relation": "\\left|J^i_{\\mathrm{collapse}}\\right|\\uparrow\\Rightarrow\\partial_t\\mathrm{Ric}_{\\mathrm{viab}}>0",
+    "interpretation": "Collapse propagation, rigidity amplification, transport fragmentation, and recoverability suppression increase recursive viability curvature.",
+    "deep_form": "Collapse flow bends viability geometry toward inaccessibility."
+  },
+
+  "curvature_dissipation_principle": {
+    "formal_relation": "\\left|J^i_{\\mathrm{regen}}\\right|\\uparrow\\Rightarrow\\partial_t\\mathrm{Ric}_{\\mathrm{viab}}<0",
+    "interpretation": "Repair, reconnection, participation reopening, and recoverability restoration dissipate recursive curvature by reopening transportable future accessibility.",
+    "deep_form": "Repair flow relaxes accessibility curvature."
+  },
+
+  "basin_compression_principle": {
+    "formal_relation": "\\partial_t\\mathrm{Ric}_{\\mathrm{viab}}>0\\Rightarrow\\partial_t\\mu(\\mathcal B_{\\mathrm{viab}})<0",
+    "interpretation": "Curvature accumulation contracts recursive viability basin volume and reduces recoverability, participation capacity, adaptive flexibility, and reachable future accessibility.",
+    "deep_form": "Curvature accumulation contracts viability basins."
+  },
+
+  "basin_reopening_principle": {
+    "formal_relation": "\\left|J^i_{\\mathrm{regen}}\\right|\\uparrow\\Rightarrow\\partial_t\\mu(\\mathcal B_{\\mathrm{viab}})>0",
+    "interpretation": "Regenerative flow expands recoverably reachable basin structure by restoring transport, participation, coordination, and future accessibility.",
+    "deep_form": "Regenerative flow reopens viability basins."
+  },
+
+  "metric_degeneracy_flow_principle": {
+    "formal_relation": "\\partial_t\\det(g^{(\\mathrm{viab})}_{ij})<0\\Rightarrow\\Sigma\\downarrow",
+    "interpretation": "Loss of effective navigable dimensionality suppresses recursive viability density through pathway collapse, recoverability loss, rigidification, and organizational trapping.",
+    "deep_form": "Metric degeneracy suppresses recursive viability."
+  },
+
+  "geometric_flow_coherence_condition": {
+    "formal_relation": "\\det(g^{(\\mathrm{viab})}_{ij})>0\\quad\\text{and}\\quad\\mu(\\mathcal B_{\\mathrm{viab}})>0",
+    "interpretation": "Recursive survivability requires preservation of nondegenerate accessibility geometry and nonzero recoverable basin volume.",
+    "deep_form": "Recursive survivability requires nondegenerate recoverable geometry."
+  },
+
+  "horizon_migration_principle": {
+    "formal_relation": "\\partial_tg^{(\\mathrm{viab})}_{ij}\\neq0\\Rightarrow\\partial_t\\mathcal H_{\\mathrm{access}}\\neq0",
+    "interpretation": "Accessibility horizons dynamically migrate under evolving recursive viability geometry.",
+    "deep_form": "Accessibility horizons evolve under geometric flow."
+  },
+
+  "cone_geometric_flow_coupling": {
+    "formal_relation": "\\partial_tg^{(\\mathrm{viab})}_{ij}\\neq0\\Rightarrow\\partial_t\\mathcal C_{\\mathrm{access}}\\neq0",
+    "interpretation": "Changes in recursive viability geometry deform admissible future accessibility directionality.",
+    "deep_form": "Metric flow deforms accessibility cones."
+  },
+
+  "flow_induced_phase_preparation": {
+    "formal_relation": "\\det(g^{(\\mathrm{viab})}_{ij})\\rightarrow0\\quad\\text{or}\\quad\\mu(\\mathcal B_{\\mathrm{viab}})\\rightarrow0\\Rightarrow\\text{phase transition risk}\\uparrow",
+    "interpretation": "Metric degeneracy, basin contraction, curvature accumulation, and horizon expansion prepare recursive phase transitions by reducing recoverable future accessibility.",
+    "deep_form": "Geometric collapse prepares recursive phase transition."
+  },
+
+  "canonical_geometric_flow_compression": {
+    "formal_relation": "\\mathfrak G_{\\mathrm{flow}}=(\\partial_tg^{(\\mathrm{viab})}_{ij},\\partial_t\\mathrm{Ric}_{\\mathrm{viab}},\\partial_t\\mathcal B_{\\mathrm{viab}},J^i_{\\mathrm{viab}},J^i_{\\mathrm{regen}},J^i_{\\mathrm{collapse}},\\partial_t\\mathcal H_{\\mathrm{access}},\\partial_t\\mathcal C_{\\mathrm{access}})",
+    "interpretation": "Recursive viability geometric flow theory governs dynamic evolution of accessibility geometry through coupled dynamics of metric flow, curvature flow, basin deformation, transport propagation, regenerative reopening, collapse compression, horizon migration, and accessibility cone deformation.",
+    "deep_form": "Recursive viability geometry evolves through coupled transport and curvature flow dynamics."
+  },
+
+  "canonical_compressions": [
+    "Recursive systems deform the geometry through which futures remain reachable.",
+    "Accessibility transport reshapes recursive geometry.",
+    "Regenerative flow opens viability geometry.",
+    "Collapse flow compresses viability geometry.",
+    "Collapse flow bends viability geometry toward inaccessibility.",
+    "Repair flow relaxes accessibility curvature.",
+    "Curvature accumulation contracts viability basins.",
+    "Regenerative flow reopens viability basins.",
+    "Metric degeneracy signals loss of navigable dimensionality.",
+    "Accessibility horizons migrate under geometric flow.",
+    "Metric flow deforms admissible future directionality.",
+    "Geometric flow prepares recursive phase transitions.",
+    "Recursive survivability requires dynamically repairable accessibility geometry."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability geometry evolves through coupled transport and curvature flow.",
+    "Accessibility transport dynamically reshapes recursive accessibility geometry.",
+    "Collapse propagation contracts recoverable future accessibility geometry.",
+    "Repair propagation restores navigable future accessibility geometry.",
+    "Curvature accumulation suppresses recoverable future reachability.",
+    "Metric degeneracy signals recursive accessibility collapse.",
+    "Recursive survivability depends on preserving dynamically repairable accessibility geometry."
+  ],
+
+  "connections": [
+    "recursive_viability_causal_flow_theory_v2",
+    "recursive_accessibility_cone_dynamics_v1",
+    "recursive_accessibility_causal_structure_v1",
+    "recursive_viability_connection_curvature_dynamics_v1",
+    "recursive_viability_metric_theory_v1",
+    "recursive_viability_field_theory_v2",
+    "recursive_future_accessibility_phase_transitions",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "recursive_admissibility_flow_theory"
+  ],
+
+  "next_layer_candidates": [
+    "recursive_viability_phase_transition_theory",
+    "recursive_viability_renormalization_flow_theory",
+    "recursive_accessibility_horizon_dynamics",
+    "recursive_multi_scale_accessibility_geometry",
+    "recursive_viability_topological_transition_theory"
+  ],
+
+  "one_sentence_lock": "Recursive Viability Geometric Flow Theory states that recursive organizational systems continuously deform the accessibility geometry governing future viability through coupled dynamics of transport propagation, collapse compression, regenerative reopening, curvature accumulation, basin deformation, horizon migration, and accessibility cone evolution across recursive organizational geometry."
+}
