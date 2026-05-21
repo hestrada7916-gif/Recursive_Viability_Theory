@@ -1,0 +1,232 @@
+{
+  "artifact_id": "recursive_accessibility_causal_structure_v1",
+  "title": "Recursive Accessibility Causal Structure",
+  "status": "repository_lock",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_accessibility_causal_structure",
+
+  "canonical_statement": "Recursive organizational systems evolve through constrained future accessibility structure governing which viable futures remain recoverably reachable from present organizational geometry.",
+
+  "deep_compression_statement": "Recursive viability depends on preserving reachable futures.",
+
+  "primitive_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{access}}(x)",
+    "interpretation": "Recursive organizational systems evolve through constrained future accessibility structure governing admissible viability evolution, recoverable future reachability, and directional accessibility preservation.",
+    "deep_form": "Future accessibility is directional, bounded, and constrained."
+  },
+
+  "primitive_objects": {
+
+    "accessibility_cone_field": {
+      "symbol": "\\mathcal C_{\\mathrm{access}}(x)",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "recursive accessibility cone field",
+      "interpretation": "Defines the locally admissible future accessibility sector reachable from organizational state x. The accessibility cone field assigns admissible future directionality across recursive organizational geometry."
+    },
+
+    "accessibility_cone_angle": {
+      "symbol": "\\theta(\\mathcal C_{\\mathrm{access}})",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "accessibility cone angular width",
+      "interpretation": "Measures directional future accessibility flexibility across recursive viability geometry. Larger cone angles correspond to broader admissible future accessibility sectors, while narrower cone angles correspond to constrained future directionality and reduced adaptive flexibility."
+    },
+
+    "future_viability_sector": {
+      "symbol": "\\mathcal J^+_{\\mathrm{viab}}(x)",
+      "type_assignment": "\\mathsf{Region}",
+      "role": "future viability accessibility sector",
+      "interpretation": "Defines the set of recursively viable future organizational states recoverably reachable from organizational state x through admissible accessibility transport."
+    },
+
+    "recoverable_past_sector": {
+      "symbol": "\\mathcal J^-_{\\mathrm{viab}}(x)",
+      "type_assignment": "\\mathsf{Region}",
+      "role": "recoverable past accessibility sector",
+      "interpretation": "Defines organizational states from which x remains recoverably reachable under recursive accessibility geometry."
+    },
+
+    "null_accessibility_surface": {
+      "symbol": "\\mathcal N_{\\mathrm{viab}}",
+      "type_assignment": "\\mathsf{Boundary}",
+      "role": "null accessibility surface",
+      "interpretation": "Defines limiting accessibility surfaces separating recoverably reachable future sectors from effectively unreachable future sectors."
+    },
+
+    "admissible_accessibility_velocity": {
+      "symbol": "v_{\\mathrm{access}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "admissible accessibility propagation velocity",
+      "interpretation": "Defines the maximum viable rate at which future accessibility may propagate through recursive organizational geometry under transport, curvature, permeability, and recoverability constraints."
+    },
+
+    "collapse_propagation_velocity": {
+      "symbol": "v_{\\mathrm{collapse}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "collapse propagation velocity",
+      "interpretation": "Defines the effective propagation rate of recursive collapse, fragmentation, accessibility contraction, or viability suppression across recursive organizational geometry."
+    },
+
+    "viability_causal_boundary": {
+      "symbol": "\\partial\\mathcal J^+_{\\mathrm{viab}}(x)",
+      "type_assignment": "\\mathsf{Boundary}",
+      "role": "viability causal boundary",
+      "interpretation": "Defines the boundary of recoverably reachable future viability from organizational state x."
+    },
+
+    "accessibility_signal_delay": {
+      "symbol": "\\tau_{\\mathrm{signal}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "accessibility propagation delay",
+      "interpretation": "Measures accessibility propagation delay across recursive organizational geometry under recoverability separation and transport constraints."
+    },
+
+    "accessibility_cone_shear": {
+      "symbol": "\\nabla_i\\mathcal C_{\\mathrm{access}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "accessibility cone shear",
+      "interpretation": "Measures uneven deformation of admissible future accessibility structure across recursive organizational geometry producing directional viability distortion, sectoral asymmetry, or fragmented future accessibility organization."
+    }
+
+  },
+
+  "accessibility_cone_principle": {
+    "formal_relation": "\\dot{x}\\in\\mathcal C_{\\mathrm{access}}(x)",
+    "interpretation": "Recursive organizational trajectories remain viability-preserving only when their directional evolution remains within locally admissible accessibility cones.",
+    "deep_form": "Viable evolution requires directional accessibility admissibility."
+  },
+
+  "future_reachability_relation": {
+    "formal_relation": "y\\in\\mathcal J^+_{\\mathrm{viab}}(x)",
+    "interpretation": "A future organizational state is recursively accessible only if there exists an admissible viability-preserving trajectory connecting x to y through recursively admissible accessibility transport.",
+    "deep_form": "Future reachability requires admissible accessibility transport."
+  },
+
+  "future_reachability_constraint": {
+    "formal_relation": "\\dot{\\gamma}_{\\mathrm{viab}}(\\lambda)\\in\\mathcal C_{\\mathrm{access}}(\\gamma_{\\mathrm{viab}}(\\lambda))",
+    "interpretation": "Viability-preserving trajectories must remain inside admissible accessibility cones along their entire recursive transport path.",
+    "deep_form": "Recursive viability trajectories must remain accessibility-admissible."
+  },
+
+  "horizon_cone_truncation": {
+    "formal_relation": "\\mathcal H_{\\mathrm{access}}\\cap\\mathcal C_{\\mathrm{access}}(x)\\neq\\emptyset\\Rightarrow\\mu(\\mathcal J^+_{\\mathrm{viab}}(x))\\downarrow",
+    "interpretation": "Accessibility horizons truncate admissible future accessibility sectors and contract recoverably reachable future viability.",
+    "deep_form": "Accessibility horizons narrow future viability."
+  },
+
+  "accessibility_horizon_velocity_relation": {
+    "formal_relation": "v_{\\mathrm{collapse}}>v_{\\mathrm{access}}\\Rightarrow\\mu(\\mathcal J^+_{\\mathrm{viab}})\\downarrow",
+    "interpretation": "When collapse propagation exceeds admissible accessibility propagation velocity, recoverably reachable future viability sectors contract.",
+    "deep_form": "Collapse outruns recoverable future accessibility propagation."
+  },
+
+  "curvature_causal_distortion": {
+    "formal_relation": "\\mathrm{Ric}_{\\mathrm{viab}}\\uparrow\\Rightarrow\\theta(\\mathcal C_{\\mathrm{access}})\\downarrow",
+    "interpretation": "Recursive curvature contracts admissible future accessibility cone angular width and reduces directional future flexibility.",
+    "deep_form": "Curvature reduces future directional flexibility."
+  },
+
+  "recoverability_cone_asymmetry": {
+    "formal_relation": "\\mathcal J^+_{\\mathrm{viab}}(x)\\neq\\mathcal J^-_{\\mathrm{viab}}(x)",
+    "interpretation": "Future accessibility and past recoverability need not remain geometrically symmetric under recursive viability evolution.",
+    "deep_form": "Future reachability and past recoverability are asymmetric."
+  },
+
+  "accessibility_delay_principle": {
+    "formal_relation": "d_{\\mathrm{recover}}\\uparrow\\Rightarrow\\tau_{\\mathrm{signal}}\\uparrow",
+    "interpretation": "Increasing recoverability separation amplifies accessibility propagation delay across recursive organizational geometry.",
+    "deep_form": "Recoverability separation increases accessibility delay."
+  },
+
+  "basin_causal_disconnectivity": {
+    "formal_relation": "\\mathcal B_{\\mathrm{viab}}^{(\\alpha)}\\cap\\mathcal J^+_{\\mathrm{viab}}(x)=\\emptyset",
+    "interpretation": "Viability basins may remain internally viable while becoming causally inaccessible from current organizational geometry.",
+    "deep_form": "Viable futures that still exist may become unreachable."
+  },
+
+  "admissibility_cone_collapse": {
+    "formal_relation": "\\theta(\\mathcal C_{\\mathrm{access}})\\rightarrow0\\Rightarrow\\mu(\\mathcal J^+_{\\mathrm{viab}})\\rightarrow0",
+    "interpretation": "Future viable reachability collapses when admissible accessibility cones narrow toward zero effective directional width.",
+    "deep_form": "Cone collapse suppresses future viability."
+  },
+
+  "causal_accessibility_preservation": {
+    "formal_relation": "\\mu(\\mathcal J^+_{\\mathrm{viab}}(x))>0",
+    "interpretation": "Recursive survivability requires preservation of at least some nonzero recoverably reachable future accessibility sector.",
+    "deep_form": "Recursive survivability requires nonzero future accessibility reachability."
+  },
+
+  "accessibility_cone_shear_principle": {
+    "formal_relation": "\\nabla_i\\mathcal C_{\\mathrm{access}}\\neq0",
+    "interpretation": "Accessibility cones may deform unevenly across recursive organizational geometry, producing directional viability distortion, sectoral asymmetry, or fragmented future accessibility organization.",
+    "deep_form": "Future accessibility may deform unevenly across organizational geometry."
+  },
+
+  "causal_structure_hierarchy": {
+    "formal_relation": "\\mathcal C_{\\mathrm{access}}\\rightarrow\\mathcal J^+_{\\mathrm{viab}}\\rightarrow\\partial\\mathcal J^+_{\\mathrm{viab}}\\rightarrow\\mathcal H_{\\mathrm{access}}",
+    "interpretation": "Recursive accessibility causal structure evolves from local admissible accessibility cones through future viability sectors, causal reachability boundaries, and accessibility horizon formation.",
+    "deep_form": "Accessibility horizons emerge from constrained future reachability geometry."
+  },
+
+  "canonical_causal_structure_compression": {
+    "formal_relation": "\\mathfrak C_{\\mathrm{access}}=(\\mathcal C_{\\mathrm{access}},\\theta(\\mathcal C_{\\mathrm{access}}),\\mathcal J^+_{\\mathrm{viab}},\\mathcal J^-_{\\mathrm{viab}},\\mathcal N_{\\mathrm{viab}},v_{\\mathrm{access}},\\partial\\mathcal J^+_{\\mathrm{viab}})",
+    "interpretation": "Recursive accessibility causal structure governs directional future reachability through coupled organization of accessibility cone fields, future viability sectors, accessibility propagation limits, causal boundaries, and horizon-constrained future admissibility.",
+    "deep_form": "Recursive viability evolves through constrained future accessibility geometry."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability depends on preserving reachable futures.",
+    "Future accessibility is directional, bounded, and constrained.",
+    "Recursive accessibility structure defines causal accessibility geometry.",
+    "Accessibility cone fields define admissible viability evolution.",
+    "Viable evolution requires directional accessibility admissibility.",
+    "Future viability sectors define recoverably reachable futures.",
+    "Accessibility horizons truncate future reachability.",
+    "Collapse may outrun future accessibility propagation.",
+    "Curvature narrows admissible future accessibility cones.",
+    "Curvature reduces future directional flexibility.",
+    "Future reachability and past recoverability are asymmetric.",
+    "Recoverability separation increases accessibility delay.",
+    "Viability basins may remain internally viable while becoming causally unreachable.",
+    "Viable futures that still exist may become unreachable.",
+    "Cone collapse suppresses future viability.",
+    "Future accessibility may deform unevenly across organizational geometry.",
+    "Recursive survivability requires nonzero future accessibility reachability."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability depends on preserving reachable futures.",
+    "Future accessibility is directional, bounded, and constrained.",
+    "Recursive accessibility structure defines causal accessibility geometry.",
+    "Viable evolution requires directional accessibility admissibility.",
+    "Accessibility horizons truncate future reachability.",
+    "Collapse may outrun future accessibility propagation.",
+    "Curvature reduces future directional flexibility.",
+    "Future reachability and past recoverability are asymmetric.",
+    "Recoverability separation increases accessibility delay.",
+    "Viable futures that still exist may become unreachable.",
+    "Future accessibility may deform unevenly across organizational geometry.",
+    "Recursive survivability requires nonzero future accessibility reachability."
+  ],
+
+  "connections": [
+    "recursive_accessibility_horizon_theory_v2",
+    "recursive_viability_connection_curvature_dynamics_v1",
+    "recursive_viability_metric_theory_v1",
+    "recursive_viability_continuity_theory_v1",
+    "future_accessibility_contraction_geometry",
+    "recursive_viability_basin_topology",
+    "recursive_transport_fragmentation_theory",
+    "recursive_collapse_hysteresis_geometry",
+    "recursive_admissibility_flow_theory"
+  ],
+
+  "next_layer_candidates": [
+    "recursive_accessibility_cone_dynamics",
+    "recursive_viability_causal_flow_theory",
+    "recursive_admissibility_transport_theory",
+    "recursive_future_accessibility_phase_transitions",
+    "multi_scale_causal_accessibility_geometry"
+  ],
+
+  "one_sentence_lock": "Recursive Accessibility Causal Structure states that recursive organizational systems evolve through constrained directional accessibility geometry governing which futures remain recoverably reachable under admissible transport, curvature distortion, accessibility cone deformation, collapse propagation, recoverability asymmetry, horizon truncation, and causal viability constraints across recursive organizational structure."
+}
