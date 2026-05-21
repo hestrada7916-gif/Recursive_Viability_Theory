@@ -1,0 +1,191 @@
+{
+  "artifact_id": "recursive_viability_causal_flow_theory_v2",
+  "title": "Recursive Viability Causal Flow Theory",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "recursive_viability_transport_dynamics",
+
+  "canonical_statement": "Recursive viability evolves through directional transport, propagation, depletion, fragmentation, and regeneration of recoverable future accessibility across recursive organizational geometry.",
+
+  "deep_compression_statement": "Recursive viability depends on preserving coherent transport of recoverable future accessibility.",
+
+  "primitive_principle": {
+    "formal_relation": "J^i_{\\mathrm{viab}}(x,t)",
+    "interpretation": "Recursive organizational systems evolve through directional transport of recoverable future accessibility across recursive organizational geometry.",
+    "deep_form": "Recursive viability propagates through accessibility flow."
+  },
+
+  "primitive_objects": {
+
+    "viability_flow_field": {
+      "symbol": "J^i_{\\mathrm{viab}}(x,t)",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "recursive viability flow field",
+      "interpretation": "Defines directional transport flow of recoverable future accessibility across recursive organizational geometry."
+    },
+
+    "viability_density_field": {
+      "symbol": "\\Sigma(x,t)",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "recursive viability density field",
+      "interpretation": "Measures locally preservable recursive viability density across recursive organizational geometry."
+    },
+
+    "accessibility_flux_density": {
+      "symbol": "\\Phi_{\\mathrm{access}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "accessibility flux density",
+      "interpretation": "Measures the rate of recoverable future accessibility transport crossing recursive organizational regions or viability boundaries."
+    },
+
+    "collapse_flow_field": {
+      "symbol": "J^i_{\\mathrm{collapse}}",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "collapse propagation flow field",
+      "interpretation": "Defines directional propagation of accessibility contraction, recoverability suppression, transport fragmentation, and recursive viability collapse across recursive organizational geometry."
+    },
+
+    "regenerative_flow_field": {
+      "symbol": "J^i_{\\mathrm{regen}}",
+      "type_assignment": "\\mathsf{Field}",
+      "role": "regenerative accessibility flow field",
+      "interpretation": "Defines directional propagation of repair, recoverability restoration, participation reopening, and accessibility regeneration across recursive organizational geometry."
+    },
+
+    "transport_fragmentation_observable": {
+      "symbol": "\\mathcal F_{\\mathrm{transport}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "transport fragmentation observable",
+      "interpretation": "Measures loss of coherent viability transport connectivity across recursive organizational geometry."
+    },
+
+    "flow_delay_observable": {
+      "symbol": "\\tau_{\\mathrm{flow}}",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "viability flow delay observable",
+      "interpretation": "Measures delay in propagation of regenerative accessibility, coordination, repair, participation, and viability stabilization across recursive organizational geometry."
+    },
+
+    "flow_connectivity_observable": {
+      "symbol": "\\mathrm{Conn}(J_{\\mathrm{viab}})",
+      "type_assignment": "\\mathsf{Observable}",
+      "role": "viability transport connectivity",
+      "interpretation": "Measures coherent connectivity of recursive viability transport flow across recursive organizational geometry."
+    }
+
+  },
+
+  "viability_continuity_equation": {
+    "formal_relation": "\\partial_t\\Sigma+\\nabla_iJ^i_{\\mathrm{viab}}=\\nabla_iJ^i_{\\mathrm{regen}}-\\nabla_iJ^i_{\\mathrm{collapse}}",
+    "interpretation": "Recursive viability evolves through coupled dynamics of viability transport, regenerative accessibility propagation, and collapse-driven accessibility depletion.",
+    "deep_form": "Recursive viability evolves through competing regenerative and collapse transport dynamics."
+  },
+
+  "viability_flow_preservation_principle": {
+    "formal_relation": "\\left|J^i_{\\mathrm{viab}}\\right|>0",
+    "interpretation": "Recursive survivability requires nonzero transport of recoverable future accessibility across recursive organizational geometry.",
+    "deep_form": "Recursive survivability requires nonzero accessibility transport."
+  },
+
+  "collapse_flow_principle": {
+    "formal_relation": "\\left|J^i_{\\mathrm{collapse}}\\right|\\uparrow\\Rightarrow\\Sigma\\downarrow",
+    "interpretation": "Collapse propagation suppresses future accessibility, recoverability, coordination continuity, and recursive viability transport across recursive organizational geometry.",
+    "deep_form": "Collapse flow suppresses recursive viability."
+  },
+
+  "regenerative_flow_principle": {
+    "formal_relation": "\\left|J^i_{\\mathrm{regen}}\\right|\\uparrow\\Rightarrow\\Sigma\\uparrow",
+    "interpretation": "Repair, participation, reconnection, and recoverability restoration regenerate recursive viability density across organizational geometry.",
+    "deep_form": "Repair flow regenerates future accessibility."
+  },
+
+  "transport_fragmentation_principle": {
+    "formal_relation": "\\mathcal F_{\\mathrm{transport}}\\uparrow\\Rightarrow\\mathrm{Conn}(J_{\\mathrm{viab}})\\downarrow",
+    "interpretation": "Fragmented viability transport suppresses coordination continuity, repair propagation, participatory accessibility, and recoverable future reachability.",
+    "deep_form": "Fragmented transport fragments future continuity."
+  },
+
+  "accessibility_flow_compression_principle": {
+    "formal_relation": "\\mathrm{Ric}_{\\mathrm{viab}}\\uparrow\\Rightarrow\\left|J^i_{\\mathrm{viab}}\\right|\\downarrow",
+    "interpretation": "Curvature accumulation, rigidity amplification, and accessibility contraction suppress recursive viability transport flow across organizational geometry.",
+    "deep_form": "Curvature suppresses viability transport flow."
+  },
+
+  "flow_delay_principle": {
+    "formal_relation": "d_{\\mathrm{recover}}\\uparrow\\Rightarrow\\tau_{\\mathrm{flow}}\\uparrow",
+    "interpretation": "Increasing recoverability separation delays propagation of repair, coordination, participation, accessibility restoration, and viability stabilization across recursive organizational geometry.",
+    "deep_form": "Recoverability separation delays regenerative flow."
+  },
+
+  "flow_horizon_principle": {
+    "formal_relation": "\\mathcal H_{\\mathrm{access}}\\cap\\mathrm{supp}(J_{\\mathrm{viab}})\\neq\\emptyset\\Rightarrow\\Phi_{\\mathrm{access}}\\downarrow",
+    "interpretation": "Accessibility horizons suppress recursive viability transport by obstructing propagation of future accessibility across recursive organizational geometry.",
+    "deep_form": "Accessibility horizons obstruct viability transport."
+  },
+
+  "flow_basin_coupling": {
+    "formal_relation": "\\left|J^i_{\\mathrm{viab}}\\right|\\uparrow\\Rightarrow\\mu(\\mathcal B_{\\mathrm{viab}}\\cap\\mathcal J^+_{\\mathrm{viab}})\\uparrow",
+    "interpretation": "Stronger recursive viability transport increases the measure of viability basins remaining recoverably reachable across recursive organizational geometry.",
+    "deep_form": "Viability transport preserves basin reachability."
+  },
+
+  "causal_flow_coherence_condition": {
+    "formal_relation": "\\mathrm{Conn}(J_{\\mathrm{viab}})>\\chi_{\\mathrm{frag}}",
+    "interpretation": "Recursive viability requires sufficiently coherent transport connectivity to preserve accessibility continuity, repair propagation, and recoverable future reachability.",
+    "deep_form": "Recursive survivability requires coherent accessibility transport."
+  },
+
+  "flow_competition_principle": {
+    "formal_relation": "\\left|J^i_{\\mathrm{collapse}}\\right|>\\left|J^i_{\\mathrm{regen}}\\right|\\Rightarrow\\partial_t\\Sigma<0",
+    "interpretation": "Recursive viability contracts whenever collapse propagation exceeds regenerative accessibility propagation.",
+    "deep_form": "Collapse dominance contracts recursive viability."
+  },
+
+  "transport_geometry_deformation_principle": {
+    "formal_relation": "\\nabla_iJ^i_{\\mathrm{viab}}\\neq0\\Rightarrow\\partial_tg^{(\\mathrm{viab})}_{ij}\\neq0",
+    "interpretation": "Transport imbalance dynamically deforms recursive viability geometry.",
+    "deep_form": "Accessibility transport reshapes recursive viability geometry."
+  },
+
+  "canonical_flow_compression": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{causal}}=(J^i_{\\mathrm{viab}},\\Sigma,\\Phi_{\\mathrm{access}},J^i_{\\mathrm{collapse}},J^i_{\\mathrm{regen}},\\mathcal F_{\\mathrm{transport}},\\tau_{\\mathrm{flow}})",
+    "interpretation": "Recursive viability causal flow theory governs propagation of recoverable future accessibility through coupled dynamics of viability transport, regenerative repair flow, collapse propagation, transport fragmentation, and continuity preservation across recursive organizational geometry.",
+    "deep_form": "Recursive viability evolves through coherent accessibility transport dynamics."
+  },
+
+  "canonical_compressions": [
+    "Recursive viability propagates through accessibility flow.",
+    "Viability transport carries recoverable future accessibility.",
+    "Recursive viability evolves through transport, regeneration, and collapse dynamics.",
+    "Repair flow regenerates future accessibility.",
+    "Collapse flow suppresses recursive viability.",
+    "Fragmented transport fragments future continuity.",
+    "Curvature suppresses viability transport flow.",
+    "Accessibility horizons obstruct viability transport.",
+    "Recoverability separation delays regenerative flow.",
+    "Recursive survivability requires coherent accessibility transport."
+  ],
+
+  "deep_compressions": [
+    "Recursive viability depends on preserving coherent transport of recoverable future accessibility.",
+    "Accessibility transport reshapes recursive organizational geometry.",
+    "Collapse propagation contracts recoverable future accessibility.",
+    "Repair propagation restores future accessibility continuity.",
+    "Fragmented transport suppresses recoverable future reachability.",
+    "Recursive survivability depends on preserving accessibility continuity faster than collapse propagation suppresses it."
+  ],
+
+  "connections": [
+    "recursive_accessibility_cone_dynamics_v1",
+    "recursive_accessibility_causal_structure_v1",
+    "recursive_viability_connection_curvature_dynamics_v1",
+    "recursive_viability_field_theory_v2",
+    "recursive_viability_metric_theory_v1",
+    "recursive_transport_fragmentation_theory",
+    "spectral_coordination_theory",
+    "polyrhythmic_margin_model",
+    "recursive_admissibility_flow_theory"
+  ],
+
+  "one_sentence_lock": "Recursive Viability Causal Flow Theory states that recursive organizational viability evolves through directional transport, regeneration, collapse propagation, fragmentation, and continuity dynamics of recoverable future accessibility across recursive organizational geometry, with recursive survivability depending on preserving coherent accessibility transport faster than collapse dynamics suppress recoverable future reachability."
+}
