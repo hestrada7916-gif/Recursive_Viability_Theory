@@ -1,0 +1,156 @@
+{
+  "artifact_id": "differentiable_admissible_continuation_kernel_v1",
+  "title": "Differentiable Admissible Continuation Kernel",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Admissibility Flow Theory",
+  "type": "primitive_recursive_continuation_kernel",
+  "version": "1.0",
+  "canonical_statement": "Recursive emergence stabilizes through recoverably differentiable admissible continuation under recursive dissipation dynamics.",
+  "deep_compression_statement": "Reality persists through recoverable admissible continuation under dissipation.",
+  "final_lock_statement": "Stable existence is recursively recoverable admissible continuation under constrained dissipation.",
+  "primitive_kernel": {
+    "symbol": "K_DAC",
+    "latex_symbol": "\\mathcal K_{\\mathrm{DAC}}",
+    "formal_tuple": "\\left(\\mathcal D,\\rightsquigarrow_{\\mathrm{adm}},\\mathcal R_{\\mathrm{reop}}\\right)",
+    "components": {
+      "distinguishability": {
+        "symbol": "\\mathcal D",
+        "role": "organizational distinguishability",
+        "interpretation": "The primitive condition that allows separability, contrast, and relational differentiation to exist."
+      },
+      "admissible_accessibility_relation": {
+        "symbol": "\\rightsquigarrow_{\\mathrm{adm}}",
+        "role": "admissible accessibility relation",
+        "interpretation": "Defines which transitions, relations, or continuations are accessible within the organizational geometry."
+      },
+      "reopenability_structure": {
+        "symbol": "\\mathcal R_{\\mathrm{reop}}",
+        "role": "local reopenability structure",
+        "interpretation": "Preserves local re-entry into admissible accessibility neighborhoods after deformation, disruption, or temporary closure."
+      }
+    }
+  },
+  "primitive_principle": {
+    "formal_statement": "\\boxed{\\text{Recursive emergence stabilizes through recoverably differentiable admissible continuation under recursive dissipation dynamics.}}",
+    "interpretation": "Recursive emergence is not static persistence. It stabilizes when organizational trajectories remain admissible, differentiably deformable, locally reopenable, and globally recoverable under dissipative dynamics."
+  },
+  "recursive_organizational_structure": {
+    "formal_relation": "\\text{distinction}\\Rightarrow\\text{admissible accessibility}\\Rightarrow\\text{continuation}\\Rightarrow\\text{differentiable continuation}\\Rightarrow\\text{reopenability}\\Rightarrow\\text{recoverability}\\Rightarrow\\text{recursive viability}\\Rightarrow\\text{stable emergence}",
+    "ordered_layers": [
+      {
+        "layer": 1,
+        "name": "distinction",
+        "role": "separability",
+        "description": "Provides the primitive differentiation required for any relation or continuation to be identifiable."
+      },
+      {
+        "layer": 2,
+        "name": "admissible accessibility",
+        "role": "reachable relational structure",
+        "description": "Defines allowable relations and accessible transitions across organizational structure."
+      },
+      {
+        "layer": 3,
+        "name": "continuation",
+        "role": "persistence through transitions",
+        "description": "Allows organizational structure to carry forward through admissible change."
+      },
+      {
+        "layer": 4,
+        "name": "differentiable continuation",
+        "role": "smooth navigable deformation",
+        "description": "Preserves local navigability and deformation without catastrophic rupture."
+      },
+      {
+        "layer": 5,
+        "name": "reopenability",
+        "role": "local restoration after disruption",
+        "description": "Allows closed, blocked, or disrupted local accessibility channels to reopen."
+      },
+      {
+        "layer": 6,
+        "name": "recoverability",
+        "role": "global restoration of viable accessibility",
+        "description": "Restores or preserves broader viable accessibility geometry after perturbation or deformation."
+      },
+      {
+        "layer": 7,
+        "name": "recursive viability",
+        "role": "persistence of persistence conditions",
+        "description": "Maintains the conditions required for continued admissible recoverable continuation."
+      },
+      {
+        "layer": 8,
+        "name": "stable emergence",
+        "role": "long-horizon organizational stabilization",
+        "description": "Represents recursively stabilized organizational emergence across dissipative dynamics."
+      }
+    ]
+  },
+  "local_global_distinction": {
+    "canonical_relation": "\\boxed{\\text{reopenability}\\subset\\text{recoverability}}",
+    "reopenability": {
+      "scope": "local",
+      "symbol": "\\mathcal R_{\\mathrm{reop}}",
+      "definition": "Local restoration or reopening of admissible accessibility neighborhoods after disruption.",
+      "functions": [
+        "local accessibility restoration",
+        "re-entry into admissible neighborhoods",
+        "reopening blocked continuation channels",
+        "local reversibility structure"
+      ]
+    },
+    "recoverability": {
+      "scope": "global",
+      "symbol": "\\mathcal E_{\\mathrm{rec}}",
+      "definition": "Global restoration or preservation of recursive viable accessibility geometry.",
+      "functions": [
+        "restoration of recursive viability",
+        "preservation of future accessibility geometry",
+        "large-scale continuation capacity",
+        "basin-level persistence"
+      ]
+    },
+    "interpretation": "A system may reopen locally while still failing to recover globally. This creates scale-sensitive viability rather than a binary recovery concept."
+  },
+  "dissipation_principle": {
+    "formal_statement": "\\boxed{\\text{Dissipation is not opposite emergence. Stable emergence is constrained recoverable dissipation.}}",
+    "interpretation": "Recursive organizational systems do not persist by eliminating dissipation, but by preserving sufficiently recoverable admissible continuation under ongoing deformation, transport imbalance, and energetic loss."
+  },
+  "recoverability_relation": {
+    "formal_relation": "\\boxed{\\mathcal K_{\\mathrm{DAC}}\\Rightarrow\\mathcal E_{\\mathrm{rec}}}",
+    "interpretation": "Recoverability emerges whenever admissible continuation remains sufficiently differentiable and reopenable to preserve recursive future accessibility across recursive organizational geometry."
+  },
+  "interpretation": {
+    "summary": "Recoverably differentiable admissible continuation defines the primitive condition under which recursive organizational structure may persist without catastrophic accessibility rupture.",
+    "trajectory_conditions": [
+      "admissible",
+      "navigable",
+      "differentiably deformable",
+      "locally reopenable",
+      "globally recoverable",
+      "recursively continuable"
+    ],
+    "nonterminal_deformation": "The transition from differentiable continuation to reopenability marks the first primitive appearance of nonterminal deformation: perturbation becomes survivable rather than terminal."
+  },
+  "cross_layer_consequence": {
+    "statement": "The same primitive recursive continuation kernel underlies stabilized recoverable continuation across progressively richer recursive accessibility geometries.",
+    "layers": [
+      "particle persistence",
+      "chemical coordination",
+      "biological regulation",
+      "adaptive repair",
+      "cognitive flexibility",
+      "social adaptability",
+      "civilizational viability"
+    ]
+  },
+  "linked_principles": {
+    "coordination": "Coordination is asymmetry that survives dilution and escape.",
+    "stability": "Stability is the persistence of structured asymmetry under load.",
+    "matter": "Stable matter exists inside a recoverable accessibility band.",
+    "life": "Life persists by preserving recoverable future accessibility.",
+    "governance": "Healthy governance preserves recoverable participation geometry while maintaining sufficient coordination coherence."
+  },
+  "latex_block": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\section{Differentiable Admissible Continuation Kernel}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Primitive Kernel}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\nDefine the primitive recursive continuation kernel by\n\n\\[\n\\boxed{\n\\mathcal K_{\\mathrm{DAC}}\n=\n\\left(\n\\mathcal D,\n\\rightsquigarrow_{\\mathrm{adm}},\n\\mathcal R_{\\mathrm{reop}}\n\\right).\n}\n\\]\n\nInterpretation:\n\nThe primitive recursive continuation kernel consists of:\n\n\\begin{itemize}\n\\item organizational distinguishability,\n\\item admissible accessibility relations,\n\\item and locally reopenability-preserving continuation structure.\n\\end{itemize}\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Primitive Principle}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\[\n\\boxed{\n\\text{\nRecursive emergence stabilizes through recoverably differentiable\nadmissible continuation under recursive dissipation dynamics.\n}\n}\n\\]\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Deep Compression}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\[\n\\boxed{\n\\text{\nReality persists through recoverable admissible continuation\nunder dissipation.\n}\n}\n\\]\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Recursive Organizational Structure}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\[\n\\boxed{\n\\text{\ndistinction}\n\\Rightarrow\n\\text{\nadmissible accessibility}\n\\Rightarrow\n\\text{\ncontinuation}\n\\Rightarrow\n\\text{\ndifferentiable continuation}\n\\Rightarrow\n\\text{\nreopenability}\n\\Rightarrow\n\\text{\nrecoverability}\n\\Rightarrow\n\\text{\nrecursive viability}\n\\Rightarrow\n\\text{\nstable emergence}\n}\n}\n\\]\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Local--Global Recoverability Distinction}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\[\n\\boxed{\n\\text{reopenability}\n\\subset\n\\text{recoverability}\n}\n\\]\n\nReopenability is local accessibility restoration.\nRecoverability is global restoration of viable accessibility geometry.\nA system may reopen locally while still failing to recover globally.\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Interpretation}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\nRecoverably differentiable admissible continuation defines the\nprimitive condition under which recursive organizational structure\nmay persist without catastrophic accessibility rupture.\n\nRecursive emergence therefore does not arise from static\npersistence alone,\nbut from the ability of recursive organizational trajectories to\nremain:\n\n\\begin{itemize}\n\\item admissible,\n\\item navigable,\n\\item differentiably deformable,\n\\item locally reopenable,\n\\item globally recoverable,\n\\item and recursively continuable\n\\end{itemize}\n\nunder dissipative dynamics.\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Dissipation Principle}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\[\n\\boxed{\n\\text{\nDissipation is not opposite emergence.\nStable emergence is constrained recoverable dissipation.\n}\n}\n\\]\n\nInterpretation:\n\nRecursive organizational systems do not persist by eliminating\ndissipation,\nbut by preserving sufficiently recoverable admissible continuation\nunder ongoing deformation,\ntransport imbalance,\nand energetic loss.\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Recoverability Relation}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\[\n\\boxed{\n\\mathcal K_{\\mathrm{DAC}}\n\\Rightarrow\n\\mathcal E_{\\mathrm{rec}}.\n}\n\\]\n\nInterpretation:\n\nRecoverability emerges whenever admissible continuation remains\nsufficiently differentiable and reopenable to preserve recursive\nfuture accessibility across recursive organizational geometry.\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Cross-Layer Consequence}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\nThe same primitive recursive continuation kernel underlies:\n\n\\begin{itemize}\n\\item particle persistence,\n\\item chemical coordination,\n\\item biological regulation,\n\\item adaptive repair,\n\\item cognitive flexibility,\n\\item social adaptability,\n\\item and civilizational viability.\n\\end{itemize}\n\nEach layer corresponds to stabilized recoverable continuation\nacross progressively richer recursive accessibility geometries.\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\\subsection{Final Lock}\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n\\[\n\\boxed{\n\\text{\nStable existence is recursively recoverable admissible continuation\nunder constrained dissipation.\n}\n}\n\\]\n\n%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+}
