@@ -1,0 +1,70 @@
+{
+  "artifact_id": "primitive_viability_kernel",
+  "title": "Primitive Viability Kernel",
+  "status": "repository_lock",
+  "framework": "Recursive Viability Theory",
+  "type": "primitive_ontological_viability_kernel",
+  "version": "1.0",
+
+  "canonical_statement": "Existence corresponds to recursively maintained recoverable distinguishability under thermodynamic flow.",
+
+  "deep_compression": "Reality persists through regenerative maintenance of recoverable distinguishability under thermodynamic flow.",
+
+  "primitive_principle": {
+    "name": "Primitive viability kernel",
+    "formal_statement": "Existence corresponds to recursively maintained recoverable distinguishability under ongoing thermodynamic flow.",
+    "boxed_statement": "Existence is recursively maintained recoverable distinguishability.",
+    "interpretation": "Persistent adaptive systems remain recursively viable whenever recoverably distinguishable organizational structure regenerates sufficiently to outpace thermodynamic distinguishability degradation under recursive organizational dynamics."
+  },
+
+  "core_relation": {
+    "formal": "R_d > D_t",
+    "interpretation": "Regenerative distinguishability production must outpace thermodynamic distinguishability loss.",
+    "variables": {
+      "R_d": "regenerative distinguishability production rate",
+      "D_t": "thermodynamic distinguishability loss rate"
+    }
+  },
+
+  "viability_regimes": {
+    "persistent_coordination": {
+      "condition": "R_d > D_t",
+      "meaning": "recoverable distinguishability regenerates faster than thermodynamic degradation"
+    },
+    "critical_regime": {
+      "condition": "R_d \\approx D_t",
+      "meaning": "system enters critical sensitivity amplification"
+    },
+    "recursive_collapse": {
+      "condition": "R_d < D_t",
+      "meaning": "thermodynamic distinguishability loss outpaces regenerative recoverability"
+    }
+  },
+
+  "derived_principles": {
+    "recoverable_distinction": "Recoverable distinction is persistently reconnectable distinguishability.",
+    "coordination": "Coordination is thermodynamically maintained recoverable distinguishability.",
+    "coordination_maintenance": "Coordination maintenance is active entropy-flow regulation.",
+    "collapse": "Recursive collapse begins when thermodynamic recoverable-distinguishability loss exceeds regenerative recoverable-distinguishability production."
+  },
+
+  "recursive_stack": [
+    "distinction",
+    "recoverability",
+    "coordination",
+    "recursive viability",
+    "persistent existence"
+  ],
+
+  "domain_interpretations": {
+    "physics": "dissipative structure persistence",
+    "biology": "regenerative metabolic viability",
+    "cognition": "reconstructive coherence",
+    "ecology": "adaptive recoverability",
+    "governance": "future-accessibility preservation",
+    "ai_alignment": "corrigibility preservation",
+    "coordination_theory": "maintained recoverable distinguishability"
+  },
+
+  "latex": "\\begin{principle}[Primitive viability kernel]\n\nExistence corresponds to recursively maintained recoverable\ndistinguishability under ongoing thermodynamic flow.\n\n\\[\n\\boxed{\n\\text{\nExistence is recursively maintained recoverable distinguishability.\n}\n}\n\\]\n\nPersistent adaptive systems remain recursively viable whenever\nrecoverably distinguishable organizational structure regenerates\nsufficiently to outpace thermodynamic distinguishability degradation\nunder recursive organizational dynamics.\n\n\\end{principle}"
+}
