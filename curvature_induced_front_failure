@@ -1,0 +1,134 @@
+{
+  "artifact_id": "curvature_induced_front_failure",
+  "title": "Curvature-Induced Front Failure",
+  "framework": "Recursive Viability Theory",
+  "type": "transport_curvature_failure_geometry",
+  "status": "theoretical_lock",
+
+  "primitive_principle": {
+    "name": "Curvature-induced front failure",
+    "statement": "Recovery propagation fails whenever accumulated transport curvature suppresses reconstructive accessibility flow below collapse-locking accumulation.",
+    "deep_compression": "Collapse emerges when curvature suppresses recoverable transport continuity.",
+    "formal_relation": "curvature-induced transport suppression > reconstructive recovery capacity"
+  },
+
+  "core_variables": {
+    "kappa": {
+      "symbol": "\\kappa",
+      "meaning": "curvature accumulation"
+    },
+    "v_R": {
+      "symbol": "v_R",
+      "meaning": "recovery front velocity"
+    },
+    "eta_transport": {
+      "symbol": "\\eta_{transport}",
+      "meaning": "transport efficiency"
+    },
+    "C_L": {
+      "symbol": "C_L",
+      "meaning": "collapse locking"
+    },
+    "T_drag": {
+      "symbol": "T_{drag}",
+      "meaning": "transport transmission factor"
+    },
+    "R_recon": {
+      "symbol": "R_{recon}",
+      "meaning": "reconstructive recovery intensity"
+    },
+    "kappa_c": {
+      "symbol": "\\kappa_c",
+      "meaning": "critical curvature threshold"
+    }
+  },
+
+  "curvature_feedback_cascade": {
+    "relation": "\\kappa \\uparrow \\Rightarrow v_R \\downarrow \\Rightarrow \\eta_{transport} \\downarrow \\Rightarrow C_L \\uparrow",
+    "interpretation": "Curvature accumulation suppresses recovery transport continuity, reducing propagation efficiency and amplifying collapse locking."
+  },
+
+  "transport_suppression_relation": {
+    "equation": "T_{drag} = 1 - \\alpha \\kappa",
+    "variables": {
+      "T_drag": "transport transmission factor",
+      "kappa": "local accessibility curvature",
+      "alpha": "curvature sensitivity coefficient"
+    },
+    "interpretation": "Curvature progressively suppresses reconstructive transport continuity across accessibility geometry."
+  },
+
+  "recovery_velocity_relation": {
+    "equation": "v_R = R_{recon} \\cdot T_{drag} \\cdot (1 - C_L)",
+    "interpretation": "Recovery propagation depends simultaneously upon reconstructive intensity, geometric transport continuity, and sufficiently low collapse locking."
+  },
+
+  "collapse_basin_condition": {
+    "equation": "\\kappa > \\kappa_c \\Rightarrow v_R \\rightarrow 0",
+    "associated_limits": {
+      "A": "0",
+      "C_L": "1"
+    },
+    "interpretation": "Beyond critical curvature, recovery fronts lose sufficient transport continuity to sustain reconstructive accessibility reopening."
+  },
+
+  "simulation_results": {
+    "critical_curvature_transition": {
+      "condition": "\\kappa > 0.5",
+      "results": {
+        "A": 0,
+        "C_L": 1,
+        "v_R": 0
+      },
+      "interpretation": "High-curvature accessibility regions behaved as transport sinks that completely arrested recovery propagation."
+    },
+    "observed_transport_suppression": {
+      "equation": "1 - <T_{drag}> \\approx 0.559",
+      "interpretation": "Curvature-induced drag substantially reduced reconstructive transport continuity."
+    }
+  },
+
+  "geometric_failure_principle": {
+    "statement": "Collapse geometry bends recovery out of reach.",
+    "interpretation": "Collapse can emerge not only from insufficient reconstruction, but from geometric distortion of accessibility pathways themselves."
+  },
+
+  "cross_domain_examples": [
+    "infrastructure congestion",
+    "neural overload",
+    "ecological fragmentation",
+    "governance bottlenecks",
+    "chronic stress accumulation",
+    "communication distortion",
+    "recursive coordination collapse"
+  ],
+
+  "unified_transport_interpretation": {
+    "statement": "Recovery propagation behaves as a constrained reconstructive transport wave moving through curved accessibility geometry.",
+    "collapse_duality": {
+      "recovery": "reconstructive transport continuity",
+      "collapse": "curvature-amplified synchronization locking"
+    }
+  },
+
+  "phase_structure": {
+    "low_curvature": {
+      "condition": "\\kappa < \\kappa_c",
+      "behavior": "recovery propagation remains viable"
+    },
+    "critical_curvature": {
+      "condition": "\\kappa \\approx \\kappa_c",
+      "behavior": "transport slowing and front instability"
+    },
+    "high_curvature": {
+      "condition": "\\kappa > \\kappa_c",
+      "behavior": "wavefront extinction and collapse basin formation"
+    }
+  },
+
+  "deep_compression": {
+    "primary": "Collapse emerges when curvature suppresses recoverable transport continuity.",
+    "secondary": "Collapse geometry bends recovery out of reach.",
+    "transport_form": "Recovery fails when geometric distortion suppresses reconstructive transport below collapse synchronization."
+  }
+}
