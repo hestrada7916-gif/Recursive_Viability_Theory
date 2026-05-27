@@ -1,0 +1,74 @@
+{
+  "artifact_id": "constructive_recovery_and_collapse_locking_v1",
+  "title": "Constructive Recovery and Collapse Locking",
+  "status": "repository_lock_candidate",
+  "framework": "Recursive Viability Theory",
+  "type": "recursive_recovery_collapse_phase_competition_principle",
+  "version": "1.0",
+  "canonical_statement": "Constructive recovery occurs when newly generated accessibility pathways outpace synchronized collapse locking before accessibility closure becomes self-stabilizing.",
+  "deep_compression_statement": "Recovery requires new accessible futures to outpace synchronized closure.",
+  "primitive_principles": {
+    "constructive_recovery": {
+      "statement": "Constructive recovery occurs when newly generated pathways outpace residual compression before collapse locking occurs.",
+      "formal_relation": "\\mathcal N_P > \\mathcal C_L",
+      "interpretation": "Systems recover whenever accessibility reconstruction unfolds faster than collapse geometry can stabilize irreversibly."
+    },
+    "collapse_locking": {
+      "statement": "Collapse locking occurs when recursive collapse dynamics synchronize sufficiently to stabilize accessibility closure faster than reconstructive reopening can occur.",
+      "formal_relation": "\\mathcal C_L > \\mathcal C_c",
+      "interpretation": "Collapse becomes dynamically self-maintaining when closure dynamics recursively reinforce themselves faster than reopening or reconstruction can restore viable accessibility."
+    }
+  },
+  "core_variables": {
+    "N_P": "new pathway generation rate",
+    "C_L": "collapse locking pressure",
+    "C_c": "critical collapse locking threshold",
+    "H_A": "accessibility hysteresis",
+    "F_m": "fatigue memory",
+    "C_s": "constraint synchronization",
+    "P_collapse": "collapse propagation pressure",
+    "R": "recoverability",
+    "G_v": "governance viability",
+    "P_new": "new accessibility pathway capacity"
+  },
+  "collapse_locking_dynamics": {
+    "formal_relation": "\\mathcal C_L = \\gamma_H \\mathcal H_A + \\gamma_F F_m + \\gamma_C C_s + \\gamma_P P_{\\mathrm{collapse}} - \\gamma_R R - \\gamma_G G_v",
+    "strengthens_through": [
+      "hysteresis accumulation",
+      "recursive fatigue stabilization",
+      "synchronization rigidity",
+      "coordinated collapse propagation"
+    ],
+    "weakens_through": [
+      "recoverability restoration",
+      "viable governance coordination",
+      "accessibility reopening",
+      "constructive pathway generation"
+    ]
+  },
+  "phase_competition": {
+    "formal_relation": "\\mathcal N_P > \\mathcal C_L",
+    "interpretation": "Recovery becomes possible whenever new accessibility pathway generation exceeds synchronized collapse stabilization.",
+    "failure_condition": "\\mathcal C_L \\geq \\mathcal N_P",
+    "success_condition": "\\mathcal N_P > \\mathcal C_L"
+  },
+  "phase_sequence": [
+    "strained",
+    "critical",
+    "reconstructing",
+    "viable"
+  ],
+  "key_distinctions": {
+    "reopening": "reduces closure pressure within existing accessibility geometry",
+    "reconstruction": "generates new viable accessibility pathways when prior geometry is no longer recoverably available",
+    "collapse_propagation": "spread or amplification of collapse dynamics",
+    "collapse_locking": "self-stabilizing synchronization of closure dynamics"
+  },
+  "deep_compressions": [
+    "Recovery requires construction of new future accessibility.",
+    "Collapse persists when closure dynamics synchronize faster than reopening dynamics.",
+    "Reconstruction is not the viable regime; it is the bridge back into viable future accessibility.",
+    "External burden reduction alone cannot restore viability once collapse locking stabilizes.",
+    "Constructive recovery requires pathway generation to outpace collapse locking."
+  ]
+}
