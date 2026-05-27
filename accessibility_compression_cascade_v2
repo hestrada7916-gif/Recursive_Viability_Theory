@@ -1,0 +1,177 @@
+{
+  "artifact_id": "accessibility_compression_cascade_v2",
+  "title": "Accessibility Compression Cascade",
+  "status": "repository_lock_candidate",
+  "framework": "Viability Geometry",
+  "type": "cross_domain_recursive_phase_transition_principle",
+  "version": "2.0",
+
+  "canonical_statement": "Increasing disturbance burden progressively narrows adaptive margin, slows recoverability, amplifies constraint synchronization, compresses future accessibility geometry, and increases the probability of recursive regime transition.",
+
+  "deep_compression_statement": "Loss of recoverable future accessibility precedes regime transition.",
+
+  "primitive_principle": {
+    "name": "Accessibility compression cascade",
+    "formal_statement": "\\boxed{\\text{disturbance burden rises}\\Rightarrow\\text{margin narrows}\\Rightarrow\\text{recoverability slows}\\Rightarrow\\text{constraint synchronization amplifies}\\Rightarrow\\text{future accessibility compresses}\\Rightarrow\\text{reopenability fails}\\Rightarrow\\text{recursive burden amplification}\\Rightarrow\\text{phase transition probability rises}}",
+    "interpretation": "Persistent systems progressively lose recoverable continuation structure under accumulated disturbance burden. As recoverability degrades and accessibility corridors compress, recursive burden amplification increases the probability of qualitative regime transition."
+  },
+
+  "cascade_structure": {
+    "ordered_transitions": [
+      {
+        "stage": 1,
+        "name": "disturbance burden rises",
+        "role": "accumulated deformation pressure",
+        "description": "Energetic, informational, structural, organizational, or transport burden accumulates faster than it can be dissipated, repaired, or reorganized."
+      },
+      {
+        "stage": 2,
+        "name": "margin narrows",
+        "role": "reduced adaptive reserve",
+        "description": "The system loses regulatory headroom, flexibility, regenerative slack, or energetic surplus required for adaptive continuation."
+      },
+      {
+        "stage": 3,
+        "name": "recoverability slows",
+        "role": "degraded restoration dynamics",
+        "description": "Return time after perturbation increases as regenerative reopening and repair processes become less effective."
+      },
+      {
+        "stage": 4,
+        "name": "constraint synchronization amplifies",
+        "role": "loss of modular recoverability",
+        "description": "Previously semi-independent organizational sectors lose independently recoverable degrees of freedom, amplifying disturbance propagation and reducing adaptive isolation."
+      },
+      {
+        "stage": 5,
+        "name": "future accessibility compresses",
+        "role": "loss of viable future pathways",
+        "description": "The number, diversity, and recoverability of reachable future organizational states progressively decreases."
+      },
+      {
+        "stage": 6,
+        "name": "reopenability fails",
+        "role": "loss of regenerative restoration capacity",
+        "description": "Previously recoverable accessibility corridors can no longer be reliably reopened through existing regenerative dynamics."
+      },
+      {
+        "stage": 7,
+        "name": "recursive burden amplification",
+        "role": "self-amplifying degradation dynamics",
+        "description": "Accessibility loss, transport inefficiency, rigidity amplification, and recoverability suppression recursively generate additional internal burden and deformation pressure."
+      },
+      {
+        "stage": 8,
+        "name": "phase transition probability rises",
+        "role": "regime instability",
+        "description": "The probability of qualitative organizational transition, fragmentation, collapse, or adaptive restructuring increases substantially."
+      }
+    ]
+  },
+
+  "core_invariant": {
+    "statement": "Loss of recoverable future accessibility precedes regime transition.",
+    "interpretation": "Across domains, systems typically lose viable future continuation geometry before large-scale qualitative transition becomes externally visible."
+  },
+
+  "recursive_amplification_principle": {
+    "formal_relation": "\\boxed{\\text{accessibility loss}\\Rightarrow\\text{burden amplification}\\Rightarrow\\text{further accessibility loss}}",
+    "interpretation": "Once reopenability begins to fail, recursive burden amplification may accelerate future accessibility compression through self-reinforcing degradation dynamics.",
+    "deep_form": "Accessibility compression may recursively amplify itself."
+  },
+
+  "reorganization_clause": {
+    "statement": "Accessibility compression may induce adaptive restructuring rather than terminal collapse if regenerative reopening processes restore sufficiently recoverable future accessibility.",
+    "interpretation": "Compression dynamics do not imply inevitable termination. Systems may reorganize into new viable regimes when regenerative accessibility restoration remains possible.",
+    "deep_form": "Compression can trigger transformation instead of termination."
+  },
+
+  "interpretive_boundary": {
+    "statement": "The accessibility compression cascade is a structural and probabilistic organizational principle rather than a deterministic universal law.",
+    "constraints": [
+      "does not specify exact transition timing",
+      "does not imply identical mechanisms across domains",
+      "does not imply inevitability of collapse",
+      "allows adaptive restructuring and recovery",
+      "describes organizational tendencies rather than strict deterministic evolution"
+    ]
+  },
+
+  "cross_domain_realizations": {
+    "biology": {
+      "disturbance": "chronic stress, inflammation, pathogen load",
+      "margin": "immune reserve and metabolic flexibility",
+      "recoverability": "repair and recovery dynamics",
+      "constraint_synchronization": "systemic dysregulation amplification",
+      "compression": "loss of adaptive flexibility and future physiological accessibility",
+      "phase_transition": "disease progression, systemic failure, or adaptive reorganization"
+    },
+
+    "ecology": {
+      "disturbance": "resource depletion and climate stress",
+      "margin": "biodiversity and resilience reserve",
+      "recoverability": "ecosystem regeneration capacity",
+      "constraint_synchronization": "trophic synchronization amplification",
+      "compression": "loss of viable ecological trajectories",
+      "phase_transition": "ecosystem regime shift or collapse"
+    },
+
+    "governance": {
+      "disturbance": "economic, political, and informational stress",
+      "margin": "institutional trust and participatory reserve",
+      "recoverability": "institutional adaptability and repair capacity",
+      "constraint_synchronization": "rigid systemic dependency amplification",
+      "compression": "narrowing future policy and coordination accessibility",
+      "phase_transition": "fragmentation, instability, authoritarianism, or restructuring"
+    },
+
+    "cognition": {
+      "disturbance": "overload, trauma, and chronic stress",
+      "margin": "cognitive and emotional flexibility",
+      "recoverability": "adaptive regulation capacity",
+      "constraint_synchronization": "rigid thought-pattern coupling",
+      "compression": "loss of perceived future possibility",
+      "phase_transition": "collapse, dissociation, rigidity, or adaptive reorganization"
+    },
+
+    "computation": {
+      "disturbance": "combinatorial complexity growth",
+      "margin": "constructive accessibility reserve",
+      "recoverability": "algorithmic adaptability",
+      "constraint_synchronization": "constraint dependency amplification",
+      "compression": "constructive accessibility breakdown",
+      "phase_transition": "constructive reachability collapse"
+    },
+
+    "transport_systems": {
+      "disturbance": "mixing, deformation, turbulence",
+      "margin": "transport coherence reserve",
+      "recoverability": "flow stabilization capacity",
+      "constraint_synchronization": "vortex and transport entanglement amplification",
+      "compression": "loss of coherent transport corridors",
+      "phase_transition": "fragmentation or singular transport dynamics"
+    }
+  },
+
+  "related_principles": {
+    "primitive_asymmetry_preservation": "Existence persists through regenerative preservation of non-equilibrium directional asymmetry.",
+    "future_accessibility_principle": "Persistence requires regeneration of future possibility.",
+    "continuability_kernel": "Stable existence is recursively recoverable admissible continuation under constrained dissipation.",
+    "viability_geometry": "Viability Geometry studies substrate-independent constraints on recoverable continuation."
+  },
+
+  "recursive_relation": {
+    "formal_relation": "\\boxed{\\text{recoverable continuation compression}\\Rightarrow\\text{viability narrowing}\\Rightarrow\\text{recursive burden amplification}\\Rightarrow\\text{phase transition probability increase}}",
+    "interpretation": "Phase transition dynamics emerge when recoverable continuation pathways compress faster than regenerative organization can preserve, reopen, or reorganize them."
+  },
+
+  "deep_compressions": [
+    "Loss of recoverable future accessibility precedes regime transition.",
+    "Persistent systems survive by preserving viable paths forward under deformation.",
+    "Collapse begins when reopenable future pathways disappear.",
+    "Accessibility compression may recursively amplify itself.",
+    "Constraint synchronization reduces independently recoverable degrees of freedom.",
+    "Compression can trigger transformation instead of termination.",
+    "Phase transitions emerge from recoverable accessibility compression dynamics."
+  ]
+}
