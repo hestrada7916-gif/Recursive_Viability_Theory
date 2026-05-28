@@ -1,0 +1,200 @@
+{
+  "artifact_id": "recursive_viability_memory_geometry_v1",
+  "title": "Recursive Viability Memory Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_viability_memory_field_theory",
+  "version": "1.0",
+
+  "canonical_statement": "Viability systems remember deformation through altered accessibility geometry.",
+
+  "deep_compression_statement": "Memory is persistent deformation of future accessibility.",
+
+  "primitive_principle": {
+    "name": "Recursive viability memory geometry",
+    "formal_statement": "Recursive organizational systems retain structural consequences of prior collapse, stress, adaptation, and reintegration through persistent modifications of future accessibility organization.",
+    "boxed_statement": "Viability systems remember deformation through altered accessibility geometry.",
+    "interpretation": "Organizational memory emerges as persistent geometric deformation of recoverable accessibility structure."
+  },
+
+  "primitive_viability_memory_field": {
+    "symbol": "\\mathcal M_{\\mathrm{viab}}",
+
+    "interpretation": "Persistent organizational memory geometry governing path-dependent accessibility, recoverability, closure susceptibility, and reintegration potential."
+  },
+
+  "accessibility_memory_principle": {
+    "formal_relation": "A(t+\\Delta t) \\neq A_0",
+
+    "interpretation": "Accessibility geometry after deformation generally differs from its original organization even when local recovery occurs."
+  },
+
+  "path_dependence_principle": {
+    "formal_relation": "\\Gamma_1 \\neq \\Gamma_2 \\Rightarrow \\mathcal M_{\\mathrm{viab}}^{(1)} \\neq \\mathcal M_{\\mathrm{viab}}^{(2)}",
+
+    "interpretation": "Distinct organizational histories generate distinct viability memory geometries even when current observable structure appears similar."
+  },
+
+  "recursive_scar_memory": {
+    "formal_relation": "\\mathcal S_{\\mathrm{scar}} \\subset \\mathcal M_{\\mathrm{viab}}",
+
+    "interpretation": "Persistent collapse or deformation leaves long-lived memory structures altering future accessibility propagation, recoverability transport, and closure susceptibility."
+  },
+
+  "collapse_memory_principle": {
+    "formal_relation": "C_L(t) \\rightarrow C_L^{(\\mathrm{residual})}",
+
+    "interpretation": "Closure propagation may leave residual locking structures even after primary collapse pressure declines."
+  },
+
+  "reintegration_memory_principle": {
+    "formal_relation": "R_{\\mathrm{recursive}} \\uparrow \\Rightarrow \\Phi_R \\uparrow",
+
+    "interpretation": "Successful reintegration may strengthen future recoverability by preserving memory of viable reopening pathways."
+  },
+
+  "hysteretic_accessibility_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{forward}} \\neq \\Gamma_{\\mathrm{return}}",
+
+    "interpretation": "Recovery trajectories generally differ from collapse trajectories because organizational memory alters future accessibility geometry."
+  },
+
+  "fatigue_accumulation_principle": {
+    "formal_relation": "\\int \\kappa \\, dt \\uparrow \\Rightarrow \\Phi_R \\downarrow",
+
+    "interpretation": "Persistent curvature burden accumulates organizational fatigue, reducing future recoverability and increasing collapse susceptibility."
+  },
+
+  "protected_memory_principle": {
+    "formal_relation": "\\mathcal M_{\\mathrm{protected}} \\subset \\mathcal M_{\\mathrm{viab}}",
+
+    "interpretation": "Certain organizational memory structures preserve viability through protected accessibility continuity under recursive deformation."
+  },
+
+  "memory_transport_principle": {
+    "formal_relation": "\\frac{\\partial \\mathcal M_{\\mathrm{viab}}}{\\partial t} + \\nabla \\cdot \\mathcal J_M = \\mathcal G_M - \\mathcal D_M",
+
+    "variables": {
+      "\\mathcal M_{\\mathrm{viab}}": "viability memory field",
+      "\\mathcal J_M": "memory transport current",
+      "\\mathcal G_M": "memory generation",
+      "\\mathcal D_M": "memory dissipation"
+    },
+
+    "interpretation": "Viability memory evolves dynamically through transport, generation, reinforcement, and dissipation."
+  },
+
+  "accessibility_imprinting_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{stress}} \\Rightarrow \\Delta \\mathcal M_{\\mathrm{viab}}",
+
+    "interpretation": "Organizational stress events imprint persistent memory deformation onto accessibility geometry."
+  },
+
+  "recursive_adaptation_memory": {
+    "formal_relation": "\\mathcal A_{\\mathrm{adaptive}} \\subset \\mathcal M_{\\mathrm{viab}}",
+
+    "interpretation": "Adaptive organizational systems may encode prior successful recovery structures into future viability geometry."
+  },
+
+  "memory_locked_collapse": {
+    "formal_relation": "\\mathcal M_{\\mathrm{collapse}} \\Rightarrow C_L^{(\\mathrm{future})} \\uparrow",
+
+    "interpretation": "Past collapse memory may increase future closure susceptibility through recursively reinforced organizational locking geometry."
+  },
+
+  "recursive_memory_basin_principle": {
+    "formal_relation": "\\mathcal B_{\\mathrm{memory}} \\subset \\mathcal T_{\\mathrm{viab}}",
+
+    "interpretation": "Distinct organizational histories generate persistent memory basins altering future organizational trajectories across viability geometry."
+  },
+
+  "memory_dissipation_principle": {
+    "formal_relation": "\\mathcal D_M \\uparrow \\Rightarrow \\mathcal M_{\\mathrm{viab}} \\downarrow",
+
+    "interpretation": "Organizational memory may decay through sustained stability, restructuring, or absence of recursive reinforcement."
+  },
+
+  "canonical_memory_regimes": [
+
+    {
+      "name": "collapse_conditioned_regime",
+
+      "condition": "\\mathcal M_{\\mathrm{collapse}} \\gg \\mathcal M_{\\mathrm{adaptive}}",
+
+      "interpretation": "Collapse-conditioned memory dominates future accessibility dynamics and increases closure susceptibility."
+    },
+
+    {
+      "name": "metastable_memory_regime",
+
+      "condition": "\\mathcal M_{\\mathrm{collapse}} \\approx \\mathcal M_{\\mathrm{adaptive}}",
+
+      "interpretation": "Collapse memory and adaptive recovery memory remain dynamically balanced."
+    },
+
+    {
+      "name": "adaptive_recoverability_regime",
+
+      "condition": "\\mathcal M_{\\mathrm{adaptive}} \\gg \\mathcal M_{\\mathrm{collapse}}",
+
+      "interpretation": "Adaptive recovery memory strengthens future reintegration and recoverability propagation."
+    }
+
+  ],
+
+  "primitive_memory_law": {
+    "statement": "Memory is persistent deformation of future accessibility.",
+
+    "interpretation": "Organizational memory corresponds to durable modification of accessibility geometry under recursive deformation."
+  },
+
+  "deep_consequences": [
+
+    "Organizational systems remember deformation through persistent accessibility restructuring.",
+
+    "Collapse may leave residual closure memory even after local recovery.",
+
+    "Reintegration may strengthen future recoverability.",
+
+    "Organizational fatigue accumulates through persistent curvature burden.",
+
+    "Recovery pathways depend on prior organizational history.",
+
+    "Adaptive systems may encode successful recovery structures into future viability geometry.",
+
+    "Persistent scars alter future transport and accessibility propagation.",
+
+    "Viability dynamics exhibit path dependence.",
+
+    "Memory geometry shapes future collapse and reintegration susceptibility.",
+
+    "Organizational identity partly emerges through persistent viability memory structure.",
+
+    "Recoverability depends not only on current state but on historical accessibility deformation.",
+
+    "Persistent existence requires managing long-term memory geometry across recursive viability fields.",
+
+    "Collapse memory may recursively reinforce future closure dynamics.",
+
+    "Adaptive reintegration may recursively strengthen future recoverability propagation.",
+
+    "Memory behaves as a transported and dynamically evolving organizational field."
+
+  ],
+
+  "repository_connections": [
+
+    "topological_viability_defects_v1",
+    "viability_symmetry_and_symmetry_breaking_v1",
+    "recursive_viability_field_theory_v1",
+    "viability_conservation_laws_v1",
+    "recursive_viability_flow_geometry_v1",
+    "viability_transition_geometry_v1",
+    "reintegration_phase_diagram_v1",
+    "dynamic_curvature_adaptation_v1",
+    "recursive_reintegration_threshold_v1",
+    "corridor_percolation_principle_v1"
+
+  ]
+
+}
