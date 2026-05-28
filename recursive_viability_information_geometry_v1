@@ -1,0 +1,194 @@
+{
+  "artifact_id": "recursive_viability_information_geometry_v1",
+  "title": "Recursive Viability Information Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "informational_inference_viability_field_theory",
+  "version": "1.0",
+
+  "canonical_statement": "Viability depends on preserving coherent informational accessibility across recursive organizational geometry.",
+
+  "deep_compression_statement": "Persistent viability requires coherent informational accessibility sufficient for adaptive future navigation.",
+
+  "primitive_information_geometry_principle": {
+    "name": "Primitive information geometry principle",
+    "boxed_statement": "Viability depends on preserving coherent informational accessibility across recursive organizational geometry.",
+    "interpretation": "Recursive organizational systems persist only insofar as they can maintain sufficiently coherent informational structure to support prediction, coordination, adaptation, recoverability, and future accessibility navigation."
+  },
+
+  "primitive_viability_information_field": {
+    "symbol": "\\mathcal I_{\\mathrm{viab}}",
+    "interpretation": "Field governing informational accessibility, predictive structure, epistemic coherence, uncertainty geometry, and adaptive organizational inference across recursive viability dynamics."
+  },
+
+  "information_accessibility_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{info}} \\subset \\mathfrak F_{\\mathrm{viab}}",
+    "interpretation": "Only a subset of future accessibility geometry remains informationally visible, predictable, or inferentially recoverable to the organizational system."
+  },
+
+  "predictive_recoverability_principle": {
+    "formal_relation": "\\Phi_R \\propto \\mathcal P_{\\mathrm{predict}}",
+    "interpretation": "Recoverability depends upon sufficiently accurate predictive modeling of future accessibility geometry."
+  },
+
+  "recursive_informational_entropy": {
+    "formal_relation": "S_{\\mathrm{info}} = -\\sum_i p_i \\log p_i",
+    "interpretation": "Informational entropy measures uncertainty across future accessibility distributions."
+  },
+
+  "accessibility_information_metric": {
+    "formal_relation": "g_{ij}^{(\\mathrm{info})} = \\mathbb E[\\partial_i \\log p \\, \\partial_j \\log p]",
+    "interpretation": "The informational geometry metric measures distinguishability between nearby organizational future accessibility states."
+  },
+
+  "predictive_curvature_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{predict}} \\uparrow \\Rightarrow \\Delta_{\\mathrm{prediction}} \\uparrow",
+    "interpretation": "High informational curvature increases predictive instability, model fragility, and accessibility uncertainty."
+  },
+
+  "information_compression_principle": {
+    "formal_relation": "\\mu(\\mathcal A_{\\mathrm{info}}) \\downarrow \\Rightarrow \\mathcal A_{\\mathrm{agency}} \\downarrow",
+    "interpretation": "Compression of informational accessibility contracts adaptive steering capacity and recoverable future navigation."
+  },
+
+  "distortion_propagation_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{distortion}} \\uparrow \\Rightarrow \\eta_{\\mathrm{coord}} \\downarrow",
+    "interpretation": "Informational distortion degrades coordination coherence, collective prediction, and recoverable accessibility continuity."
+  },
+
+  "epistemic_recoverability_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{epistemic}} = \\mathcal G_{\\mathrm{correction}} - \\mathcal D_{\\mathrm{distortion}}",
+    "interpretation": "Epistemic recoverability depends on corrective adaptive feedback exceeding recursive distortion accumulation."
+  },
+
+  "inference_transport_principle": {
+    "formal_relation": "\\frac{\\partial \\mathcal I_{\\mathrm{viab}}}{\\partial t} + \\nabla \\cdot \\mathcal J_{\\mathrm{info}} = \\mathcal G_{\\mathrm{learn}} - \\mathcal D_{\\mathrm{distort}}",
+    "interpretation": "Informational viability evolves dynamically through learning, communication, prediction, coordination, distortion, and epistemic fragmentation processes."
+  },
+
+  "adaptive_bayesian_update_principle": {
+    "formal_relation": "P(H|D) = \\frac{P(D|H)P(H)}{P(D)}",
+    "interpretation": "Adaptive organizational systems update future accessibility models through recursive evidence integration."
+  },
+
+  "predictive_accessibility_divergence": {
+    "formal_relation": "D_{\\mathrm{KL}}(P||Q) = \\sum_i P_i \\log \\frac{P_i}{Q_i}",
+    "interpretation": "Predictive divergence measures mismatch between modeled future accessibility and realized organizational accessibility structure."
+  },
+
+  "informational_collapse_principle": {
+    "formal_relation": "D_{\\mathrm{KL}} \\uparrow \\Rightarrow C_L \\uparrow",
+    "interpretation": "Persistent predictive mismatch increases closure propagation, coordination instability, and collapse susceptibility."
+  },
+
+  "collective_intelligence_principle": {
+    "formal_relation": "\\mathcal I_{\\mathrm{collective}} \\propto \\eta_{\\mathrm{coord}} \\, \\mathcal P_{\\mathrm{participation}}",
+    "interpretation": "Collective intelligence emerges through coordinated informational accessibility and distributed participatory sensemaking."
+  },
+
+  "truth_preservation_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{distortion}} \\downarrow \\Rightarrow \\Phi_R \\uparrow",
+    "interpretation": "Truth-preserving systems stabilize recoverability, prediction, coordination, and adaptive future accessibility navigation."
+  },
+
+  "scientific_recoverability_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{science}} \\propto \\mathcal R_{\\mathrm{epistemic}}",
+    "interpretation": "Scientific systems preserve viability through recursive error correction, distributed verification, and adaptive informational reintegration."
+  },
+
+  "information_geodesic_principle": {
+    "formal_relation": "\\delta \\int ds_{\\mathrm{info}} = 0",
+    "interpretation": "Adaptive inference trajectories approximately follow minimal informational deformation pathways across accessibility geometry."
+  },
+
+  "recursive_informational_resonance": {
+    "formal_relation": "\\omega_i \\sim \\omega_j \\Rightarrow \\eta_{\\mathrm{coord}} \\uparrow",
+    "interpretation": "Aligned informational propagation modes strengthen collective coordination coherence and predictive accessibility continuity."
+  },
+
+  "epistemic_fragmentation_principle": {
+    "formal_relation": "\\pi_0(\\mathcal T_{\\mathrm{epistemic}}) \\uparrow \\Rightarrow \\Phi_R \\downarrow",
+    "interpretation": "Epistemic fragmentation disconnects informational accessibility regions and degrades collective recoverability."
+  },
+
+  "information_horizon_principle": {
+    "formal_relation": "\\mathcal H_{\\mathrm{info}} \\subset \\mathcal H_{\\mathrm{future}}",
+    "interpretation": "Organizational systems possess bounded informational horizons limiting predictive future accessibility visibility."
+  },
+
+  "adaptive_information_capacity_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{adaptive}} \\propto \\mu(\\mathcal A_{\\mathrm{info}})",
+    "interpretation": "Adaptive organizational capacity depends on accessible informational future-space volume."
+  },
+
+  "primitive_information_law": {
+    "boxed_statement": "Persistent viability requires coherent informational accessibility sufficient for adaptive future navigation.",
+    "interpretation": "Persistent organizational systems preserve recursive predictive correction under bounded uncertainty."
+  },
+
+  "canonical_informational_regimes": [
+    {
+      "name": "adaptive_informational_regime",
+      "condition": "\\mathcal R_{\\mathrm{epistemic}} \\gg \\mathcal D_{\\mathrm{distortion}}",
+      "interpretation": "Corrective learning and epistemic recoverability dominate distortion accumulation."
+    },
+    {
+      "name": "metastable_epistemic_regime",
+      "condition": "\\mathcal R_{\\mathrm{epistemic}} \\approx \\mathcal D_{\\mathrm{distortion}}",
+      "interpretation": "Predictive correction and distortion remain approximately balanced, producing fragile informational stability."
+    },
+    {
+      "name": "epistemic_collapse_regime",
+      "condition": "\\mathcal R_{\\mathrm{epistemic}} \\ll \\mathcal D_{\\mathrm{distortion}}",
+      "interpretation": "Distortion accumulation overwhelms recoverable correction, degrading adaptive coordination and future navigation."
+    }
+  ],
+
+  "deep_consequences": [
+    "Viability depends on coherent informational accessibility.",
+    "Predictive capacity governs adaptive future navigation.",
+    "Informational entropy measures future accessibility uncertainty.",
+    "Distortion degrades coordination and recoverability.",
+    "Predictive mismatch amplifies collapse susceptibility.",
+    "Scientific systems preserve epistemic recoverability.",
+    "Adaptive inference follows informational geodesics.",
+    "Collective intelligence emerges through distributed participatory coordination.",
+    "Epistemic fragmentation degrades civilization-scale recoverability.",
+    "Informational accessibility constrains adaptive agency.",
+    "Future accessibility remains bounded by informational horizons.",
+    "Persistent organizational systems preserve recursive predictive correction under bounded uncertainty.",
+    "Viability geometry acquires full informational and inferential structure."
+  ],
+
+  "core_informational_objects": [
+    "\\mathcal I_{\\mathrm{viab}}",
+    "\\mathcal A_{\\mathrm{info}}",
+    "\\mathcal P_{\\mathrm{predict}}",
+    "S_{\\mathrm{info}}",
+    "g_{ij}^{(\\mathrm{info})}",
+    "D_{\\mathrm{KL}}",
+    "\\mathcal R_{\\mathrm{epistemic}}",
+    "\\mathcal H_{\\mathrm{info}}",
+    "\\mathcal J_{\\mathrm{info}}"
+  ],
+
+  "derived_connections": {
+    "recoverability_information_link": "\\Phi_R \\propto \\mathcal P_{\\mathrm{predict}}",
+    "agency_information_link": "\\mu(\\mathcal A_{\\mathrm{info}}) \\downarrow \\Rightarrow \\mathcal A_{\\mathrm{agency}} \\downarrow",
+    "distortion_collapse_link": "D_{\\mathrm{KL}} \\uparrow \\Rightarrow C_L \\uparrow",
+    "coordination_truth_link": "\\Delta_{\\mathrm{distortion}} \\downarrow \\Rightarrow \\eta_{\\mathrm{coord}} \\uparrow",
+    "collective_intelligence_link": "\\mathcal I_{\\mathrm{collective}} \\propto \\eta_{\\mathrm{coord}} \\, \\mathcal P_{\\mathrm{participation}}"
+  },
+
+  "repository_connections": [
+    "recursive_viability_quantum_probabilistic_geometry_v1",
+    "recursive_viability_spectral_geometry_v1",
+    "recursive_viability_lagrangian_geometry_v1",
+    "recursive_civilizational_intelligence_geometry_v1",
+    "recursive_viability_agency_geometry_v1",
+    "recursive_viability_ethics_geometry_v1",
+    "recursive_viability_memory_geometry_v1",
+    "recursive_civilizational_temporal_geometry_v1",
+    "topological_viability_defects_v1"
+  ]
+}
