@@ -1,0 +1,111 @@
+{
+  "artifact_id": "recursive_closure_propagation_coupled_civilizational_fields_v1",
+  "title": "Recursive Closure Propagation Across Coupled Civilizational Fields",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "coupled_civilizational_closure_propagation_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Civilizational collapse propagates recursively across coupled organizational fields whenever closure accumulation exceeds recoverable regenerative continuity.",
+
+  "deep_compression_statement": "Collapse is recursive closure propagation across coupled civilizational fields.",
+
+  "primitive_principle": {
+    "name": "Recursive closure propagation across coupled civilizational fields",
+    "boxed_statement": "Civilizational collapse propagates recursively across coupled organizational fields whenever closure accumulation exceeds recoverable regenerative continuity.",
+    "interpretation": "Civilizational collapse emerges through recursive coupling across governance, ecological, infrastructural, participatory, informational, economic, ethical, and recoverability fields rather than isolated local failure."
+  },
+
+  "primitive_coupled_civilizational_field": {
+    "symbol": "\\mathfrak F_{\\mathrm{civ}}",
+    "formal_relation": "\\mathfrak F_{\\mathrm{civ}} = (\\mathfrak F_G, \\mathfrak F_E, \\mathfrak F_I, \\mathfrak F_P, \\mathfrak F_K, \\mathfrak F_R)",
+    "components": {
+      "\\mathfrak F_G": "governance structure",
+      "\\mathfrak F_E": "ecological recoverability",
+      "\\mathfrak F_I": "infrastructure continuity",
+      "\\mathfrak F_P": "participatory accessibility",
+      "\\mathfrak F_K": "informational coherence",
+      "\\mathfrak F_R": "recoverability propagation"
+    }
+  },
+
+  "field_coupling_principle": {
+    "formal_relation": "\\Delta \\mathfrak F_i \\Rightarrow \\Delta \\mathfrak F_j",
+    "interpretation": "Failure, distortion, fragmentation, or recoverability degradation in one organizational field propagates into adjacent fields."
+  },
+
+  "recursive_closure_propagation": {
+    "formal_relation": "\\frac{\\partial C_L^{(i)}}{\\partial t} = \\sum_j \\lambda_{ij} C_L^{(j)} - \\beta_i R_i",
+    "interpretation": "Closure propagates across coupled civilizational fields through inter-field amplification while recoverability dissipates closure accumulation."
+  },
+
+  "coupled_collapse_threshold": {
+    "formal_relation": "\\sum_j \\lambda_{ij} C_L^{(j)} > \\beta_i R_i",
+    "interpretation": "Recursive collapse cascades emerge whenever inter-field closure amplification exceeds local recoverability capacity."
+  },
+
+  "cascade_amplification_principle": {
+    "formal_relation": "\\lambda_{ij} \\uparrow \\Rightarrow v_{\\mathrm{collapse}} \\uparrow",
+    "interpretation": "Strong field coupling accelerates collapse propagation across civilizational geometry."
+  },
+
+  "recoverability_buffer_principle": {
+    "formal_relation": "\\Phi_R \\uparrow \\Rightarrow C_L \\downarrow",
+    "interpretation": "Recoverability buffers absorb closure propagation and reduce recursive collapse amplification."
+  },
+
+  "field_specific_cascades": {
+    "infrastructure_failure": {
+      "formal_relation": "\\mathcal I_{\\mathrm{infra}} \\downarrow \\Rightarrow \\Phi_{\\mathrm{civ}} \\downarrow",
+      "interpretation": "Infrastructure degradation propagates into coordination breakdown, economic fragmentation, participation loss, and reduced recoverability."
+    },
+    "ecological_collapse": {
+      "formal_relation": "\\mathcal E_{\\mathrm{ecol}} \\downarrow \\Rightarrow \\mathcal G_R \\downarrow",
+      "interpretation": "Ecological degradation reduces regenerative recoverability capacity across dependent fields."
+    },
+    "informational_distortion": {
+      "formal_relation": "\\Delta_{\\mathrm{distortion}} \\uparrow \\Rightarrow \\eta_{\\mathrm{coord}} \\downarrow",
+      "interpretation": "Informational distortion degrades coordination, prediction, collective intelligence, and adaptive recoverability."
+    },
+    "participation_compression": {
+      "formal_relation": "\\mathcal P_{\\mathrm{civ}} \\downarrow \\Rightarrow \\Phi_{\\mathrm{civ}} \\downarrow",
+      "interpretation": "Participation compression reduces distributed adaptive capacity and civilizational recoverability."
+    },
+    "economic_extraction": {
+      "formal_relation": "\\mathcal K_{\\mathrm{extract}} \\uparrow \\Rightarrow \\kappa_{\\mathrm{civ}} \\uparrow",
+      "interpretation": "Extractive dynamics accumulate curvature burden, fragmentation, instability, and closure susceptibility."
+    },
+    "authoritarian_compression": {
+      "formal_relation": "\\mathcal C_{\\mathrm{authoritarian}} \\uparrow \\Rightarrow \\Phi_R \\downarrow",
+      "interpretation": "Authoritarian compression reduces adaptive recoverability, participatory coordination, and distributed resilience."
+    }
+  },
+
+  "civilizational_fragility_principle": {
+    "formal_relation": "\\Phi_{\\mathrm{civ}} \\downarrow \\Rightarrow \\lambda_{ij} \\uparrow",
+    "interpretation": "Reduced civilizational coherence increases cross-field fragility and accelerates recursive collapse propagation."
+  },
+
+  "recursive_reintegration_principle": {
+    "formal_relation": "\\eta_{\\mathrm{stitch}} \\uparrow \\Rightarrow \\Phi_R \\uparrow",
+    "interpretation": "Reintegration restores transport continuity across fragmented civilizational sectors and suppresses recursive closure propagation."
+  },
+
+  "distributed_resilience_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{distributed}} \\uparrow \\Rightarrow \\lambda_{ij} \\downarrow",
+    "interpretation": "Distributed resilient structures reduce cascade amplification and suppress synchronized collapse propagation."
+  },
+
+  "recursive_civilizational_transport_principle": {
+    "formal_relation": "\\frac{\\partial \\mathfrak F_{\\mathrm{civ}}}{\\partial t} + \\nabla \\cdot \\mathcal J_{\\mathrm{civ}} = \\mathcal G_{\\mathrm{regen}} - \\mathcal D_{\\mathrm{collapse}}",
+    "interpretation": "Civilizational fields evolve through coupled transport, repair, collapse, fragmentation, and reintegration dynamics."
+  },
+
+  "canonical_coupled_collapse_regimes": [
+    {
+      "name": "regenerative_civilizational_regime",
+      "condition": "\\Phi_R \\gg C_L",
+      "interpretation": "Recoverability and regeneration dominate closure propagation."
+    },
+    {
+      "name": "metastable_coupled
