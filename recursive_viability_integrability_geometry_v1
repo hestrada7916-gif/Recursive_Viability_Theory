@@ -1,0 +1,162 @@
+{
+  "artifact_id": "recursive_viability_integrability_geometry_v1",
+  "title": "Recursive Viability Integrability Geometry",
+  "framework": "Recursive Viability Geometry",
+  "type": "integrability_geometry_theory",
+  "status": "extended_formalization",
+  "version": "1.0",
+
+  "primitive_integrability_principle": {
+    "name": "Primitive integrability principle",
+    "boxed_statement": "Persistent recursive viability requires globally integrable recoverable accessibility continuity across coupled organizational fields.",
+    "interpretation": "Local organizational stability alone is insufficient for persistent viability. Recursive organizational systems persist only when accessibility, transport, recoverability, coordination, governance, memory, agency, and temporal continuity remain globally compatible across recursive viability geometry."
+  },
+
+  "primitive_integrability_structure": {
+    "equation": "\\mathfrak I_{\\mathrm{viab}} \\subset \\mathcal M_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability integrability geometry defines the globally coherent subset of recursive viability geometry supporting admissible persistent continuation."
+  },
+
+  "global_coherence_principle": {
+    "equation": "\\mathcal C_{\\mathrm{global}} > 0",
+    "interpretation": "Persistent organizational systems require globally coherent transport compatibility across coupled accessibility fields."
+  },
+
+  "integrability_compatibility_principle": {
+    "equation": "[\\nabla_\\mu,\\nabla_\\nu]\\Psi = F_{\\mu\\nu}\\Psi",
+    "interpretation": "Organizational curvature generates transport incompatibility across recursive accessibility geometry. Persistent viability requires bounded curvature preserving recoverable global continuation."
+  },
+
+  "local_global_consistency_principle": {
+    "equation": "\\mathcal C_{\\mathrm{local}} \\not\\Rightarrow \\mathcal C_{\\mathrm{global}}",
+    "interpretation": "Locally stable organizational sectors may collectively generate globally incoherent recursive viability structure."
+  },
+
+  "recursive_integrability_principle": {
+    "equation": "\\oint \\mathcal A_\\mu \\, dx^\\mu = 0",
+    "interpretation": "Globally coherent organizational transport requires closure of recursive accessibility transport cycles across viability geometry."
+  },
+
+  "holonomy_obstruction_principle": {
+    "equation": "\\oint \\mathcal A_\\mu \\, dx^\\mu \\neq 0",
+    "interpretation": "Persistent transport mismatch generates integrability failure, organizational distortion, and recursive coherence obstruction."
+  },
+
+  "constraint_integrability_principle": {
+    "equation": "\\bigcap_i \\mathcal C_i \\neq \\emptyset",
+    "interpretation": "Persistent viability requires overlapping admissible accessibility structure across coupled organizational sectors."
+  },
+
+  "recursive_incompatibility_principle": {
+    "equation": "\\bigcap_i \\mathcal C_i = \\emptyset",
+    "interpretation": "Collapse emerges whenever organizational constraint systems become globally incompatible."
+  },
+
+  "coherence_closure_principle": {
+    "equation": "D_\\mu J^\\mu_{\\mathrm{viab}} = 0",
+    "interpretation": "Recoverable organizational transport must remain globally coherent across recursive accessibility geometry."
+  },
+
+  "integrability_horizon_principle": {
+    "equation": "\\mathcal H_{\\mathrm{integrable}} \\subset \\mathfrak F_{\\mathrm{viab}}",
+    "interpretation": "Only certain future accessibility regions remain globally integrable under recursive viability constraints."
+  },
+
+  "recursive_coherence_failure_principle": {
+    "equation": "\\Phi_R \\downarrow \\Rightarrow \\mathcal C_{\\mathrm{global}} \\downarrow",
+    "interpretation": "Reduced recoverability weakens large-scale transport coherence and increases global integrability failure risk."
+  },
+
+  "frustrated_organizational_geometry_principle": {
+    "equation": "\\sum_{\\mathrm{loop}} F_{\\mu\\nu} \\neq 0",
+    "interpretation": "Competing organizational constraints may generate permanently frustrated accessibility geometry incapable of globally coherent resolution."
+  },
+
+  "recursive_coordination_integrability_principle": {
+    "equation": "\\eta_{\\mathrm{coord}} \\uparrow \\Rightarrow \\mathcal C_{\\mathrm{global}} \\uparrow",
+    "interpretation": "Coordination coherence improves global recursive transport compatibility across organizational accessibility geometry."
+  },
+
+  "integrable_recoverability_principle": {
+    "equation": "\\Phi_R > C_L",
+    "interpretation": "Persistent integrable organizational continuation requires recoverability propagation to exceed closure accumulation."
+  },
+
+  "recursive_temporal_integrability_principle": {
+    "equation": "\\tau_{\\mathrm{civ}} \\propto \\mathcal C_{\\mathrm{global}}",
+    "interpretation": "Civilizational temporal continuity depends on preserving global recursive coherence across long-horizon accessibility geometry."
+  },
+
+  "gauge_defect_integrability_principle": {
+    "equation": "\\mathcal D_{\\mathrm{gauge}} \\subset \\partial \\mathfrak I_{\\mathrm{viab}}",
+    "interpretation": "Gauge defects distort global organizational integrability and generate persistent recursive transport obstruction."
+  },
+
+  "renormalized_integrability_principle": {
+    "equation": "\\frac{d\\mathcal C_{\\mathrm{global}}}{d\\ell} = \\beta_{\\mathcal C}",
+    "interpretation": "Global organizational coherence evolves recursively across scale through renormalization flow."
+  },
+
+  "integrability_phase_transition_principle": {
+    "equation": "\\mathfrak I_{\\mathrm{viab}}^{(1)} \\rightarrow \\mathfrak I_{\\mathrm{viab}}^{(2)}",
+    "interpretation": "Organizational systems may undergo abrupt transitions between globally coherent and globally incoherent viability structure."
+  },
+
+  "civilizational_solvability_principle": {
+    "equation": "\\mathcal S_{\\mathrm{global}} > 0",
+    "interpretation": "Persistent civilizations require globally solvable recursive continuation structure across coupled organizational fields."
+  },
+
+  "canonical_integrability_regimes": {
+    "globally_coherent_regenerative_regime": {
+      "condition": "\\mathcal C_{\\mathrm{global}} \\gg 0",
+      "interpretation": "Globally coherent regenerative regime."
+    },
+    "critical_metastable_coherence_regime": {
+      "condition": "\\mathcal C_{\\mathrm{global}} \\approx 0",
+      "interpretation": "Critical metastable coherence regime."
+    },
+    "recursive_incoherence_collapse_regime": {
+      "condition": "\\mathcal C_{\\mathrm{global}} < 0",
+      "interpretation": "Recursive incoherence collapse regime."
+    }
+  },
+
+  "primitive_integrability_law": {
+    "boxed_statement": "Persistent recursive viability requires globally integrable recoverable accessibility continuity across coupled organizational fields."
+  },
+
+  "core_objects": {
+    "integrability_geometry": "\\mathfrak I_{\\mathrm{viab}}",
+    "viability_manifold": "\\mathcal M_{\\mathrm{viab}}",
+    "global_coherence": "\\mathcal C_{\\mathrm{global}}",
+    "gauge_connection": "\\mathcal A_\\mu",
+    "gauge_curvature": "F_{\\mu\\nu}",
+    "recoverability_field": "\\Phi_R",
+    "closure_load": "C_L",
+    "constraint_geometry": "\\mathcal C_i",
+    "integrability_horizon": "\\mathcal H_{\\mathrm{integrable}}",
+    "coordination_coherence": "\\eta_{\\mathrm{coord}}",
+    "temporal_continuity": "\\tau_{\\mathrm{civ}}",
+    "gauge_defects": "\\mathcal D_{\\mathrm{gauge}}",
+    "renormalization_flow": "\\beta_{\\mathcal C}",
+    "civilizational_solvability": "\\mathcal S_{\\mathrm{global}}"
+  },
+
+  "deep_consequences": [
+    "Local organizational stability is insufficient for global viability.",
+    "Persistent existence requires globally coherent transport continuity.",
+    "Organizational collapse may emerge through integrability failure.",
+    "Gauge curvature generates recursive transport incompatibility.",
+    "Constraint incompatibility fragments organizational continuation geometry.",
+    "Recoverability preserves global recursive coherence.",
+    "Coordination coherence stabilizes integrable accessibility structure.",
+    "Frustrated organizational geometry may prevent globally coherent continuation.",
+    "Gauge defects distort global transport integrability.",
+    "Civilizations require globally solvable recursive continuation structure.",
+    "Long-horizon temporal continuity depends on preserved global coherence.",
+    "Recursive viability geometry acquires full integrability and solvability structure.",
+    "Accessibility, governance, agency, memory, ethics, intelligence, civilization, and temporality become globally coupled integrability constraints.",
+    "Persistent existence corresponds to globally coherent recursive accessibility continuation."
+  ]
+}
