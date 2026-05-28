@@ -1,0 +1,210 @@
+{
+  "artifact_id": "viability_basin_topology_v1",
+  "title": "Viability Basin Topology",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_viability_basin_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Recursive viability systems move through accessibility basins whose stability, collapse risk, and reintegration potential are governed by basin depth, curvature burden, closure locking, reopening capacity, and transition thresholds.",
+
+  "deep_compression_statement": "Viability depends on whether a system can remain within, escape from, or re-enter recoverable accessibility basins.",
+
+  "primitive_principle": {
+    "name": "Viability basin topology",
+    "formal_statement": "Viability phase space is organized into basins of recoverable accessibility separated by collapse barriers, curvature ridges, locking thresholds, and reintegration corridors.",
+    "boxed_statement": "Viability is basin-organized recoverable accessibility geometry.",
+    "interpretation": "Persistent adaptive systems do not merely occupy states; they move through basin-structured accessibility geometry where some regions preserve recoverable continuation and others trap systems in recursive closure."
+  },
+
+  "core_objects": {
+    "viability_basin": {
+      "symbol": "\\mathcal B_V",
+      "interpretation": "A region of phase space in which future accessibility remains recoverably regenerative."
+    },
+
+    "collapse_basin": {
+      "symbol": "\\mathcal B_C",
+      "interpretation": "A region of phase space in which closure dynamics recursively stabilize and suppress reopenability."
+    },
+
+    "basin_boundary": {
+      "symbol": "\\partial \\mathcal B",
+      "interpretation": "A transition surface separating viability-preserving trajectories from collapse-prone trajectories."
+    },
+
+    "reentry_corridor": {
+      "symbol": "\\mathcal C_R",
+      "interpretation": "A recoverable path through which a system can move from collapse geometry back into viability geometry."
+    },
+
+    "energy_barrier": {
+      "symbol": "\\Delta E_R",
+      "interpretation": "The effective recovery effort required to cross from locked closure into reopenable accessibility."
+    }
+  },
+
+  "basin_coordinates": {
+    "accessibility": "A",
+    "recoverability": "R",
+    "collapse_locking": "C_L",
+    "curvature_burden": "\\kappa",
+    "reopening_velocity": "v_R",
+    "stitching_efficiency": "\\eta_{\\mathrm{stitch}}",
+    "cascade_gain": "g_{\\mathrm{cascade}}",
+    "reintegration_coordinate": "\\Phi_R"
+  },
+
+  "basin_classification": {
+
+    "viable_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{viable}}",
+      "condition": "A \\gg 0, \\; R \\gg 0, \\; C_L \\approx 0, \\; v_R > 0",
+      "interpretation": "A basin in which future accessibility remains recoverably regenerative and recursive continuation is stable."
+    },
+
+    "metastable_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{meta}}",
+      "condition": "A > 0, \\; R > 0, \\; C_L > 0, \\; \\kappa > 0",
+      "interpretation": "A basin that preserves temporary viability but contains accumulating curvature, burden, or closure risk."
+    },
+
+    "compression_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{compress}}",
+      "condition": "A \\downarrow, \\; \\kappa \\uparrow, \\; C_L \\uparrow, \\; v_R \\downarrow",
+      "interpretation": "A basin in which accessibility corridors narrow under accumulating burden while recovery pathways remain partially open."
+    },
+
+    "trap_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{trap}}",
+      "condition": "A \\approx 0, \\; C_L \\approx 1, \\; \\kappa \\gg 0, \\; v_R \\approx 0",
+      "interpretation": "A self-stabilizing closure basin in which recoverable accessibility is locked closed and re-entry requires external or recursive reopening force."
+    },
+
+    "transit_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{transit}}",
+      "condition": "A > 0, \\; C_L > 0, \\; \\mathcal C_R \\neq \\emptyset",
+      "interpretation": "An intermediate basin through which the system moves while bypassing, penetrating, or preparing to re-enter viability geometry."
+    },
+
+    "bypass_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{bypass}}",
+      "condition": "A > 0, \\; \\eta_{\\mathrm{stitch}} \\approx 0, \\; P_{\\mathrm{penetration}} \\approx 0",
+      "interpretation": "A basin where viability is preserved through alternative routing around locked collapse geometry rather than direct reintegration."
+    },
+
+    "catalytic_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{catalytic}}",
+      "condition": "g_{\\mathrm{cascade}} > g_c, \\; v_R > 0, \\; \\eta_{\\mathrm{stitch}} > 0",
+      "interpretation": "A basin in which local reopening dynamics become self-amplifying and support recursive reintegration propagation."
+    },
+
+    "shielding_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{shield}}",
+      "condition": "A \\gg 0, \\; \\kappa \\approx 0, \\; C_L \\approx 0, \\; \\Phi_R \\gg 0",
+      "interpretation": "A protected-core basin that buffers recoverable accessibility against external burden, deformation, or closure propagation."
+    },
+
+    "reentry_basin": {
+      "symbol": "\\mathcal B_{\\mathrm{reentry}}",
+      "condition": "P_{\\mathrm{reopen}} > \\Delta_C, \\; \\eta_{\\mathrm{stitch}} > 0, \\; R_{\\mathrm{recursive}} > 0",
+      "interpretation": "A basin in which penetration, stitching, and recursive reopening dynamics support movement from collapse geometry back into viability geometry."
+    }
+  },
+
+  "basin_potential": {
+    "symbol": "U_V",
+    "formal_relation": "U_V = (C_L + \\kappa) - (A + R + v_R + \\eta_{\\mathrm{stitch}} + g_{\\mathrm{cascade}})",
+    "interpretation": "Viability basin potential measures whether closure-curvature burden dominates reopening-recoverability capacity."
+  },
+
+  "basin_depth": {
+    "symbol": "D_B",
+    "formal_relation": "D_B \\sim A \\cdot R \\cdot \\Phi_R",
+    "interpretation": "Basin depth measures how strongly a system remains attracted to recoverable viability rather than collapse."
+  },
+
+  "collapse_barrier": {
+    "symbol": "\\Delta_C",
+    "formal_relation": "\\Delta_C \\sim C_L \\cdot \\kappa",
+    "interpretation": "Collapse barrier measures the resistance opposing re-entry into viable accessibility geometry."
+  },
+
+  "reentry_condition": {
+    "formal_relation": "P_{\\mathrm{reopen}} > \\Delta_C",
+    "interpretation": "Re-entry occurs when reopening pressure exceeds collapse barrier resistance."
+  },
+
+  "metastability": {
+    "formal_relation": "C_L \\approx 1, \\quad \\kappa \\gg 0, \\quad A \\approx 0",
+    "interpretation": "Locked collapse basins can remain stable even after external burden declines because closure geometry becomes self-maintaining."
+  },
+
+  "trajectory_topology": [
+
+    {
+      "name": "basin_retention",
+      "formal": "\\mathcal T_{\\mathrm{stable}} \\subset \\mathcal B_V",
+      "interpretation": "The system remains within a regenerative viability basin."
+    },
+
+    {
+      "name": "basin_escape",
+      "formal": "\\mathcal B_V \\rightarrow \\partial\\mathcal B \\rightarrow \\mathcal B_C",
+      "interpretation": "The system crosses a viability boundary into collapse geometry."
+    },
+
+    {
+      "name": "collapse_trapping",
+      "formal": "\\mathcal T_{\\mathrm{locked}} \\subset \\mathcal B_C",
+      "interpretation": "The system becomes trapped in a self-stabilizing closure basin."
+    },
+
+    {
+      "name": "bypass_survival",
+      "formal": "\\mathcal B_C \\leadsto \\mathcal C_R",
+      "interpretation": "The system preserves viability by routing around the locked basin."
+    },
+
+    {
+      "name": "basin_reentry",
+      "formal": "\\mathcal B_C \\rightarrow \\mathcal C_R \\rightarrow \\mathcal B_V",
+      "interpretation": "The system re-enters viability through penetration, stitching, and recursive reintegration."
+    }
+  ],
+
+  "phase_transition_conditions": {
+    "collapse_transition": "C_L + \\kappa > A + R + v_R",
+    "bypass_transition": "A > 0, \\; P_{\\mathrm{penetration}} \\approx 0, \\; \\mathcal C_R \\neq \\emptyset",
+    "penetration_transition": "R_{\\mathrm{front}}\\eta_{\\mathrm{stitch}} > \\kappa C_L",
+    "recursive_reintegration_transition": "g_{\\mathrm{cascade}} > g_c",
+    "global_reentry_transition": "\\Phi_R \\gg 1"
+  },
+
+  "organizational_consequences": [
+    "Viability basins are not all equivalent: systems may occupy viable, metastable, compressive, trapped, transit, bypass, catalytic, shielding, or re-entry basin classes.",
+    "Basin class determines whether a system remains stable, compresses, locks, bypasses, reopens, or recursively reintegrates."
+  ],
+
+  "deep_consequences": [
+    "Viability is basin-structured rather than state-structured.",
+    "Collapse is entry into a self-stabilizing closure basin.",
+    "Recovery is not merely repair; it is basin re-entry.",
+    "Bypass preserves continuity without necessarily restoring the collapsed basin.",
+    "Reintegration requires crossing collapse barriers through penetration, stitching, and recursive reopening.",
+    "Metastable collapse can persist after external burden declines.",
+    "Global viability depends on the topology of accessible re-entry corridors."
+  ],
+
+  "repository_connections": [
+    "recursive_viability_trajectory_classes_v1",
+    "reintegration_phase_diagram_v1",
+    "collapse_locking_principle_v1",
+    "curvature_penetration_threshold_v1",
+    "recursive_reintegration_threshold_v1",
+    "adaptive_bypass_routing_v1",
+    "dynamic_curvature_adaptation_v1",
+    "recovery_front_propagation_v1",
+    "corridor_percolation_principle_v1"
+  ]
+}
