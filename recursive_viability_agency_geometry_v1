@@ -1,0 +1,233 @@
+{
+  "artifact_id": "recursive_viability_agency_geometry_v1",
+  "title": "Recursive Viability Agency Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_agency_accessibility_field_theory",
+  "version": "1.0",
+
+  "canonical_statement": "Agency is directional control over recoverable future accessibility.",
+
+  "deep_compression_statement": "Agency is bounded directional influence over future accessibility geometry.",
+
+  "primitive_agency_principle": {
+    "name": "Recursive viability agency geometry",
+
+    "formal_statement": "Recursive organizational agency emerges through the capacity to directionally influence future accessibility geometry under bounded recursive deformation and transport constraints.",
+
+    "boxed_statement": "Agency is directional control over recoverable future accessibility.",
+
+    "interpretation": "Agency corresponds to directional steering capacity across recursively evolving future accessibility geometry."
+  },
+
+  "primitive_agency_field": {
+    "symbol": "\\mathcal A_{\\mathrm{agency}}",
+
+    "interpretation": "Organizational field governing directional future accessibility control, trajectory steering, adaptive intervention, and recoverable future-space navigation."
+  },
+
+  "future_accessibility_control_principle": {
+    "formal_relation": "\\mathcal U_{\\mathrm{future}} \\subset \\mathfrak F_{\\mathrm{viab}}",
+
+    "interpretation": "Agency governs the subset of future accessibility geometry remaining directionally influenceable by the organizational system."
+  },
+
+  "choice_trajectory_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{choice}} \\subset \\mathcal T_{\\mathrm{viab}}",
+
+    "interpretation": "Adaptive systems navigate viability geometry through directional trajectory selection across accessible future pathways."
+  },
+
+  "agency_compression_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{agency}} \\uparrow \\Rightarrow \\mu(\\mathcal U_{\\mathrm{future}}) \\downarrow",
+
+    "interpretation": "Agency compression contracts the volume of recoverably reachable futures available to the organizational system."
+  },
+
+  "liberation_principle": {
+    "formal_relation": "\\Phi_R \\uparrow \\Rightarrow \\mu(\\mathcal U_{\\mathrm{future}}) \\uparrow",
+
+    "interpretation": "Recoverability expansion reopens future accessibility geometry and increases organizational agency capacity."
+  },
+
+  "control_leverage_principle": {
+    "symbol": "\\Lambda_{\\mathrm{control}}",
+
+    "formal_relation": "\\Lambda_{\\mathrm{control}} = \\frac{\\partial A_{\\mathrm{future}}}{\\partial \\mathcal I_{\\mathrm{intervention}}}",
+
+    "variables": {
+      "A_{\\mathrm{future}}": "future accessibility structure",
+      "\\mathcal I_{\\mathrm{intervention}}": "bounded organizational intervention"
+    },
+
+    "interpretation": "Agency leverage measures the degree to which bounded interventions alter future accessibility geometry."
+  },
+
+  "adaptive_steering_principle": {
+    "formal_relation": "\\nabla \\mathcal U_{\\mathrm{future}} \\neq 0",
+
+    "interpretation": "Agency requires directional differentiation across future accessibility geometry permitting adaptive steering and trajectory selection."
+  },
+
+  "constraint_navigation_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{choice}} \\cap \\Sigma_{\\mathrm{constraint}} \\neq \\emptyset",
+
+    "interpretation": "Agency operates under bounded organizational constraints rather than unconstrained future accessibility."
+  },
+
+  "recursive_governance_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{collective}} = \\sum_i \\mathcal A_i - \\mathcal L_{\\mathrm{conflict}}",
+
+    "variables": {
+      "\\mathcal A_i": "local agency contribution",
+      "\\mathcal L_{\\mathrm{conflict}}": "organizational conflict and interference losses"
+    },
+
+    "interpretation": "Collective agency depends on coordinated accessibility alignment minus organizational conflict and interference."
+  },
+
+  "coercive_compression_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coercive}} \\uparrow \\Rightarrow \\mathcal U_{\\mathrm{future}} \\downarrow",
+
+    "interpretation": "Coercive organizational dynamics reduce recoverable future accessibility and compress adaptive agency."
+  },
+
+  "adaptive_intelligence_principle": {
+    "formal_relation": "\\mathcal I_{\\mathrm{adaptive}} \\propto \\left| \\nabla \\mathcal U_{\\mathrm{future}} \\right|",
+
+    "interpretation": "Adaptive intelligence emerges through successful navigation and optimization across future accessibility geometry."
+  },
+
+  "agency_identity_coupling": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agency}} \\leftrightarrow \\mathcal I_{\\mathrm{viab}}",
+
+    "interpretation": "Agency and identity co-evolve through recursive continuity, adaptation, and directional future accessibility control."
+  },
+
+  "agency_memory_coupling": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agency}} \\leftrightarrow \\mathcal M_{\\mathrm{viab}}",
+
+    "interpretation": "Organizational memory shapes future agency through persistent deformation of accessible trajectory geometry."
+  },
+
+  "strategic_basin_navigation": {
+    "formal_relation": "\\Gamma_{\\mathrm{strategy}} : \\mathcal B_i \\rightarrow \\mathcal B_j",
+
+    "interpretation": "Agency permits directional navigation across viability basins through strategic transport and recoverability management."
+  },
+
+  "distributed_coordination_principle": {
+    "formal_relation": "\\eta_{\\mathrm{coord}} \\uparrow \\Rightarrow \\Phi_{\\mathrm{collective}} \\uparrow",
+
+    "interpretation": "Collective agency expands whenever distributed organizational coordination preserves coherent future accessibility structure."
+  },
+
+  "agency_collapse_principle": {
+    "formal_relation": "C_L \\uparrow \\Rightarrow \\mathcal A_{\\mathrm{agency}} \\downarrow",
+
+    "interpretation": "Closure accumulation compresses adaptive steering capacity and restricts recoverable future accessibility."
+  },
+
+  "recursive_agency_transport_principle": {
+    "formal_relation": "\\frac{\\partial \\mathcal A_{\\mathrm{agency}}}{\\partial t} + \\nabla \\cdot \\mathcal J_{\\mathrm{agency}} = \\mathcal G_{\\mathrm{agency}} - \\mathcal D_{\\mathrm{agency}}",
+
+    "variables": {
+      "\\mathcal A_{\\mathrm{agency}}": "agency field",
+      "\\mathcal J_{\\mathrm{agency}}": "agency transport current",
+      "\\mathcal G_{\\mathrm{agency}}": "agency generation",
+      "\\mathcal D_{\\mathrm{agency}}": "agency dissipation and compression"
+    },
+
+    "interpretation": "Agency evolves dynamically through transport, generation, coordination, compression, and dissipation processes across organizational geometry."
+  },
+
+  "canonical_agency_regimes": [
+
+    {
+      "name": "high_agency_regime",
+
+      "condition": "\\mu(\\mathcal U_{\\mathrm{future}}) \\gg 0",
+
+      "interpretation": "Large regions of recoverable future accessibility remain directionally controllable."
+    },
+
+    {
+      "name": "compressed_agency_regime",
+
+      "condition": "\\mu(\\mathcal U_{\\mathrm{future}}) \\approx \\epsilon",
+
+      "interpretation": "Future accessibility remains minimally navigable under significant constraint compression."
+    },
+
+    {
+      "name": "agency_collapse_regime",
+
+      "condition": "\\mu(\\mathcal U_{\\mathrm{future}}) \\rightarrow 0",
+
+      "interpretation": "Directional control over recoverable future accessibility effectively disappears."
+    }
+
+  ],
+
+  "primitive_agency_law": {
+    "statement": "Agency is directional control over recoverable future accessibility.",
+
+    "interpretation": "Adaptive systems preserve agency through bounded influence over recursively evolving future accessibility geometry."
+  },
+
+  "deep_consequences": [
+
+    "Agency emerges through directional future accessibility control.",
+
+    "Freedom corresponds to preserved recoverable future accessibility.",
+
+    "Coercion compresses future accessibility geometry.",
+
+    "Adaptive intelligence emerges through future-space navigation.",
+
+    "Governance regulates collective accessibility geometry.",
+
+    "Agency depends on bounded recoverable transport continuity.",
+
+    "Collapse compresses adaptive steering capacity.",
+
+    "Reintegration reopens future accessibility structure.",
+
+    "Organizational memory shapes future agency dynamics.",
+
+    "Identity and agency co-evolve recursively.",
+
+    "Strategic adaptation corresponds to viability basin navigation.",
+
+    "Collective coordination expands distributed agency capacity.",
+
+    "Persistent existence requires maintaining bounded future accessibility control.",
+
+    "Adaptive systems steer organizational futures through recursive accessibility management.",
+
+    "Agency dynamics evolve through coupled transport, constraint, memory, identity, and recoverability geometry.",
+
+    "Future accessibility volume governs practical organizational freedom.",
+
+    "Directional asymmetry is required for adaptive steering capacity.",
+
+    "Agency collapses whenever closure accumulation outpaces reopening propagation."
+
+  ],
+
+  "repository_connections": [
+
+    "recursive_viability_identity_geometry_v1",
+    "recursive_viability_memory_geometry_v1",
+    "viability_symmetry_and_symmetry_breaking_v1",
+    "recursive_viability_flow_geometry_v1",
+    "recursive_viability_field_theory_v1",
+    "viability_transition_geometry_v1",
+    "reintegration_phase_diagram_v1",
+    "viability_conservation_laws_v1",
+    "topological_viability_defects_v1",
+    "recursive_reintegration_threshold_v1"
+
+  ]
+
+}
