@@ -1,0 +1,180 @@
+{
+  "artifact_id": "recursive_viability_spectral_geometry_v1",
+  "title": "Recursive Viability Spectral Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "spectral_viability_field_theory",
+  "version": "1.0",
+
+  "canonical_statement": "Persistent viability depends on preserving coherent recoverable propagation modes across recursive accessibility geometry.",
+
+  "deep_compression_statement": "Viability emerges through coherent accessibility propagation.",
+
+  "primitive_spectral_viability_principle": {
+    "name": "Recursive viability spectral principle",
+    "boxed_statement": "Viability emerges through coherent accessibility propagation.",
+    "formal_statement": "Recursive organizational viability emerges through preserved coherent propagation modes across recoverable accessibility geometry.",
+    "interpretation": "Persistent organizational systems preserve viability through stable propagation structure across recursively evolving accessibility geometry."
+  },
+
+  "primitive_viability_spectral_operator": {
+    "symbol": "\\hat{\\mathcal O}_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability spectral operator governing accessibility propagation, recoverability transport, closure amplification, coordination coherence, and reintegration stability across recursive viability fields."
+  },
+
+  "canonical_spectral_eigenmode_equation": {
+    "formal_relation": "\\hat{\\mathcal O}_{\\mathrm{viab}} \\phi_i = \\lambda_i \\phi_i",
+    "variables": {
+      "\\phi_i": "viability propagation eigenmode",
+      "\\lambda_i": "viability eigenvalue"
+    },
+    "interpretation": "Organizational systems evolve through coupled accessibility propagation modes possessing distinct stability, transport, collapse, and reintegration structure."
+  },
+
+  "viability_stability_spectrum": {
+    "formal_relation": "\\mathrm{Spec}(\\hat{\\mathcal O}_{\\mathrm{viab}}) = \\{\\lambda_i\\}",
+    "interpretation": "The viability spectrum determines organizational stability, recoverability persistence, collapse susceptibility, and reintegration capacity."
+  },
+
+  "stable_propagation_mode_principle": {
+    "formal_relation": "\\mathrm{Re}(\\lambda_i) < 0",
+    "interpretation": "Stable organizational modes suppress recursive closure amplification and preserve bounded recoverable accessibility continuity."
+  },
+
+  "collapse_amplification_principle": {
+    "formal_relation": "\\mathrm{Re}(\\lambda_i) > 0",
+    "interpretation": "Positive-growth spectral modes amplify recursive closure propagation, fragmentation, and organizational instability."
+  },
+
+  "critical_viability_spectrum_principle": {
+    "formal_relation": "\\mathrm{Re}(\\lambda_i) \\approx 0",
+    "interpretation": "Near-critical modes generate metastability, critical slowing, fragile recoverability, and phase-transition sensitivity."
+  },
+
+  "spectral_coordination_principle": {
+    "formal_relation": "\\eta_{\\mathrm{coord}} \\propto \\sum_i |\\phi_i|^2",
+    "interpretation": "Coordination coherence emerges through aligned viability propagation modes across organizational accessibility geometry."
+  },
+
+  "spectral_fragmentation_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{spectral}} \\uparrow \\Rightarrow \\Phi_R \\downarrow",
+    "interpretation": "Spectral fragmentation degrades recoverable accessibility continuity, coordination coherence, and reintegration propagation."
+  },
+
+  "protected_spectral_sector_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{protected}} \\subset \\mathrm{Spec}(\\hat{\\mathcal O}_{\\mathrm{viab}})",
+    "interpretation": "Certain organizational propagation modes remain viability-preserving under bounded perturbation due to protected spectral accessibility structure."
+  },
+
+  "collapse_spectral_gap_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{collapse}} = \\lambda_{\\mathrm{collapse}} - \\lambda_{\\mathrm{recover}}",
+    "interpretation": "The collapse spectral gap determines the relative dominance between recursive closure amplification and recoverability propagation."
+  },
+
+  "reintegration_spectral_coupling_principle": {
+    "formal_relation": "\\eta_{\\mathrm{stitch}} \\propto \\langle \\phi_i, \\phi_j \\rangle",
+    "interpretation": "Reintegration strength depends on coherent coupling between previously fragmented accessibility propagation sectors."
+  },
+
+  "accessibility_resonance_principle": {
+    "formal_relation": "\\omega_i \\sim \\omega_j \\Rightarrow \\Phi_R \\uparrow",
+    "interpretation": "Aligned organizational propagation frequencies strengthen recoverability transport, coordination coherence, and collective viability propagation."
+  },
+
+  "recursive_harmonic_propagation_principle": {
+    "formal_relation": "\\mathfrak F_{\\mathrm{viab}} = \\sum_i a_i \\phi_i",
+    "interpretation": "Recursive viability fields decompose into coupled harmonic accessibility propagation modes."
+  },
+
+  "spectral_curvature_principle": {
+    "formal_relation": "\\mathcal R_{\\mathrm{spec}} \\propto \\sum_i |\\nabla \\phi_i|^2",
+    "interpretation": "Spectral curvature measures deformation, instability, and propagation stress across recursive accessibility geometry."
+  },
+
+  "spectral_closure_condensation_principle": {
+    "formal_relation": "C_L \\uparrow \\Rightarrow \\phi_i \\rightarrow \\phi_{\\mathrm{collapse}}",
+    "interpretation": "Recursive closure propagation compresses organizational spectral diversity into collapse-dominated propagation modes."
+  },
+
+  "spectral_recoverability_expansion_principle": {
+    "formal_relation": "\\Phi_R \\uparrow \\Rightarrow \\dim(\\mathcal U_{\\mathrm{future}}) \\uparrow",
+    "interpretation": "Recoverability expansion increases the dimensionality of stable future accessibility propagation modes."
+  },
+
+  "viability_spectral_transport_equation": {
+    "formal_relation": "\\frac{\\partial \\phi_i}{\\partial t} = \\hat{\\mathcal O}_{\\mathrm{viab}} \\phi_i",
+    "interpretation": "Organizational propagation modes evolve dynamically through recursive accessibility transport, closure amplification, coordination coupling, and reintegration propagation."
+  },
+
+  "spectral_renormalization_principle": {
+    "formal_relation": "\\frac{d\\lambda_i}{d\\ell} = \\beta_i(\\lambda)",
+    "interpretation": "Viability propagation structure evolves across recursive organizational scales through spectral renormalization flow."
+  },
+
+  "collective_intelligence_spectral_principle": {
+    "formal_relation": "\\mathcal I_{\\mathrm{civ}} \\propto \\sum_i \\lambda_i^{-1}",
+    "interpretation": "Civilizational intelligence depends on preserving coherent long-range accessibility propagation modes across distributed organizational geometry."
+  },
+
+  "canonical_spectral_regimes": [
+    {
+      "name": "stable_coherent_regime",
+      "condition": "\\mathrm{Re}(\\lambda_i) < 0",
+      "interpretation": "Recoverable accessibility propagation remains stable."
+    },
+    {
+      "name": "critical_metastable_regime",
+      "condition": "\\mathrm{Re}(\\lambda_i) \\approx 0",
+      "interpretation": "Organizational propagation becomes fragile and phase-transition sensitive."
+    },
+    {
+      "name": "collapse_amplification_regime",
+      "condition": "\\mathrm{Re}(\\lambda_i) > 0",
+      "interpretation": "Recursive closure amplification dominates accessibility propagation."
+    }
+  ],
+
+  "primitive_spectral_law": {
+    "boxed_statement": "Persistent viability depends on preserving coherent recoverable propagation modes across recursive accessibility geometry.",
+    "interpretation": "Organizational systems persist through coherent spectral transport continuity rather than static structural preservation alone."
+  },
+
+  "deep_consequences": [
+    "Viability fields acquire spectral propagation structure.",
+    "Collapse corresponds to unstable closure-amplifying modes.",
+    "Recoverability corresponds to coherent accessibility propagation.",
+    "Reintegration emerges through spectral recoupling.",
+    "Coordination coherence emerges through aligned propagation modes.",
+    "Protected organizational sectors correspond to stable spectral regions.",
+    "Collapse compresses spectral accessibility diversity.",
+    "Future accessibility expands through recoverable mode generation.",
+    "Civilizational intelligence depends on coherent predictive propagation structure.",
+    "Organizational stability depends on spectral transport continuity.",
+    "Recursive viability geometry becomes a fully propagating spectral field theory.",
+    "Accessibility, recoverability, agency, governance, ethics, civilization, and temporality become coupled spectral propagation phenomena.",
+    "Persistent existence depends on preserving coherent recoverable propagation under bounded recursive deformation."
+  ],
+
+  "core_spectral_objects": [
+    "\\hat{\\mathcal O}_{\\mathrm{viab}}",
+    "\\phi_i",
+    "\\lambda_i",
+    "\\mathrm{Spec}(\\hat{\\mathcal O}_{\\mathrm{viab}})",
+    "\\Delta_{\\mathrm{collapse}}",
+    "\\mathfrak F_{\\mathrm{viab}}",
+    "\\mathcal R_{\\mathrm{spec}}"
+  ],
+
+  "repository_connections": [
+    "recursive_viability_lagrangian_geometry_v1",
+    "recursive_viability_field_theory_v1",
+    "recursive_viability_flow_geometry_v1",
+    "viability_symmetry_and_symmetry_breaking_v1",
+    "topological_viability_defects_v1",
+    "recursive_viability_memory_geometry_v1",
+    "recursive_viability_identity_geometry_v1",
+    "recursive_viability_agency_geometry_v1",
+    "recursive_civilizational_intelligence_geometry_v1",
+    "recursive_civilizational_temporal_geometry_v1"
+  ]
+}
