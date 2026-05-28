@@ -1,0 +1,156 @@
+{
+  "artifact_id": "recursive_viability_constraint_geometry_v1",
+  "title": "Recursive Viability Constraint Geometry",
+  "framework": "Recursive Viability Geometry",
+  "type": "constraint_geometry_theory",
+  "status": "extended_formalization",
+  "version": "1.0",
+
+  "primitive_constraint_principle": {
+    "name": "Primitive constraint principle",
+    "boxed_statement": "Recursive viability evolves only through admissible organizational trajectories preserving bounded recoverable accessibility continuity.",
+    "interpretation": "Not all organizational transformations are dynamically admissible. Recursive viability geometry constrains organizational evolution through recoverability, transport continuity, coordination coherence, and bounded closure accumulation."
+  },
+
+  "primitive_constraint_geometry": {
+    "equation": "\\mathcal C_{\\mathrm{viab}} \\subset T\\mathcal M_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability constraint geometry defines the admissible tangent accessibility directions across recursive viability geometry."
+  },
+
+  "admissible_trajectory_principle": {
+    "equation": "\\Gamma_{\\mathrm{adm}} \\subset \\mathcal C_{\\mathrm{viab}}",
+    "interpretation": "Persistent organizational evolution may occur only along recoverably admissible accessibility trajectories."
+  },
+
+  "constraint_closure_principle": {
+    "equation": "\\mathcal L_C > \\Phi_R \\Rightarrow \\Gamma_{\\mathrm{adm}} \\rightarrow \\emptyset",
+    "interpretation": "Recursive closure accumulation progressively eliminates admissible future accessibility trajectories."
+  },
+
+  "recoverability_admissibility_principle": {
+    "equation": "\\Phi_R > 0 \\Rightarrow \\Gamma_{\\mathrm{adm}} \\neq \\emptyset",
+    "interpretation": "Recoverability preserves the existence of admissible future organizational trajectories."
+  },
+
+  "constraint_curvature_principle": {
+    "equation": "\\mathcal K_{\\mathrm{constraint}} \\propto |F_{\\mu\\nu}|",
+    "interpretation": "Organizational transport curvature constrains admissible coordination evolution across recursive accessibility geometry."
+  },
+
+  "constraint_boundary_principle": {
+    "equation": "\\partial \\mathcal C_{\\mathrm{viab}}",
+    "interpretation": "Constraint boundaries separate recoverably admissible organizational evolution from collapse-inducing trajectories."
+  },
+
+  "constraint_saturation_principle": {
+    "equation": "\\mu\\left(\\mathcal C_{\\mathrm{viab}}\\right) \\downarrow \\Rightarrow \\mathcal A_{\\mathrm{agency}} \\downarrow",
+    "interpretation": "As admissible accessibility geometry contracts, organizational agency and adaptive steering capacity diminish."
+  },
+
+  "constraint_compatibility_principle": {
+    "equation": "\\mathcal C_i \\cap \\mathcal C_j \\neq \\emptyset",
+    "interpretation": "Stable coordination between organizational sectors requires overlapping admissible accessibility structure."
+  },
+
+  "constraint_incompatibility_principle": {
+    "equation": "\\mathcal C_i \\cap \\mathcal C_j = \\emptyset",
+    "interpretation": "Organizational fragmentation emerges whenever sectors possess mutually incompatible admissible accessibility geometry."
+  },
+
+  "constraint_transport_principle": {
+    "equation": "D_\\mu \\mathcal C_{\\mathrm{viab}} \\neq 0",
+    "interpretation": "Admissible accessibility geometry evolves dynamically through transport, coordination, deformation, and reintegration processes."
+  },
+
+  "constraint_conservation_principle": {
+    "equation": "D_\\mu J^\\mu_{\\mathrm{adm}} = 0",
+    "interpretation": "Admissible organizational transport obeys recoverability-preserving conservation structure across recursive viability geometry."
+  },
+
+  "constraint_phase_transition_principle": {
+    "equation": "\\mathcal C_{\\mathrm{viab}}^{(1)} \\rightarrow \\mathcal C_{\\mathrm{viab}}^{(2)}",
+    "interpretation": "Organizational systems may undergo qualitative shifts in admissible accessibility geometry across recursive phase transitions."
+  },
+
+  "constraint_rigidity_principle": {
+    "equation": "\\dim\\left(\\mathcal C_{\\mathrm{viab}}\\right) \\downarrow \\Rightarrow \\eta_{\\mathrm{coord}} \\downarrow",
+    "interpretation": "Excessive rigidity contracts admissible coordination structure and suppresses adaptive recoverability."
+  },
+
+  "constraint_liberation_principle": {
+    "equation": "\\Phi_R \\uparrow \\Rightarrow \\dim\\left(\\mathcal C_{\\mathrm{viab}}\\right) \\uparrow",
+    "interpretation": "Recoverability expansion enlarges admissible organizational future accessibility geometry."
+  },
+
+  "constraint_geodesic_principle": {
+    "equation": "\\delta \\mathcal S_{\\mathrm{viab}} = 0 \\quad \\text{subject to} \\quad \\Gamma \\subset \\mathcal C_{\\mathrm{viab}}",
+    "interpretation": "Persistent organizational systems evolve along constrained minimum-burden viability trajectories."
+  },
+
+  "constraint_defect_principle": {
+    "equation": "\\mathcal D_{\\mathrm{gauge}} \\subset \\partial \\mathcal C_{\\mathrm{viab}}",
+    "interpretation": "Gauge defects distort admissible accessibility geometry and generate persistent organizational transport obstruction."
+  },
+
+  "constraint_renormalization_principle": {
+    "equation": "\\mathcal R_\\ell : \\mathcal C_{\\mathrm{viab}}^{(\\ell)} \\rightarrow \\mathcal C_{\\mathrm{viab}}^{(\\ell+\\Delta\\ell)}",
+    "interpretation": "Admissible organizational accessibility geometry evolves across recursive scale through renormalization flow."
+  },
+
+  "constraint_intelligence_principle": {
+    "equation": "\\mathcal I_{\\mathrm{civ}} \\propto \\mu\\left(\\mathcal C_{\\mathrm{viab}}\\right)",
+    "interpretation": "Civilizational intelligence depends on preserving sufficiently large admissible future accessibility structure."
+  },
+
+  "constraint_ethics_principle": {
+    "equation": "\\mathcal E_{\\mathrm{viab}} \\propto \\Delta \\mu\\left(\\mathcal C_{\\mathrm{viab}}\\right)",
+    "interpretation": "Ethical organizational dynamics preserve or expand admissible recoverable future accessibility geometry."
+  },
+
+  "canonical_constraint_regimes": {
+    "adaptive_coherent_regime": {
+      "condition": "\\mu\\left(\\mathcal C_{\\mathrm{viab}}\\right) \\gg 0",
+      "interpretation": "Adaptive coherent regime."
+    },
+    "metastable_constrained_regime": {
+      "condition": "\\mu\\left(\\mathcal C_{\\mathrm{viab}}\\right) \\approx \\epsilon",
+      "interpretation": "Metastable constrained regime."
+    },
+    "recursive_closure_regime": {
+      "condition": "\\mu\\left(\\mathcal C_{\\mathrm{viab}}\\right) \\rightarrow 0",
+      "interpretation": "Recursive closure regime."
+    }
+  },
+
+  "primitive_constraint_law": {
+    "boxed_statement": "Recursive viability evolves only through admissible organizational trajectories preserving bounded recoverable accessibility continuity."
+  },
+
+  "core_objects": {
+    "constraint_geometry": "\\mathcal C_{\\mathrm{viab}}",
+    "viability_manifold": "\\mathcal M_{\\mathrm{viab}}",
+    "admissible_trajectory": "\\Gamma_{\\mathrm{adm}}",
+    "recoverability_field": "\\Phi_R",
+    "closure_load": "\\mathcal L_C",
+    "transport_curvature": "F_{\\mu\\nu}",
+    "agency_field": "\\mathcal A_{\\mathrm{agency}}",
+    "coordination_coherence": "\\eta_{\\mathrm{coord}}",
+    "gauge_defects": "\\mathcal D_{\\mathrm{gauge}}",
+    "renormalization_flow": "\\mathcal R_\\ell"
+  },
+
+  "deep_consequences": [
+    "Not all organizational futures are admissible.",
+    "Recoverability preserves admissible future accessibility.",
+    "Closure accumulation contracts admissible trajectory space.",
+    "Organizational fragmentation emerges through constraint incompatibility.",
+    "Agency depends on admissible accessibility volume.",
+    "Ethics preserves admissible future structure.",
+    "Governance regulates admissible collective coordination.",
+    "Gauge defects distort admissible transport geometry.",
+    "Renormalization transforms admissible structure across recursive scale.",
+    "Persistent civilizations preserve admissible long-horizon future accessibility.",
+    "Constraint geometry governs organizational evolution across recursive viability fields.",
+    "Recursive viability geometry acquires full admissibility and constrained dynamical structure."
+  ]
+}
