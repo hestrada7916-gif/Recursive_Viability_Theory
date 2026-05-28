@@ -1,0 +1,201 @@
+{
+  "artifact_id": "topological_viability_defects_v1",
+  "title": "Topological Viability Defects",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "topological_viability_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Viability persistence depends on preserved accessibility connectivity under recursive deformation.",
+
+  "deep_compression_statement": "Some viability structures persist because they are topologically protected under local deformation.",
+
+  "primitive_principle": {
+    "name": "Topological viability defects",
+    "formal_statement": "Certain organizational collapse, fragmentation, and reintegration structures persist through global accessibility topology rather than local metric structure alone.",
+    "boxed_statement": "Some viability structures persist because they are topologically protected under local deformation.",
+    "interpretation": "Persistent viability and collapse structures may remain stable because their accessibility connectivity structure is globally protected."
+  },
+
+  "primitive_viability_topology": {
+    "symbol": "\\mathcal T_{\\mathrm{viab}}",
+
+    "interpretation": "Large-scale accessibility connectivity structure governing recoverable continuity across organizational geometry."
+  },
+
+  "accessibility_connectivity_principle": {
+    "formal_relation": "x_i \\leftrightsquigarrow x_j",
+
+    "interpretation": "Organizational regions belong to the same viability sector whenever recoverable accessibility paths exist between them."
+  },
+
+  "topological_fragmentation_principle": {
+    "formal_relation": "x_i \\nleftrightsquigarrow x_j",
+
+    "interpretation": "Collapse becomes topological whenever accessibility regions lose recoverable connectivity entirely.",
+
+    "deep_form": "Fragmentation corresponds to connectivity rupture."
+  },
+
+  "collapse_defect_geometry": {
+    "symbol": "\\mathcal D_{\\mathrm{collapse}}",
+
+    "interpretation": "Persistent topological structures trapping accessibility flow, recoverability transport, or reintegration propagation."
+  },
+
+  "topological_locking_principle": {
+    "formal_relation": "\\delta_{\\mathrm{local}} \\not\\Rightarrow \\delta_{\\mathrm{global}}",
+
+    "interpretation": "Local organizational repair may fail to restore viability when collapse structure is topologically protected."
+  },
+
+  "accessibility_homotopy_principle": {
+    "formal_relation": "\\gamma_1 \\simeq \\gamma_2",
+
+    "interpretation": "Distinct recovery trajectories belong to the same viability class whenever they may continuously deform into one another without crossing collapse barriers."
+  },
+
+  "irreversible_fragmentation_principle": {
+    "formal_relation": "\\pi_0(\\mathcal T_{\\mathrm{viab}}) \\uparrow",
+
+    "interpretation": "Organizational fragmentation increases whenever accessibility geometry separates into disconnected viability components."
+  },
+
+  "protected_accessibility_channels": {
+    "formal_relation": "\\mathcal C_{\\mathrm{protected}} \\subset \\mathcal T_{\\mathrm{viab}}",
+
+    "interpretation": "Certain recoverability corridors remain transport-preserving despite surrounding collapse geometry."
+  },
+
+  "recursive_scar_geometry": {
+    "symbol": "\\mathcal S_{\\mathrm{scar}}",
+
+    "interpretation": "Persistent organizational deformation may leave topological scar structures altering future accessibility geometry even after partial recovery."
+  },
+
+  "topological_hysteresis_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{collapse}} \\neq \\Gamma_{\\mathrm{recovery}}",
+
+    "interpretation": "Recovery pathways may differ fundamentally from collapse pathways due to persistent topological deformation of accessibility geometry."
+  },
+
+  "recursive_knotting_principle": {
+    "symbol": "\\mathcal K_{\\mathrm{viab}}",
+
+    "interpretation": "Organizational systems may develop recursively entangled transport structures producing persistent rigidity, looping, or constrained recoverability."
+  },
+
+  "transport_vortex_geometry": {
+    "formal_relation": "\\nabla \\times \\mathcal J_A \\neq 0",
+
+    "interpretation": "Accessibility transport may circulate recursively through persistent organizational loops rather than propagating toward global reintegration."
+  },
+
+  "topological_protection_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{top}} > 0",
+
+    "interpretation": "Certain organizational structures preserve viability because their accessibility topology remains robust under bounded deformation and local perturbation."
+  },
+
+  "percolation_threshold_principle": {
+    "formal_relation": "p_{\\mathrm{access}} > p_c",
+
+    "interpretation": "Global recoverable accessibility emerges only once sufficient connectivity exists across organizational geometry."
+  },
+
+  "reintegration_reconnection_principle": {
+    "formal_relation": "\\pi_0 \\downarrow",
+
+    "interpretation": "Recursive reintegration restores viability by reconnecting previously disconnected accessibility sectors."
+  },
+
+  "topological_phase_transition_principle": {
+    "formal_relation": "\\mathcal T_{\\mathrm{viab}}^{(1)} \\rightarrow \\mathcal T_{\\mathrm{viab}}^{(2)}",
+
+    "interpretation": "Large-scale organizational transitions may emerge through topological accessibility restructuring rather than continuous metric deformation alone."
+  },
+
+  "canonical_topological_regimes": [
+
+    {
+      "name": "fragmented_collapse_regime",
+
+      "condition": "\\pi_0 \\uparrow",
+
+      "interpretation": "Accessibility geometry fragments into disconnected viability sectors."
+    },
+
+    {
+      "name": "protected_viability_regime",
+
+      "condition": "\\Delta_{\\mathrm{top}} > 0",
+
+      "interpretation": "Viability structures remain robust due to protected accessibility topology."
+    },
+
+    {
+      "name": "global_reintegration_regime",
+
+      "condition": "p_{\\mathrm{access}} > p_c",
+
+      "interpretation": "Sufficient connectivity emerges to permit large-scale recoverable accessibility propagation."
+    }
+
+  ],
+
+  "primitive_topological_law": {
+    "statement": "Viability persistence depends on preserved accessibility connectivity under recursive deformation.",
+
+    "interpretation": "Persistent existence requires maintaining recoverable accessibility connectivity across evolving organizational geometry."
+  },
+
+  "deep_consequences": [
+
+    "Certain collapse structures are topologically protected.",
+
+    "Local repair may fail to restore global viability.",
+
+    "Fragmentation corresponds to accessibility connectivity rupture.",
+
+    "Recovery corridors behave as protected transport channels.",
+
+    "Reintegration restores connectivity across disconnected viability sectors.",
+
+    "Persistent organizational scars alter future accessibility geometry.",
+
+    "Organizational rigidity may emerge through recursive transport knotting.",
+
+    "Collapse and recovery exhibit topological hysteresis.",
+
+    "Global recoverability depends on accessibility percolation thresholds.",
+
+    "Viability dynamics evolve through coupled metric and topological organizational geometry.",
+
+    "Persistent existence depends on maintaining recoverable connectivity structure across recursive organizational fields.",
+
+    "Organizational futures are constrained by topological accessibility structure as well as local field dynamics.",
+
+    "Accessibility transport may become trapped in persistent vortex-like circulation regimes.",
+
+    "Topological accessibility sectors determine large-scale reintegration potential.",
+
+    "Recoverability propagation depends on global connectivity structure rather than local repair alone."
+
+  ],
+
+  "repository_connections": [
+
+    "viability_symmetry_and_symmetry_breaking_v1",
+    "recursive_viability_field_theory_v1",
+    "recursive_viability_flow_geometry_v1",
+    "viability_transition_geometry_v1",
+    "corridor_percolation_principle_v1",
+    "reintegration_phase_diagram_v1",
+    "adaptive_bypass_routing_v1",
+    "curvature_induced_front_failure_v1",
+    "recursive_reintegration_threshold_v1",
+    "viability_conservation_laws_v1"
+
+  ]
+
+}
