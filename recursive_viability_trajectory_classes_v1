@@ -1,0 +1,249 @@
+{
+  "artifact_id": "recursive_viability_trajectory_classes_v1",
+  "title": "Recursive Viability Trajectory Classes",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_viability_trajectory_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Viability systems evolve through recurrent classes of accessibility transformation dynamics governed by recursive closure propagation and recursive reopening propagation.",
+
+  "deep_compression_statement": "Viability depends on whether future accessibility can recursively reopen faster than closure recursively propagates.",
+
+  "primitive_principle": {
+    "name": "Recursive viability trajectory classes",
+    "formal_statement": "Persistent adaptive systems evolve through recurrent organizational transformation trajectories across recursive accessibility geometry.",
+    "boxed_statement": "Viability systems evolve through recurrent classes of accessibility transformation dynamics.",
+    "interpretation": "Persistent systems move through structured trajectories of compression, locking, adaptation, penetration, reintegration, and stabilization governed by recursive accessibility propagation dynamics."
+  },
+
+  "core_duality": {
+    "reopening_dynamics": "recursive accessibility reopening propagation",
+    "closure_dynamics": "recursive accessibility closure propagation",
+    "primitive_relation": "viability depends on whether reopening propagation outpaces closure propagation",
+    "interpretation": "All trajectory evolution emerges from the balance between recursive reopening and recursive closure dynamics."
+  },
+
+  "trajectory_classes": [
+
+    {
+      "name": "stable_viability_basin",
+      "symbol": "\\mathcal T_{\\mathrm{stable}}",
+
+      "deep_form": "future accessibility remains recursively regenerative",
+
+      "characteristics": {
+        "A": ">> 0",
+        "C_L": "~ 0",
+        "v_R": "> 0",
+        "Phi_R": ">> 0"
+      },
+
+      "interpretation": "The system continuously regenerates recoverable future accessibility faster than closure dynamics accumulate. Accessibility remains globally navigable."
+    },
+
+    {
+      "name": "accessibility_compression",
+      "symbol": "\\mathcal T_{\\mathrm{compression}}",
+
+      "deep_form": "future accessibility narrows under accumulating burden",
+
+      "characteristics": {
+        "A": "decreasing",
+        "kappa": "increasing",
+        "C_L": "increasing",
+        "v_R": "decreasing"
+      },
+
+      "interpretation": "Recovery pathways remain partially open, but accessibility corridors progressively narrow as transport burden accumulates faster than reopening."
+    },
+
+    {
+      "name": "locked_collapse",
+      "symbol": "\\mathcal T_{\\mathrm{locked}}",
+
+      "deep_form": "closure propagation outruns reopening dynamics",
+
+      "characteristics": {
+        "A": "-> 0",
+        "C_L": "-> 1",
+        "kappa": ">> 0",
+        "v_R": "-> 0"
+      },
+
+      "interpretation": "Accessibility geometry becomes recursively sealed and recovery transport can no longer propagate across collapsed regions."
+    },
+
+    {
+      "name": "circumventive_bypass",
+      "symbol": "\\mathcal T_{\\mathrm{bypass}}",
+
+      "deep_form": "survival persists through alternative routing",
+
+      "characteristics": {
+        "A": "> 0",
+        "eta_stitch": "~ 0",
+        "penetration": "~ 0"
+      },
+
+      "interpretation": "The system preserves viability by routing around collapsed geometry rather than reopening it. Accessibility survives without reintegration."
+    },
+
+    {
+      "name": "local_penetration",
+      "symbol": "\\mathcal T_{\\mathrm{penetration}}",
+
+      "deep_form": "recovery enters collapse geometry locally",
+
+      "characteristics": {
+        "penetration": "> 0",
+        "g_cascade": "~ 0",
+        "A": "increasing"
+      },
+
+      "interpretation": "Recovery pressure locally overcomes collapse resistance, but recursive propagation remains insufficient for global reintegration."
+    },
+
+    {
+      "name": "stitching_reintegration",
+      "symbol": "\\mathcal T_{\\mathrm{stitch}}",
+
+      "deep_form": "previously separated accessibility regions reconnect",
+
+      "characteristics": {
+        "eta_stitch": "> 0",
+        "C_L": "decreasing",
+        "A": "increasing"
+      },
+
+      "interpretation": "Distinct viable regions reconnect through recoverable transport continuity and fragmented accessibility geometry partially heals."
+    },
+
+    {
+      "name": "partial_recursive_reintegration",
+      "symbol": "\\mathcal T_{\\mathrm{partial}}",
+
+      "deep_form": "reopening becomes recursively self-propagating locally",
+
+      "characteristics": {
+        "g_cascade": "> g_c",
+        "R_recursive": "0 < R < 1"
+      },
+
+      "interpretation": "Reintegration dynamics propagate recursively, but remain regionally bounded. The system contains mixed viability regimes."
+    },
+
+    {
+      "name": "global_recursive_reintegration",
+      "symbol": "\\mathcal T_{\\mathrm{global}}",
+
+      "deep_form": "recursive reopening propagates system-wide",
+
+      "characteristics": {
+        "A": "-> 1",
+        "C_L": "-> 0",
+        "R_recursive": "-> 1"
+      },
+
+      "interpretation": "Recursive reopening cascades through the entire system faster than collapse can re-propagate. Accessibility geometry globally re-stabilizes."
+    }
+
+  ],
+
+  "canonical_viability_trajectory": {
+    "formal_relation": "\\mathcal T_{\\mathrm{stable}} \\rightarrow \\mathcal T_{\\mathrm{compression}} \\rightarrow \\mathcal T_{\\mathrm{locked}} \\rightarrow \\mathcal T_{\\mathrm{bypass}} \\rightarrow \\mathcal T_{\\mathrm{penetration}} \\rightarrow \\mathcal T_{\\mathrm{stitch}} \\rightarrow \\mathcal T_{\\mathrm{partial}} \\rightarrow \\mathcal T_{\\mathrm{global}}",
+
+    "interpretation": "Recursive viability systems evolve through phase-organized accessibility transformation trajectories governed by the balance between recursive closure propagation and recursive reopening propagation."
+  },
+
+  "trajectory_mechanisms": {
+
+    "compression_dynamics": {
+      "mechanism": "curvature accumulation and accessibility narrowing",
+      "transition": "\\mathcal T_{\\mathrm{stable}} \\rightarrow \\mathcal T_{\\mathrm{compression}}"
+    },
+
+    "locking_dynamics": {
+      "mechanism": "recursive closure stabilization",
+      "transition": "\\mathcal T_{\\mathrm{compression}} \\rightarrow \\mathcal T_{\\mathrm{locked}}"
+    },
+
+    "bypass_dynamics": {
+      "mechanism": "adaptive rerouting around collapse basins",
+      "transition": "\\mathcal T_{\\mathrm{locked}} \\rightarrow \\mathcal T_{\\mathrm{bypass}}"
+    },
+
+    "penetration_dynamics": {
+      "mechanism": "localized collapse-basin breach",
+      "transition": "\\mathcal T_{\\mathrm{bypass}} \\rightarrow \\mathcal T_{\\mathrm{penetration}}"
+    },
+
+    "stitching_dynamics": {
+      "mechanism": "recoverable interface reconnection",
+      "transition": "\\mathcal T_{\\mathrm{penetration}} \\rightarrow \\mathcal T_{\\mathrm{stitch}}"
+    },
+
+    "recursive_cascade_dynamics": {
+      "mechanism": "self-amplifying reintegration propagation",
+      "transition": "\\mathcal T_{\\mathrm{stitch}} \\rightarrow \\mathcal T_{\\mathrm{partial}} \\rightarrow \\mathcal T_{\\mathrm{global}}"
+    }
+
+  },
+
+  "organizational_hierarchy": {
+
+    "continuity_preservation": {
+      "trajectory": "\\mathcal T_{\\mathrm{bypass}}",
+      "meaning": "survival through rerouting"
+    },
+
+    "local_recovery": {
+      "trajectory": "\\mathcal T_{\\mathrm{penetration}}",
+      "meaning": "localized reopening without recursive propagation"
+    },
+
+    "regional_reintegration": {
+      "trajectory": "\\mathcal T_{\\mathrm{partial}}",
+      "meaning": "bounded recursive reintegration"
+    },
+
+    "global_reintegration": {
+      "trajectory": "\\mathcal T_{\\mathrm{global}}",
+      "meaning": "system-wide recursive reopening"
+    }
+
+  },
+
+  "deep_consequences": [
+
+    "Recovery is a trajectory process rather than a static state.",
+
+    "Viability systems evolve through recurrent organizational accessibility patterns.",
+
+    "Collapse and reintegration emerge through competing recursive propagation dynamics.",
+
+    "Bypass routing permits survival without full reintegration.",
+
+    "Recursive reintegration emerges only above cascade propagation thresholds.",
+
+    "Global viability depends on recoverable accessibility propagation rather than local repair alone.",
+
+    "Accessibility geometry evolves through recursive transport, penetration, stitching, and reintegration dynamics."
+
+  ],
+
+  "repository_connections": [
+
+    "reintegration_phase_diagram_v1",
+    "curvature_induced_front_failure_v1",
+    "adaptive_bypass_routing_v1",
+    "dynamic_curvature_adaptation_v1",
+    "curvature_penetration_threshold_v1",
+    "recursive_reintegration_threshold_v1",
+    "recovery_front_propagation_v1",
+    "protected_recovery_fields_v1",
+    "corridor_percolation_principle_v1"
+
+  ]
+
+}
