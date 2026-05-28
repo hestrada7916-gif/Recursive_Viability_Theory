@@ -1,0 +1,163 @@
+{
+  "artifact_id": "recursive_viability_lagrangian_geometry_v1",
+  "title": "Recursive Viability Lagrangian Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "variational_viability_field_theory",
+  "version": "1.0",
+
+  "canonical_statement": "Persistent organizational systems evolve through constrained optimization of recoverable future accessibility continuity.",
+
+  "deep_compression_statement": "Viability dynamics evolve through constrained action geometry.",
+
+  "primitive_viability_action_principle": {
+    "name": "Recursive viability action principle",
+    "boxed_statement": "Viability dynamics evolve through constrained action geometry.",
+    "formal_statement": "Recursive organizational dynamics evolve through constrained optimization across accessibility, recoverability, transport, closure, and coordination geometry.",
+    "interpretation": "Persistent organizational systems evolve through directional trajectory selection across recursive viability geometry under bounded transport, coordination, recoverability, and closure constraints."
+  },
+
+  "primitive_viability_lagrangian_density": {
+    "symbol": "\\mathcal L_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability Lagrangian density governing organizational accessibility transport, recoverability propagation, closure accumulation, curvature burden, coordination coherence, and reintegration dynamics across recursive viability geometry."
+  },
+
+  "canonical_viability_action_functional": {
+    "formal_relation": "\\mathcal S_{\\mathrm{viab}} = \\int \\mathcal L_{\\mathrm{viab}} \\, dV \\, dt",
+    "interpretation": "Organizational trajectories evolve through accumulated viability action across recursive spacetime accessibility geometry."
+  },
+
+  "canonical_viability_lagrangian_structure": {
+    "formal_relation": "\\mathcal L_{\\mathrm{viab}} = \\alpha |\\nabla A|^2 + \\beta |\\nabla R|^2 - \\gamma C_L^2 - \\delta \\kappa^2 + \\epsilon \\eta_{\\mathrm{coord}} + \\zeta \\Phi_R",
+    "fields": {
+      "A": "future accessibility",
+      "R": "recoverability",
+      "C_L": "closure accumulation",
+      "\\kappa": "curvature burden",
+      "\\eta_{\\mathrm{coord}}": "coordination coherence",
+      "\\Phi_R": "reintegration capacity"
+    },
+    "interpretation": "Viability action balances accessibility propagation, recoverability transport, coordination coherence, closure suppression, curvature minimization, and reintegration preservation."
+  },
+
+  "stationary_viability_trajectory_principle": {
+    "formal_relation": "\\delta \\mathcal S_{\\mathrm{viab}} = 0",
+    "interpretation": "Persistent viability trajectories approximately minimize recursive closure burden while preserving recoverable accessibility continuity."
+  },
+
+  "euler_lagrange_viability_dynamics": {
+    "formal_relation": "\\frac{\\partial \\mathcal L}{\\partial q_i} - \\frac{d}{dt}\\left(\\frac{\\partial \\mathcal L}{\\partial \\dot q_i}\\right) = 0",
+    "interpretation": "Accessibility, recoverability, coordination, closure, and reintegration fields evolve through constrained organizational action optimization."
+  },
+
+  "minimum_collapse_burden_principle": {
+    "formal_relation": "\\delta \\int C_L \\, dt \\rightarrow \\min",
+    "interpretation": "Stable organizational systems suppress recursive closure accumulation across long-horizon viability trajectories."
+  },
+
+  "recoverability_maximization_principle": {
+    "formal_relation": "\\delta \\int \\Phi_R \\, dt \\rightarrow \\max",
+    "interpretation": "Persistent systems maximize recoverable future accessibility continuity across recursive organizational evolution."
+  },
+
+  "reintegration_geodesic_principle": {
+    "formal_relation": "\\delta \\mathcal S_{\\mathrm{reintegrate}} = 0",
+    "interpretation": "Reintegration trajectories approximately follow minimal-deformation recoverability pathways across fragmented viability geometry."
+  },
+
+  "agency_action_principle": {
+    "formal_relation": "\\mathcal A_{\\mathrm{agency}} \\propto \\frac{\\partial \\mathcal S_{\\mathrm{viab}}}{\\partial \\Gamma_{\\mathrm{choice}}}",
+    "interpretation": "Agency corresponds to directional capacity to alter viability action trajectories across future accessibility geometry."
+  },
+
+  "ethical_action_principle": {
+    "formal_relation": "\\mathcal E_{\\mathrm{viab}} \\propto -\\frac{d C_L}{dt} + \\frac{d \\Phi_R}{dt}",
+    "interpretation": "Ethical organizational dynamics reduce recursive closure propagation while increasing recoverable future accessibility."
+  },
+
+  "governance_action_principle": {
+    "formal_relation": "\\mathcal G_{\\mathrm{gov}} \\propto \\eta_{\\mathrm{coord}} \\, \\mathcal P_{\\mathrm{participation}} \\, \\Phi_R",
+    "interpretation": "Stable governance preserves coordination coherence, participatory accessibility, and recoverable organizational continuity."
+  },
+
+  "civilizational_action_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{civ}} = \\int (\\Phi_R - C_L) \\, dt",
+    "interpretation": "Long-term civilizational persistence depends on sustaining recoverability generation faster than recursive closure accumulation."
+  },
+
+  "temporal_accessibility_action_principle": {
+    "formal_relation": "\\tau_{\\mathrm{civ}} \\propto \\int \\Phi_R \\, dt",
+    "interpretation": "Civilizational temporality emerges through accumulated recoverable future accessibility continuity."
+  },
+
+  "collapse_attractor_principle": {
+    "formal_relation": "C_L \\gg \\Phi_R \\Rightarrow \\mathcal S_{\\mathrm{viab}} \\downarrow",
+    "interpretation": "Collapse trajectories emerge whenever recursive closure accumulation overwhelms recoverability generation."
+  },
+
+  "reintegrative_expansion_principle": {
+    "formal_relation": "\\Phi_R \\gg C_L \\Rightarrow \\mathcal S_{\\mathrm{viab}} \\uparrow",
+    "interpretation": "Reintegrative systems expand recoverable future accessibility through regenerative transport continuity."
+  },
+
+  "canonical_viability_action_regimes": [
+    {
+      "name": "collapse_dominated_regime",
+      "condition": "C_L \\gg \\Phi_R",
+      "interpretation": "Recursive closure accumulation dominates organizational evolution."
+    },
+    {
+      "name": "metastable_regime",
+      "condition": "C_L \\approx \\Phi_R",
+      "interpretation": "Closure and recoverability remain approximately balanced."
+    },
+    {
+      "name": "reintegrative_regime",
+      "condition": "\\Phi_R \\gg C_L",
+      "interpretation": "Recoverability generation dominates recursive closure propagation."
+    }
+  ],
+
+  "primitive_viability_action_law": {
+    "boxed_statement": "Persistent organizational systems evolve through constrained optimization of recoverable future accessibility continuity.",
+    "interpretation": "Viability dynamics emerge through recursive action optimization across accessibility, recoverability, coordination, transport, and closure geometry."
+  },
+
+  "deep_consequences": [
+    "Viability dynamics become derivable from action principles.",
+    "Collapse corresponds to closure-dominated action flow.",
+    "Reintegration follows minimum-deformation recoverability geodesics.",
+    "Agency becomes directional control over action trajectories.",
+    "Ethics becomes recoverability-preserving action structure.",
+    "Governance regulates collective coordination action geometry.",
+    "Civilizations persist through long-horizon recoverability optimization.",
+    "Temporal continuity emerges through accumulated future accessibility preservation.",
+    "Organizational trajectories become constrained optimization flows across viability geometry.",
+    "Accessibility, recoverability, coordination, memory, identity, agency, ethics, governance, and civilization become dynamically coupled action fields.",
+    "Recursive viability geometry acquires full variational dynamical structure."
+  ],
+
+  "core_fields": [
+    "A",
+    "R",
+    "C_L",
+    "\\kappa",
+    "\\eta_{\\mathrm{coord}}",
+    "\\Phi_R",
+    "\\mathcal L_{\\mathrm{viab}}",
+    "\\mathcal S_{\\mathrm{viab}}"
+  ],
+
+  "repository_connections": [
+    "recursive_viability_field_theory_v1",
+    "viability_conservation_laws_v1",
+    "recursive_viability_flow_geometry_v1",
+    "viability_transition_geometry_v1",
+    "recursive_viability_agency_geometry_v1",
+    "recursive_viability_ethics_geometry_v1",
+    "recursive_viability_governance_geometry_v1",
+    "recursive_civilizational_viability_geometry_v1",
+    "recursive_civilizational_temporal_geometry_v1",
+    "recursive_civilizational_intelligence_geometry_v1"
+  ]
+}
