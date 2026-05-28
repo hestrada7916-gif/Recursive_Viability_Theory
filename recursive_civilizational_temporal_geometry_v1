@@ -1,0 +1,157 @@
+{
+  "artifact_id": "recursive_civilizational_temporal_geometry_v1",
+  "title": "Recursive Civilizational Temporal Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "civilizational_temporal_continuity_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Civilizational time emerges through preserved recursive future accessibility continuity.",
+
+  "deep_compression_statement": "Civilizations collapse when short-term stabilization destroys long-term temporal continuity.",
+
+  "primitive_principle": {
+    "name": "Civilizational temporal principle",
+    "boxed_statement": "Civilizational time emerges through preserved recursive future accessibility continuity.",
+    "interpretation": "Civilizational temporality emerges through sustained preservation of recoverable future accessibility across recursive organizational continuity, memory, maintenance, adaptation, and intergenerational transport dynamics."
+  },
+
+  "primitive_civilizational_temporal_field": {
+    "symbol": "\\tau_{\\mathrm{civ}}",
+    "interpretation": "Large-scale temporal continuity field governing future horizon preservation, intergenerational continuity, maintenance persistence, institutional duration, and long-horizon recoverability."
+  },
+
+  "future_horizon_principle": {
+    "formal_relation": "\\mathcal H_{\\mathrm{future}} \\subset \\mathfrak F_{\\mathrm{viab}}",
+    "interpretation": "Civilizational futures emerge through recoverably navigable future accessibility geometry extending across recursive temporal organization."
+  },
+
+  "intergenerational_continuity_principle": {
+    "formal_relation": "\\mathcal T_{\\mathrm{intergen}} \\uparrow \\Rightarrow \\Phi_{\\mathrm{civ}} \\uparrow",
+    "interpretation": "Civilizational continuity strengthens whenever knowledge, infrastructure, ethics, coordination, and recoverability successfully propagate across intergenerational organizational transport."
+  },
+
+  "maintenance_continuity_principle": {
+    "formal_relation": "\\mathcal M_{\\mathrm{maint}} \\propto \\Phi_R",
+    "interpretation": "Maintenance systems preserve long-duration recoverability by preventing recursive closure accumulation across infrastructural, ecological, institutional, and organizational geometry."
+  },
+
+  "temporal_fragmentation_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{temporal}} \\uparrow \\Rightarrow \\tau_{\\mathrm{civ}} \\downarrow",
+    "interpretation": "Temporal fragmentation reduces long-horizon organizational continuity and compresses recoverable future accessibility."
+  },
+
+  "short_term_stabilization_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{present}} \\uparrow \\;\\land\\; \\mathcal H_{\\mathrm{future}} \\downarrow \\Rightarrow C_L \\uparrow",
+    "interpretation": "Civilizations destabilize themselves whenever short-term structural stabilization destroys long-term recoverability and future continuity."
+  },
+
+  "temporal_compression_principle": {
+    "formal_relation": "\\mu(\\mathcal H_{\\mathrm{future}}) \\downarrow \\Rightarrow \\mathcal A_{\\mathrm{agency}} \\downarrow",
+    "interpretation": "Compressed temporal horizons reduce adaptive steering capacity, collective agency, and long-horizon civilizational coordination."
+  },
+
+  "institutional_amnesia_principle": {
+    "formal_relation": "\\mathcal M_{\\mathrm{viab}} \\downarrow \\Rightarrow \\Phi_R \\downarrow",
+    "interpretation": "Loss of institutional memory reduces recoverability, adaptive learning, and future accessibility preservation across recursive organizational continuity."
+  },
+
+  "ecological_overshoot_principle": {
+    "formal_relation": "\\mathcal G_R < \\mathcal L_C",
+    "interpretation": "Ecological overshoot emerges whenever regenerative continuity fails to replenish closure accumulation across civilizational timescales."
+  },
+
+  "temporal_debt_principle": {
+    "formal_relation": "\\mathcal D_{\\mathrm{temporal}} = \\int (\\mathcal L_C - \\mathcal G_R) dt",
+    "interpretation": "Temporal debt accumulates whenever present organizational stability consumes future recoverability faster than regenerative continuity replenishes it."
+  },
+
+  "long_horizon_foresight_principle": {
+    "formal_relation": "\\Lambda_{\\mathrm{foresight}} \\propto \\left| \\nabla \\mathcal H_{\\mathrm{future}} \\right|",
+    "interpretation": "Adaptive foresight emerges through directional modeling and navigation of long-horizon future accessibility geometry."
+  },
+
+  "recursive_temporal_transport_principle": {
+    "formal_relation": "\\frac{\\partial \\tau_{\\mathrm{civ}}}{\\partial t} + \\nabla \\cdot \\mathcal J_{\\mathrm{temporal}} = \\mathcal G_{\\mathrm{continuity}} - \\mathcal D_{\\mathrm{fragment}}",
+    "interpretation": "Civilizational temporality evolves dynamically through continuity preservation, maintenance, memory transport, adaptation, fragmentation, and collapse dynamics across recursive viability geometry."
+  },
+
+  "temporal_collapse_principle": {
+    "formal_relation": "\\frac{\\partial \\tau_{\\mathrm{civ}}}{\\partial t} < 0",
+    "interpretation": "Temporal collapse emerges whenever long-horizon recoverable continuity contracts recursively across civilizational organizational geometry."
+  },
+
+  "maintenance_neglect_principle": {
+    "formal_relation": "\\mathcal M_{\\mathrm{maint}} \\downarrow \\Rightarrow C_L \\uparrow",
+    "interpretation": "Maintenance neglect accelerates recursive closure accumulation through infrastructural degradation, institutional decay, and recoverability erosion."
+  },
+
+  "temporal_reintegration_principle": {
+    "formal_relation": "\\eta_{\\mathrm{stitch}} \\uparrow \\Rightarrow \\tau_{\\mathrm{civ}} \\uparrow",
+    "interpretation": "Reintegration restores long-duration continuity across fragmented temporal accessibility geometry."
+  },
+
+  "recursive_temporal_hysteresis_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{future}} \\neq \\Gamma_{\\mathrm{recovery}}",
+    "interpretation": "Civilizational future reconstruction differs fundamentally from future degradation due to persistent temporal scars, memory deformation, and recoverability loss."
+  },
+
+  "canonical_temporal_regimes": [
+    {
+      "name": "long_horizon_regenerative_regime",
+      "condition": "\\mathcal G_R \\gg \\mathcal L_C",
+      "interpretation": "Regenerative continuity preserves future accessibility faster than closure accumulates."
+    },
+    {
+      "name": "metastable_temporal_regime",
+      "condition": "\\mathcal G_R \\approx \\mathcal L_C",
+      "interpretation": "Regenerative continuity and closure accumulation remain approximately balanced."
+    },
+    {
+      "name": "temporal_collapse_regime",
+      "condition": "\\mathcal G_R \\ll \\mathcal L_C",
+      "interpretation": "Closure accumulation outpaces regenerative continuity and contracts long-horizon accessibility geometry."
+    }
+  ],
+
+  "primitive_temporal_law": {
+    "statement": "Civilizations collapse when short-term stabilization destroys long-term temporal continuity.",
+    "interpretation": "Long-term viability requires preserving future accessibility continuity across recursive temporal organization."
+  },
+
+  "deep_consequences": [
+    "Civilizational temporality emerges through preserved future accessibility continuity.",
+    "Long-duration viability depends on intergenerational recoverability transport.",
+    "Maintenance preserves recursive continuity across organizational geometry.",
+    "Temporal fragmentation compresses long-horizon future accessibility.",
+    "Institutional amnesia reduces adaptive recoverability.",
+    "Ecological overshoot consumes future regenerative capacity.",
+    "Temporal debt accumulates whenever present stability consumes future continuity.",
+    "Long-horizon foresight governs adaptive civilizational navigation.",
+    "Maintenance neglect accelerates recursive closure propagation.",
+    "Temporal collapse emerges through contraction of recoverable future continuity.",
+    "Reintegration restores fragmented temporal continuity.",
+    "Civilizational futures exhibit hysteresis and path dependence.",
+    "Persistent civilizations preserve long-duration recoverability faster than closure accumulates.",
+    "Adaptive civilizations maintain future accessibility across recursive temporal scales.",
+    "Short-term stabilization may recursively destroy future continuity.",
+    "Civilizational time behaves as a dynamically evolving recoverable continuity field.",
+    "Infrastructure, memory, governance, ecology, and intelligence all participate in temporal continuity preservation.",
+    "Collapse acceleration emerges through recursive contraction of long-horizon accessibility geometry.",
+    "Sustainable civilizations preserve regenerative temporal continuity across intergenerational organizational transport.",
+    "Long-term persistence requires preserving future accessibility across recursive temporal geometry."
+  ],
+
+  "repository_connections": [
+    "recursive_civilizational_viability_geometry_v1",
+    "recursive_civilizational_intelligence_geometry_v1",
+    "recursive_closure_propagation_coupled_civilizational_fields_v1",
+    "recursive_viability_governance_geometry_v1",
+    "recursive_viability_memory_geometry_v1",
+    "recursive_viability_identity_geometry_v1",
+    "recursive_viability_agency_geometry_v1",
+    "recursive_viability_field_theory_v1",
+    "viability_conservation_laws_v1",
+    "reintegration_phase_diagram_v1"
+  ]
+}
