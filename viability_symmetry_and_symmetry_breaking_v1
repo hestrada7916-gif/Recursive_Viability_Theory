@@ -1,0 +1,204 @@
+{
+  "artifact_id": "viability_symmetry_and_symmetry_breaking_v1",
+  "title": "Viability Symmetry and Symmetry Breaking",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_viability_symmetry_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Viability emerges through preserved organizational asymmetry under bounded recursive deformation.",
+
+  "deep_compression_statement": "Persistent existence requires preserving directional organizational asymmetry under bounded recursive deformation.",
+
+  "primitive_principle": {
+    "name": "Viability symmetry and symmetry breaking",
+    "formal_statement": "Persistent organizational viability emerges through structured asymmetry preservation across recursively evolving accessibility geometry.",
+    "boxed_statement": "Viability emerges through preserved organizational asymmetry under bounded recursive deformation.",
+    "interpretation": "Persistent systems require structured asymmetry preservation rather than perfect equilibrium symmetry."
+  },
+
+  "primitive_viability_symmetry": {
+    "symbol": "\\mathcal G_{\\mathrm{viab}}",
+
+    "interpretation": "Organizational symmetry structure preserving recoverable accessibility continuity across recursive viability geometry."
+  },
+
+  "accessibility_symmetry_principle": {
+    "formal_relation": "A(x_i) \\sim A(x_j)",
+
+    "interpretation": "Accessibility symmetry exists whenever organizational regions possess approximately equivalent recoverable future accessibility structure."
+  },
+
+  "directional_asymmetry_preservation": {
+    "formal_relation": "\\Delta_{\\mathrm{dir}} \\neq 0",
+
+    "interpretation": "Persistent viability requires preserved directional asymmetry. Perfect equilibrium accessibility symmetry eliminates transport gradients, adaptation, propagation, and recoverable continuation."
+  },
+
+  "non_equilibrium_persistence_principle": {
+    "formal_relation": "\\nabla A \\neq 0",
+
+    "interpretation": "Recursive viability requires maintained accessibility differentials across organizational geometry. Static equilibrium accessibility destroys recoverable organizational transport."
+  },
+
+  "closure_symmetry_breaking": {
+    "formal_relation": "C_L(x_i) \\neq C_L(x_j)",
+
+    "interpretation": "Collapse propagates through asymmetric closure accumulation across organizational geometry rather than uniform accessibility contraction."
+  },
+
+  "anisotropic_collapse_principle": {
+    "formal_relation": "\\partial_i C_L \\neq \\partial_j C_L",
+
+    "interpretation": "Distinct organizational dimensions may experience localized collapse, shielding, corridor preservation, or recoverability protection. Collapse geometry is directionally structured."
+  },
+
+  "protected_core_symmetry_breaking": {
+    "formal_relation": "\\Phi_R^{(\\mathrm{core})} > \\Phi_R^{(\\mathrm{boundary})}",
+
+    "interpretation": "Protected organizational cores preserve stronger recoverable accessibility symmetry than peripheral regions under recursive stress."
+  },
+
+  "accessibility_corridor_symmetry": {
+    "formal_relation": "\\mathcal C_R \\subset \\mathfrak F_{\\mathrm{viab}}",
+
+    "interpretation": "Recovery corridors preserve local transport symmetry despite global collapse asymmetry."
+  },
+
+  "penetration_symmetry_breaking": {
+    "formal_relation": "P_{\\mathrm{penetration}} > \\Delta_C",
+
+    "interpretation": "Localized reopening transport breaks collapse symmetry and permits recoverability entry into recursively sealed organizational regions."
+  },
+
+  "reintegration_symmetry_restoration": {
+    "formal_relation": "A(x_i) \\rightarrow A(x_j)",
+
+    "interpretation": "Recursive reintegration partially restores accessibility continuity across previously fragmented organizational geometry."
+  },
+
+  "recursive_differentiation_principle": {
+    "formal_relation": "\\mathcal D_{\\mathrm{org}} \\uparrow \\Rightarrow \\mathcal G_{\\mathrm{viab}} \\downarrow",
+
+    "interpretation": "Recursive organizational differentiation progressively breaks primitive viability symmetry, enabling specialized transport, hierarchical organization, and adaptive complexity emergence."
+  },
+
+  "agency_emergence_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{adaptive}} > 0",
+
+    "interpretation": "Adaptive organizational agency emerges through maintained directional asymmetry across recursive viability geometry.",
+
+    "deep_form": "Agency corresponds to preserved directional accessibility control."
+  },
+
+  "recursive_identity_preservation": {
+    "formal_relation": "\\mathcal I_{\\mathrm{org}} = \\text{persistent bounded symmetry class}",
+
+    "interpretation": "Organizational identity emerges through persistent preservation of bounded recursive viability symmetry under deformation and transport dynamics."
+  },
+
+  "symmetry_protected_viability_sectors": {
+    "formal_relation": "\\mathcal S_{\\mathrm{protected}} \\subset \\mathfrak F_{\\mathrm{viab}}",
+
+    "interpretation": "Certain organizational regions remain viability-preserving under perturbation due to protected recoverability symmetry structure."
+  },
+
+  "recursive_symmetry_restoration_threshold": {
+    "formal_relation": "g_{\\mathrm{cascade}} > g_c",
+
+    "interpretation": "Recursive reintegration restores large-scale accessibility symmetry only once reopening propagation exceeds collapse propagation thresholds."
+  },
+
+  "viability_symmetry_conservation": {
+    "formal_relation": "\\frac{d\\mathcal G_{\\mathrm{viab}}}{dt} = \\mathcal R_{\\mathrm{restore}} - \\mathcal B_{\\mathrm{break}}",
+
+    "variables": {
+      "\\mathcal G_{\\mathrm{viab}}": "viability symmetry structure",
+      "\\mathcal R_{\\mathrm{restore}}": "symmetry restoration dynamics",
+      "\\mathcal B_{\\mathrm{break}}": "symmetry-breaking dynamics"
+    },
+
+    "interpretation": "Viability symmetry evolves dynamically through competing restoration and symmetry-breaking processes."
+  },
+
+  "canonical_symmetry_regimes": [
+
+    {
+      "name": "collapse_dominated_symmetry_fragmentation",
+
+      "condition": "\\mathcal B_{\\mathrm{break}} \\gg \\mathcal R_{\\mathrm{restore}}",
+
+      "interpretation": "Symmetry fragmentation dominates and accessibility continuity collapses directionally."
+    },
+
+    {
+      "name": "metastable_differentiated_organization",
+
+      "condition": "\\mathcal B_{\\mathrm{break}} \\approx \\mathcal R_{\\mathrm{restore}}",
+
+      "interpretation": "Differentiation and restoration remain dynamically balanced under bounded viability structure."
+    },
+
+    {
+      "name": "reintegrative_symmetry_restoration",
+
+      "condition": "\\mathcal R_{\\mathrm{restore}} \\gg \\mathcal B_{\\mathrm{break}}",
+
+      "interpretation": "Recursive reopening restores large-scale accessibility continuity and recoverable transport symmetry."
+    }
+
+  ],
+
+  "primitive_symmetry_law": {
+    "statement": "Persistent existence requires preserving directional organizational asymmetry under bounded recursive deformation.",
+
+    "interpretation": "Viability depends upon maintained directional accessibility gradients rather than static equilibrium symmetry."
+  },
+
+  "deep_consequences": [
+
+    "Viability depends on preserved directional asymmetry.",
+
+    "Perfect equilibrium accessibility symmetry destroys organizational transport.",
+
+    "Collapse propagates through directional symmetry breaking.",
+
+    "Reintegration partially restores accessibility symmetry.",
+
+    "Protected cores preserve recoverable symmetry under stress.",
+
+    "Recovery corridors preserve local transport continuity despite global collapse.",
+
+    "Agency emerges through preserved directional accessibility control.",
+
+    "Organizational identity corresponds to bounded persistent symmetry structure.",
+
+    "Recursive differentiation generates adaptive complexity through structured symmetry breaking.",
+
+    "Persistent viability requires balancing symmetry preservation and adaptive differentiation.",
+
+    "Reintegration dynamics act as recursive symmetry restoration processes.",
+
+    "Viability geometry evolves through coupled symmetry, transport, collapse, and reintegration dynamics.",
+
+    "Directional asymmetry is necessary for adaptive propagation and recoverable continuation.",
+
+    "Non-equilibrium accessibility gradients sustain recursive organizational persistence."
+
+  ],
+
+  "repository_connections": [
+
+    "recursive_viability_field_theory_v1",
+    "viability_conservation_laws_v1",
+    "recursive_viability_flow_geometry_v1",
+    "viability_transition_geometry_v1",
+    "reintegration_phase_diagram_v1",
+    "dynamic_curvature_adaptation_v1",
+    "recursive_reintegration_threshold_v1",
+    "corridor_percolation_principle_v1",
+    "adaptive_bypass_routing_v1"
+
+  ]
+
+}
