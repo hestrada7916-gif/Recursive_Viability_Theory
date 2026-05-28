@@ -1,0 +1,235 @@
+{
+  "artifact_id": "recursive_viability_governance_geometry_v1",
+  "title": "Recursive Viability Governance Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_governance_accessibility_field_theory",
+  "version": "1.0",
+
+  "canonical_statement": "Governance regulates collective future accessibility under recursive coordination constraints.",
+
+  "deep_compression_statement": "Governance preserves participatory future accessibility through recoverable coordination continuity.",
+
+  "primitive_governance_principle": {
+    "name": "Recursive viability governance geometry",
+
+    "formal_statement": "Recursive organizational governance emerges through structures, processes, and coordination dynamics that regulate collective future accessibility, participation, recoverability, and organizational continuity across recursive viability geometry.",
+
+    "boxed_statement": "Governance regulates collective future accessibility under recursive coordination constraints.",
+
+    "interpretation": "Governance corresponds to regulation of collective accessibility, coordination continuity, and recoverable organizational participation."
+  },
+
+  "primitive_governance_field": {
+    "symbol": "\\mathcal G_{\\mathrm{gov}}",
+
+    "interpretation": "Organizational field governing collective coordination, participation regulation, accessibility allocation, constraint management, and recoverable organizational continuity."
+  },
+
+  "collective_accessibility_principle": {
+    "formal_relation": "\\mathcal U_{\\mathrm{collective}} \\subset \\mathfrak F_{\\mathrm{viab}}",
+
+    "interpretation": "Governance regulates the collective future accessibility space available to interacting organizational agents."
+  },
+
+  "participation_preservation_principle": {
+    "formal_relation": "\\mathcal P_{\\mathrm{participation}} \\uparrow \\Rightarrow \\Phi_{\\mathrm{collective}} \\uparrow",
+
+    "interpretation": "Collective viability increases whenever organizational systems preserve recoverable participation across distributed coordination geometry."
+  },
+
+  "governance_legitimacy_principle": {
+    "symbol": "\\Lambda_{\\mathrm{legit}}",
+
+    "formal_relation": "\\Lambda_{\\mathrm{legit}} \\propto \\Phi_R \\, \\eta_{\\mathrm{coord}} \\, \\mathcal P_{\\mathrm{participation}}",
+
+    "variables": {
+      "\\Phi_R": "recoverability and reintegration capacity",
+      "\\eta_{\\mathrm{coord}}": "coordination efficiency",
+      "\\mathcal P_{\\mathrm{participation}}": "participatory accessibility"
+    },
+
+    "interpretation": "Governance legitimacy emerges through recoverability preservation, effective coordination, and sustained participatory accessibility."
+  },
+
+  "authoritarian_compression_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{authoritarian}} \\uparrow \\Rightarrow \\mu(\\mathcal U_{\\mathrm{collective}}) \\downarrow",
+
+    "interpretation": "Authoritarian governance compresses collective future accessibility through coercive restriction of participation, coordination, and adaptive steering capacity."
+  },
+
+  "governance_collapse_principle": {
+    "formal_relation": "C_L \\uparrow \\Rightarrow \\mathcal G_{\\mathrm{gov}} \\downarrow",
+
+    "interpretation": "Closure accumulation degrades governance viability through reduced recoverability, reduced coordination capacity, and increasing organizational fragmentation."
+  },
+
+  "adaptive_governance_principle": {
+    "formal_relation": "\\nabla \\mathcal U_{\\mathrm{collective}} \\neq 0",
+
+    "interpretation": "Adaptive governance requires the ability to directionally steer collective future accessibility across changing organizational conditions."
+  },
+
+  "distributed_coordination_principle": {
+    "formal_relation": "\\eta_{\\mathrm{coord}} \\uparrow \\Rightarrow \\mathcal A_{\\mathrm{collective}} \\uparrow",
+
+    "interpretation": "Collective agency expands whenever distributed coordination preserves coherent recoverable accessibility geometry."
+  },
+
+  "governance_fragmentation_principle": {
+    "formal_relation": "\\pi_0(\\mathcal T_{\\mathrm{viab}}) \\uparrow \\Rightarrow \\mathcal G_{\\mathrm{gov}} \\downarrow",
+
+    "interpretation": "Governance fragmentation increases whenever organizational connectivity ruptures into disconnected accessibility sectors."
+  },
+
+  "infrastructure_preservation_principle": {
+    "formal_relation": "\\mathcal I_{\\mathrm{infra}} \\propto \\Phi_R",
+
+    "interpretation": "Infrastructure preserves recoverable transport continuity, coordination capacity, and future accessibility across organizational geometry."
+  },
+
+  "governance_memory_principle": {
+    "formal_relation": "\\mathcal G_{\\mathrm{gov}} \\leftrightarrow \\mathcal M_{\\mathrm{viab}}",
+
+    "interpretation": "Governance systems inherit path dependence through persistent organizational memory geometry, institutional scars, and prior coordination deformation."
+  },
+
+  "institutional_rigidity_principle": {
+    "formal_relation": "\\kappa_{\\mathrm{institutional}} \\uparrow \\Rightarrow \\Phi_R \\downarrow",
+
+    "interpretation": "Excessive institutional rigidity accumulates organizational curvature burden and reduces adaptive recoverability."
+  },
+
+  "stewardship_governance_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{governance}} \\propto \\Delta A_{\\mathrm{future}}",
+
+    "interpretation": "Stewardship-oriented governance expands recoverable future accessibility and preserves long-term organizational viability."
+  },
+
+  "extractive_governance_principle": {
+    "formal_relation": "\\mathcal X_{\\mathrm{governance}} \\uparrow \\Rightarrow \\mathcal D_{\\mathrm{ethical}} \\uparrow",
+
+    "interpretation": "Extractive governance accumulates ethical debt through persistent accessibility compression and recoverability degradation."
+  },
+
+  "collective_intelligence_principle": {
+    "formal_relation": "\\mathcal I_{\\mathrm{collective}} \\propto \\eta_{\\mathrm{coord}} \\, \\mathcal P_{\\mathrm{participation}}",
+
+    "interpretation": "Collective intelligence emerges through coordinated participation across distributed accessibility geometry."
+  },
+
+  "recursive_governance_transport_principle": {
+    "formal_relation": "\\frac{\\partial \\mathcal G_{\\mathrm{gov}}}{\\partial t} + \\nabla \\cdot \\mathcal J_{\\mathrm{gov}} = \\mathcal G_{\\mathrm{preserve}} - \\mathcal D_{\\mathrm{collapse}}",
+
+    "variables": {
+      "\\mathcal G_{\\mathrm{gov}}": "governance field",
+      "\\mathcal J_{\\mathrm{gov}}": "governance transport current",
+      "\\mathcal G_{\\mathrm{preserve}}": "governance preservation and regeneration",
+      "\\mathcal D_{\\mathrm{collapse}}": "governance degradation and collapse accumulation"
+    },
+
+    "interpretation": "Governance evolves dynamically through transport, coordination, preservation, fragmentation, repair, and collapse processes across recursive viability geometry."
+  },
+
+  "governance_hysteresis_principle": {
+    "formal_relation": "\\Gamma_{\\mathrm{collapse}} \\neq \\Gamma_{\\mathrm{recovery}}",
+
+    "interpretation": "Institutional recovery trajectories differ from institutional collapse trajectories due to persistent governance memory, topological fragmentation, and recoverability loss."
+  },
+
+  "canonical_governance_regimes": [
+
+    {
+      "name": "adaptive_governance_regime",
+
+      "condition": "\\Phi_R \\gg C_L",
+
+      "interpretation": "Recoverability and coordination continuity dominate closure accumulation, allowing adaptive participatory governance."
+    },
+
+    {
+      "name": "metastable_governance_regime",
+
+      "condition": "\\Phi_R \\approx C_L",
+
+      "interpretation": "Governance remains temporarily stable while closure burden and recoverability remain approximately balanced."
+    },
+
+    {
+      "name": "authoritarian_collapse_regime",
+
+      "condition": "\\Phi_R \\ll C_L",
+
+      "interpretation": "Closure accumulation dominates recoverability, compressing participation and reducing collective future accessibility."
+    }
+
+  ],
+
+  "primitive_governance_law": {
+    "statement": "Governance regulates collective future accessibility under recursive coordination constraints.",
+
+    "interpretation": "Long-term governance viability depends on preserving recoverable participation and collective coordination continuity under bounded organizational constraints."
+  },
+
+  "deep_consequences": [
+
+    "Governance regulates collective future accessibility.",
+
+    "Participation preservation stabilizes collective viability.",
+
+    "Governance legitimacy depends on recoverability and coordination preservation.",
+
+    "Authoritarian systems compress collective future accessibility.",
+
+    "Governance collapse emerges through accumulated closure and fragmentation.",
+
+    "Infrastructure preserves transport continuity across organizational geometry.",
+
+    "Institutional rigidity reduces adaptive recoverability.",
+
+    "Extractive governance accumulates ethical debt.",
+
+    "Collective intelligence emerges through distributed participation and coordination.",
+
+    "Governance systems inherit organizational memory and path dependence.",
+
+    "Adaptive governance requires directional future-space steering capacity.",
+
+    "Fragmentation degrades governance continuity and coordination coherence.",
+
+    "Stewardship governance expands long-term future accessibility.",
+
+    "Governance recovery exhibits hysteresis and topological deformation.",
+
+    "Persistent civilization-scale viability depends on recoverable coordination continuity.",
+
+    "Governance dynamics evolve through coupled agency, ethics, memory, identity, transport, and recoverability geometry.",
+
+    "Systems preserve long-term viability by preserving participatory accessibility rather than compressing it.",
+
+    "Governance failure emerges whenever systems preserve structure by compressing participation.",
+
+    "Collective governance behaves as a recursive accessibility regulation system.",
+
+    "Stable governance requires balancing coordination coherence with participatory openness.",
+
+    "Institutional collapse emerges when closure propagation outpaces participatory recoverability regeneration."
+
+  ],
+
+  "repository_connections": [
+
+    "recursive_viability_ethics_geometry_v1",
+    "recursive_viability_agency_geometry_v1",
+    "recursive_viability_identity_geometry_v1",
+    "recursive_viability_memory_geometry_v1",
+    "recursive_viability_field_theory_v1",
+    "recursive_viability_flow_geometry_v1",
+    "viability_transition_geometry_v1",
+    "viability_conservation_laws_v1",
+    "topological_viability_defects_v1",
+    "reintegration_phase_diagram_v1"
+
+  ]
+
+}
