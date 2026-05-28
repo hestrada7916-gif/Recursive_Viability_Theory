@@ -1,0 +1,228 @@
+{
+  "artifact_id": "viability_conservation_laws_v1",
+  "title": "Viability Conservation Laws",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_viability_conservation_dynamics",
+  "version": "1.0",
+
+  "canonical_statement": "Viability changes through accountable transformations of accessibility, closure, recoverability, and transport fields.",
+
+  "deep_compression_statement": "Viability evolves through conserved, transported, generated, dissipated, and recursively transformed accessibility structure.",
+
+  "primitive_principle": {
+    "name": "Viability conservation laws",
+    "formal_statement": "Recursive organizational viability evolves through transport, conversion, dissipation, locking, reopening, and reintegration across recursively coupled organizational fields.",
+    "boxed_statement": "Viability changes through accountable transformations of accessibility, closure, recoverability, and transport fields.",
+    "interpretation": "Recursive viability dynamics evolve through structured field transformations rather than arbitrary state change."
+  },
+
+  "primitive_viability_conservation_law": {
+    "formal_relation": "\\frac{d}{dt}(A + R) = \\mathcal G_R - \\mathcal L_C",
+
+    "variables": {
+      "A": "future accessibility",
+      "R": "recoverability",
+      "\\mathcal G_R": "recoverability generation",
+      "\\mathcal L_C": "closure-induced viability loss"
+    },
+
+    "interpretation": "Recoverable accessibility evolves through competing reopening generation and closure dissipation dynamics."
+  },
+
+  "accessibility_flux_conservation": {
+    "formal_relation": "\\frac{\\partial A}{\\partial t} + \\nabla \\cdot \\mathcal J_A = \\mathcal S_R - \\mathcal S_C",
+
+    "variables": {
+      "A": "future accessibility field",
+      "\\mathcal J_A": "accessibility transport current",
+      "\\mathcal S_R": "reopening source generation",
+      "\\mathcal S_C": "closure sink accumulation"
+    },
+
+    "interpretation": "Accessibility cannot change without transport, source generation, or sink accumulation."
+  },
+
+  "recoverability_transport_conservation": {
+    "formal_relation": "\\frac{\\partial R}{\\partial t} + \\nabla \\cdot \\mathcal J_R = \\mathcal G_R - \\mathcal D_R",
+
+    "variables": {
+      "R": "recoverability field",
+      "\\mathcal J_R": "recoverability transport current",
+      "\\mathcal G_R": "recoverability generation",
+      "\\mathcal D_R": "recoverability dissipation"
+    },
+
+    "interpretation": "Recoverability is transported, generated, dissipated, or recursively propagated across organizational geometry."
+  },
+
+  "closure_accumulation_conservation": {
+    "formal_relation": "\\frac{\\partial C_L}{\\partial t} = \\mathcal G_C - \\mathcal D_C",
+
+    "variables": {
+      "C_L": "collapse locking field",
+      "\\mathcal G_C": "closure generation",
+      "\\mathcal D_C": "closure dissipation"
+    },
+
+    "interpretation": "Closure accumulates through curvature, stress, fragmentation, and transport interruption while dissipating through reopening and reintegration."
+  },
+
+  "curvature_burden_conservation": {
+    "formal_relation": "\\frac{\\partial \\kappa}{\\partial t} + \\nabla \\cdot \\mathcal J_\\kappa = \\mathcal G_\\kappa - \\mathcal D_\\kappa",
+
+    "variables": {
+      "\\kappa": "curvature burden field",
+      "\\mathcal J_\\kappa": "curvature transport current",
+      "\\mathcal G_\\kappa": "curvature generation",
+      "\\mathcal D_\\kappa": "curvature dissipation"
+    },
+
+    "interpretation": "Curvature burden propagates through organizational geometry via transport, diffusion, amplification, and dissipation."
+  },
+
+  "reintegration_gain_principle": {
+    "formal_relation": "\\mathcal G_R \\propto \\eta_{\\mathrm{stitch}} \\, g_{\\mathrm{cascade}}",
+
+    "variables": {
+      "\\mathcal G_R": "recoverability generation",
+      "\\eta_{\\mathrm{stitch}}": "stitching efficiency",
+      "g_{\\mathrm{cascade}}": "recursive reintegration gain"
+    },
+
+    "interpretation": "Recursive reintegration gain emerges through successful interface stitching together with recursively propagating reopening dynamics."
+  },
+
+  "locked_accessibility_principle": {
+    "formal_relation": "A_{\\mathrm{locked}} \\neq 0",
+
+    "interpretation": "Accessibility lost to collapse is not annihilated but may remain compressed, isolated, fragmented, or recursively sealed."
+  },
+
+  "recoverability_dissipation_principle": {
+    "formal_relation": "\\mathcal D_R \\uparrow \\Rightarrow R \\downarrow",
+
+    "interpretation": "Recoverability decays under persistent closure, fragmentation, transport interruption, or curvature amplification."
+  },
+
+  "recursive_viability_efficiency": {
+    "symbol": "\\eta_{\\mathrm{viab}}",
+
+    "formal_relation": "\\eta_{\\mathrm{viab}} = \\frac{\\mathcal G_R}{\\mathcal G_R + \\mathcal L_C}",
+
+    "variables": {
+      "\\eta_{\\mathrm{viab}}": "recursive viability efficiency",
+      "\\mathcal G_R": "recoverability generation",
+      "\\mathcal L_C": "closure-induced viability loss"
+    },
+
+    "interpretation": "Viability efficiency measures the fraction of organizational dynamics contributing to regenerative reopening rather than closure accumulation."
+  },
+
+  "accessibility_conversion_principle": {
+    "formal_statement": "Accessibility may convert between viable, latent, fragmented, and recoverable organizational forms.",
+
+    "interpretation": "Viability fields evolve through accessibility transformation rather than binary existence/nonexistence transitions."
+  },
+
+  "recursive_viability_balance_law": {
+    "formal_relation": "\\mathcal G_R \\sim \\mathcal L_C",
+
+    "interpretation": "Long-term viability requires approximate balance between reopening generation and closure accumulation across organizational geometry."
+  },
+
+  "collapse_irreversibility_threshold": {
+    "formal_relation": "\\int \\mathcal L_C \\, dt \\gg \\int \\mathcal G_R \\, dt",
+
+    "interpretation": "Collapse becomes effectively irreversible whenever cumulative closure accumulation vastly exceeds recoverable reopening capacity."
+  },
+
+  "recursive_reintegration_conservation": {
+    "formal_relation": "R_{\\mathrm{recursive}} = \\int \\mathcal G_R \\, \\eta_{\\mathrm{stitch}} \\, dt",
+
+    "variables": {
+      "R_{\\mathrm{recursive}}": "recursive reintegration accumulation",
+      "\\mathcal G_R": "recoverability generation",
+      "\\eta_{\\mathrm{stitch}}": "stitching efficiency"
+    },
+
+    "interpretation": "Recursive reintegration accumulates through sustained recoverability generation and successful transport stitching across fragmented accessibility geometry."
+  },
+
+  "canonical_conservation_regimes": [
+
+    {
+      "name": "collapse_dominated_regime",
+
+      "condition": "\\mathcal G_R \\ll \\mathcal L_C",
+
+      "interpretation": "Closure accumulation dominates reopening generation and accessibility contracts recursively."
+    },
+
+    {
+      "name": "metastable_regime",
+
+      "condition": "\\mathcal G_R \\approx \\mathcal L_C",
+
+      "interpretation": "Reopening generation and closure accumulation remain approximately balanced."
+    },
+
+    {
+      "name": "reintegrative_regime",
+
+      "condition": "\\mathcal G_R \\gg \\mathcal L_C",
+
+      "interpretation": "Reopening generation dominates closure accumulation and recursive reintegration expands accessibility geometry."
+    }
+
+  ],
+
+  "primitive_conservation_law": {
+    "statement": "Viability evolves through conserved, transported, generated, dissipated, and recursively transformed accessibility structure.",
+
+    "interpretation": "Organizational viability evolves through accountable field transformations rather than arbitrary emergence or disappearance."
+  },
+
+  "deep_consequences": [
+
+    "Accessibility evolves through accountable transport dynamics.",
+
+    "Recoverability is transported rather than instantaneously created or destroyed.",
+
+    "Closure accumulates through recursively propagating burden.",
+
+    "Reintegration gain depends on stitching efficiency and cascade amplification.",
+
+    "Collapse irreversibility emerges through cumulative closure accumulation.",
+
+    "Organizational viability depends on regenerative transport continuity.",
+
+    "Accessibility may remain latent even under collapse conditions.",
+
+    "Viability fields evolve through coupled conservation and dissipation dynamics.",
+
+    "Reintegration emerges through sustained recoverability generation exceeding closure accumulation.",
+
+    "Persistent existence requires continuous regenerative accessibility conservation.",
+
+    "Viability dynamics obey transport, source, sink, and dissipation structure analogous to coupled field systems.",
+
+    "Collapse corresponds to closure accumulation exceeding regenerative recoverability transport."
+
+  ],
+
+  "repository_connections": [
+
+    "recursive_viability_field_theory_v1",
+    "recursive_viability_flow_geometry_v1",
+    "viability_transition_geometry_v1",
+    "reintegration_phase_diagram_v1",
+    "recursive_reintegration_threshold_v1",
+    "dynamic_curvature_adaptation_v1",
+    "recovery_front_propagation_v1",
+    "corridor_percolation_principle_v1",
+    "curvature_induced_front_failure_v1"
+
+  ]
+
+}
