@@ -1,0 +1,225 @@
+{
+  "artifact_id": "reintegration_phase_diagram_v1",
+  "title": "Reintegration Phase Diagram",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_reintegration_phase_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Recursive reintegration unfolds through phase-organized accessibility recovery governed by collapse locking, curvature burden, stitching continuity, penetration propagation, and recursive cascade amplification.",
+
+  "deep_compression_statement": "Reintegration emerges when reopening outpaces recursive closure.",
+
+  "primitive_principle": {
+    "name": "Reintegration phase organization",
+    "formal_relation": "\\mathcal P_{\\mathrm{reintegration}} = f(A, C_L, \\kappa, \\eta_{\\mathrm{stitch}}, g_{\\mathrm{cascade}})",
+    "interpretation": "Recovery systems organize into qualitative reintegration regimes depending on whether accessibility reopening dynamics overcome recursive closure dynamics across viability geometry.",
+    "deep_form": "Recovery is phase-organized reopening geometry."
+  },
+
+  "phase_coordinates": {
+
+    "global_accessibility": {
+      "symbol": "A",
+      "interpretation": "Global future accessibility across organizational geometry."
+    },
+
+    "collapse_locking": {
+      "symbol": "C_L",
+      "interpretation": "Recursive closure burden resisting reopenability."
+    },
+
+    "curvature_burden": {
+      "symbol": "\\kappa",
+      "interpretation": "Accessibility deformation burden suppressing propagation."
+    },
+
+    "front_stitching_efficiency": {
+      "symbol": "\\eta_{\\mathrm{stitch}}",
+      "interpretation": "Efficiency of recovery front continuity and interface merging."
+    },
+
+    "recursive_cascade_gain": {
+      "symbol": "g_{\\mathrm{cascade}}",
+      "interpretation": "Recursive amplification of reintegration propagation."
+    }
+
+  },
+
+  "compressed_reintegration_coordinate": {
+
+    "symbol": "\\Phi_R",
+
+    "formal_relation": "\\Phi_R = \\frac{A(\\eta_{\\mathrm{stitch}} + P_{\\mathrm{penetration}})(1 + R_{\\mathrm{recursive}})}{(1 + C_L)(1 + \\kappa)}",
+
+    "variables": {
+
+      "A": "global accessibility",
+
+      "\\eta_{\\mathrm{stitch}}": "front stitching efficiency",
+
+      "P_{\\mathrm{penetration}}": "penetrated accessibility fraction",
+
+      "R_{\\mathrm{recursive}}": "recursive reintegration fraction",
+
+      "C_L": "collapse locking",
+
+      "\\kappa": "curvature burden"
+
+    },
+
+    "interpretation": "Reintegration viability increases through accessibility expansion, successful penetration, stitching continuity, and recursive propagation while decreasing under closure burden and curvature accumulation."
+  },
+
+  "canonical_regimes": [
+
+    {
+      "name": "locked_collapse",
+      "conditions": {
+        "A": "< 0.10",
+        "C_L": "> 0.80",
+        "\\kappa": "> 0.50"
+      },
+      "deep_form": "closure outruns reopening",
+      "interpretation": "Accessibility closure remains dominant and recovery propagation fails."
+    },
+
+    {
+      "name": "circumventive_bypass",
+      "conditions": {
+        "A": "> 0.50",
+        "penetration_fraction": "< 0.10",
+        "recursive_fraction": "< 0.10"
+      },
+      "deep_form": "survival without reintegration",
+      "interpretation": "System preserves viability through low-curvature routing without reopening collapsed geometry."
+    },
+
+    {
+      "name": "local_penetration",
+      "conditions": {
+        "penetration_fraction": "> 0.05",
+        "recursive_fraction": "< 0.25"
+      },
+      "deep_form": "entry without cascade",
+      "interpretation": "Recovery enters portions of collapsed geometry without recursive propagation."
+    },
+
+    {
+      "name": "partial_recursive_reintegration",
+      "conditions": {
+        "recursive_fraction": "0.25 <= R < 0.90"
+      },
+      "deep_form": "thresholded partial reintegration",
+      "interpretation": "Recursive reopening propagates but remains subcritical globally."
+    },
+
+    {
+      "name": "global_recursive_reintegration",
+      "conditions": {
+        "recursive_fraction": ">= 0.90",
+        "A": "> 0.85",
+        "C_L": "< 0.20"
+      },
+      "deep_form": "system-wide geometry recovery",
+      "interpretation": "Recursive reopening cascades globally across viability geometry."
+    }
+
+  ],
+
+  "phase_transition_structure": {
+
+    "stitching_threshold": {
+      "formal_relation": "\\eta_{\\mathrm{stitch}} > \\eta_{\\mathrm{stitch}}^\\ast",
+      "interpretation": "Recovery fronts must successfully merge across interfaces."
+    },
+
+    "cascade_threshold": {
+      "formal_relation": "g_{\\mathrm{cascade}} > g_{\\mathrm{cascade}}^\\ast",
+      "interpretation": "Recursive reopening must amplify faster than closure suppresses propagation."
+    },
+
+    "curvature_threshold": {
+      "formal_relation": "\\kappa < \\kappa^\\ast",
+      "interpretation": "Curvature burden must remain sufficiently low to preserve transport continuity."
+    },
+
+    "locking_threshold": {
+      "formal_relation": "C_L < C_L^\\ast",
+      "interpretation": "Collapse locking must weaken sufficiently to permit reopenability propagation."
+    }
+
+  },
+
+  "observed_experimental_mapping": [
+
+    {
+      "experiment": "wavefront_extinction",
+      "recovered_regime": "locked_collapse"
+    },
+
+    {
+      "experiment": "curvature_bypass_routing",
+      "recovered_regime": "circumventive_bypass"
+    },
+
+    {
+      "experiment": "failed_core_breach",
+      "recovered_regime": "locked_collapse"
+    },
+
+    {
+      "experiment": "local_curvature_penetration",
+      "recovered_regime": "local_penetration"
+    },
+
+    {
+      "experiment": "partial_recursive_reintegration",
+      "recovered_regime": "partial_recursive_reintegration"
+    },
+
+    {
+      "experiment": "global_recursive_cascade_recovery",
+      "recovered_regime": "global_recursive_reintegration"
+    }
+
+  ],
+
+  "observed_phase_ordering": {
+
+    "formal_relation": "locked\\ collapse \\rightarrow circumventive\\ bypass \\rightarrow local\\ penetration \\rightarrow partial\\ recursive\\ reintegration \\rightarrow global\\ recursive\\ reintegration",
+
+    "interpretation": "Recovery geometry unfolds through ordered reopening phases governed by accessibility propagation and recursive reintegration dynamics."
+  },
+
+  "deep_consequences": [
+
+    "Collapse and recovery are phase-organized geometric processes.",
+
+    "Recovery depends on accessibility propagation rather than local repair alone.",
+
+    "Recursive reintegration emerges through reopening amplification overcoming recursive closure.",
+
+    "Stitching continuity governs transition from local recovery to global reintegration.",
+
+    "Curvature suppression governs accessibility transport viability.",
+
+    "Recursive cascade gain governs system-wide reintegration emergence."
+
+  ],
+
+  "repository_connections": [
+
+    "recovery_front_stitching_v1",
+    "curvature_induced_front_failure_v1",
+    "curvature_bypass_corridors_v1",
+    "dynamic_curvature_adaptation_v1",
+    "curvature_penetration_dynamics_v1",
+    "core_breach_threshold_sweep_v1",
+    "recursive_reintegration_cascades_v1",
+    "cascade_gain_threshold_sweep_v1",
+    "reintegration_regime_map_v1"
+
+  ]
+
+}
