@@ -1,0 +1,194 @@
+{
+  "artifact_id": "viability_transition_geometry_v1",
+  "title": "Viability Transition Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_transition_boundary_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Viability systems transition between accessibility basins through structured phase-boundary geometry governing collapse, reopening, reintegration, and stabilization dynamics.",
+
+  "deep_compression_statement": "Viability transitions occur whenever recursive closure and recursive reopening exchange geometric dominance.",
+
+  "primitive_principle": {
+    "name": "Viability transition geometry",
+    "formal_statement": "Recursive viability dynamics evolve through structured geometric transition boundaries separating distinct accessibility basins.",
+    "boxed_statement": "Viability systems transition between accessibility basins through structured phase-boundary geometry.",
+    "interpretation": "Transitions occur across geometric boundaries governing collapse, locking, reopening, penetration, reintegration, and stabilization dynamics across recursive accessibility geometry."
+  },
+
+  "primitive_transition_surface": {
+    "symbol": "\\Sigma_{\\mathrm{transition}}",
+    "formal_relation": "\\Sigma_{\\mathrm{transition}} = \\partial \\mathcal B",
+    "interpretation": "Transition surfaces separate distinct viability basins across recursive accessibility geometry. Crossing a transition surface changes the dominant organizational propagation regime."
+  },
+
+  "canonical_transition_classes": [
+
+    {
+      "name": "compression_boundary",
+      "symbol": "\\Sigma_{\\mathrm{compress}}",
+
+      "condition": "\\kappa + C_L > A + v_R",
+
+      "interpretation": "Accessibility narrowing begins to dominate reopening capacity. The system exits stable viability and enters compression dynamics."
+    },
+
+    {
+      "name": "collapse_separatrix",
+      "symbol": "\\Sigma_{\\mathrm{collapse}}",
+
+      "condition": "A \\rightarrow 0, \\quad C_L \\rightarrow 1",
+
+      "basin_transition": "\\mathcal B_{\\mathrm{viable}} \\rightarrow \\mathcal B_{\\mathrm{trap}}",
+
+      "interpretation": "The system crosses from recoverable accessibility geometry into self-stabilizing closure geometry."
+    },
+
+    {
+      "name": "penetration_threshold",
+      "symbol": "\\Sigma_{\\mathrm{penetration}}",
+
+      "condition": "P_{\\mathrm{penetration}} > \\Delta_C",
+
+      "interpretation": "Recovery pressure locally exceeds collapse resistance, allowing reopening transport to enter locked collapse geometry."
+    },
+
+    {
+      "name": "stitching_threshold",
+      "symbol": "\\Sigma_{\\mathrm{stitch}}",
+
+      "condition": "\\eta_{\\mathrm{stitch}} > \\eta_c",
+
+      "interpretation": "Distinct accessibility regions reconnect through sufficient cross-interface transport continuity."
+    },
+
+    {
+      "name": "recursive_cascade_threshold",
+      "symbol": "\\Sigma_{\\mathrm{cascade}}",
+
+      "condition": "g_{\\mathrm{cascade}} > g_c",
+
+      "interpretation": "Local reopening transitions into recursively self-amplifying reintegration propagation."
+    },
+
+    {
+      "name": "global_reintegration_boundary",
+      "symbol": "\\Sigma_{\\mathrm{global}}",
+
+      "condition": "\\Phi_R \\gg 1",
+
+      "interpretation": "Recursive reopening dominates closure propagation across the entire system, producing globally regenerative viability."
+    }
+
+  ],
+
+  "transition_hysteresis_principle": {
+    "formal_statement": "Collapse and recovery follow different transition paths.",
+    "formal_relation": "\\Gamma_{\\mathrm{collapse}} \\neq \\Gamma_{\\mathrm{recovery}}",
+    "interpretation": "Accessibility closure and accessibility reopening are not symmetric processes. Re-entry into viability geometry generally requires greater organizational reconstruction than initial collapse required."
+  },
+
+  "metastable_transition_principle": {
+    "formal_statement": "Systems may remain trapped in closure basins after external burden declines.",
+
+    "conditions": {
+      "C_L": ">> 0",
+      "A": "~ 0",
+      "kappa": ">> 0"
+    },
+
+    "interpretation": "Collapse geometry can recursively self-stabilize even after the initiating disturbance weakens."
+  },
+
+  "critical_slowing_principle": {
+    "formal_statement": "Recovery velocity slows near viability transition boundaries.",
+
+    "formal_relation": "v_R \\rightarrow 0 \\quad \\text{as} \\quad \\Sigma_{\\mathrm{transition}} \\text{ is approached}",
+
+    "interpretation": "Systems near critical viability transitions exhibit slower reorganization, slower reopening, and delayed accessibility regeneration."
+  },
+
+  "transition_corridor_geometry": {
+    "formal_relation": "\\mathcal C_R \\subset \\Sigma_{\\mathrm{transition}}",
+
+    "interpretation": "Recovery corridors form narrow geometric regions through which reintegration remains possible despite surrounding closure geometry."
+  },
+
+  "canonical_basin_transition_flow": {
+    "formal_relation": "\\mathcal B_{\\mathrm{viable}} \\rightarrow \\mathcal B_{\\mathrm{compress}} \\rightarrow \\mathcal B_{\\mathrm{trap}} \\rightarrow \\mathcal B_{\\mathrm{bypass}} \\rightarrow \\mathcal B_{\\mathrm{reentry}} \\rightarrow \\mathcal B_{\\mathrm{catalytic}} \\rightarrow \\mathcal B_{\\mathrm{viable}}",
+
+    "interpretation": "Viability systems evolve through recursive basin transition geometry governed by competing closure and reopening propagation dynamics."
+  },
+
+  "primitive_transition_law": {
+    "statement": "Viability transitions occur whenever recursive closure and recursive reopening exchange geometric dominance.",
+
+    "interpretation": "Phase transitions emerge whenever closure propagation exceeds reopening propagation or reopening propagation re-establishes accessibility dominance."
+  },
+
+  "transition_geometry_features": {
+
+    "compression": {
+      "mechanism": "accessibility narrowing under accumulated burden"
+    },
+
+    "locking": {
+      "mechanism": "self-stabilizing closure propagation"
+    },
+
+    "penetration": {
+      "mechanism": "localized collapse-basin breach"
+    },
+
+    "stitching": {
+      "mechanism": "cross-interface reconnection"
+    },
+
+    "cascade": {
+      "mechanism": "recursive reintegration amplification"
+    },
+
+    "global_reintegration": {
+      "mechanism": "system-wide reopening dominance"
+    }
+
+  },
+
+  "deep_consequences": [
+
+    "Collapse is a geometric transition rather than a single event.",
+
+    "Reintegration requires crossing structured transition surfaces.",
+
+    "Recovery pathways may remain inaccessible even after burden declines.",
+
+    "Transition boundaries generate hysteresis and metastability.",
+
+    "Recursive reintegration emerges only after crossing cascade thresholds.",
+
+    "Narrow recovery corridors determine long-term recoverability.",
+
+    "Viability geometry is fundamentally phase-organized.",
+
+    "Collapse and recovery follow asymmetric geometric trajectories.",
+
+    "Transition surfaces govern whether accessibility remains recoverable or becomes recursively sealed."
+
+  ],
+
+  "repository_connections": [
+
+    "reintegration_phase_diagram_v1",
+    "recursive_viability_trajectory_classes_v1",
+    "curvature_induced_front_failure_v1",
+    "adaptive_bypass_routing_v1",
+    "dynamic_curvature_adaptation_v1",
+    "recursive_reintegration_threshold_v1",
+    "recovery_front_propagation_v1",
+    "corridor_percolation_principle_v1",
+    "protected_recovery_fields_v1"
+
+  ]
+
+}
