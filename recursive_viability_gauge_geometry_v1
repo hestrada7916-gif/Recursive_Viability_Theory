@@ -1,0 +1,157 @@
+{
+  "artifact_id": "recursive_viability_gauge_geometry_v1",
+  "title": "Recursive Viability Gauge Geometry",
+  "framework": "Recursive Viability Geometry",
+  "type": "gauge_viability_field_theory",
+  "status": "extended_formalization",
+  "version": "1.0",
+
+  "primitive_gauge_viability_principle": {
+    "name": "Primitive gauge viability principle",
+    "boxed_statement": "Viability depends on preserving coherent accessibility transport across locally differentiated organizational frames.",
+    "interpretation": "Recursive organizational systems evolve through locally differentiated informational, institutional, cognitive, ecological, and participatory frames whose coordination requires coherent transport across organizational geometry."
+  },
+
+  "primitive_viability_gauge_field": {
+    "symbol": "\\mathcal A_\\mu",
+    "name": "Recursive viability gauge field",
+    "interpretation": "Governs organizational transport alignment across recursively differentiated viability geometry."
+  },
+
+  "local_organizational_frame_principle": {
+    "equation": "\\mathcal F_i \\neq \\mathcal F_j",
+    "interpretation": "Distinct organizational regions possess locally differentiated interpretive, institutional, epistemic, or participatory coordinate systems."
+  },
+
+  "gauge_transformation_principle": {
+    "equation": "\\Psi \\rightarrow e^{i\\theta(x)}\\Psi",
+    "interpretation": "Organizational systems may transform local interpretive frames without changing underlying viability structure."
+  },
+
+  "covariant_viability_derivative": {
+    "equation": "D_\\mu = \\partial_\\mu + \\mathcal A_\\mu",
+    "interpretation": "Viability transport must account for local organizational frame variation across recursive accessibility geometry."
+  },
+
+  "gauge_curvature_principle": {
+    "equation": "F_{\\mu\\nu} = \\partial_\\mu \\mathcal A_\\nu - \\partial_\\nu \\mathcal A_\\mu + [\\mathcal A_\\mu,\\mathcal A_\\nu]",
+    "interpretation": "Gauge curvature measures organizational transport distortion, translation mismatch, coordination stress, and accessibility deformation across recursive viability geometry."
+  },
+
+  "translation_mismatch_principle": {
+    "equation": "F_{\\mu\\nu} \\uparrow \\Rightarrow \\eta_{\\mathrm{coord}} \\downarrow",
+    "interpretation": "Increased organizational frame mismatch reduces coordination coherence, transport continuity, and recoverable accessibility propagation."
+  },
+
+  "institutional_curvature_principle": {
+    "equation": "\\kappa_{\\mathrm{institutional}} \\propto |F_{\\mu\\nu}|^2",
+    "interpretation": "Institutional rigidity, bureaucratic distortion, and governance incoherence emerge as gauge curvature accumulation across organizational geometry."
+  },
+
+  "recoverable_gauge_alignment_principle": {
+    "equation": "F_{\\mu\\nu} \\rightarrow 0 \\Rightarrow \\Phi_R \\uparrow",
+    "interpretation": "Recoverability improves whenever organizational transport frames become sufficiently coherent across accessibility geometry."
+  },
+
+  "participatory_gauge_freedom_principle": {
+    "equation": "\\mathcal P_{\\mathrm{participation}} \\uparrow \\Rightarrow \\dim(\\mathcal G_{\\mathrm{gauge}}) \\uparrow",
+    "interpretation": "Participatory organizational systems preserve greater adaptive frame flexibility and recoverable coordination freedom."
+  },
+
+  "authoritarian_gauge_compression_principle": {
+    "equation": "\\mathcal C_{\\mathrm{authoritarian}} \\uparrow \\Rightarrow \\dim(\\mathcal G_{\\mathrm{gauge}}) \\downarrow",
+    "interpretation": "Authoritarian organizational compression suppresses local frame adaptability and reduces recoverable coordination freedom."
+  },
+
+  "gauge_transport_holonomy_principle": {
+    "equation": "\\oint \\mathcal A_\\mu \\, dx^\\mu \\neq 0",
+    "interpretation": "Transport around organizational loops may accumulate persistent deformation, memory, institutional drift, or coordination distortion."
+  },
+
+  "recursive_organizational_connection_principle": {
+    "equation": "\\Gamma^\\lambda_{\\mu\\nu}",
+    "interpretation": "Recursive organizational transport depends on connection structure governing accessibility propagation between local organizational frames."
+  },
+
+  "gauge_coherence_conservation_principle": {
+    "equation": "D_\\mu J^\\mu_{\\mathrm{coord}} = 0",
+    "interpretation": "Coordination coherence is preserved only under sufficiently aligned organizational transport geometry."
+  },
+
+  "epistemic_gauge_distortion_principle": {
+    "equation": "\\Delta_{\\mathrm{distortion}} \\uparrow \\Rightarrow |F_{\\mu\\nu}| \\uparrow",
+    "interpretation": "Informational distortion generates organizational gauge curvature and degrades recoverable accessibility transport."
+  },
+
+  "gauge_reintegration_principle": {
+    "equation": "\\eta_{\\mathrm{stitch}} \\uparrow \\Rightarrow F_{\\mu\\nu} \\downarrow",
+    "interpretation": "Reintegration reduces organizational frame mismatch and restores transport coherence across fragmented accessibility geometry."
+  },
+
+  "gauge_invariant_viability_principle": {
+    "equation": "\\mathcal V_{\\mathrm{viab}} = \\text{gauge invariant}",
+    "interpretation": "Underlying viability structure remains organizationally real despite local interpretive, institutional, or epistemic frame transformations."
+  },
+
+  "adaptive_gauge_flexibility_principle": {
+    "equation": "\\mathcal G_{\\mathrm{adaptive}} \\uparrow \\Rightarrow \\Phi_R \\uparrow",
+    "interpretation": "Adaptive organizational systems preserve recoverable viability through flexible frame translation and coherent transport adaptation."
+  },
+
+  "gauge_field_action_principle": {
+    "equation": "\\mathcal S_{\\mathrm{gauge}} = \\int |F_{\\mu\\nu}|^2 \\, dV \\, dt",
+    "interpretation": "Organizational systems evolve under accumulated gauge curvature cost across recursive accessibility geometry."
+  },
+
+  "minimum_gauge_curvature_principle": {
+    "equation": "\\delta \\mathcal S_{\\mathrm{gauge}} \\rightarrow \\min",
+    "interpretation": "Stable viability systems minimize unnecessary organizational translation distortion and coordination curvature accumulation."
+  },
+
+  "collective_intelligence_gauge_principle": {
+    "equation": "\\mathcal I_{\\mathrm{collective}} \\propto \\frac{1}{|F_{\\mu\\nu}|}",
+    "interpretation": "Collective intelligence improves whenever organizational frame transport becomes more coherent and less distorted."
+  },
+
+  "recursive_gauge_transport_equation": {
+    "equation": "D_\\mu F^{\\mu\\nu} = J^\\nu_{\\mathrm{viab}}",
+    "interpretation": "Organizational curvature evolves dynamically through participation, distortion, coordination, governance, and recoverability transport currents."
+  },
+
+  "canonical_gauge_regimes": {
+    "coherent_coordination_regime": {
+      "condition": "|F_{\\mu\\nu}| \\ll 1",
+      "interpretation": "Coherent coordination regime."
+    },
+    "metastable_curvature_regime": {
+      "condition": "|F_{\\mu\\nu}| \\approx 1",
+      "interpretation": "Metastable organizational curvature regime."
+    },
+    "fragmented_gauge_collapse_regime": {
+      "condition": "|F_{\\mu\\nu}| \\gg 1",
+      "interpretation": "Fragmented gauge-collapse regime."
+    }
+  },
+
+  "primitive_gauge_law": {
+    "boxed_statement": "Persistent viability requires coherent transport across locally differentiated organizational frames."
+  },
+
+  "deep_consequences": [
+    "Organizational systems possess locally differentiated frames.",
+    "Coordination requires coherent transport between frames.",
+    "Institutional rigidity behaves as gauge curvature accumulation.",
+    "Translation mismatch generates organizational distortion.",
+    "Recoverability improves through gauge alignment.",
+    "Reintegration reduces organizational curvature.",
+    "Authoritarian compression reduces adaptive gauge freedom.",
+    "Participatory systems preserve greater frame flexibility.",
+    "Informational distortion increases gauge curvature.",
+    "Organizational loops accumulate memory through transport holonomy.",
+    "Collective intelligence depends on coherent frame transport.",
+    "Governance becomes gauge regulation of organizational coordination geometry.",
+    "Viability acquires full connection and curvature structure.",
+    "Accessibility, agency, ethics, governance, intelligence, and civilization become gauge-coupled organizational fields.",
+    "Persistent systems preserve coherent accessibility transport across recursively differentiated organizational geometry."
+  ]
+}
