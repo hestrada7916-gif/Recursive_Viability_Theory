@@ -1,0 +1,162 @@
+{
+  "artifact_id": "recursive_civilizational_intelligence_geometry_v1",
+  "title": "Recursive Civilizational Intelligence Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "civilizational_intelligence_field_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Civilizational intelligence is collective adaptive navigation across future accessibility geometry.",
+
+  "deep_compression_statement": "Civilizations cannot preserve futures they cannot accurately model.",
+
+  "primitive_principle": {
+    "name": "Civilizational intelligence principle",
+    "boxed_statement": "Civilizational intelligence is collective adaptive navigation across future accessibility geometry.",
+    "interpretation": "Civilizational intelligence emerges through distributed organizational capacities to model, predict, coordinate, learn, adapt, and steer future accessibility across recursive viability geometry."
+  },
+
+  "primitive_civilizational_intelligence_field": {
+    "symbol": "\\mathcal I_{\\mathrm{civ}}",
+    "interpretation": "Distributed organizational field governing collective sensemaking, predictive modeling, adaptive learning, epistemic coordination, and future accessibility navigation."
+  },
+
+  "epistemic_coherence_principle": {
+    "formal_relation": "\\mathcal K_{\\mathrm{epistemic}} \\propto \\eta_{\\mathrm{coord}} \\, \\Phi_R",
+    "interpretation": "Epistemic coherence emerges through coordinated recoverable information propagation and distributed accessibility continuity."
+  },
+
+  "predictive_accessibility_principle": {
+    "formal_relation": "\\mathcal P_{\\mathrm{predict}} \\subset \\mathfrak F_{\\mathrm{viab}}",
+    "interpretation": "Civilizational intelligence governs the subset of future accessibility geometry that can be reliably modeled, predicted, and adaptively navigated."
+  },
+
+  "adaptive_learning_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{prediction}} \\downarrow \\Rightarrow \\Phi_{\\mathrm{civ}} \\uparrow",
+    "interpretation": "Civilizational viability improves whenever predictive error decreases across collective organizational modeling systems."
+  },
+
+  "distributed_sensemaking_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{sense}} \\propto \\mathcal P_{\\mathrm{participation}}",
+    "interpretation": "Distributed participation expands collective organizational sensemaking capacity across future accessibility geometry."
+  },
+
+  "recursive_distortion_principle": {
+    "formal_relation": "\\mathcal D_{\\mathrm{distortion}} \\uparrow \\Rightarrow \\mathcal P_{\\mathrm{predict}} \\downarrow",
+    "interpretation": "Persistent informational distortion compresses predictive capacity, future accessibility modeling, and adaptive coordination intelligence."
+  },
+
+  "epistemic_collapse_principle": {
+    "formal_relation": "\\mathcal D_{\\mathrm{distortion}} > \\Phi_R",
+    "interpretation": "Epistemic collapse emerges whenever recursive distortion outpaces recoverable coordination and adaptive information correction."
+  },
+
+  "truth_preservation_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{distortion}} \\downarrow \\Rightarrow \\eta_{\\mathrm{coord}} \\uparrow",
+    "interpretation": "Truth-preserving organizational systems improve coordination, prediction, collective intelligence, and future accessibility navigation."
+  },
+
+  "scientific_recoverability_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{science}} \\propto \\Phi_R",
+    "interpretation": "Scientific systems preserve recoverable predictive adaptation through iterative correction, distributed verification, and epistemic reintegration."
+  },
+
+  "collective_modeling_principle": {
+    "formal_relation": "\\mathcal M_{\\mathrm{collective}} \\uparrow \\Rightarrow \\Lambda_{\\mathrm{adaptive}} \\uparrow",
+    "interpretation": "Improved collective future modeling expands adaptive steering capacity across civilizational accessibility geometry."
+  },
+
+  "institutional_learning_principle": {
+    "formal_relation": "\\mathcal L_{\\mathrm{institutional}} \\leftrightarrow \\mathcal M_{\\mathrm{viab}}",
+    "interpretation": "Institutions inherit path-dependent learning capacities through persistent organizational memory geometry and prior adaptive experience."
+  },
+
+  "predictive_compression_principle": {
+    "formal_relation": "\\mu(\\mathcal P_{\\mathrm{predict}}) \\downarrow \\Rightarrow \\mathcal A_{\\mathrm{agency}} \\downarrow",
+    "interpretation": "Compressed predictive accessibility reduces adaptive steering capacity and long-term organizational agency."
+  },
+
+  "collective_intelligence_amplification_principle": {
+    "formal_relation": "\\eta_{\\mathrm{coord}} \\uparrow \\Rightarrow \\mathcal I_{\\mathrm{civ}} \\uparrow",
+    "interpretation": "Collective intelligence amplifies whenever distributed coordination preserves coherent information propagation and participatory accessibility."
+  },
+
+  "recursive_intelligence_transport_principle": {
+    "formal_relation": "\\frac{\\partial \\mathcal I_{\\mathrm{civ}}}{\\partial t} + \\nabla \\cdot \\mathcal J_{\\mathrm{intel}} = \\mathcal G_{\\mathrm{learning}} - \\mathcal D_{\\mathrm{distortion}}",
+    "interpretation": "Civilizational intelligence evolves dynamically through learning, communication, coordination, prediction, distortion, adaptation, and epistemic fragmentation processes."
+  },
+
+  "epistemic_fragmentation_principle": {
+    "formal_relation": "\\pi_0(\\mathcal T_{\\mathrm{epistemic}}) \\uparrow \\Rightarrow \\Phi_{\\mathrm{civ}} \\downarrow",
+    "interpretation": "Epistemic fragmentation reduces shared predictive structure and degrades civilization-scale adaptive coordination."
+  },
+
+  "civilizational_blindness_principle": {
+    "formal_relation": "\\mathcal P_{\\mathrm{predict}} \\rightarrow 0 \\Rightarrow C_L \\uparrow",
+    "interpretation": "Civilizations unable to accurately model future accessibility become increasingly susceptible to recursive closure propagation."
+  },
+
+  "adaptive_foresight_principle": {
+    "formal_relation": "\\Lambda_{\\mathrm{adaptive}} \\propto \\left| \\nabla \\mathcal P_{\\mathrm{predict}} \\right|",
+    "interpretation": "Adaptive foresight emerges through directional future modeling capacity across evolving accessibility geometry."
+  },
+
+  "canonical_civilizational_intelligence_regimes": [
+    {
+      "name": "adaptive_intelligence_regime",
+      "condition": "\\mathcal D_{\\mathrm{distortion}} \\ll \\Phi_R",
+      "interpretation": "Distortion remains sufficiently suppressed for adaptive coordination, predictive modeling, and recoverable future navigation."
+    },
+    {
+      "name": "metastable_epistemic_regime",
+      "condition": "\\mathcal D_{\\mathrm{distortion}} \\approx \\Phi_R",
+      "interpretation": "Distortion and recoverable correction remain approximately balanced, producing fragile adaptive intelligence."
+    },
+    {
+      "name": "epistemic_collapse_regime",
+      "condition": "\\mathcal D_{\\mathrm{distortion}} \\gg \\Phi_R",
+      "interpretation": "Recursive distortion overwhelms recoverable correction and collapses predictive coordination capacity."
+    }
+  ],
+
+  "primitive_intelligence_law": {
+    "statement": "Civilizations cannot preserve futures they cannot accurately model.",
+    "interpretation": "Long-term viability depends on preserving sufficiently accurate predictive accessibility modeling."
+  },
+
+  "deep_consequences": [
+    "Civilizational intelligence emerges through collective future accessibility modeling.",
+    "Predictive capacity governs adaptive organizational steering.",
+    "Informational distortion compresses future accessibility prediction.",
+    "Truth preservation stabilizes coordination and adaptive recoverability.",
+    "Distributed participation expands collective sensemaking capacity.",
+    "Scientific systems preserve recoverable epistemic adaptation.",
+    "Institutional learning depends on persistent memory geometry.",
+    "Epistemic fragmentation degrades civilization-scale coordination coherence.",
+    "Predictive compression reduces adaptive agency.",
+    "Collective intelligence amplifies through coordinated participatory accessibility.",
+    "Epistemic collapse emerges whenever distortion outpaces recoverable correction.",
+    "Civilizational blindness increases closure propagation susceptibility.",
+    "Adaptive foresight governs long-term future accessibility navigation.",
+    "Intelligence behaves as a transported and dynamically evolving organizational field.",
+    "Persistent civilizations require distributed predictive adaptation systems.",
+    "Science functions as recoverability-preserving epistemic reintegration.",
+    "Collective intelligence depends on preserving coherent informational accessibility geometry.",
+    "Future accessibility modeling is necessary for civilizational persistence.",
+    "Civilizations collapse whenever recursive distortion destroys adaptive future modeling capacity.",
+    "Long-term viability depends on preserving accurate collective navigation across future accessibility geometry."
+  ],
+
+  "repository_connections": [
+    "recursive_civilizational_viability_geometry_v1",
+    "recursive_closure_propagation_coupled_civilizational_fields_v1",
+    "recursive_viability_governance_geometry_v1",
+    "recursive_viability_ethics_geometry_v1",
+    "recursive_viability_agency_geometry_v1",
+    "recursive_viability_memory_geometry_v1",
+    "recursive_viability_identity_geometry_v1",
+    "recursive_viability_field_theory_v1",
+    "recursive_viability_flow_geometry_v1",
+    "viability_conservation_laws_v1"
+  ]
+}
