@@ -1,0 +1,230 @@
+{
+  "artifact_id": "recursive_viability_ethics_geometry_v1",
+  "title": "Recursive Viability Ethics Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_ethics_accessibility_field_theory",
+  "version": "1.0",
+
+  "canonical_statement": "Ethics governs the preservation or destruction of recoverable future accessibility.",
+
+  "deep_compression_statement": "Ethics preserves recoverable future accessibility under bounded recursive constraints.",
+
+  "primitive_ethics_principle": {
+    "name": "Recursive viability ethics geometry",
+
+    "formal_statement": "Recursive organizational ethics emerges through actions, structures, and dynamics that preserve, compress, fragment, or regenerate recoverable future accessibility across recursive viability geometry.",
+
+    "boxed_statement": "Ethics governs the preservation or destruction of recoverable future accessibility.",
+
+    "interpretation": "Ethics corresponds to viability-preserving or viability-destructive transformation across future accessibility geometry."
+  },
+
+  "primitive_ethics_field": {
+    "symbol": "\\mathcal E_{\\mathrm{viab}}",
+
+    "interpretation": "Organizational field governing viability-preserving and viability-destructive dynamics across recursive accessibility geometry."
+  },
+
+  "primitive_ethical_law": {
+    "statement": "Ethical dynamics preserve recoverable future accessibility under bounded recursive constraints.",
+
+    "interpretation": "Ethical organizational behavior preserves recoverable continuity, agency, transport, identity, and future accessibility while minimizing unnecessary collapse, fragmentation, and coercive compression."
+  },
+
+  "future_accessibility_preservation_principle": {
+    "formal_relation": "\\Delta A_{\\mathrm{future}} > 0 \\Rightarrow \\mathcal E_{\\mathrm{viab}} \\uparrow",
+
+    "interpretation": "Actions preserving or expanding recoverable future accessibility increase viability-preserving ethical structure."
+  },
+
+  "agency_preservation_principle": {
+    "formal_relation": "\\mu(\\mathcal U_{\\mathrm{future}}) \\downarrow \\Rightarrow \\mathcal E_{\\mathrm{viab}} \\downarrow",
+
+    "interpretation": "Ethical degradation occurs whenever recoverable future agency becomes unnecessarily compressed."
+  },
+
+  "coercive_compression_principle": {
+    "formal_relation": "\\mathcal C_{\\mathrm{coercive}} \\uparrow \\Rightarrow \\mathcal E_{\\mathrm{viab}} \\downarrow",
+
+    "interpretation": "Coercive organizational dynamics reduce ethical viability by compressing directional accessibility control and adaptive future-space navigation."
+  },
+
+  "stewardship_principle": {
+    "formal_relation": "\\mathcal S_{\\mathrm{steward}} \\propto \\Phi_R",
+
+    "interpretation": "Stewardship corresponds to preserving recoverable accessibility, reintegration potential, and organizational continuity across recursive viability geometry."
+  },
+
+  "exploitative_extraction_principle": {
+    "formal_relation": "\\mathcal X_{\\mathrm{extract}} \\uparrow \\Rightarrow \\kappa \\uparrow",
+
+    "interpretation": "Exploitative extraction accumulates organizational curvature burden and increases future collapse susceptibility."
+  },
+
+  "ethical_debt_principle": {
+    "symbol": "\\mathcal D_{\\mathrm{ethical}}",
+
+    "formal_relation": "\\mathcal D_{\\mathrm{ethical}} = \\int (\\mathcal L_C - \\mathcal G_R)dt",
+
+    "variables": {
+      "\\mathcal L_C": "closure generation and fragmentation accumulation",
+      "\\mathcal G_R": "recoverability generation and reopening"
+    },
+
+    "interpretation": "Ethical debt accumulates whenever organizational dynamics generate more closure, fragmentation, or agency compression than recoverable reopening and reintegration."
+  },
+
+  "regenerative_ethics_principle": {
+    "formal_relation": "\\mathcal G_R > \\mathcal L_C",
+
+    "interpretation": "Regenerative ethical systems generate more recoverability, continuity, and accessibility reopening than collapse accumulation."
+  },
+
+  "fragmentation_harm_principle": {
+    "formal_relation": "\\pi_0(\\mathcal T_{\\mathrm{viab}}) \\uparrow \\Rightarrow \\mathcal E_{\\mathrm{viab}} \\downarrow",
+
+    "interpretation": "Ethical degradation emerges whenever organizational fragmentation disconnects recoverable accessibility continuity."
+  },
+
+  "truth_preservation_principle": {
+    "formal_relation": "\\Delta_{\\mathrm{distortion}} \\uparrow \\Rightarrow \\Phi_R \\downarrow",
+
+    "interpretation": "Persistent informational distortion degrades recoverable coordination, future accessibility prediction, and adaptive steering capacity."
+  },
+
+  "viability_reciprocity_principle": {
+    "formal_relation": "\\mathcal E_i \\leftrightarrow \\mathcal E_j",
+
+    "interpretation": "Long-term viability ethics emerges through reciprocal preservation of recoverable accessibility across interacting organizational systems."
+  },
+
+  "ethical_basin_principle": {
+    "formal_relation": "\\mathcal B_{\\mathrm{ethical}} \\subset \\mathcal B_{\\mathrm{viab}}",
+
+    "interpretation": "Distinct ethical organizational regimes emerge through stable patterns of accessibility preservation, agency protection, and recoverability stewardship."
+  },
+
+  "ethical_collapse_principle": {
+    "formal_relation": "\\mathcal L_C \\gg \\mathcal G_R \\Rightarrow \\mathcal E_{\\mathrm{viab}} \\rightarrow 0",
+
+    "interpretation": "Ethical collapse emerges whenever closure accumulation systematically exceeds recoverability generation across organizational geometry."
+  },
+
+  "liberatory_reintegration_principle": {
+    "formal_relation": "\\Phi_R \\uparrow \\Rightarrow \\mathcal A_{\\mathrm{agency}} \\uparrow",
+
+    "interpretation": "Liberatory organizational dynamics reopen future accessibility, restore agency, and increase recoverable participation across viability geometry."
+  },
+
+  "sacrificial_tradeoff_principle": {
+    "formal_relation": "\\Delta A_i < 0 \\;\\not\\Rightarrow\\; \\Delta A_{\\mathrm{global}} < 0",
+
+    "interpretation": "Localized accessibility sacrifice may preserve larger-scale recoverable viability under bounded organizational constraints."
+  },
+
+  "ethical_coordination_principle": {
+    "formal_relation": "\\eta_{\\mathrm{coord}} \\uparrow \\Rightarrow \\Phi_{\\mathrm{collective}} \\uparrow",
+
+    "interpretation": "Ethical coordination preserves collective future accessibility through reduced conflict, reduced fragmentation, and enhanced recoverable transport continuity."
+  },
+
+  "recursive_ethical_transport_principle": {
+    "formal_relation": "\\frac{\\partial \\mathcal E_{\\mathrm{viab}}}{\\partial t} + \\nabla \\cdot \\mathcal J_{\\mathrm{ethical}} = \\mathcal G_{\\mathrm{ethical}} - \\mathcal D_{\\mathrm{ethical}}",
+
+    "variables": {
+      "\\mathcal E_{\\mathrm{viab}}": "ethical viability field",
+      "\\mathcal J_{\\mathrm{ethical}}": "ethical transport current",
+      "\\mathcal G_{\\mathrm{ethical}}": "ethical generation and preservation",
+      "\\mathcal D_{\\mathrm{ethical}}": "ethical dissipation and fragmentation"
+    },
+
+    "interpretation": "Ethical structure evolves dynamically through transport, generation, preservation, fragmentation, repair, and dissipation processes across recursive viability geometry."
+  },
+
+  "canonical_ethical_regimes": [
+
+    {
+      "name": "regenerative_ethical_regime",
+
+      "condition": "\\mathcal G_R \\gg \\mathcal L_C",
+
+      "interpretation": "Recoverability generation strongly exceeds closure accumulation, producing expanding future accessibility and viability."
+    },
+
+    {
+      "name": "metastable_ethical_regime",
+
+      "condition": "\\mathcal G_R \\approx \\mathcal L_C",
+
+      "interpretation": "Recoverability preservation and collapse accumulation remain approximately balanced."
+    },
+
+    {
+      "name": "extractive_collapse_regime",
+
+      "condition": "\\mathcal G_R \\ll \\mathcal L_C",
+
+      "interpretation": "Closure accumulation dominates regenerative reopening, producing progressive viability degradation."
+    }
+
+  ],
+
+  "deep_consequences": [
+
+    "Ethics emerges through preservation of recoverable future accessibility.",
+
+    "Coercion compresses organizational agency geometry.",
+
+    "Stewardship preserves recoverability and reintegration potential.",
+
+    "Exploitative extraction accumulates future collapse burden.",
+
+    "Ethical debt accumulates through unresolved closure generation.",
+
+    "Truth preservation stabilizes adaptive coordination and future accessibility prediction.",
+
+    "Fragmentation degrades organizational viability ethics.",
+
+    "Regenerative systems expand recoverable accessibility faster than collapse accumulates.",
+
+    "Liberation corresponds to reopening compressed future accessibility geometry.",
+
+    "Ethical coordination preserves collective viability.",
+
+    "Agency preservation becomes an ethical organizational primitive.",
+
+    "Long-term viability requires bounded accessibility preservation under recursive constraints.",
+
+    "Organizational ethics evolves dynamically through coupled transport, identity, memory, agency, and recoverability geometry.",
+
+    "Ethical collapse emerges whenever closure propagation systematically exceeds reopening propagation.",
+
+    "Persistent existence depends on regenerative viability stewardship across recursive organizational systems.",
+
+    "Ethics becomes a geometric property of future accessibility preservation rather than purely rule-based obligation.",
+
+    "Ethical systems minimize irreversible fragmentation while preserving recoverable continuity.",
+
+    "Viability-preserving reciprocity stabilizes long-term collective accessibility structure.",
+
+    "Distortion and coercion act as accessibility-compression operators across organizational geometry."
+
+  ],
+
+  "repository_connections": [
+
+    "recursive_viability_agency_geometry_v1",
+    "recursive_viability_identity_geometry_v1",
+    "recursive_viability_memory_geometry_v1",
+    "viability_conservation_laws_v1",
+    "recursive_viability_field_theory_v1",
+    "recursive_viability_flow_geometry_v1",
+    "viability_transition_geometry_v1",
+    "viability_symmetry_and_symmetry_breaking_v1",
+    "topological_viability_defects_v1",
+    "reintegration_phase_diagram_v1"
+
+  ]
+
+}
