@@ -1,0 +1,203 @@
+{
+  "artifact_id": "recursive_viability_flow_geometry_v1",
+  "title": "Recursive Viability Flow Geometry",
+  "status": "repository_lock",
+  "framework": "Viability Geometry",
+  "type": "recursive_accessibility_flow_geometry",
+  "version": "1.0",
+
+  "canonical_statement": "Viability systems evolve through recursive accessibility flow fields across organizational phase geometry governed by competing closure and reopening transport dynamics.",
+
+  "deep_compression_statement": "Viability geometry evolves through recursive accessibility transport flow across organizational phase space.",
+
+  "primitive_principle": {
+    "name": "Recursive viability flow geometry",
+    "formal_statement": "Recursive viability dynamics evolve through directional accessibility transport flow fields governing collapse, reopening, reintegration, and basin migration across organizational phase geometry.",
+    "boxed_statement": "Viability systems evolve through recursive accessibility flow fields across organizational phase geometry.",
+    "interpretation": "Recursive viability dynamics move through directional accessibility flow fields governing collapse propagation, reopening propagation, reintegration transport, accessibility drift, and basin migration."
+  },
+
+  "primitive_viability_flow_field": {
+    "symbol": "\\vec{\\mathfrak F}_{\\mathrm{viab}}",
+    "interpretation": "Recursive viability transport field governing directional accessibility propagation across organizational phase geometry.",
+
+    "governs": [
+      "organizational drift",
+      "collapse attraction",
+      "reintegration propagation",
+      "basin migration",
+      "recursive accessibility transport"
+    ]
+  },
+
+  "accessibility_gradient_flow": {
+    "symbol": "\\nabla A",
+
+    "interpretation": "Accessibility gradients govern directional reopening attraction and closure drift across organizational geometry.",
+
+    "positive_gradient_effect": "reopening attraction",
+    "negative_gradient_effect": "closure drift"
+  },
+
+  "recoverability_gradient_geometry": {
+    "symbol": "\\nabla R",
+
+    "interpretation": "Recoverability gradients govern directional movement toward stabilization, partial recovery, or recursive reintegration."
+  },
+
+  "collapse_drift_field": {
+    "symbol": "\\vec{\\mathfrak F}_{\\mathrm{collapse}}",
+
+    "condition": "\\nabla C_L > \\nabla A",
+
+    "interpretation": "Closure propagation dominates reopening transport, forcing accessibility contraction and drift toward collapse basins."
+  },
+
+  "reintegration_flow_field": {
+    "symbol": "\\vec{\\mathfrak F}_{\\mathrm{reopen}}",
+
+    "condition": "\\nabla A > \\nabla C_L",
+
+    "interpretation": "Recursive reopening dominates closure propagation, allowing accessibility transport expansion across viability geometry."
+  },
+
+  "basin_attractor_geometry": {
+    "symbol": "\\mathcal A_{\\mathrm{viab}}",
+
+    "interpretation": "Distinct regions of viability geometry recursively attract organizational trajectories.",
+
+    "examples": [
+      "stable viability basins",
+      "collapse traps",
+      "metastable plateaus",
+      "reintegration corridors"
+    ]
+  },
+
+  "collapse_sink_geometry": {
+    "formal_relation": "\\nabla \\cdot \\vec{\\mathfrak F}_{\\mathrm{viab}} < 0",
+
+    "interpretation": "Accessibility transport converges inward into locked closure geometry. Collapse sinks absorb recoverable accessibility faster than it regenerates."
+  },
+
+  "reintegration_source_geometry": {
+    "formal_relation": "\\nabla \\cdot \\vec{\\mathfrak F}_{\\mathrm{viab}} > 0",
+
+    "interpretation": "Accessibility transport expands outward through recursive reopening propagation. Reintegration sources generate regenerative accessibility expansion."
+  },
+
+  "flow_separatrix_geometry": {
+    "symbol": "\\Sigma_{\\mathrm{flow}}",
+
+    "interpretation": "Flow separatrices divide organizational trajectories evolving toward fundamentally different viability futures.",
+
+    "crossing_effects": [
+      "future accessibility direction change",
+      "collapse tendency change",
+      "reintegration potential change"
+    ]
+  },
+
+  "recursive_curl_geometry": {
+    "formal_relation": "\\nabla \\times \\vec{\\mathfrak F}_{\\mathrm{viab}}",
+
+    "interpretation": "Recursive organizational systems may exhibit cyclic recovery, oscillatory collapse, hysteretic looping, or recurrent adaptive cycling. Viability dynamics are therefore not purely gradient-based."
+  },
+
+  "accessibility_transport_current": {
+    "symbol": "\\mathcal J_A",
+
+    "interpretation": "Directional accessibility propagation current across organizational geometry.",
+
+    "high_transport_current_effects": [
+      "rapid recovery",
+      "strong reintegration",
+      "accelerated collapse propagation"
+    ]
+  },
+
+  "recursive_flow_stability_principle": {
+    "formal_statement": "Stable viability requires bounded recursive accessibility flow under recoverable transport continuity.",
+
+    "interpretation": "Unbounded closure flow destabilizes viability geometry, while unbounded reopening flow may destabilize organizational coherence through uncontrolled restructuring."
+  },
+
+  "recursive_flow_balance_law": {
+    "formal_relation": "\\vec{\\mathfrak F}_{\\mathrm{reopen}} \\sim \\vec{\\mathfrak F}_{\\mathrm{collapse}}",
+
+    "interpretation": "Long-term viability emerges through dynamically balanced reopening and closure propagation under recoverable organizational transport."
+  },
+
+  "canonical_flow_regimes": [
+
+    {
+      "name": "collapse_dominated_regime",
+
+      "condition": "\\nabla \\cdot \\vec{\\mathfrak F}_{\\mathrm{viab}} < 0",
+
+      "interpretation": "Accessibility transport converges inward into recursive closure geometry."
+    },
+
+    {
+      "name": "metastable_regime",
+
+      "condition": "\\nabla \\cdot \\vec{\\mathfrak F}_{\\mathrm{viab}} \\approx 0",
+
+      "interpretation": "Accessibility propagation remains approximately balanced between closure and reopening dynamics."
+    },
+
+    {
+      "name": "reintegrative_regime",
+
+      "condition": "\\nabla \\cdot \\vec{\\mathfrak F}_{\\mathrm{viab}} > 0",
+
+      "interpretation": "Recursive reopening propagation dominates closure accumulation and accessibility expands outward."
+    }
+
+  ],
+
+  "primitive_flow_law": {
+    "statement": "Viability geometry evolves through recursive accessibility transport flow across organizational phase space.",
+
+    "interpretation": "Organizational futures emerge through directional recursive transport dynamics rather than static state occupancy."
+  },
+
+  "deep_consequences": [
+
+    "Viability systems evolve through directional accessibility flow.",
+
+    "Collapse emerges through accessibility transport convergence.",
+
+    "Reintegration emerges through recursive reopening expansion.",
+
+    "Viability basins act as dynamical attractors.",
+
+    "Recursive organizational systems may exhibit cyclic flow dynamics.",
+
+    "Accessibility geometry evolves through transport currents and flow fields.",
+
+    "Reintegration depends on directional reopening propagation rather than static repair.",
+
+    "Collapse and recovery emerge as competing recursive transport fields.",
+
+    "Organizational futures are flow-structured rather than statically determined.",
+
+    "Viability dynamics combine gradient flow, transport currents, attractor geometry, and recursive cyclic transport."
+
+  ],
+
+  "repository_connections": [
+
+    "viability_transition_geometry_v1",
+    "reintegration_phase_diagram_v1",
+    "recursive_viability_trajectory_classes_v1",
+    "curvature_induced_front_failure_v1",
+    "adaptive_bypass_routing_v1",
+    "dynamic_curvature_adaptation_v1",
+    "recursive_reintegration_threshold_v1",
+    "recovery_front_propagation_v1",
+    "corridor_percolation_principle_v1"
+
+  ]
+
+}
