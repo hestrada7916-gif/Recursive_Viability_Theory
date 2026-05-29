@@ -1,0 +1,193 @@
+{
+  "artifact_id": "triangular_recoverability_refuge_principle",
+
+  "title": "Triangular Recoverability Refuge Principle",
+
+  "status": "repository_lock_candidate",
+
+  "framework": "Viability Geometry",
+
+  "type": "minimal_recoverability_refuge_structure",
+
+  "canonical_statement": "Recoverability may survive chamber degradation so long as accessible triangular refuges remain available.",
+
+  "deep_compression": "Triangles are the final refuges of recoverability.",
+
+  "primitive_principle": {
+    "statement": "Recoverable continuation persists whenever accessible triangular coordination structures remain available.",
+    "interpretation": "Higher-order viability structures may degrade without collapse because triangular refuge structures continue to provide closed return pathways and recoverable fallback."
+  },
+
+  "fundamental_law": {
+    "equation": "N_triangle_accessible > 0 => R > 0",
+    "statement": "Accessible triangular refuges preserve recoverability."
+  },
+
+  "core_objects": {
+
+    "triangular_recoverability_refuge": {
+      "symbol": "K_3",
+      "definition": "Minimal recoverable coordination simplex possessing cyclic return, closure, and recoverable continuation."
+    },
+
+    "accessible_triangle_count": {
+      "symbol": "N_triangle_accessible",
+      "definition": "Number of accessible triangular recoverability refuges available to the system."
+    },
+
+    "recoverability": {
+      "symbol": "R",
+      "definition": "Capacity for recoverable continuation under degradation."
+    },
+
+    "chamber_integrity": {
+      "symbol": "C",
+      "definition": "Degree of higher-order chamber completeness or simplex perfection."
+    }
+  },
+
+  "recoverability_condition": {
+    "equation": "N_triangle_accessible > 0 => R > 0",
+    "interpretation": "Recoverability survives while at least one accessible triangular refuge remains."
+  },
+
+  "recoverability_exhaustion_law": {
+    "equation": "N_triangle_accessible -> 0 => R ↓",
+    "statement": "Collapse begins when triangular refuge structures are exhausted.",
+    "interpretation": "Loss of chamber perfection alone does not produce collapse; collapse emerges when remaining recoverability refuges disappear."
+  },
+
+  "chamber_degradation_principle": {
+    "equation": "ΔC < 0 ≠> ΔR < 0",
+    "statement": "Loss of chamber integrity does not imply immediate loss of recoverability.",
+    "interpretation": "Viability chambers may lose symmetry, completeness, or higher-order structure while preserving recoverable continuation."
+  },
+
+  "refuge_hierarchy": {
+    "equation": "K_n -> K_(n-1) -> ... -> K_4 -> K_3",
+    "interpretation": "Nested simplex degradation progressively exposes lower-order recoverability refuges.",
+    "terminal_refuge": "K_3"
+  },
+
+  "minimal_refuge_theorem": {
+    "symbol": "K_3",
+    "statement": "K_3 is the minimal recoverability refuge.",
+    "justification": [
+      "closed cyclic return",
+      "irreducible simplex structure",
+      "minimal recoverable coordination",
+      "terminal fallback structure"
+    ]
+  },
+
+  "empirical_support": [
+
+    "triangle_survivability_optimum",
+
+    "triangle_ablation_destroyed_91_percent_viability",
+
+    "triangle_ablation_twice_random_control_damage",
+
+    "triangle_contraction_retained_96_point_7_percent_viability",
+
+    "tetrahedron_vertex_loss_degrades_to_triangle",
+
+    "K5_to_K4_to_K3_exact_cascade",
+
+    "K6_to_K5_to_K4_to_K3_exact_cascade",
+
+    "K8_continuous_fallback_chain",
+
+    "recoverability_preserved_above_K3",
+
+    "continuous_fallback_path_observed"
+  ],
+
+  "derived_principles": [
+
+    {
+      "name": "Recoverability Refuge Principle",
+      "statement": "Recoverability survives through refuge structures rather than through preservation of higher-order chamber perfection."
+    },
+
+    {
+      "name": "Terminal Refuge Principle",
+      "statement": "The triangle constitutes the final recoverability refuge exposed by simplex degradation."
+    },
+
+    {
+      "name": "Refuge Accessibility Principle",
+      "statement": "Recoverability depends on access to viable refuges rather than on the current structural scale."
+    },
+
+    {
+      "name": "Recoverability Exhaustion Principle",
+      "statement": "Collapse begins when remaining recoverability refuges are exhausted."
+    }
+  ],
+
+  "relationship_to_other_artifacts": {
+
+    "viability_simplex_principle": {
+      "relation": "Identifies K_3 as the minimal recoverable coordination object."
+    },
+
+    "simplex_viability_ladder_principle": {
+      "relation": "Provides the degradation hierarchy exposing refuge structures."
+    },
+
+    "recoverability_infrastructure_principle": {
+      "relation": "Explains what fallback paths are preserving: access to triangular refuges."
+    }
+  },
+
+  "infrastructure_factorization": {
+    "statement": "Within simplex chamber hierarchies, recoverability infrastructure is equivalent to preservation of accessible triangular refuges.",
+    "equation": "P_fallback ≠ ∅ <=> N_triangle_accessible > 0"
+  },
+
+  "collapse_criterion": {
+    "equation": "N_triangle_accessible = 0 => Phi_R -> 0",
+    "statement": "Recoverability collapse begins when all accessible triangular refuges have been exhausted."
+  },
+
+  "deep_consequences": [
+
+    "recoverability is more fundamental than chamber perfection",
+
+    "structural degradation need not imply viability collapse",
+
+    "higher-order chambers derive robustness from embedded triangular refuges",
+
+    "collapse begins through refuge exhaustion rather than chamber damage",
+
+    "triangular structures function as terminal recoverability nuclei",
+
+    "recoverability infrastructure is realized through refuge accessibility",
+
+    "simplex degradation reveals progressively deeper recoverability layers",
+
+    "K3 functions as the final recoverability refuge",
+
+    "viability persists while refuge accessibility remains nonzero"
+  ],
+
+  "repository_connections": [
+
+    "Viability Simplex Principle",
+
+    "Simplex Viability Ladder Principle",
+
+    "Recoverability Infrastructure Principle",
+
+    "Recursive Viability Phase Transition Theory",
+
+    "Recursive Viability Integrability Geometry",
+
+    "Recursive Viability Constraint Geometry",
+
+    "Recursive Viability Renormalization Geometry"
+  ],
+
+  "lock_statement": "Recoverability survives while accessible triangular refuges remain available. Higher-order chambers may degrade without collapse because recoverable continuation is carried by refuge structures rather than by chamber perfection itself."
+}
