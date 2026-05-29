@@ -1,0 +1,191 @@
+{
+  "artifact_id": "chamber_survivability_and_refuge_dominance_principles",
+
+  "title": "Chamber Survivability and Refuge Dominance Principles",
+
+  "status": "repository_lock_candidate",
+
+  "framework": "Viability Geometry",
+
+  "type": "recoverability_refuge_hierarchy",
+
+  "canonical_principles": [
+
+    {
+      "name": "Chamber Survivability Principle",
+
+      "canonical_statement": "Viability chambers may lose chamber perfection while preserving recoverability.",
+
+      "equation": "C_chamber ↓ ⇏ R ↓",
+
+      "interpretation": "Loss of higher-order chamber completeness, symmetry, or simplex perfection does not imply immediate viability loss. Recoverability persists whenever lower-order refuge structures remain accessible.",
+
+      "deep_compression": "Chambers fail before recoverability fails."
+    },
+
+    {
+      "name": "Refuge Dominance Principle",
+
+      "canonical_statement": "Recoverability is governed by refuge accessibility rather than chamber perfection.",
+
+      "equation": "R ~ N_triangle_accessible",
+
+      "non_equivalence": "R ≁ N_K4",
+
+      "interpretation": "Higher-order chambers contribute robustness and redundancy, but recoverability is ultimately carried by accessible triangular refuges.",
+
+      "deep_compression": "Refuges matter more than chambers."
+    }
+  ],
+
+  "core_objects": {
+
+    "chamber_integrity": {
+      "symbol": "C_chamber",
+      "definition": "Degree of higher-order chamber completeness and simplex perfection."
+    },
+
+    "recoverability": {
+      "symbol": "R",
+      "definition": "Capacity for recoverable continuation under degradation."
+    },
+
+    "triangular_refuge_count": {
+      "symbol": "N_triangle_accessible",
+      "definition": "Number of accessible triangular recoverability refuges remaining in the system."
+    },
+
+    "higher_order_chambers": {
+      "symbol": "K_n",
+      "definition": "Higher-order viability chambers providing redundancy and recoverability infrastructure."
+    }
+  },
+
+  "empirical_support": [
+
+    "triangle_survivability_optimum",
+
+    "triangle_ablation_destroyed_91_percent_viability",
+
+    "triangle_ablation_twice_random_control_damage",
+
+    "triangle_contraction_retained_96_point_7_percent_viability",
+
+    "tetrahedron_vertex_loss_degrades_to_triangle",
+
+    "simplex_viability_ladder",
+
+    "continuous_fallback_chain_K8_to_K3",
+
+    "recoverability_preserved_above_K3",
+
+    "first_K4_chamber_loss_observed_near_two_edge_removals",
+
+    "triangle_exhaustion_observed_near_five_edge_removals",
+
+    "recoverability_remains_near_unity_between_chamber_loss_and_triangle_exhaustion"
+  ],
+
+  "derived_relations": [
+
+    {
+      "name": "Ordered Collapse Relation",
+
+      "equation": "C_chamber = 0 ≺ N_triangle_accessible = 0 ≺ R ↓",
+
+      "statement": "Chamber loss precedes refuge exhaustion, which precedes recoverability collapse."
+    },
+
+    {
+      "name": "Refuge-Control Relation",
+
+      "equation": "R ∝ N_triangle_accessible",
+
+      "statement": "Recoverability scales primarily with refuge accessibility."
+    },
+
+    {
+      "name": "Fallback Preservation Relation",
+
+      "equation": "N_triangle_accessible > 0 ⇒ R > 0",
+
+      "statement": "Accessible refuges preserve recoverability."
+    }
+  ],
+
+  "ordered_degradation_architecture": {
+
+    "equation": "Chamber Loss ≺ Refuge Exhaustion ≺ Recoverability Collapse",
+
+    "interpretation": "Structural degradation proceeds through an ordered hierarchy. Higher-order chamber structures fail first, triangular refuges fail later, and recoverability collapses only after refuge exhaustion.",
+
+    "empirical_window": {
+      "K4_chamber_loss": "~2 edge removals",
+      "triangle_exhaustion": "~5 edge removals",
+      "recoverability_collapse": ">5 edge removals"
+    }
+  },
+
+  "relationship_to_other_artifacts": {
+
+    "viability_simplex_principle": {
+      "relation": "Identifies the triangle as the irreducible recoverability object."
+    },
+
+    "simplex_viability_ladder_principle": {
+      "relation": "Provides the degradation hierarchy exposing refuge structures."
+    },
+
+    "recoverability_infrastructure_principle": {
+      "relation": "Explains why recoverability persists through nested fallback paths."
+    },
+
+    "triangular_recoverability_refuge_principle": {
+      "relation": "Identifies the specific structures carrying recoverability."
+    }
+  },
+
+  "deep_consequences": [
+
+    "recoverability is not equivalent to chamber perfection",
+
+    "higher-order chambers function as recoverability infrastructure",
+
+    "triangles carry the final recoverability burden",
+
+    "structural degradation can occur without viability collapse",
+
+    "collapse begins through refuge exhaustion rather than chamber damage",
+
+    "nested simplex hierarchies preserve recoverability through fallback accessibility",
+
+    "robustness emerges from refuge redundancy rather than structural perfection",
+
+    "triangular refuges act as terminal continuity carriers",
+
+    "recoverability persists within a measurable survivability buffer zone after chamber perfection is lost",
+
+    "ordered collapse dynamics emerge naturally from nested viability architecture"
+  ],
+
+  "repository_connections": [
+
+    "Viability Simplex Principle",
+
+    "Simplex Viability Ladder Principle",
+
+    "Recoverability Infrastructure Principle",
+
+    "Triangular Recoverability Refuge Principle",
+
+    "Recursive Viability Phase Transition Theory",
+
+    "Recursive Viability Integrability Geometry",
+
+    "Recursive Viability Constraint Geometry",
+
+    "Recursive Viability Renormalization Geometry"
+  ],
+
+  "lock_statement": "Higher-order chambers provide recoverability infrastructure, but recoverability itself is governed by accessible triangular refuges. Chamber perfection may fail while recoverability remains preserved. Empirically, chamber loss precedes refuge exhaustion, which precedes recoverability collapse."
+}
