@@ -1,0 +1,151 @@
+{
+  "artifact_id": "recoverability_buffer_geometry",
+
+  "title": "Recoverability Buffer Geometry",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Viability Geometry",
+
+  "type": "recoverability_refuge_buffer_measure",
+
+  "canonical_statement": "Recoverability can persist after chamber perfection fails because accessible triangular refuges remain available.",
+
+  "deep_compression": "Recoverability has a measurable buffer after chamber failure.",
+
+  "primitive_principle": {
+    "statement": "Recoverability persists across the degradation interval between higher-order chamber loss and triangular refuge exhaustion.",
+    "interpretation": "A system may lose K4 chamber structure before losing recoverability because K3 triangular refuges continue to carry recoverable continuation."
+  },
+
+  "buffer_definition": {
+    "symbol": "B_R",
+    "equation": "B_R = d_triangle - d_K4",
+    "variables": {
+      "d_K4": "damage depth at which K4 chamber structure disappears",
+      "d_triangle": "damage depth at which the system enters triangle-exhaustion regime"
+    },
+    "interpretation": "The recoverability buffer measures the number of degradation steps between chamber failure and refuge exhaustion."
+  },
+
+  "ordering_law": {
+    "equation": "d_K4 < d_triangle < d_R",
+    "statement": "Chamber failure precedes refuge exhaustion, which precedes recoverability erosion."
+  },
+
+  "observed_result": {
+    "base_graph": "K5",
+    "edges": 10,
+    "d_K4": 2,
+    "d_triangle": 5,
+    "d_R": 6,
+    "B_R": 3,
+    "R_threshold": 0.95,
+    "interpretation": "positive recoverability buffer"
+  },
+
+  "degradation_summary": {
+    "K4_chambers_lost_early": true,
+    "triangles_persist_after_K4_loss": true,
+    "recoverability_preserved_after_chamber_loss": true,
+    "recoverability_declines_after_triangle_exhaustion": true
+  },
+
+  "formal_relations": {
+    "chamber_survivability": "C_chamber ↓ ⇏ R ↓",
+    "refuge_dominance": "R is primarily controlled by N_triangle_accessible during chamber degradation",
+    "buffer_relation": "B_R = d_triangle - d_K4",
+    "positive_buffer_condition": "B_R > 0",
+    "collapse_condition": "N_triangle_accessible -> 0 => R ↓"
+  },
+
+  "empirical_pattern": {
+    "mean_K4": {
+      "edges_removed_0": 5.0,
+      "edges_removed_1": 2.0,
+      "edges_removed_2": 0.6667,
+      "edges_removed_3": 0.1667,
+      "edges_removed_4": 0.0238,
+      "edges_removed_5_plus": 0.0
+    },
+    "mean_triangles": {
+      "edges_removed_0": 10.0,
+      "edges_removed_1": 7.0,
+      "edges_removed_2": 4.6667,
+      "edges_removed_3": 2.9167,
+      "edges_removed_4": 1.6667,
+      "edges_removed_5": 0.8333,
+      "edges_removed_6": 0.3333,
+      "edges_removed_7": 0.0833,
+      "edges_removed_8_plus": 0.0
+    },
+    "mean_R": {
+      "edges_removed_0": 1.0,
+      "edges_removed_1": 1.0,
+      "edges_removed_2": 1.0,
+      "edges_removed_3": 1.0,
+      "edges_removed_4": 0.9952,
+      "edges_removed_5": 0.9762,
+      "edges_removed_6": 0.9095,
+      "edges_removed_7": 0.7333,
+      "edges_removed_8": 0.5333,
+      "edges_removed_9": 0.4,
+      "edges_removed_10": 0.2
+    }
+  },
+
+  "derived_principles": [
+    {
+      "name": "Recoverability Buffer Principle",
+      "statement": "Recoverability persists across the damage interval between chamber loss and refuge exhaustion."
+    },
+    {
+      "name": "Delayed Collapse Principle",
+      "statement": "Collapse is delayed when refuge structures remain accessible after chamber structures fail."
+    },
+    {
+      "name": "Refuge-Carried Persistence Principle",
+      "statement": "Recoverability is carried by surviving triangular refuges rather than by intact higher-order chambers."
+    },
+    {
+      "name": "Ordered Collapse Principle",
+      "statement": "Chamber failure, refuge exhaustion, and recoverability erosion occur in a consistent ordered sequence."
+    }
+  ],
+
+  "validation_status": {
+    "status": "empirical_candidate",
+    "validated_on": [
+      "K5_degradation_sweep"
+    ],
+    "next_tests": [
+      "K6_complete_simplex",
+      "K7_complete_simplex",
+      "K8_complete_simplex",
+      "rotor_chamber_networks",
+      "sparse_viability_graphs"
+    ]
+  },
+
+  "deep_consequences": [
+    "chamber loss occurs before recoverability loss",
+    "recoverability has measurable degradation depth",
+    "triangular refuges provide post-chamber survivability",
+    "positive buffer indicates graceful degradation",
+    "collapse begins when refuge structures are exhausted",
+    "recoverability buffer quantifies survivability after chamber failure",
+    "higher-order chamber perfection is not required for recoverable continuation",
+    "ordered collapse dynamics may provide a universal viability diagnostic"
+  ],
+
+  "repository_connections": [
+    "Triangular Recoverability Refuge Principle",
+    "Chamber Survivability Principle",
+    "Refuge Dominance Principle",
+    "Recoverability Infrastructure Principle",
+    "Simplex Viability Ladder Principle",
+    "Viability Simplex Principle"
+  ],
+
+  "lock_statement": "Recoverability buffer geometry measures the survivability interval between chamber failure and refuge exhaustion. Empirically, chamber collapse, refuge exhaustion, and recoverability erosion occur in a consistent ordered sequence d_K4 < d_triangle < d_R, producing a positive recoverability buffer B_R > 0."
+}
