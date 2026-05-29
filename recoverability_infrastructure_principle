@@ -1,0 +1,129 @@
+{
+  "artifact_id": "recoverability_infrastructure_principle",
+
+  "title": "Recoverability Infrastructure Principle",
+
+  "status": "repository_lock_candidate",
+
+  "framework": "Viability Geometry",
+
+  "type": "nested_recoverability_architecture",
+
+  "canonical_statement": "Viability persists because continuous fallback paths exist through nested recoverable structures.",
+
+  "deep_compression": "Recoverability survives when viable fallback remains accessible.",
+
+  "primitive_principle": {
+    "statement": "A system remains viable when damage preserves access to lower-order recoverable configurations.",
+    "interpretation": "Recoverability depends not on preserving the current structure but on preserving accessible viable fallback states."
+  },
+
+  "fundamental_law": {
+    "equation": "K_n → K_(n-1) → ... → K_3",
+    "statement": "Nested viable structures create continuous recoverability pathways under degradation."
+  },
+
+  "core_objects": {
+
+    "recoverability_infrastructure": {
+      "symbol": "I_rec",
+      "definition": "The collection of accessible fallback structures capable of preserving recoverable continuation."
+    },
+
+    "fallback_path": {
+      "symbol": "P_fallback",
+      "definition": "A continuous sequence of viable degradations connecting higher-order structures to lower-order recoverable structures."
+    },
+
+    "minimal_recoverability_simplex": {
+      "symbol": "K_3",
+      "definition": "The smallest recoverable coordination object."
+    }
+  },
+
+  "recoverability_criterion": {
+
+    "statement": "Viability is preserved whenever an accessible fallback path remains available.",
+
+    "formal_relation":
+      "P_fallback ≠ ∅ ⇒ R_global > 0"
+  },
+
+  "simplex_realization": {
+
+    "equation":
+      "K_n → K_(n-1) → ... → K_4 → K_3",
+
+    "interpretation":
+      "Complete simplices realize recoverability infrastructure through nested simplex fallback."
+  },
+
+  "empirical_support": [
+
+    "triangle_survivability_optimum",
+
+    "triangle_ablation_damage",
+
+    "triangle_contraction_retention",
+
+    "tetrahedron_to_triangle_degradation",
+
+    "K5_to_K4_to_K3_cascade",
+
+    "K6_to_K5_to_K4_to_K3_cascade",
+
+    "K8_continuous_fallback_path",
+
+    "recoverability_preserved_above_K3"
+  ],
+
+  "derived_principles": [
+
+    {
+      "name": "Fallback Accessibility Principle",
+      "statement": "Recoverability depends on accessible viable fallback rather than structural permanence."
+    },
+
+    {
+      "name": "Graceful Degradation Principle",
+      "statement": "Viable systems lose dimensionality before losing recoverability."
+    },
+
+    {
+      "name": "Nested Chamber Principle",
+      "statement": "Higher-order chambers inherit robustness from embedded lower-order chambers."
+    }
+  ],
+
+  "deep_consequences": [
+
+    "recoverability is more fundamental than chamber size",
+
+    "structural loss need not imply viability loss",
+
+    "viability depends on accessible fallback architecture",
+
+    "nested simplices form recoverability infrastructure",
+
+    "graceful degradation emerges from viable fallback paths",
+
+    "collapse begins when fallback paths are exhausted",
+
+    "K3 functions as the terminal recoverability refuge"
+  ],
+
+  "repository_connections": [
+
+    "Viability Simplex Principle",
+
+    "Simplex Viability Ladder Principle",
+
+    "Recursive Viability Renormalization Geometry",
+
+    "Topological Viability Defects",
+
+    "Recursive Viability Phase Transition Theory"
+  ],
+
+  "lock_statement": "Viability persists because damage can be absorbed through continuous descent across nested recoverable structures until accessible fallback is exhausted."
+}
