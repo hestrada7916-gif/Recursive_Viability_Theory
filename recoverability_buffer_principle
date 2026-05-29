@@ -1,0 +1,310 @@
+{
+"artifact_id": "recoverability_buffer_principle",
+
+"title": "Recoverability Buffer Principle",
+
+"status": "repository_lock_v2",
+
+"framework": "Viability Geometry",
+
+"type": "recoverability_refuge_transition_geometry",
+
+"canonical_statement": "Recoverability persists beyond chamber failure through accessible refuge structure.",
+
+"deep_compression": "Chambers fail first. Refuges fail last.",
+
+"primitive_principle": {
+"statement": "Viability chambers may lose chamber perfection while recoverability remains preserved.",
+"interpretation": "Recoverability depends on surviving refuge accessibility rather than preservation of higher-order chamber structure."
+},
+
+"core_thresholds": {
+
+"d_K4": {
+  "name": "chamber_failure_threshold",
+  "definition": "Degradation threshold at which higher-order chamber structure becomes exhausted."
+},
+
+"d_triangle": {
+  "name": "refuge_exhaustion_threshold",
+  "definition": "Degradation threshold at which accessible triangular refuge structure becomes exhausted."
+},
+
+"d_R": {
+  "name": "recoverability_erosion_threshold",
+  "definition": "Degradation threshold at which recoverability falls below viability threshold."
+}
+
+},
+
+"ordering_law": {
+"equation": "d_K4 < d_triangle \lesssim d_R",
+"statement": "Chamber failure precedes refuge exhaustion, while recoverability erosion emerges only near refuge exhaustion."
+},
+
+"ordered_failure_principle": {
+"statement": "Recoverability-relevant structures fail in a characteristic sequence.",
+"sequence": [
+"chamber_failure",
+"refuge_exhaustion",
+"recoverability_erosion"
+]
+},
+
+"recoverability_buffer": {
+
+"symbol": "B_R",
+
+"equation": "B_R = d_triangle - d_K4",
+
+"definition": "Structural interval separating chamber failure from refuge exhaustion.",
+
+"interpretation": "Measures residual adaptive capacity available after chamber perfection has already been lost."
+
+},
+
+"collapse_buffer": {
+
+"symbol": "B_C",
+
+"equation": "B_C = d_R - d_triangle",
+
+"definition": "Residual degradation interval separating refuge exhaustion from recoverability erosion.",
+
+"interpretation": "Measures the remaining survivability interval after refuge exhaustion begins."
+
+},
+
+"collapse_buffer_interpretation": {
+
+"positive": "Recoverability remains preserved for a finite interval after refuge exhaustion.",
+
+"zero": "Refuge exhaustion and recoverability erosion coincide.",
+
+"negative": "Finite-size threshold overlap or measurement ambiguity causes recoverability erosion to appear before complete refuge exhaustion. Does not necessarily violate ordered failure geometry."
+
+},
+
+"critical_refuge_collapse_zone": {
+
+"symbol": "Z_RC",
+
+"definition": "Transition region where refuge exhaustion and recoverability erosion become nearly coincident.",
+
+"relation": "d_triangle \\lesssim d_R",
+
+"interpretation": "Recoverability collapse tracks refuge exhaustion more closely than chamber loss."
+
+},
+
+"survivability_decomposition": {
+
+"equation": "d_R - d_K4 = B_R + B_C",
+
+"expanded_form": "(d_triangle - d_K4) + (d_R - d_triangle) = d_R - d_K4",
+
+"interpretation": "Total survivability beyond chamber failure decomposes into a refuge-preservation interval and a collapse-transition interval."
+
+},
+
+"total_survivability_depth": {
+
+"equation": "d_R - d_K4",
+
+"interpretation": "Total degradation interval survivable after chamber failure."
+
+},
+
+"asymptotic_collapse_principle": {
+
+"equation": "B_C \\rightarrow 0",
+
+"equation_equivalent": "d_triangle \\rightarrow d_R",
+
+"statement": "Refuge exhaustion and recoverability erosion become increasingly coincident at large scale.",
+
+"interpretation": "The collapse buffer behaves as a finite-size correction term while recoverability buffers remain macroscopically positive."
+
+},
+
+"normalized_buffer_density": {
+
+"symbol": "beta_R",
+
+"equation": "beta_R = B_R / |E|",
+
+"empirical_estimate": 0.25,
+
+"validation_status": "K6-K8 candidate scaling law",
+
+"interpretation": "Approximately one quarter of total structural capacity functions as recoverability buffer."
+
+},
+
+"buffer_scaling_observation": {
+
+"K6": 0.267,
+"K7": 0.238,
+"K8": 0.250,
+
+"interpretation": "Normalized recoverability buffer appears approximately invariant across tested simplex chambers."
+
+},
+
+"empirical_results": {
+
+"K6": {
+  "d_K4": 5,
+  "d_triangle": 9,
+  "d_R": 10,
+  "B_R": 4,
+  "B_C": 1,
+  "beta_R": 0.267
+},
+
+"K7": {
+  "d_K4": 9,
+  "d_triangle": 14,
+  "d_R": 14,
+  "B_R": 5,
+  "B_C": 0,
+  "beta_R": 0.238
+},
+
+"K8": {
+  "d_K4": 13,
+  "d_triangle": 20,
+  "d_R": 19,
+  "B_R": 7,
+  "B_C": -1,
+  "beta_R": 0.250
+}
+
+},
+
+"three_regime_geometry": [
+
+{
+  "regime": "chamber_dominated",
+  "condition": "d < d_K4",
+  "description": "Higher-order chamber structures provide robustness and redundancy."
+},
+
+{
+  "regime": "refuge_dominated",
+  "condition": "d_K4 < d < d_triangle",
+  "description": "Triangular refuges carry the dominant recoverability burden."
+},
+
+{
+  "regime": "recoverability_erosion",
+  "condition": "d \\approx d_triangle \\lesssim d_R",
+  "description": "Refuge exhaustion and recoverability decline become coupled."
+}
+
+],
+
+"organizational_transition_sequence": [
+
+"chamber_failure",
+"refuge_dominance",
+"refuge_exhaustion",
+"recoverability_erosion"
+
+],
+
+"collapse_buffer_principles": [
+
+{
+  "name": "Collapse Buffer Principle",
+  "statement": "Recoverability may remain temporarily preserved after refuge exhaustion begins."
+},
+
+{
+  "name": "Collapse Zone Principle",
+  "statement": "Positive collapse buffers indicate delayed recoverability erosion after refuge exhaustion."
+},
+
+{
+  "name": "Asymptotic Collapse Principle",
+  "statement": "Refuge exhaustion and recoverability erosion become increasingly coincident at larger scales.",
+  "equation": "B_C \\rightarrow 0"
+}
+
+],
+
+"universality_status": {
+
+"observed_in": [
+  "complete_simplex_chambers_K5_to_K8"
+],
+
+"current_evidence": [
+  "positive_recoverability_buffer",
+  "refuge_dominated_phase",
+  "ordered_failure_thresholds",
+  "approximately_constant_buffer_density"
+],
+
+"status": "candidate_universality",
+
+"warning": "Universality has not yet been established outside complete simplex chamber families."
+
+},
+
+"deep_consequences": [
+
+"chamber failure is not recoverability failure",
+
+"recoverability survives beyond loss of chamber perfection",
+
+"triangular refuges carry the final recoverability burden",
+
+"collapse begins only near refuge exhaustion",
+
+"recoverability depends upon refuge accessibility rather than chamber integrity",
+
+"viability systems possess measurable recoverability buffers",
+
+"nested simplex structures generate recoverability buffers naturally",
+
+"recoverability collapse is fundamentally a refuge exhaustion phenomenon",
+
+"robustness and survival are distinct organizational properties",
+
+"a refuge-dominated phase separates chamber organization from collapse dynamics",
+
+"ordered failure geometry may constitute a universal signature of recoverable systems",
+
+"most survivability beyond chamber failure appears to be carried by refuge persistence rather than collapse delay",
+
+"the total survivability interval naturally decomposes into refuge-preservation and collapse-transition components"
+
+],
+
+"repository_connections": [
+
+"Viability Simplex Principle",
+
+"Simplex Viability Ladder Principle",
+
+"Recoverability Infrastructure Principle",
+
+"Triangular Recoverability Refuge Principle",
+
+"Chamber Survivability Principle",
+
+"Refuge Dominance Principle",
+
+"Recursive Viability Phase Transition Theory",
+
+"Recursive Viability Renormalization Geometry",
+
+"Recursive Viability Constraint Geometry",
+
+"Recursive Viability Integrability Geometry"
+
+],
+
+"lock_statement": "Recoverability persists beyond chamber failure because accessible refuge structures continue to support viable continuation until refuge exhaustion is reached. Chamber failure, refuge dominance, refuge exhaustion, and recoverability erosion form distinct geometric regimes connected by a measurable positive recoverability buffer. Total survivability naturally decomposes into a recoverability buffer and a collapse buffer."
+}
