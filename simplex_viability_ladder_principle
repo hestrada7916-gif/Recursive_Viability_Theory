@@ -1,0 +1,272 @@
+{
+  "artifact_id": "simplex_viability_ladder_principle",
+
+  "title": "Simplex Viability Ladder Principle",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Viability Geometry",
+
+  "type": "spectral_simplex_chamber_hierarchy",
+
+  "canonical_statement": "Complete simplex chambers preserve recoverability under vertex loss by degrading through nested lower-order simplex structures.",
+
+  "deep_compression": "Viable chambers degrade by falling back into lower-order viable simplices.",
+
+  "validation_status": {
+    "status": "empirical_candidate",
+    "validated_on": [
+      "K3",
+      "K4",
+      "K5",
+      "K6"
+    ],
+    "next_tests": [
+      "rotor_chamber_networks",
+      "sparse_viability_graphs",
+      "noncomplete_coordination_structures"
+    ]
+  },
+
+  "fundamental_law": {
+    "statement": "Vertex loss from a complete simplex chamber produces the next lower simplex chamber.",
+    "equation": "K_n - v ≅ K_(n-1)"
+  },
+
+  "degradation_cascade": {
+    "equation": "K_n → K_(n-1) → ... → K_4 → K_3",
+    "interpretation": "Recoverability is preserved through recursive simplex fallback rather than immediate fragmentation."
+  },
+
+  "primitive_principle": {
+    "statement": "Higher-order viability chambers preserve recoverability through nested simplex fallback.",
+    "interpretation": "Complete simplex chambers contain lower-order viable simplices that remain available under structural loss."
+  },
+
+  "ontological_hierarchy": {
+
+    "rotor": {
+      "role": "minimal_persistence_unit"
+    },
+
+    "simplex": {
+      "role": "minimal_recoverable_coordination_unit",
+      "symbol": "K_3"
+    },
+
+    "chamber": {
+      "role": "minimal_recoverability_chamber",
+      "symbol": "K_4"
+    },
+
+    "hierarchy": {
+      "role": "recursive_simplex_chamber_composition",
+      "symbol": "K_n"
+    }
+  },
+
+  "core_objects": {
+
+    "complete_simplex_chamber": {
+      "symbol": "K_n",
+      "definition": "Complete n-node coupling structure."
+    },
+
+    "minimal_recoverable_coordination_simplex": {
+      "symbol": "K_3",
+      "definition": "Smallest nontrivial simplex possessing cyclic return, closure, and recoverable coordination."
+    },
+
+    "first_viability_chamber": {
+      "symbol": "K_4",
+      "definition": "Smallest complete chamber preserving recoverability through simplex fallback."
+    },
+
+    "spectral_viability_chamber": {
+      "symbol": "K_n, n ≥ 4",
+      "definition": "Complete chamber preserving recoverability through nested simplex fallback."
+    }
+  },
+
+  "viability_observable": {
+
+    "equation": "V = R_global * (1/pi0) * (1 + rho)",
+
+    "variables": {
+      "R_global": "global recoverability",
+      "pi0": "connected component count",
+      "rho": "spectral radius"
+    }
+  },
+
+  "complete_simplex_family": {
+
+    "recoverability": "R_global = 1",
+
+    "connectedness": "pi0 = 1",
+
+    "spectral_radius": "rho(K_n) = n - 1",
+
+    "derived_viability_law": "Under the canonical viability observable, V(K_n) = n"
+  },
+
+  "empirical_results": {
+
+    "K6": {
+      "V": 6,
+      "rho": 5,
+      "R": 1
+    },
+
+    "K5": {
+      "V": 5,
+      "rho": 4,
+      "R": 1
+    },
+
+    "K4": {
+      "V": 4,
+      "rho": 3,
+      "R": 1
+    },
+
+    "K3": {
+      "V": 3,
+      "rho": 2,
+      "R": 1
+    },
+
+    "K2": {
+      "V": 2,
+      "rho": 1,
+      "R": 1
+    },
+
+    "K1": {
+      "V": 1,
+      "rho": 0,
+      "R": 1
+    }
+  },
+
+  "minimal_threshold": {
+
+    "symbol": "K_3",
+
+    "statement": "K_3 is the minimal recoverable coordination simplex.",
+
+    "justification": [
+      "closed cyclic return",
+      "nontrivial coordination",
+      "irreducible simplex structure"
+    ]
+  },
+
+  "chamber_hierarchy": [
+
+    {
+      "symbol": "K_3",
+      "role": "minimal_recoverable_coordination_simplex"
+    },
+
+    {
+      "symbol": "K_4",
+      "role": "first_viability_chamber"
+    },
+
+    {
+      "symbol": "K_5",
+      "role": "higher_order_chamber_complex"
+    },
+
+    {
+      "symbol": "K_6_plus",
+      "role": "recursive_chamber_hierarchy"
+    }
+  ],
+
+  "supporting_evidence": [
+
+    "triangle_survivability_optimum",
+
+    "triangle_ablation_destroyed_91_percent_viability",
+
+    "triangle_ablation_twice_random_control_damage",
+
+    "triangle_contraction_retained_96_point_7_percent_viability",
+
+    "tetrahedron_vertex_loss_degrades_to_triangle",
+
+    "tetrahedron_contraction_removes_chamber_structure",
+
+    "K5_to_K4_to_K3_exact_cascade",
+
+    "K6_to_K5_to_K4_to_K3_exact_cascade",
+
+    "nested_simplex_fallback_observed"
+  ],
+
+  "derived_principles": [
+
+    {
+      "name": "Simplex Fallback Principle",
+      "statement": "Recoverability is preserved through recursive descent into nested simplex structure."
+    },
+
+    {
+      "name": "Viability Chamber Principle",
+      "statement": "A viability chamber is a recoverability structure whose degradation reveals lower-order viable simplices."
+    },
+
+    {
+      "name": "Irreducible Simplex Principle",
+      "statement": "The triangle is the smallest recoverable coordination object."
+    }
+  ],
+
+  "deep_consequences": [
+
+    "recoverability can survive structural loss",
+
+    "triangles function as irreducible viability nuclei",
+
+    "tetrahedra form the first viability chambers",
+
+    "complete simplex families form a recoverable chamber hierarchy",
+
+    "graceful degradation emerges naturally from nested simplex structure",
+
+    "spectral viability scales linearly across the simplex family under the canonical viability observable",
+
+    "recoverability remains invariant under simplex degradation",
+
+    "higher-order organizational chambers inherit robustness from embedded simplices",
+
+    "persistent viability may be organized through recursive simplex composition",
+
+    "simplex chambers provide candidate primitive organizational viability architectures"
+  ],
+
+  "repository_connections": [
+
+    "Viability Simplex Principle",
+
+    "Recursive Viability Spectral Geometry",
+
+    "Recursive Viability Renormalization Geometry",
+
+    "Recursive Viability Integrability Geometry",
+
+    "Topological Viability Defects",
+
+    "Recursive Viability Memory Geometry",
+
+    "Recursive Viability Identity Geometry",
+
+    "Recursive Viability Agency Geometry",
+
+    "Recursive Civilizational Viability Geometry"
+  ],
+
+  "lock_statement": "The complete simplex family forms a nested recoverability hierarchy with K3 as the minimal recoverable coordination simplex and K_n - v ≅ K_(n-1) as the fundamental simplex fallback law."
+}
