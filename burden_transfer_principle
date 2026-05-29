@@ -1,0 +1,262 @@
+{
+  "artifact_id": "burden_transfer_principle",
+
+  "title": "Burden Transfer Principle",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Viability Geometry",
+
+  "type": "recoverability_burden_dynamics",
+
+  "canonical_statement": "Viability degradation proceeds through transfer of recoverability burden from higher-order chambers to lower-order refuge structures.",
+
+  "deep_compression": "Collapse occurs when burden can no longer be redistributed.",
+
+  "primitive_principle": {
+    "statement": "Higher-order chamber structures initially carry the majority of recoverability burden through redundancy, coordination density, and fallback richness. As degradation accumulates, burden is progressively transferred to surviving refuge structures.",
+    "interpretation": "Collapse emerges when remaining refuge structures can no longer absorb the transferred burden."
+  },
+
+  "primitive_objects": {
+
+    "recoverability_burden": {
+      "symbol": "\\mathcal B_{\\mathrm{rec}}",
+      "definition": "Organizational load required to preserve viable continuation under degradation."
+    },
+
+    "chamber_burden": {
+      "symbol": "\\mathcal B_C",
+      "definition": "Recoverability burden currently carried by higher-order chamber structures."
+    },
+
+    "refuge_burden": {
+      "symbol": "\\mathcal B_R",
+      "definition": "Recoverability burden currently carried by surviving refuge structures."
+    },
+
+    "refuge_burden_concentration": {
+      "symbol": "\\kappa_R",
+      "definition": "Average recoverability burden carried by each accessible refuge structure."
+    }
+
+  },
+
+  "burden_decomposition_principle": {
+
+    "equation": "\\mathcal B_{\\mathrm{rec}} = \\mathcal B_C + \\mathcal B_R",
+
+    "interpretation": "Recoverability burden decomposes into chamber-carried and refuge-carried components."
+
+  },
+
+  "burden_transfer_principle": {
+
+    "equation": "\\Delta\\mathcal B_C < 0 \\Rightarrow \\Delta\\mathcal B_R > 0",
+
+    "statement": "Loss of chamber carrying capacity induces increased burden on surviving refuge structures.",
+
+    "interpretation": "Recoverability is preserved through burden redistribution rather than preservation of chamber perfection."
+
+  },
+
+  "burden_transfer_law": {
+
+    "equation": "\\mathcal B_C \\downarrow \\Rightarrow \\mathcal B_R \\uparrow",
+
+    "statement": "The organizational responsibility for maintaining viable continuation migrates from chambers to refuges."
+
+  },
+
+  "dominance_transfer_threshold": {
+
+    "symbol": "d_CR",
+
+    "equation": "\\mathcal B_C(d_{CR}) = \\mathcal B_R(d_{CR})",
+
+    "interpretation": "Chambers and refuges carry equal recoverability burden at the dominance transition."
+
+  },
+
+  "refuge_dominance_principle": {
+
+    "equation": "d > d_{CR} \\Rightarrow \\mathcal B_R > \\mathcal B_C",
+
+    "statement": "Recoverability becomes primarily carried by refuge structures.",
+
+    "interpretation": "The system may remain viable despite substantial chamber loss."
+
+  },
+
+  "burden_concentration_principle": {
+
+    "equation": "\\kappa_R = \\frac{\\mathcal B_R}{N_{\\triangle}^{\\mathrm{accessible}}}",
+
+    "statement": "Refuge burden concentration measures average recoverability burden per accessible refuge.",
+
+    "interpretation": "Collapse dynamics depend on burden concentration rather than total burden alone."
+
+  },
+
+  "collapse_criterion": {
+
+    "early_warning_condition": "\\kappa_R \\rightarrow \\kappa_R^{\\max}",
+
+    "overload_condition": "\\kappa_R > \\kappa_R^{\\max}",
+
+    "statement": "Collapse begins as refuge burden concentration approaches refuge carrying capacity and becomes unavoidable when capacity is exceeded.",
+
+    "interpretation": "Collapse emerges when remaining refuges are forced to carry more burden than they can absorb."
+
+  },
+
+  "relationship_to_recoverability_buffer_geometry": {
+
+    "equation": "d_{K4} < d_{CR} < d_{\\triangle} \\lesssim d_R",
+
+    "interpretation": "Chamber failure occurs first. Burden transfer continues through a refuge-dominated phase. Refuge exhaustion and recoverability erosion occur only after most burden has been transferred."
+
+  },
+
+  "observed_transition_geometry": {
+
+    "K6": {
+      "beta_CR": 0.533
+    },
+
+    "K7": {
+      "beta_CR": 0.571
+    },
+
+    "K8": {
+      "beta_CR": 0.571
+    },
+
+    "mean_beta_CR": 0.559,
+
+    "cv_beta_CR": 0.039,
+
+    "interpretation": "The chamber-to-refuge dominance transition appears to occur after approximately one-half of total structural degradation has accumulated."
+  },
+
+  "derived_principles": [
+
+    {
+      "name": "Chamber Survivability Principle",
+      "statement": "Loss of chamber perfection does not imply immediate viability loss."
+    },
+
+    {
+      "name": "Refuge Dominance Principle",
+      "statement": "Recoverability becomes refuge-carried before collapse begins."
+    },
+
+    {
+      "name": "Recoverability Buffer Principle",
+      "statement": "Burden transfer naturally generates survivability intervals beyond chamber failure."
+    },
+
+    {
+      "name": "Burden Concentration Principle",
+      "statement": "Collapse is governed by concentration of burden rather than total burden."
+    },
+
+    {
+      "name": "Ordered Failure Principle",
+      "statement": "Chamber failure, burden transfer, refuge dominance, refuge exhaustion, and recoverability erosion emerge in an ordered sequence."
+    }
+
+  ],
+
+  "organizational_transition_sequence": [
+
+    "chamber_dominance",
+
+    "chamber_failure",
+
+    "burden_transfer",
+
+    "refuge_dominance",
+
+    "refuge_exhaustion",
+
+    "recoverability_erosion",
+
+    "collapse"
+
+  ],
+
+  "candidate_universality_claim": {
+
+    "statement": "Burden transfer dynamics emerge whenever nested refuge structures survive beyond higher-order chamber failure.",
+
+    "status": "hypothesis",
+
+    "requires_validation": [
+
+      "rotor_chambers",
+
+      "weighted_networks",
+
+      "sparse_networks",
+
+      "non_simplex_viability_geometries",
+
+      "dynamic_rewiring_networks",
+
+      "heterogeneous_refuge_hierarchies"
+
+    ]
+
+  },
+
+  "deep_consequences": [
+
+    "chamber loss is not equivalent to viability loss",
+
+    "recoverability survives through burden redistribution",
+
+    "refuge structures function as burden absorbers",
+
+    "collapse emerges from burden concentration rather than structural damage alone",
+
+    "recoverability buffers emerge naturally from burden transfer dynamics",
+
+    "refuge dominance constitutes a distinct viability regime",
+
+    "ordered failure geometry emerges from sequential burden migration",
+
+    "resilience depends on burden absorption capacity",
+
+    "viability is governed by burden flow rather than static structure",
+
+    "recoverability collapse occurs when burden concentration exceeds refuge carrying capacity",
+
+    "failure mechanics emerge from overload of remaining recoverability refuges",
+
+    "burden concentration may be a universal collapse observable"
+
+  ],
+
+  "repository_connections": [
+
+    "Recoverability Infrastructure Principle",
+
+    "Recoverability Buffer Principle",
+
+    "Chamber Survivability Principle",
+
+    "Refuge Dominance Principle",
+
+    "Triangular Recoverability Refuge Principle",
+
+    "Simplex Viability Ladder Principle",
+
+    "Viability Simplex Principle",
+
+    "Recursive Viability Phase Transition Theory"
+
+  ],
+
+  "lock_statement": "Viability degradation proceeds through transfer of recoverability burden from chambers to refuges. Recoverability is preserved through burden redistribution, while collapse emerges when transferred burden becomes concentrated beyond the carrying capacity of the remaining refuge structures."
+}
