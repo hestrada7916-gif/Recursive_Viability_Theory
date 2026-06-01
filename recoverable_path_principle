@@ -1,0 +1,132 @@
+{
+  "artifact_id": "recoverable_path_principle",
+
+  "title": "Recoverable Path Principle",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Viability Geometry",
+
+  "type": "recoverable_future_accessibility_ontology",
+
+  "canonical_statement": "A recoverable path is possibility that survives its own use.",
+
+  "deep_compression": "Recoverability begins where possibility survives use.",
+
+  "primitive_principle": {
+    "statement": "A path is not recoverable merely because it exists or can be traversed.",
+    "interpretation": "A path is recoverable only if traversal preserves future accessibility or regenerates equivalent future accessibility after use."
+  },
+
+  "path_distinction_hierarchy": {
+    "equation": "path != accessible_path != recoverable_path",
+    "path": "possible transport",
+    "accessible_path": "currently available transport",
+    "recoverable_path": "transport whose use does not exhaust future transport possibility"
+  },
+
+  "recoverable_path_condition": {
+    "equation": "gamma_rec iff U(gamma) => exists gamma_prime in Gamma_future such that gamma_prime ~ gamma",
+    "interpretation": "A path is recoverable when using it preserves equivalent future accessibility, whether through preservation of the original path or regeneration of an equivalent future path."
+  },
+
+  "nonrecoverable_path_condition": {
+    "equation": "U(gamma) => not exists gamma_prime in Gamma_future such that gamma_prime ~ gamma",
+    "interpretation": "A nonrecoverable path is consumed by use because traversal destroys future accessibility rather than preserving or regenerating it."
+  },
+
+  "recoverable_path_ontology": {
+    "statement": "Recoverable paths belong to the recoverable future accessibility structure of a system.",
+    "equations": {
+      "subset_relation": "Gamma_future_rec subseteq Gamma_future",
+      "membership_relation": "gamma_rec in Gamma_future_rec"
+    },
+    "interpretation": "Recoverable paths are future accessibility objects whose defining property is preservation of future possibility."
+  },
+
+  "accessibility_equivalence_principle": {
+    "equation": "gamma_1 ~ gamma_2 iff A_plus(gamma_1) = A_plus(gamma_2)",
+    "variables": {
+      "A_plus": "future accessibility"
+    },
+    "interpretation": "Recoverability does not require preservation of identical paths. Recoverability requires preservation of equivalent future possibility."
+  },
+
+  "future_accessibility_balance": {
+    "symbol": "Pi_future",
+    "equation": "Pi_future = Sigma_regen - Sigma_consumed",
+    "scale_invariant_form": "Pi_future_star = Sigma_regen / Sigma_consumed",
+    "interpretation": "Future accessibility balance functions as the net flux of recoverable possibility through a system."
+  },
+
+  "recoverability_preservation_criterion": {
+    "equations": [
+      "Pi_future >= 0",
+      "Sigma_regen >= Sigma_consumed",
+      "Pi_future_star >= 1"
+    ],
+    "interpretation": "Future accessibility must be replenished at least as rapidly as it is exhausted."
+  },
+
+  "accessibility_deficit_principle": {
+    "equations": [
+      "Pi_future < 0",
+      "Sigma_regen < Sigma_consumed",
+      "Pi_future_star < 1"
+    ],
+    "deficit": {
+      "symbol": "D_future",
+      "equation": "D_future = Sigma_consumed - Sigma_regen",
+      "collapse_condition": "D_future > 0"
+    },
+    "interpretation": "Systems collapse when future possibility is exhausted faster than it can be regenerated."
+  },
+
+  "persistence_emergence_principle": {
+    "statement": "Persistence is not primitive. Persistence emerges from recoverability.",
+    "equation": "R > 0 => P > 0",
+    "interpretation": "Persistence depends upon the existence of recoverable future accessibility. Recoverability is therefore ontologically prior to persistence."
+  },
+
+  "viability_consequence": {
+    "equation": "future_accessibility => recoverability => persistence => adaptive_viability",
+    "interpretation": "Future accessibility supports recoverability, recoverability supports persistence, and persistence supports adaptive viability."
+  },
+
+  "relationship_to_refuge_geometry": {
+    "equation": "recoverable_paths => recoverable_refuges => recoverability_infrastructure",
+    "interpretation": "Recoverable paths form the microscopic substrate underlying refuge structures, recoverability buffers, and chamber dynamics."
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse begins when future possibility is consumed faster than it is regenerated.",
+    "interpretation": "Collapse is fundamentally a failure of future possibility preservation rather than structural damage alone."
+  },
+
+  "deep_consequences": [
+    "persistence emerges from sustained recoverability",
+    "recoverability emerges from preservation of future accessibility",
+    "future accessibility is the primitive resource underlying viable continuation",
+    "paths are recoverability objects only when future possibility survives traversal",
+    "recoverability depends on preservation of future accessibility rather than preservation of specific paths",
+    "accessibility deficits precede recoverability collapse",
+    "structural damage is secondary to accessibility loss",
+    "regeneration and consumption jointly govern viability",
+    "equivalent future accessibility may be preserved despite continuous path turnover",
+    "recoverable future accessibility constitutes the fundamental substrate of adaptive persistence"
+  ],
+
+  "repository_connections": [
+    "Recoverability Infrastructure Principle",
+    "Recoverability Buffer Principle",
+    "Burden Transfer Principle",
+    "Triangular Recoverability Refuge Principle",
+    "Simplex Viability Ladder Principle",
+    "Viability Simplex Principle",
+    "Recursive Viability Phase Transition Theory",
+    "Recursive Viability Integrability Geometry",
+    "Recursive Viability Renormalization Geometry"
+  ],
+
+  "lock_statement": "Recoverable continuation requires paths whose use preserves or regenerates equivalent future accessibility, because persistence emerges from recoverable future possibility."
+}
