@@ -1,0 +1,196 @@
+{
+  "artifact_id": "reopening_geometry",
+
+  "title": "Reopening Geometry",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Viability Geometry",
+
+  "type": "future_accessibility_reactivation_dynamics",
+
+  "canonical_statement": "Reopening restores realizability of an existing future.",
+
+  "deep_compression": "The future may remain while access is lost.",
+
+  "primitive_principle": {
+    "statement": "Recursive viability does not necessarily require creation of new futures. In many cases, future accessibility remains structurally present while realizable access is lost.",
+    "interpretation": "Reopening restores realizable access to an existing accessibility class rather than necessarily creating a new future."
+  },
+
+  "future_accessibility_principle": {
+    "statement": "Reopening operates upon accessibility rather than identity.",
+    "equation": "future_accessibility_restoration > state_restoration",
+    "interpretation": "Viability depends upon restoration of access to future possibility rather than restoration of prior configuration."
+  },
+
+  "core_objects": {
+    "accessibility_class": {
+      "symbol": "[gamma]",
+      "definition": "Accessibility equivalence class preserving a future accessibility structure."
+    },
+
+    "realizable_path_set": {
+      "symbol": "Gamma_realizable",
+      "definition": "Set of currently realizable paths."
+    },
+
+    "reopening_capacity": {
+      "symbol": "Omega_open",
+      "definition": "Capacity to restore realizable access to suppressed accessibility classes."
+    },
+
+    "reopening_operator": {
+      "symbol": "\\mathfrak R_{\\mathrm{open}}",
+      "definition": "Operator restoring realizability to a suppressed accessibility class."
+    }
+  },
+
+  "accessibility_phase_states": {
+    "accessible": {
+      "equation": "[gamma] cap Gamma_realizable != empty_set",
+      "interpretation": "At least one realizable path currently reaches the accessibility class."
+    },
+
+    "suppressed": {
+      "equation": "[gamma] != empty_set and [gamma] cap Gamma_realizable = empty_set",
+      "interpretation": "The future accessibility class remains structurally present, but no realizable path currently reaches it."
+    },
+
+    "extinct": {
+      "equation": "[gamma] = empty_set",
+      "interpretation": "The accessibility class itself no longer exists."
+    }
+  },
+
+  "accessibility_phase_hierarchy": {
+    "equation": "accessible -> suppressed -> extinct",
+    "interpretation": "Accessibility classes may transition from realizable to inaccessible and eventually to extinction if reopening fails."
+  },
+
+  "reopening_operator": {
+    "equation": "mathfrak_R_open : ([gamma] cap Gamma_realizable = empty_set) -> ([gamma] cap Gamma_realizable != empty_set)",
+    "interpretation": "The reopening operator acts on realizability relations rather than on accessibility classes themselves. The accessibility class remains present; reopening restores access to it."
+  },
+
+  "suppression_reopening_transition": {
+    "equation": "([gamma] != empty_set and [gamma] cap Gamma_realizable = empty_set) -> mathfrak_R_open -> ([gamma] cap Gamma_realizable != empty_set)",
+    "interpretation": "Reopening converts inaccessible futures into realizable futures without requiring ontological creation of the future class."
+  },
+
+  "recursive_viability_interpretation": {
+    "equation": "recursive_viability -> capacity_to_reopen_suppressed_accessibility_classes",
+    "interpretation": "A recursively viable system is capable of restoring access to suppressed futures before suppression becomes extinction."
+  },
+
+  "reopening_vs_recovery": {
+    "equation": "reopening != recovery",
+    "interpretation": "Recovery often implies return to a prior state. Reopening requires restoration of future accessibility and may occur through entirely new configurations."
+  },
+
+  "reopening_vs_state_restoration": {
+    "equation": "future_accessibility_restoration != prior_configuration_restoration",
+    "interpretation": "A system may regain viability without returning to what it previously was."
+  },
+
+  "reopening_vs_creation": {
+    "creation": {
+      "equation": "[gamma] = empty_set -> [gamma] != empty_set",
+      "interpretation": "Creation generates a new accessibility class."
+    },
+
+    "reopening": {
+      "equation": "[gamma] != empty_set and [gamma] cap Gamma_realizable = empty_set -> [gamma] cap Gamma_realizable != empty_set",
+      "interpretation": "Reopening restores access to an existing accessibility class."
+    }
+  },
+
+  "reopening_vs_persistence": {
+    "persistence": {
+      "equation": "[gamma] cap Gamma_realizable != empty_set remains true",
+      "interpretation": "Persistence preserves continuous access."
+    },
+
+    "reopening": {
+      "equation": "[gamma] cap Gamma_realizable = empty_set -> [gamma] cap Gamma_realizable != empty_set",
+      "interpretation": "Reopening restores broken access."
+    }
+  },
+
+  "reopening_capacity": {
+    "symbol": "Omega_open",
+    "equation": "Omega_open > 0",
+    "interpretation": "Positive reopening capacity indicates the ability to restore realizable access to suppressed accessibility classes."
+  },
+
+  "future_formalization_hint": {
+    "equation": "Omega_open ~ d([gamma] cap Gamma_realizable)/d(tau_rec)",
+    "interpretation": "Reopening capacity may eventually be formalized as the rate at which suppressed accessibility classes regain realizability."
+  },
+
+  "recursive_reopening_criterion": {
+    "equation": "Omega_open > 0 before [gamma] -> empty_set",
+    "interpretation": "Suppression remains recoverable whenever reopening capacity persists before extinction of the accessibility class."
+  },
+
+  "reopening_failure": {
+    "equation": "[gamma] != empty_set and [gamma] cap Gamma_realizable = empty_set and Omega_open = 0",
+    "interpretation": "Suppression becomes persistent when no mechanism remains capable of restoring realizability."
+  },
+
+  "suppression_extinction_transition": {
+    "equation": "persistent_suppression -> [gamma] = empty_set",
+    "interpretation": "Extinction occurs when prolonged suppression eliminates the accessibility class itself."
+  },
+
+  "burden_transfer_relation": {
+    "equation": "burden_concentration -> path_suppression -> reopening_requirement",
+    "interpretation": "Reopening reduces burden concentration by restoring alternative realizable paths."
+  },
+
+  "recoverability_buffer_relation": {
+    "equation": "mathfrak_R_open -> Gamma_realizable_up -> B_R_up",
+    "interpretation": "Reopening expands recoverability buffers by increasing the number of realizable paths."
+  },
+
+  "accessibility_balance_relation": {
+    "equation": "mathfrak_R_open -> Sigma_regen_up -> Pi_future_up",
+    "interpretation": "Reopening contributes to regeneration of future accessibility and counteracts accessibility deficits."
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse is not necessarily the disappearance of a future.",
+    "interpretation": "Collapse may correspond to loss of realizable access to an accessibility class while the class itself remains structurally present."
+  },
+
+  "deep_consequences": [
+    "a future can be inaccessible without being impossible",
+    "suppression and extinction are distinct viability states",
+    "reopening restores access rather than necessarily creating new futures",
+    "recovery is not equivalent to reopening",
+    "reopening does not require return to a prior state",
+    "future accessibility restoration is more fundamental than state restoration",
+    "recursive viability depends on the capacity to reopen suppressed accessibility classes",
+    "collapse may be delayed or reversed through restoration of realizable paths",
+    "reopening reduces burden concentration by increasing available realizability",
+    "reopening expands recoverability buffers",
+    "reopening is a future-accessibility operation rather than a state-restoration operation",
+    "viability can be regained through new realizations of existing futures",
+    "accessibility phase transitions govern suppression and reopening dynamics"
+  ],
+
+  "repository_connections": [
+    "Accessibility Equivalence Class Principle",
+    "Recoverable Path Principle",
+    "Recoverability Infrastructure Principle",
+    "Recoverability Buffer Principle",
+    "Burden Transfer Principle",
+    "Triangular Recoverability Refuge Principle",
+    "Simplex Viability Ladder Principle",
+    "Recursive Viability Phase Transition Theory",
+    "Recursive Viability Integrability Geometry",
+    "Recursive Viability Renormalization Geometry"
+  ],
+
+  "lock_statement": "Reopening Geometry studies transitions by which suppressed accessibility classes regain realizable paths. Recursive viability depends not only upon preserving future accessibility, but upon restoring access to futures that remain structurally present despite temporary loss of realizability. Reopening therefore restores accessibility rather than identity, and future-accessibility restoration is more fundamental than return to prior state."
+}
