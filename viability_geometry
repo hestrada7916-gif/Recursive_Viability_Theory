@@ -1,0 +1,164 @@
+{
+  "artifact_id": "viability_geometry",
+
+  "title": "Viability Geometry",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Viability Geometry",
+
+  "type": "foundational_field_definition",
+
+  "canonical_statement": "Viability Geometry is the geometry of recoverable continuation.",
+
+  "deep_compression": "Recoverable continuation is maintenance of future accessibility across realization change.",
+
+  "primitive_principle": {
+    "statement": "Adaptive systems persist through continual realization change. Paths change, states change, configurations change, and identities evolve. Viability therefore cannot fundamentally depend upon preservation of particular realizations. Instead, viability depends upon maintenance of future accessibility across realization change.",
+    "interpretation": "Recoverability is persistence of future accessibility across realization change."
+  },
+
+  "foundational_definitions": {
+
+    "recoverable_continuation": {
+      "definition": "Maintenance of future accessibility across realization change.",
+      "equation": "maintained(A_plus) across realization_change(gamma)"
+    },
+
+    "recoverability": {
+      "definition": "Persistence of future accessibility across realization change.",
+      "equation": "recoverability = persistence(A_plus) across realization_change(gamma)"
+    }
+  },
+
+  "recoverable_continuation_principle": {
+    "statement": "Recoverable continuation is maintenance of future accessibility across realization change.",
+    "equation": "A_plus maintained while gamma may change",
+    "interpretation": "Recoverable continuation does not require preservation of particular paths. Recoverable continuation requires maintenance of future possibility."
+  },
+
+  "realization_change_principle": {
+    "equation": "gamma_i -> gamma_j while A_plus remains maintained",
+    "interpretation": "Realizations may change continuously without loss of recoverable continuation."
+  },
+
+  "ontological_flow": {
+    "equation": "A_plus -> [gamma] -> gamma",
+    "interpretation": "Future accessibility induces accessibility classes. Accessibility classes admit realizable paths."
+  },
+
+  "ontological_hierarchy": {
+
+    "future_accessibility": {
+      "symbol": "A_plus",
+      "role": "primitive viability object"
+    },
+
+    "accessibility_classes": {
+      "symbol": "[gamma]",
+      "role": "organizational structure of future possibility"
+    },
+
+    "path_realizations": {
+      "symbol": "gamma",
+      "role": "realizations of accessibility classes"
+    }
+  },
+
+  "recoverability_principle": {
+    "equation": "recoverability != path_persistence",
+    "replacement_equation": "recoverability = accessibility_persistence",
+    "interpretation": "Paths are realizations. Future accessibility is the maintained object."
+  },
+
+  "structure_preservation_loss_restoration_framework": {
+
+    "equation": "structure -> preservation -> loss -> restoration",
+
+    "structure": {
+      "definition": "Organization of future accessibility."
+    },
+
+    "preservation": {
+      "definition": "Maintenance of future accessibility."
+    },
+
+    "loss": {
+      "definition": "Degradation, suppression, or destruction of future accessibility."
+    },
+
+    "restoration": {
+      "definition": "Reopening or regeneration of future accessibility."
+    }
+  },
+
+  "suppression_principle": {
+    "equation": "[gamma] != empty_set and [gamma] cap Gamma_realizable = empty_set",
+    "interpretation": "The future may remain while access is lost."
+  },
+
+  "extinction_principle": {
+    "equation": "[gamma] = empty_set",
+    "interpretation": "Extinction removes future possibility itself."
+  },
+
+  "reopening_principle": {
+    "equation": "[gamma] cap Gamma_realizable = empty_set -> [gamma] cap Gamma_realizable != empty_set",
+    "interpretation": "Reopening restores realizability of an existing future accessibility class."
+  },
+
+  "future_accessibility_restoration_principle": {
+    "equation": "future_accessibility_restoration > state_restoration",
+    "interpretation": "Viability depends upon restoration of access to future possibility rather than restoration of prior configuration."
+  },
+
+  "viability_geometry_scope": {
+    "statement": "Viability Geometry studies the structure, preservation, loss, and restoration of recoverable continuation.",
+    "interpretation": "The fundamental object of study is neither state nor path. The fundamental object of study is recoverable continuation."
+  },
+
+  "core_questions": [
+    "Which futures remain accessible?",
+    "How is future accessibility organized?",
+    "How does accessibility become suppressed?",
+    "How does accessibility become reopened?",
+    "How is future accessibility preserved?",
+    "How is future accessibility lost?",
+    "How does recoverable continuation persist through realization change?",
+    "How does adaptive viability emerge from recoverable continuation?"
+  ],
+
+  "deep_consequences": [
+    "future accessibility is the primitive viability object",
+    "accessibility classes organize future possibility",
+    "paths realize accessibility classes",
+    "recoverability is persistence of future accessibility across realization change",
+    "recoverable continuation is maintenance of future accessibility across realization change",
+    "persistence emerges from recoverability",
+    "collapse emerges from loss of future accessibility",
+    "suppression and extinction are distinct phenomena",
+    "reopening restores realizability of existing futures",
+    "viability does not require preservation of identity",
+    "viability requires maintenance of recoverable continuation",
+    "a future may be inaccessible without being impossible",
+    "future accessibility restoration is more fundamental than state restoration",
+    "future accessibility is the conserved object across realization turnover"
+  ],
+
+  "repository_connections": [
+    "Accessibility Equivalence Class Principle",
+    "Recoverable Path Principle",
+    "Reopening Geometry",
+    "Recoverability Infrastructure Principle",
+    "Recoverability Buffer Principle",
+    "Burden Transfer Principle",
+    "Triangular Recoverability Refuge Principle",
+    "Simplex Viability Ladder Principle",
+    "Viability Simplex Principle",
+    "Recursive Viability Phase Transition Theory",
+    "Recursive Viability Integrability Geometry",
+    "Recursive Viability Renormalization Geometry"
+  ],
+
+  "lock_statement": "Recoverable continuation is maintenance of future accessibility across realization change. Viability Geometry is the geometry of recoverable continuation and studies the structure, preservation, loss, and restoration of future accessibility across continual realization change."
+}
