@@ -1,0 +1,140 @@
+{
+  "artifact_id": "accessibility_equivalence_class_principle",
+
+  "title": "Accessibility Equivalence Class Principle",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Viability Geometry",
+
+  "type": "future_accessibility_equivalence_ontology",
+
+  "canonical_statement": "Different realizations may preserve the same future.",
+
+  "deep_compression": "Recoverability belongs to futures, not paths.",
+
+  "primitive_principle": {
+    "statement": "Recoverability does not fundamentally attach to individual paths. Recoverability attaches to accessibility equivalence classes that preserve equivalent future accessibility.",
+    "interpretation": "Individual path realizations are secondary to the future accessibility they preserve."
+  },
+
+  "ontological_flow": {
+    "equation": "A_plus -> [gamma] -> gamma",
+    "interpretation": "Future accessibility induces accessibility classes, and accessibility classes admit path realizations."
+  },
+
+  "core_objects": {
+    "future_accessibility": {
+      "symbol": "A_plus",
+      "definition": "The future possibility structure available to a system."
+    },
+
+    "accessibility_equivalence_class": {
+      "symbol": "[gamma]",
+      "definition": "Collection of path realizations preserving equivalent future accessibility."
+    },
+
+    "realizable_path": {
+      "symbol": "gamma",
+      "definition": "A current path realization providing access to an accessibility class."
+    }
+  },
+
+  "accessibility_equivalence_class": {
+    "equation": "[gamma] = { gamma_prime in Gamma_future : gamma_prime ~ gamma }",
+    "interpretation": "An accessibility equivalence class contains all path realizations that preserve equivalent future accessibility."
+  },
+
+  "class_membership_condition": {
+    "equation": "gamma_prime in [gamma] iff gamma_prime ~ gamma",
+    "equivalent_condition": "A_plus(gamma_prime) = A_plus(gamma)",
+    "interpretation": "Class membership depends upon preservation of future accessibility rather than preservation of path identity."
+  },
+
+  "future_accessibility_invariance": {
+    "equation": "gamma_i, gamma_j in [gamma] => A_plus(gamma_i) = A_plus(gamma_j)",
+    "interpretation": "All members of an accessibility class preserve the same future possibility structure."
+  },
+
+  "representative_realization_principle": {
+    "statement": "Individual paths act as representatives of accessibility classes.",
+    "equation": "gamma in [gamma]",
+    "interpretation": "No particular path is ontologically privileged. Any member of an accessibility class provides access to equivalent future accessibility."
+  },
+
+  "realizability_principle": {
+    "equation": "[gamma] cap Gamma_realizable != empty_set",
+    "interpretation": "An accessibility class is currently realizable when at least one available path provides access to it."
+  },
+
+  "class_persistence_principle": {
+    "statement": "Loss of an individual path does not imply loss of an accessibility class.",
+    "equation": "gamma_i lost does not imply [gamma] cap Gamma_realizable = empty_set",
+    "interpretation": "Accessibility classes may survive continual path turnover as long as equivalent realizations remain available."
+  },
+
+  "suppression_condition": {
+    "equation": "[gamma] != empty_set and [gamma] cap Gamma_realizable = empty_set",
+    "interpretation": "A future accessibility class remains structurally present, but no realizable path currently reaches it."
+  },
+
+  "realizability_collapse_principle": {
+    "equation": "[gamma] cap Gamma_realizable = empty_set",
+    "interpretation": "Recoverability collapse begins when access to an accessibility class is lost, even though the class itself may continue to exist."
+  },
+
+  "extinction_condition": {
+    "equation": "[gamma] = empty_set",
+    "interpretation": "Extinction occurs when the accessibility class itself no longer exists. Future possibility has been removed from the system rather than merely becoming inaccessible."
+  },
+
+  "reopening_principle": {
+    "equation": "[gamma] cap Gamma_realizable = empty_set -> [gamma] cap Gamma_realizable != empty_set",
+    "interpretation": "Reopening restores realizability of an existing accessibility class rather than necessarily creating a new future."
+  },
+
+  "recoverability_consequence": {
+    "equation": "R = R([gamma])",
+    "interpretation": "Recoverability attaches to accessibility classes. Paths instantiate recoverability but do not own it."
+  },
+
+  "refuge_consequence": {
+    "equation": "refuge_structure -> preservation_of_[gamma]",
+    "interpretation": "Refuge structures maintain continued access to future accessibility by preserving accessibility classes across structural change."
+  },
+
+  "collapse_interpretation": {
+    "statement": "Collapse is not necessarily the disappearance of a future. Collapse may be loss of realizable access to that future.",
+    "interpretation": "A blocked future is not the same as a nonexistent future."
+  },
+
+  "deep_consequences": [
+    "recoverability belongs to futures rather than paths",
+    "paths are realizations of accessibility classes",
+    "accessibility classes are recoverability objects",
+    "future accessibility is ontologically prior to path realization",
+    "different realizations may preserve the same future",
+    "path loss does not imply accessibility-class loss",
+    "collapse may reflect loss of realizability rather than extinction of future possibility",
+    "suppressed futures may remain structurally present despite lack of current access",
+    "reopening restores access to existing future accessibility",
+    "adaptive persistence depends on preserving accessibility classes across realization turnover",
+    "a future can be inaccessible without being impossible",
+    "realizability collapse and ontological extinction are distinct phenomena"
+  ],
+
+  "repository_connections": [
+    "Recoverable Path Principle",
+    "Recoverability Infrastructure Principle",
+    "Recoverability Buffer Principle",
+    "Burden Transfer Principle",
+    "Triangular Recoverability Refuge Principle",
+    "Simplex Viability Ladder Principle",
+    "Viability Simplex Principle",
+    "Recursive Viability Phase Transition Theory",
+    "Recursive Viability Integrability Geometry",
+    "Recursive Viability Renormalization Geometry"
+  ],
+
+  "lock_statement": "Accessibility equivalence classes are future-preserving recoverability objects. Individual paths are realizations, while recoverability depends upon preservation or reopening of access to the accessibility classes those paths instantiate. A future may be inaccessible without being impossible, and loss of access must be distinguished from extinction of the future itself."
+}
