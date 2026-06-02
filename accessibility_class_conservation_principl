@@ -1,0 +1,163 @@
+{
+  "artifact_id": "accessibility_class_conservation_principle",
+
+  "title": "Accessibility-Class Conservation Principle",
+
+  "status": "repository_lock_v2",
+
+  "framework": "Viability Geometry",
+
+  "type": "recoverability_invariance_and_conservation_law",
+
+  "canonical_statement": "Recoverability is conserved under realization turnover that preserves accessibility classes.",
+
+  "deep_compression": "Recoverability belongs to futures, not paths.",
+
+  "primitive_principle": {
+    "statement": "Adaptive systems continually undergo realization turnover. Paths change, configurations change, and implementations change. Recoverability therefore cannot fundamentally depend upon preservation of particular realizations. Instead, recoverability depends upon preservation of accessibility classes that continue to provide access to future possibility.",
+    "interpretation": "Accessibility-class preservation preserves recoverability."
+  },
+
+  "accessibility_class_ontology": {
+    "equation": "A_plus -> [gamma] -> gamma",
+
+    "interpretation": "Future accessibility induces accessibility classes. Accessibility classes admit path realizations. Recoverability therefore attaches to accessibility classes rather than individual paths."
+  },
+
+  "future_accessibility_hierarchy": {
+    "equation": "future_accessibility > accessibility_class > path_realization",
+
+    "interpretation": "The future is primary. Accessibility classes organize access to the future. Paths instantiate access."
+  },
+
+  "accessibility_class_symmetry_principle": {
+    "equation": "[gamma] = constant -> R = constant",
+
+    "interpretation": "Accessibility-class preservation defines a symmetry of recoverability dynamics. Recoverability conservation emerges as the invariant associated with this symmetry."
+  },
+
+  "recoverability_invariance_principle": {
+    "equation": "Delta[gamma] = 0 -> DeltaR = 0",
+
+    "interpretation": "Recoverability remains invariant under transformations that preserve accessibility-class structure."
+  },
+
+  "realization_turnover_invariance": {
+    "equation": "gamma_i -> gamma_j where gamma_i, gamma_j in [gamma]",
+
+    "interpretation": "Realization substitution preserves accessibility-class membership and therefore preserves recoverability."
+  },
+
+  "recoverability_conservation_law": {
+    "equation": "accessibility_class_preservation -> recoverability_preservation",
+
+    "interpretation": "Recoverability conservation emerges from accessibility-class invariance."
+  },
+
+  "realization_turnover_conservation_test": {
+    "null_hypothesis": {
+      "equation": "R proportional_to N_paths",
+
+      "interpretation": "Recoverability scales with path abundance."
+    },
+
+    "viability_geometry_hypothesis": {
+      "equation": "R proportional_to N_[gamma]",
+
+      "interpretation": "Recoverability scales with accessibility-class persistence."
+    }
+  },
+
+  "experiment_1": {
+    "description": "Path destruction with class preservation.",
+
+    "path_count": {
+      "initial": 72,
+      "final": 12,
+      "retention": 0.167
+    },
+
+    "accessibility_class_retention": 1.0,
+
+    "recoverability_proxy_retention": 1.0,
+
+    "interpretation": "Massive path loss produced no measurable recoverability loss when accessibility classes remained intact."
+  },
+
+  "experiment_2": {
+    "description": "Class destruction with partial path preservation.",
+
+    "path_count": {
+      "initial": 72,
+      "final": 36,
+      "retention": 0.5
+    },
+
+    "accessibility_class_retention": 0.5,
+
+    "recoverability_proxy_retention": 0.378,
+
+    "interpretation": "Moderate path loss combined with accessibility-class loss produced substantial recoverability degradation."
+  },
+
+  "empirical_result": {
+    "equation": "R ~ N_[gamma] >> N_paths",
+
+    "interpretation": "Recoverability tracks accessibility-class persistence far more strongly than path abundance."
+  },
+
+  "future_accessibility_connection": {
+    "equation": "R ~ N_[gamma] -> Phi_future",
+
+    "interpretation": "Accessibility-class persistence functions as a structural proxy for preservation of future accessibility."
+  },
+
+  "reopening_consequence": {
+    "equation": "[gamma] != empty_set",
+
+    "interpretation": "Reopening remains possible whenever accessibility classes remain structurally present."
+  },
+
+  "suppression_vs_extinction_connection": {
+    "suppression": {
+      "equation": "[gamma] != empty_set and [gamma] cap Gamma_realizable = empty_set",
+
+      "interpretation": "Recoverability is temporarily inaccessible but structurally preserved."
+    },
+
+    "extinction": {
+      "equation": "[gamma] = empty_set",
+
+      "interpretation": "Recoverability associated with the accessibility class has been eliminated."
+    }
+  },
+
+  "deep_consequences": [
+    "recoverability belongs to accessibility classes rather than path realizations",
+    "massive path turnover may occur without recoverability loss",
+    "accessibility-class loss produces recoverability loss",
+    "accessibility classes function as future-preserving organizational structures",
+    "realization turnover is compatible with recoverable continuation",
+    "accessibility-class preservation defines a symmetry of recoverability dynamics",
+    "recoverability conservation emerges from accessibility-class invariance",
+    "future accessibility is ontologically prior to path realization",
+    "reopening restores realizability of existing accessibility classes",
+    "accessibility-class persistence constitutes a candidate foundational conservation law of Viability Geometry",
+    "future accessibility organization is more important than path abundance",
+    "recoverability tracks accessibility-class persistence more strongly than path count"
+  ],
+
+  "repository_connections": [
+    "Accessibility Equivalence Class Principle",
+    "Recoverable Path Principle",
+    "Future Accessibility Horizon Geometry",
+    "Reopening Geometry",
+    "Viability Geometry",
+    "Recoverability Infrastructure Principle",
+    "Recoverability Buffer Principle",
+    "Future Accessibility Balance Principle",
+    "Recursive Viability Phase Transition Theory"
+  ],
+
+  "lock_statement": "Recoverability is conserved under realization turnover that preserves accessibility classes. Accessibility-class preservation defines a symmetry of recoverability dynamics, and recoverability conservation emerges as the invariant associated with that symmetry. Paths may change, disappear, or be replaced without degrading recoverability, provided that future-preserving accessibility classes remain realizable."
+}
