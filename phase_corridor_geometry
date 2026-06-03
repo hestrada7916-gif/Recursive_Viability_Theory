@@ -1,0 +1,155 @@
+{
+  "artifact_id": "phase_corridor_geometry",
+  "title": "Phase Corridor Geometry",
+  "status": "repository_lock_v1",
+  "framework": "Viability Geometry",
+  "type": "phase_transition_corridor_dynamics",
+
+  "canonical_statement": "Phase transitions occur through navigable corridors rather than instantaneous boundaries.",
+
+  "deep_compression": "Recoverability lives in the corridors.",
+
+  "primitive_principle": {
+    "statement": "Adaptive systems rarely move directly between viability regimes. Transitions between viability regimes typically occur through extended organizational regions possessing their own recoverability dynamics. These regions possess measurable structure, extent, accessibility, and traversability.",
+    "interpretation": "Phase transitions are corridor dynamics."
+  },
+
+  "corridor_as_accessibility_object": {
+    "statement": "Phase transitions are accessibility objects.",
+    "interpretation": "A phase corridor is not merely a boundary between regimes. It is a structured accessibility region through which recoverable continuation may be preserved or lost."
+  },
+
+  "phase_corridor_definition": {
+    "symbol": "C_phase",
+    "equation": "C_phase subset P_viab",
+    "variables": {
+      "P_viab": "viability phase space"
+    },
+    "interpretation": "A phase corridor is a connected region of viability phase space linking distinct viability regimes."
+  },
+
+  "phase_corridor_connectivity": {
+    "equation": "V_i <-> C_phase <-> V_j",
+    "interpretation": "Corridors function as organizational bridges between qualitatively distinct viability structures."
+  },
+
+  "corridor_entry_exit": {
+    "entry": "p_entry",
+    "exit": "p_exit",
+    "interpretation": "Entry and exit identify the boundaries of a transitional viability region."
+  },
+
+  "corridor_width": {
+    "symbol": "Delta_p_corridor",
+    "equation": "Delta_p_corridor = p_exit - p_entry",
+    "interpretation": "Corridor width measures the extent of a transition region. Narrow corridors approximate sharp transitions, while wide corridors generate prolonged transitional dynamics."
+  },
+
+  "corridor_volume": {
+    "symbol": "V_corridor",
+    "equation": "V_corridor = integral_C_phase X dp",
+    "interpretation": "Corridors are geometric regions possessing extent rather than merely boundary locations."
+  },
+
+  "ghost_infrastructure_corridor_volume": {
+    "symbol": "V_ghost",
+    "equation": "V_ghost = integral_{Delta_P > 0} Delta_P dp",
+    "variables": {
+      "Delta_P": "P_N - P_Phi"
+    },
+    "interpretation": "Ghost-corridor volume measures the total extent of the ghost-infrastructure regime."
+  },
+
+  "corridor_traversability": {
+    "symbol": "T_corridor",
+    "definition": "Capacity of a system to move through a corridor while preserving recoverable continuation.",
+    "interpretation": "High traversability corresponds to recoverable transition. Low traversability corresponds to transition trapping."
+  },
+
+  "corridor_reversibility": {
+    "symbol": "R_corridor",
+    "definition": "Capacity of a system to return across a corridor after transition.",
+    "interpretation": "Some corridors are reopenable. Others become effectively one-way transitions."
+  },
+
+  "corridor_permeability": {
+    "symbol": "Pi_corridor",
+    "definition": "Quantity of future accessibility volume capable of traversing a corridor.",
+    "candidate_equation": "Pi_corridor = Phi_transmitted / Phi_incident",
+    "interpretation": "Corridor permeability measures the fraction of future accessibility volume successfully transmitted through a transition region. Connectivity alone does not determine permeability."
+  },
+
+  "future_accessibility_flow_relation": {
+    "equation": "P_Phi -> C_phase",
+    "interpretation": "Future accessibility percolation generates navigable transition regions within viability phase space."
+  },
+
+  "corridor_refuge_principle": {
+    "statement": "Refuges stabilize corridors.",
+    "equation": "R_refuge -> T_corridor up and R_corridor up",
+    "interpretation": "Refuges preserve future-accessibility flow across transitional regions. Corridors lacking refuge structure exhibit low traversability and low reversibility, while corridors supported by refuge structure remain recoverably navigable."
+  },
+
+  "ghost_infrastructure_corridor_principle": {
+    "equation": "Delta_P > 0 => C_ghost",
+    "variables": {
+      "Delta_P": "P_N - P_Phi"
+    },
+    "interpretation": "Ghost infrastructure is neither a stable viability regime nor a collapsed regime. Ghost infrastructure is a transitional corridor connecting volume-rich topology and fragmented-remnant dynamics."
+  },
+
+  "future_accessibility_corridor_cascade": {
+    "equation": "volume_rich_topology -> ghost_infrastructure -> fragmented_remnants -> collapse",
+    "interpretation": "Future accessibility may leave a structure before the structure itself disappears. Ghost infrastructure is therefore a passage, not merely a state."
+  },
+
+  "recoverability_relation": {
+    "equation": "C_phase -> R",
+    "interpretation": "Viability depends not only upon accessible states, but upon recoverable transition pathways between states."
+  },
+
+  "corridor_ontology": {
+    "equation": "A_plus -> [gamma] -> G_[gamma] -> P_Phi -> R_refuge -> C_phase -> R",
+    "interpretation": "Future accessibility generates accessibility classes. Accessibility classes generate topology. Topology supports future-accessibility percolation. Percolating refuge structure generates navigable phase corridors. Phase corridors govern transitions between viability regimes."
+  },
+
+  "phase_transition_path_principle": {
+    "statement": "A phase transition is a path.",
+    "interpretation": "Phase transitions are not merely boundaries or instantaneous events. They are navigable geometric objects with width, volume, permeability, traversability, and reversibility."
+  },
+
+  "deep_consequences": [
+    "phase transitions occur through corridors rather than instantaneous boundaries",
+    "phase transitions are accessibility objects",
+    "a phase transition is a path",
+    "corridors are geometric objects",
+    "corridors possess width, volume, permeability, traversability, and reversibility",
+    "recoverability depends upon navigable transition regions",
+    "future accessibility flow generates phase corridors",
+    "refuges stabilize corridors",
+    "corridors lacking refuge structure are prone to trapping and irreversibility",
+    "ghost infrastructure constitutes a transitional corridor",
+    "ghost infrastructure is a passage rather than a destination",
+    "future accessibility may disappear before topology disappears",
+    "connectivity alone does not guarantee recoverability",
+    "recoverability depends upon preservation of corridor permeability",
+    "reopenability depends upon corridor reversibility",
+    "viability collapse emerges through corridor dynamics",
+    "recoverability lives in the corridors"
+  ],
+
+  "repository_connections": [
+    "Viability Geometry",
+    "Future Accessibility Percolation Principle",
+    "Refuge Emergence Principle",
+    "Future Accessibility Horizon Geometry",
+    "Accessibility Equivalence Class Principle",
+    "Accessibility-Class Symmetry Principle",
+    "Reopening Geometry",
+    "Recoverable Path Principle",
+    "Recoverability Infrastructure Principle",
+    "Recursive Viability Phase Transition Theory"
+  ],
+
+  "lock_statement": "Phase transitions occur through navigable corridors rather than instantaneous boundaries. These corridors are accessibility objects possessing width, volume, permeability, traversability, and reversibility. Future-accessibility flow generates phase corridors, refuge structure stabilizes them, and recoverability depends upon the ability of systems to traverse them without losing future accessibility. Ghost infrastructure constitutes one such corridor, revealing that the future may leave a structure before the structure itself disappears. A phase transition is therefore a path, and recoverability lives in the corridors."
+}
