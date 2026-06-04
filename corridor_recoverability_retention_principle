@@ -1,0 +1,193 @@
+{
+  "artifact_id": "corridor_recoverability_retention_principle",
+  "title": "Corridor Recoverability Retention Principle",
+  "status": "repository_lock_v2",
+  "framework": "Viability Geometry",
+  "type": "phase_corridor_survivability_and_recoverability_transport_dynamics",
+
+  "canonical_statement": "Recoverability is measured by how much recoverable structure survives passage through a phase corridor.",
+
+  "deep_compression": "Recoverability is a property of passage.",
+
+  "primitive_principle": {
+    "statement": "A phase corridor is not characterized solely by its existence, width, or intensity. The critical property of a corridor is whether recoverable continuation survives traversal.",
+    "interpretation": "A corridor is navigable only if recoverability survives passage."
+  },
+
+  "recoverability_transport_principle": {
+    "statement": "Recoverability is transported through phase corridors.",
+    "interpretation": "Recoverability is not merely possessed by a system. Recoverability propagates through transitional regions, and phase corridors function as transport media for recoverable continuation."
+  },
+
+  "recoverability_proxy": {
+    "symbol": "R",
+    "equation": "R = Phi_future * D_A * P_Phi",
+    "variables": {
+      "Phi_future": "future accessibility volume",
+      "D_A": "accessibility differentiation",
+      "P_Phi": "future-volume percolation"
+    },
+    "interpretation": "Recoverability increases with accessible future volume, future distinctiveness, and future-accessibility flow."
+  },
+
+  "corridor_recoverability_retention": {
+    "symbol": "T_corridor",
+    "equation": "T_corridor = R_exit / R_entry",
+    "interpretation": "Corridor recoverability retention measures the fraction of recoverable organizational structure preserved across a transition region."
+  },
+
+  "corridor_transmission_interpretation": {
+    "statement": "Corridor recoverability retention functions as a transmission coefficient.",
+    "equation": "T_corridor = R_exit / R_entry",
+    "interpretation": "The corridor acts as a medium, recoverability acts as the transported quantity, and retention measures transmission efficiency."
+  },
+
+  "traversability_retention_distinction": {
+    "corridor_traversability": {
+      "symbol": "Theta_corridor",
+      "definition": "Whether a system can pass through a corridor."
+    },
+    "corridor_recoverability_retention": {
+      "symbol": "T_corridor",
+      "definition": "How much recoverability survives passage through a corridor."
+    },
+    "equation": "Theta_corridor != T_corridor",
+    "interpretation": "A corridor may be traversable while still destroying recoverability."
+  },
+
+  "corridor_burden": {
+    "symbol": "V_corridor",
+    "equation": "V_corridor = integral_C Delta_P dp",
+    "variables": {
+      "Delta_P": "P_N - P_Phi"
+    },
+    "interpretation": "Corridor burden measures accumulated transition stress across a phase corridor."
+  },
+
+  "corridor_burden_law": {
+    "equation": "V_corridor up => T_corridor down",
+    "gradient_form": "dT_corridor / dV_corridor < 0",
+    "interpretation": "Recoverability retention decreases as accumulated corridor burden increases."
+  },
+
+  "corridor_fragility_coefficient": {
+    "symbol": "alpha_corridor",
+    "candidate_relation": "T_corridor approximately exp(a - alpha_corridor * V_corridor)",
+    "interpretation": "The corridor fragility coefficient measures the rate at which recoverability decays under accumulated corridor burden."
+  },
+
+  "corridor_state_vector": {
+    "symbol": "C_vector",
+    "equation": "C_vector = (W_corridor, I_corridor, V_corridor, T_corridor)",
+    "components": {
+      "W_corridor": "corridor width",
+      "I_corridor": "peak corridor intensity",
+      "V_corridor": "accumulated corridor burden",
+      "T_corridor": "recoverability retention"
+    },
+    "interpretation": "Phase corridors possess measurable geometry and survivability structure."
+  },
+
+  "corridor_geometry": {
+    "equation": "C_phase = (W_corridor, I_corridor, V_corridor, T_corridor)",
+    "components": {
+      "W_corridor": "corridor width",
+      "I_corridor": "peak corridor intensity",
+      "V_corridor": "accumulated corridor burden",
+      "T_corridor": "recoverability retention"
+    },
+    "interpretation": "A complete corridor description requires extent, intensity, accumulated burden, and survivability."
+  },
+
+  "toy_model_result": {
+    "single_seed_fit": {
+      "equation": "T_corridor approximately exp(-0.1888 - 179.73 * V_corridor)",
+      "r_squared": 0.8815,
+      "interpretation": "In one toy realization, recoverability retention fit an exponential decay model strongly."
+    },
+    "multi_seed_robustness": {
+      "valid_seeds": "24 / 25",
+      "mean_alpha": 110.3963,
+      "median_alpha": 75.961,
+      "mean_r_squared": 0.5432,
+      "median_r_squared": 0.6026,
+      "fraction_negative_corridor_burden_retention_correlation": 1.0,
+      "interpretation": "Across valid seeds, accumulated corridor burden always correlated negatively with recoverability retention."
+    }
+  },
+
+  "corridor_classification": {
+    "recoverable_corridor": {
+      "condition": "T_corridor >= 0.8",
+      "interpretation": "Most recoverability survives passage."
+    },
+    "degrading_corridor": {
+      "condition": "0.25 <= T_corridor < 0.8",
+      "interpretation": "The corridor remains traversable but incurs substantial recoverability loss."
+    },
+    "collapse_corridor": {
+      "condition": "T_corridor < 0.25",
+      "interpretation": "Passage destroys most recoverable organizational structure."
+    },
+    "point_boundary": {
+      "condition": "W_corridor = 0",
+      "interpretation": "The transition occurs without an extended corridor."
+    }
+  },
+
+  "central_finding": {
+    "statement": "Corridor burden predicts recoverability loss more robustly than width or peak intensity alone.",
+    "equation": "V_corridor up => T_corridor down",
+    "interpretation": "Recoverability loss tracks accumulated burden of passage."
+  },
+
+  "relation_to_phase_corridor_geometry": {
+    "equation": "C_phase -> T_corridor",
+    "interpretation": "Phase Corridor Geometry defines transition regions; Corridor Recoverability Retention measures how much recoverability survives traversal of those regions."
+  },
+
+  "relation_to_future_accessibility_percolation": {
+    "equation": "P_Phi retained through C_phase -> R retained",
+    "interpretation": "Future-accessibility flow must survive passage through the corridor for recoverability to be retained."
+  },
+
+  "relation_to_recoverable_continuation": {
+    "equation": "T_corridor > 0 -> recoverable_continuation_survives_passage",
+    "interpretation": "Recoverable continuation persists across phase transition only when recoverability retention remains positive."
+  },
+
+  "deep_consequences": [
+    "recoverability is a property of passage",
+    "recoverability is transported through phase corridors",
+    "recoverability is not solely a state property",
+    "corridors act as transport media for recoverable continuation",
+    "corridor recoverability retention functions as a transmission coefficient",
+    "a protected core does not guarantee viability if the corridor collapses",
+    "a corridor may be traversable while still destroying recoverability",
+    "phase corridors may preserve or destroy recoverability",
+    "corridor width alone is insufficient to determine survivability",
+    "accumulated corridor burden predicts recoverability loss",
+    "recoverability retention decreases as accumulated corridor burden increases",
+    "corridor fragility varies across accessibility topologies",
+    "recoverability retention defines corridor survivability",
+    "long corridors may be highly destructive",
+    "short corridors may remain recoverable",
+    "phase transitions possess measurable survivability",
+    "recoverability lives in the corridors"
+  ],
+
+  "repository_connections": [
+    "Phase Corridor Geometry",
+    "Future Accessibility Percolation Principle",
+    "Future Accessibility Horizon Geometry",
+    "Refuge Emergence Principle",
+    "Accessibility-Class Symmetry Principle",
+    "Reopening Geometry",
+    "Recoverable Path Principle",
+    "Viability Geometry",
+    "Recoverable Continuation Principle",
+    "Recursive Viability Phase Transition Theory"
+  ],
+
+  "lock_statement": "Recoverability is measured by how much recoverable organizational structure survives passage through a phase corridor. Recoverability is transported through corridors: the corridor acts as a medium, recoverability acts as the transported quantity, burden acts as attenuation, fragility measures decay rate, and retention measures transmission efficiency. Phase corridors therefore possess not only width, intensity, and accumulated burden, but also recoverability retention. Multi-seed toy-model results support the principle that recoverability retention decreases as accumulated corridor burden increases. A corridor is navigable only if recoverability survives traversal."
+}
