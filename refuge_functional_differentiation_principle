@@ -1,0 +1,122 @@
+{
+  "artifact_id": "refuge_functional_differentiation_principle",
+  "title": "Refuge Functional Differentiation Principle",
+  "status": "repository_lock_v1",
+  "framework": "Viability Geometry",
+  "type": "role_specific_viability_infrastructure",
+
+  "canonical_statement": "Refuges perform distinct viability functions depending on their location within accessibility geometry.",
+
+  "deep_compression": "Where a refuge sits determines what it preserves.",
+
+  "primitive_principle": {
+    "statement": "Refuges are not functionally identical. Their survivability contribution depends upon their location within future accessibility structure, transport structure, and pressure structure.",
+    "interpretation": "Refuge function emerges from geometric placement."
+  },
+
+  "refuge_functional_classes": {
+    "equation": "R_refuge = (R_reservoir, R_transport, R_survival)",
+    "interpretation": "Different refuge classes preserve distinct viability resources."
+  },
+
+  "reservoir_refuges": {
+    "condition": "Phi_future >> 0",
+    "function": "store futures",
+    "preserved_quantity": "future accessibility volume",
+    "interpretation": "Reservoir refuges occupy high future-volume regions and preserve recoverable future possibility."
+  },
+
+  "transport_refuges": {
+    "condition": "C_transport >> 0",
+    "examples": ["high_degree", "high_betweenness"],
+    "function": "keep futures connected",
+    "preserved_quantity": "future accessibility flow",
+    "interpretation": "Transport refuges occupy high-centrality regions and preserve connectivity, percolation, and corridor transmission."
+  },
+
+  "survival_refuges": {
+    "condition": "B_local << B_field",
+    "alternative_condition": "Delta_P_local << Delta_P_field",
+    "function": "preserve recoverable structure under pressure",
+    "preserved_quantity": "recoverable structure",
+    "interpretation": "Survival refuges occupy low-burden regions that consume recoverability more slowly than the surrounding field."
+  },
+
+  "functional_specialization_law": {
+    "equation": "future_volume != transport_flow != survival_persistence",
+    "interpretation": "Different refuge geometries preserve different viability resources."
+  },
+
+  "toy_model_evidence": {
+    "high_future_volume_refuges": {
+      "effects": [
+        "largest gains in recoverability retention",
+        "largest gains in future accessibility retention",
+        "strong refuge occupancy persistence",
+        "preservation of future-option volume"
+      ],
+      "interpretation": "High-future-volume refuges behave as reservoir refuges."
+    },
+
+    "high_transport_refuges": {
+      "effects": [
+        "increased future-accessibility percolation",
+        "improved corridor transmission",
+        "reduced accessibility fragmentation",
+        "preservation of accessibility connectivity"
+      ],
+      "interpretation": "High-degree and high-betweenness refuges behave as transport refuges."
+    },
+
+    "low_pressure_survivor_refuges": {
+      "effects": [
+        "effects closely matching future-volume refuges",
+        "preservation of recoverability under pressure",
+        "slow consumption of recoverable structure"
+      ],
+      "interpretation": "Low-pressure survivor refuges behave as survival refuges and may accumulate recoverability."
+    }
+  },
+
+  "refuge_infrastructure_principle": {
+    "statement": "Refuges are role-specific viability infrastructure.",
+    "interpretation": "Some refuges preserve future possibility, some preserve accessibility transport, and some preserve recoverable structure under pressure."
+  },
+
+  "corridor_refuge_relation": {
+    "equation": "corridor_burden + refuge_preservation => recoverability_retention",
+    "interpretation": "Recoverability survives through the balance between corridor burden and refuge preservation."
+  },
+
+  "percolation_corridor_refuge_relation": {
+    "equation": "percolation <-> corridors <-> refuges -> recoverability",
+    "interpretation": "Future accessibility flow, corridor dynamics, and refuge preservation mutually shape recoverable continuation."
+  },
+
+  "deep_consequences": [
+    "refuge function depends on geometric placement",
+    "reservoir refuges store futures",
+    "transport refuges preserve accessibility flow",
+    "survival refuges preserve recoverable structure under pressure",
+    "refuge location determines preserved viability quantity",
+    "viability infrastructure is functionally differentiated",
+    "accessibility geometry organizes refuge specialization",
+    "refuges are role-specific viability infrastructure",
+    "refuges and corridors jointly govern recoverable continuation",
+    "recoverability retention depends on the balance between corridor burden and refuge preservation"
+  ],
+
+  "repository_connections": [
+    "Refuge Emergence Principle",
+    "Phase Corridor Geometry",
+    "Corridor Recoverability Retention Principle",
+    "Future Accessibility Percolation Principle",
+    "Future Accessibility Horizon Geometry",
+    "Viability Geometry",
+    "Recoverability Infrastructure Principle",
+    "Recoverability Buffer Principle",
+    "Burden Transfer Principle"
+  ],
+
+  "lock_statement": "Refuges perform distinct viability functions depending on their location within accessibility geometry. Reservoir refuges store futures, transport refuges keep futures connected, and survival refuges preserve recoverable structure under pressure. Refuges are therefore role-specific viability infrastructure, and recoverability retention depends on the balance between corridor burden and refuge preservation."
+}
