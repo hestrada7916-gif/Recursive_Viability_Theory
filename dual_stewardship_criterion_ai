@@ -1,0 +1,97 @@
+{
+  "artifact_id": "dual_stewardship_criterion_ai",
+
+  "title": "Dual Stewardship Criterion for Artificial Intelligence",
+
+  "status": "repository_lock_candidate",
+
+  "framework": "Portable Civic Core",
+
+  "type": "ai_stewardship_evaluation_principle",
+
+  "canonical_statement": "Artificial intelligence should be evaluated according to two inseparable stewardship obligations: preservation and expansion of human participation, and preservation and expansion of the physical conditions that make participation possible.",
+
+  "deep_compression": "The highest role of AI is stewardship.",
+
+  "primitive_principle": {
+    "statement": "Artificial intelligence is fundamentally a burden-management technology. Its primary capability is the acquisition, processing, transformation, and transmission of information. AI creates value by carrying informational burdens, but informational burden reduction alone is not sufficient to establish stewardship value.",
+    "interpretation": "AI should carry informational burdens without reducing the future accessibility of human participation."
+  },
+
+  "underlying_conservation_principle": {
+    "name": "Conservation of Burden Principle",
+    "statement": "Burden cannot be eliminated, only reduced, transformed, distributed, deferred, or transferred.",
+    "interpretation": "AI should not be evaluated according to whether burdens disappear, but according to where burdens move and whether those burdens remain within recoverable capacity."
+  },
+
+  "dual_stewardship_obligations": {
+    "participation_preservation": {
+      "criterion": "AI systems should preserve and expand meaningful human participation, recoverability, agency, understanding, and future accessibility.",
+      "failure_condition": "An AI system fails when it removes meaningful human participation, increases dependency while reducing capability, narrows future accessibility, transfers burdens invisibly, or concentrates control while reducing human agency."
+    },
+
+    "physical_viability_preservation": {
+      "criterion": "AI systems should preserve and expand the physical conditions necessary for human participation, including ecological, energy, water, food, infrastructure, biological, and social systems.",
+      "failure_condition": "An AI system fails when it increases informational capability through unsustainable extraction, transfers burden to future generations, degrades ecological or infrastructural resilience, concentrates systemic fragility, or reduces long-term accessibility of critical physical systems."
+    }
+  },
+
+  "stewardship_interpretation": {
+    "statement": "Human participation and physical viability are not independent systems.",
+    "equation": "human_participation <-> physical_viability",
+    "interpretation": "One obligation preserves participation itself. The other preserves the conditions of participation. Neither obligation can be satisfied through degradation of the other."
+  },
+
+  "stewardship_test": {
+    "conditions": [
+      "human_participation_preserved_or_expanded",
+      "physical_viability_preserved_or_expanded"
+    ],
+    "failure_rule": "An AI system that satisfies one stewardship obligation while degrading the other does not constitute a net stewardship gain."
+  },
+
+  "burden_transfer_rule": {
+    "statement": "Informational gains that create ecological, infrastructural, social, or future burden do not eliminate burden; they transfer burden.",
+    "interpretation": "AI stewardship requires burden accounting across both participation systems and physical viability systems."
+  },
+
+  "participation_interpretation": {
+    "statement": "Humans are not valuable because they perform tasks. Humans are valuable because they are recoverable centers of participation.",
+    "interpretation": "If a machine performs a task more effectively than a person, this establishes a fact about the task, not about the value of the person."
+  },
+
+  "governance_mapping": {
+    "governance_primitive": "Stewardship",
+    "policy_criterion": "Burden Transfer Impact",
+    "underlying_principle": "Conservation of Burden",
+    "application_domain": "Artificial Intelligence"
+  },
+
+  "deep_consequences": [
+    "AI is fundamentally a burden-management technology",
+    "participation and physical viability are inseparable stewardship obligations",
+    "informational gains do not automatically constitute stewardship gains",
+    "burden transfer must be evaluated alongside burden reduction",
+    "humans are recoverable centers of participation rather than units of labor",
+    "physical systems constitute participation infrastructure",
+    "AI should expand future accessibility rather than narrow it",
+    "AI should preserve human agency, capability, and understanding",
+    "AI should not increase informational capability by degrading physical viability",
+    "the value of AI depends upon its contribution to recoverable human futures"
+  ],
+
+  "repository_connections": [
+    "Conservation of Burden Principle",
+    "Governance Primitives",
+    "Policy Evaluation Criteria",
+    "Stewardship Primitive",
+    "Burden Transfer Impact",
+    "Future Accessibility Principle",
+    "Recoverable Continuation Principle",
+    "Human Participation Principle",
+    "Physical Viability Preservation Principle",
+    "Portable Civic Core"
+  ],
+
+  "lock_statement": "Artificial intelligence should be evaluated according to its ability to preserve and expand both human participation and the physical conditions that make participation possible. AI creates value by carrying informational burdens, but informational gains alone do not constitute stewardship gains. The highest role of AI is stewardship: preserving recoverable human futures through simultaneous protection of participation, physical viability, future accessibility, and recoverability across generations."
+}
