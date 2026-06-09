@@ -1,0 +1,20 @@
+{
+  "artifact_id": "dual_preservation_principle",
+  "title": "Dual Preservation Principle",
+  "framework": "Viability Geometry",
+  "type": "primitive_viability_constraint",
+
+  "canonical_statement":
+  "All viable systems must preserve both themselves and the conditions of their continuation.",
+
+  "deep_compression":
+  "Viability requires preserving both the participant and the possibility of participation.",
+
+  "formal_relation":
+  "S viable => preserve(S) AND preserve(C(S))",
+
+  "where": {
+    "S": "system",
+    "C(S)": "conditions required for continuation of S"
+  }
+}
