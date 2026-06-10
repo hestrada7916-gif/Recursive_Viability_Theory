@@ -1,0 +1,108 @@
+{
+  "artifact_id": "human_dignity_as_safe_sovereign_participation",
+
+  "title": "Human Dignity as Safe Sovereign Participation",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Portable Civic Core",
+
+  "type": "human_dignity_viability_definition",
+
+  "canonical_statement": "Human dignity is the preservation of safe, sovereign participation across time.",
+
+  "deep_compression": "Human dignity is viable selfhood maintained across time.",
+
+  "primitive_principle": {
+    "statement": "Human beings are recoverable centers of participation. The preservation of human dignity requires the preservation of both the conditions necessary for continued participation and the individual's capacity to participate as themselves.",
+    "interpretation": "Human dignity requires both safety and sovereignty."
+  },
+
+  "dual_preservation_structure": {
+    "safety": {
+      "definition": "Preservation of existence and the conditions required for continued participation.",
+      "equation": "safety -> continued_participation",
+      "interpretation": "Without safety, participation cannot persist."
+    },
+
+    "sovereignty": {
+      "definition": "Preservation of agency, identity, choice, and self-directed participation.",
+      "equation": "sovereignty -> selfhood_preservation",
+      "interpretation": "Without sovereignty, participation may continue but the participant is diminished."
+    }
+  },
+
+  "humanity_relation": {
+    "equations": [
+      "safety preserves existence",
+      "sovereignty preserves selfhood",
+      "safety + sovereignty -> humanity"
+    ],
+    "interpretation": "Humanity is preserved through the simultaneous protection of existence and self-directed participation."
+  },
+
+  "viability_connection": {
+    "ontological_chain": [
+      "difference",
+      "distinguishability",
+      "burden",
+      "recoverability",
+      "viability",
+      "safe sovereign participation"
+    ],
+    "interpretation": "Human dignity represents the human expression of the universal viability chain. A viable human life is one in which a distinguishable self remains capable of safe and sovereign participation across time."
+  },
+
+  "governance_relation": {
+    "statement": "The purpose of governance is the preservation of safe, sovereign participation across time.",
+    "interpretation": "Governance primitives represent the structural conditions required to maintain human dignity."
+  },
+
+  "governance_primitive_mapping": {
+    "participation": "Preserves the ability of individuals to act in relation to the systems shaping their lives.",
+    "future_accessibility": "Preserves continued possibility for participation.",
+    "coordination": "Preserves the ability to participate collectively.",
+    "recoverability": "Preserves the ability to repair participation after disruption.",
+    "stewardship": "Preserves the conditions necessary for participation across generations.",
+    "subsidiarity": "Preserves participation at the appropriate scale of decision-making.",
+    "human_dignity": "Preserves the participant themselves."
+  },
+
+  "failure_conditions": [
+    "loss of physical safety",
+    "loss of bodily integrity",
+    "loss of agency",
+    "loss of self-determination",
+    "coercive participation",
+    "participation without meaningful choice",
+    "systems that preserve survival while eliminating selfhood",
+    "systems that preserve freedom while destroying conditions of survival"
+  ],
+
+  "deep_consequences": [
+    "safety and sovereignty are inseparable requirements for human dignity",
+    "survival alone is insufficient for dignity",
+    "freedom without viable conditions for existence is unstable",
+    "human dignity is the viability condition of human participation",
+    "governance exists to preserve safe sovereign participation across time",
+    "the preservation of future generations requires preservation of both safety and sovereignty",
+    "human beings are not valuable because of their utility but because they are recoverable centers of participation",
+    "human dignity is the human expression of recoverable continuation"
+  ],
+
+  "repository_connections": [
+    "Participation Preservation Principle",
+    "Future Accessibility Principle",
+    "Recoverability Principle",
+    "Stewardship Primitive",
+    "Subsidiarity Principle",
+    "Conservation of Burden Principle",
+    "Recoverable Continuation Principle",
+    "Viability Geometry",
+    "Dual Stewardship Criterion for Artificial Intelligence",
+    "Policy Evaluation Criteria",
+    "Governance Primitives"
+  ],
+
+  "lock_statement": "Human dignity is the preservation of safe, sovereign participation across time. Safety preserves existence. Sovereignty preserves selfhood. Together they preserve humanity. A viable society therefore preserves not only human survival, but the continued capacity of human beings to participate as distinct, self-directed centers of participation across generations."
+}
