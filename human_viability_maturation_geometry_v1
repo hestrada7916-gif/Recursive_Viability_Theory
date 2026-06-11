@@ -1,0 +1,122 @@
+{
+  "artifact_id": "human_viability_maturation_geometry_v1",
+
+  "title": "Human Viability Maturation Geometry",
+
+  "status": "repository_lock_candidate",
+
+  "framework": "Viability Geometry",
+
+  "type": "human_scale_viability_phase_dynamics",
+
+  "canonical_statement": "Human maturation is the expansion of the capacity to maintain recoverable ordered difference under increasing burden, complexity, uncertainty, and relational difference.",
+
+  "deep_compression": "Maturity preserves identity through difference.",
+
+  "primitive_principle": {
+    "statement": "Human beings are recoverable centers of participation. Human dignity is the human-scale expression of viability. Maturation is the developmental process by which humans increase their capacity to encounter difference without collapsing self-distinguishability, future accessibility, or participation.",
+    
+    "interpretation": "Mature human systems maintain recoverable continuation through integration rather than defensive contraction."
+  },
+
+  "ontological_root": {
+    "equation": "Difference -> Distinguishability -> Burden -> Recoverability -> Viability",
+
+    "interpretation": "The human developmental problem is the universal viability problem expressed at the scale of selfhood, relationship, and society."
+  },
+
+  "human_burden_geometry": {
+    "equation": "B_H = B_T + B_S + B_C",
+
+    "variables": {
+      "B_T": "environmental threat burden",
+      "B_S": "identity-level threat and shame burden",
+      "B_C": "complexity burden"
+    },
+
+    "interpretation": "Human burden includes threats to physical safety, social belonging, identity continuity, and complexity processing."
+  },
+
+  "human_viability_margin": {
+    "equation": "M_H = R_H - B_H",
+
+    "variables": {
+      "M_H": "human viability margin",
+      "R_H": "regulatory and regenerative capacity",
+      "B_H": "total human burden"
+    },
+
+    "interpretation": "Viability margin represents the remaining capacity available after burden has been carried."
+  },
+
+  "observer_capacity_operator": {
+    "equation": "R_H = R_0 + alpha*O",
+
+    "variables": {
+      "O": "internal observer and reflective capacity"
+    },
+
+    "interpretation": "Observer capacity increases the ability to transform feedback into information rather than identity threat."
+  },
+
+  "collapse_dynamics": {
+    "equation": "B_H up -> M_H down -> D_A down -> kappa_H up -> domination",
+
+    "interpretation": "When burden exceeds recoverable capacity, future accessibility contracts, differentiation decreases, and the system collapses toward low-dimensional defensive strategies."
+  },
+
+  "domination_phase": {
+    "definition": "A low-dimensional human viability attractor characterized by reduced future differentiation and defensive preservation of identity.",
+
+    "deep_form": "Immaturity protects identity from difference."
+  },
+
+  "stewardship_dynamics": {
+    "equation": "R_H up -> M_H up -> D_A up -> kappa_H down -> stewardship",
+
+    "interpretation": "Increasing recoverability expands future accessibility and allows difference to be integrated rather than resisted."
+  },
+
+  "stewardship_phase": {
+    "definition": "A high-dimensional viability attractor characterized by response, integration, participation, and preservation of future accessibility.",
+
+    "deep_form": "Maturity preserves identity through difference."
+  },
+
+  "maturation_threshold": {
+    "equation": "R_H >= B_H",
+
+    "interpretation": "The maturation threshold is crossed when a human system possesses sufficient recoverable capacity to hold burden without collapsing into defensive contraction."
+  },
+
+  "human_dignity_relation": {
+    "equation": "human viability -> safe sovereign participation -> human dignity",
+
+    "interpretation": "Human dignity emerges from the preservation of viable selfhood and meaningful participation across time."
+  },
+
+  "collective_viability_principle": {
+    "statement": "Because humans are relational systems, individual viability depends upon the viability of social and ecological systems that preserve participation.",
+
+    "interpretation": "Stewardship preserves both the human participant and the conditions required for continued participation."
+  },
+
+  "phase_transition_principle": {
+    "statement": "Human systems do not merely choose between domination and stewardship. They transition between viability regimes based upon the relationship between burden, recoverability, and future accessibility geometry.",
+
+    "interpretation": "Domination and stewardship are human-scale phase states of viability geometry."
+  },
+
+  "repository_connections": [
+    "human_dignity_as_safe_sovereign_participation",
+    "conservation_of_burden_principle",
+    "recoverable_continuation_principle",
+    "future_accessibility_horizon_geometry",
+    "future_accessibility_concentration_principle",
+    "dual_preservation_principle",
+    "stewardship_principle",
+    "recursive_viability_phase_transition_theory"
+  ],
+
+  "lock_statement": "Human maturity is the expansion of recoverable capacity that allows a person to maintain identity, integrate difference, and preserve future accessibility under burden. Immature systems defend identity from difference by collapsing into low-dimensional domination strategies. Mature systems preserve identity through difference by expanding recoverability, participation, and stewardship."
+}
