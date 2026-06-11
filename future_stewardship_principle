@@ -1,0 +1,123 @@
+{
+  "artifact_id": "future_stewardship_principle",
+
+  "title": "Future Stewardship Principle",
+
+  "status": "repository_lock_candidate",
+
+  "framework": "Portable Civic Core",
+
+  "type": "temporal_representation_and_future_viability_governance",
+
+  "canonical_statement": "Healthy governance preserves the participation of future generations by making present burden transfers visible.",
+
+  "deep_compression": "The future must have a seat at the table.",
+
+  "primitive_principle": {
+    "statement": "Participation is a necessary condition of legitimate governance. However, future participants inherit the consequences of present decisions without the ability to influence those decisions. Governance therefore carries a stewardship obligation to represent the future accessibility, safety, sovereignty, and viability of those who cannot yet advocate for themselves.",
+    "interpretation": "Stewardship extends participation beyond the present."
+  },
+
+  "temporal_representation_principle": {
+    "statement": "Healthy governance does not represent only currently powerful or currently participating groups. It also represents those whose future participation is affected by present decisions.",
+    "represented_entities": [
+      "future generations",
+      "children with limited political agency",
+      "ecological systems supporting future participation",
+      "long-lived infrastructure systems",
+      "cultural and knowledge systems inherited across time"
+    ],
+    "interpretation": "Future stakeholders are legitimate participants whose interests must be represented through stewardship."
+  },
+
+  "burden_visibility_principle": {
+    "underlying_constraint": "Burden cannot be eliminated, only reduced, transformed, distributed, deferred, or transferred.",
+    "statement": "Healthy governance must make burden movement visible across time.",
+    "equation": "invisible_burden -> future_crisis",
+    "interpretation": "A governance system that rewards present extraction while obscuring future burden transfer creates artificial short-term success at the expense of long-term viability."
+  },
+
+  "maintenance_recognition_principle": {
+    "statement": "Persistent systems require continuous maintenance. Governance must therefore align incentives toward preserving the conditions of future participation.",
+    "maintenance_domains": [
+      "physical infrastructure",
+      "ecological systems",
+      "social institutions",
+      "education and capability development",
+      "cultural knowledge",
+      "civic trust",
+      "community relationships"
+    ],
+    "deep_compression": "Maintenance is investment in future participation.",
+    "interpretation": "A society that consumes its maintenance capacity consumes its future accessibility."
+  },
+
+  "temporal_stewardship_criterion": {
+    "conditions": [
+      "present benefits do not create unrecoverable future burden",
+      "future accessibility is preserved or expanded",
+      "physical and social infrastructure necessary for participation is maintained",
+      "future participants retain meaningful choice and sovereignty"
+    ],
+    "interpretation": "A decision is stewarded across time when present participation does not consume future participation."
+  },
+
+  "failure_conditions": [
+    "unsustainable transfer of burden into the future",
+    "consumption of nonrecoverable future accessibility",
+    "rewarding extraction while neglecting maintenance",
+    "short-term incentives dominating long-term viability",
+    "creating irreversible constraints on future participants",
+    "preserving present comfort through future deprivation"
+  ],
+
+  "relation_to_human_dignity": {
+    "statement": "Human dignity extends across generations.",
+    "equation": "safe_sovereign_participation(t_present) must not reduce safe_sovereign_participation(t_future)",
+    "interpretation": "A society preserves dignity not only for those who exist today, but also for those who will inherit the consequences of present decisions."
+  },
+
+  "relation_to_viability_geometry": {
+    "viability_chain": [
+      "difference",
+      "distinguishability",
+      "burden",
+      "recoverability",
+      "viability"
+    ],
+    "interpretation": "Every distinguishable system requires maintenance. Maintenance creates burden. Governance therefore determines how maintenance burdens and future accessibility are distributed across time."
+  },
+
+  "central_governance_question": {
+    "statement": "How do present participants benefit without consuming the future participation of those who come after them?",
+    "interpretation": "Future stewardship is the governance problem of aligning present incentives with future viability."
+  },
+
+  "deep_consequences": [
+    "future generations are affected participants",
+    "healthy governance represents those who cannot yet advocate for themselves",
+    "invisible burden transfer produces future instability",
+    "maintenance preserves future accessibility",
+    "stewardship connects present power with future responsibility",
+    "short-term success may conceal long-term viability loss",
+    "future participation is a viability resource that must be preserved",
+    "a civilization's maturity is measured by how it treats those who inherit its decisions",
+    "human dignity extends beyond the present generation",
+    "good governance aligns present incentives with future viability"
+  ],
+
+  "repository_connections": [
+    "Governance Primitives",
+    "Stewardship Primitive",
+    "Conservation of Burden Principle",
+    "Burden Transfer Impact",
+    "Human Dignity as Safe Sovereign Participation",
+    "Future Accessibility Principle",
+    "Recoverability Principle",
+    "Policy Evaluation Criteria",
+    "Policy Domains",
+    "Viability Geometry"
+  ],
+
+  "lock_statement": "Healthy governance aligns present incentives with future viability by making burden transfers visible, rewarding maintenance, preserving future accessibility, and representing those who cannot yet advocate for themselves. The future cannot participate in present governance, therefore stewardship extends participation across time."
+}
