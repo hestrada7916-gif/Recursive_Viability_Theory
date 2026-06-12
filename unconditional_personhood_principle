@@ -1,0 +1,113 @@
+{
+  "artifact_id": "unconditional_personhood_principle",
+
+  "title": "Unconditional Personhood Principle",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Portable Civic Core",
+
+  "type": "human_dignity_boundary_condition",
+
+  "canonical_statement": "Personhood cannot be conditional.",
+
+  "deep_compression": "Persons are not selectable losses.",
+
+  "primitive_principle": {
+    "statement": "A person is a recoverable center of safe, sovereign participation. Personhood is not earned through productivity, compliance, capacity, usefulness, social approval, innocence, intelligence, health, agreement, or any other measure of conditional worth. Governance may evaluate actions, risks, burdens, rights, responsibilities, and institutional arrangements, but it may not treat personhood itself as conditional.",
+    "interpretation": "Personhood is the boundary condition that prevents viability selection from becoming domination."
+  },
+
+  "formal_constraint": {
+    "statement": "No admissible governance, policy, technological, economic, or coordination system may optimize viability by rendering persons non-persons.",
+    "equation": "maximize(V_system) subject to P_person > 0 for all persons",
+    "variables": {
+      "V_system": "system-level viability and coordination objective",
+      "P_person": "recognized personhood and protected participation status of every human participant"
+    },
+    "interpretation": "Personhood is not a variable within the optimization function. It is a non-negotiable constraint defining the legitimate space of possible solutions."
+  },
+
+  "selection_boundary_principle": {
+    "statement": "Finite systems must make preservation selections, but persons cannot be classified as disposable structures within the selection function.",
+    "relation_to_atlas": "Atlas Protected Kernel Selection applies to structures, institutions, pathways, maintenance strategies, and burden management. It does not authorize selecting away the personhood of participants.",
+    "interpretation": "Protected kernel selection is constrained by unconditional personhood."
+  },
+
+  "relation_to_human_dignity": {
+    "statement": "Human dignity is the preservation of safe, sovereign participation across time.",
+    "equation": "personhood -> dignity -> protected participation",
+    "interpretation": "Because persons are recoverable centers of participation, dignity remains attached to personhood rather than performance."
+  },
+
+  "non_allocability_principle": {
+    "equation": "resources are allocated among persons; persons are not resources to be allocated",
+    "interpretation": "Resources, burdens, and responsibilities may be distributed across participants. The participants themselves may not be treated as optimization variables."
+  },
+
+  "failure_conditions": [
+    "treating productivity as the basis of human worth",
+    "making dignity conditional upon compliance, agreement, or social usefulness",
+    "defining vulnerable humans as disposable burdens",
+    "using scarcity to justify nullification of personhood",
+    "optimizing institutional efficiency by excluding participants",
+    "confusing accountability for actions with conditional human worth",
+    "transforming risk management into dehumanization",
+    "allowing political, economic, medical, social, or technological systems to determine who qualifies as a person"
+  ],
+
+  "allowed_distinctions": {
+    "statement": "Unconditional personhood does not eliminate responsibility, boundaries, consequences, risk assessment, differentiated support, or legitimate resource allocation.",
+    "examples": [
+      "harmful actions may be constrained",
+      "rights may involve corresponding responsibilities",
+      "capacity may influence the form of participation and support",
+      "individuals may require different levels of care and accommodation",
+      "dangerous behavior may require protective intervention",
+      "finite resources may require prioritization and allocation"
+    ],
+    "interpretation": "A system may respond differently to different needs, risks, and actions, but it may not revoke the personhood of the participant."
+  },
+
+  "governance_implication": {
+    "statement": "Legitimate governance preserves the personhood of all participants while managing finite burdens, risks, and responsibilities.",
+    "interpretation": "The purpose of governance is not to determine who qualifies as a person, but to preserve the conditions under which persons remain capable of safe, sovereign participation."
+  },
+
+  "future_stewardship_implication": {
+    "statement": "Future persons must be represented as persons before they can act as participants.",
+    "interpretation": "The unborn, children, future generations, and vulnerable inheritors of present decisions cannot be excluded from stewardship because they cannot yet advocate for themselves."
+  },
+
+  "ai_alignment_implication": {
+    "statement": "Artificial intelligence must not optimize objectives by treating human personhood as reducible, disposable, or conditional.",
+    "interpretation": "AI may assist with burden management, but its optimization space must remain constrained by the non-disposability of persons."
+  },
+
+  "deep_consequences": [
+    "personhood is not a reward for performance",
+    "dignity cannot be earned or revoked",
+    "finite selection cannot select away persons",
+    "systems may constrain behavior without nullifying personhood",
+    "vulnerability does not reduce worth",
+    "dependency does not reduce worth",
+    "future persons are legitimate objects of stewardship",
+    "human value is not identical to economic utility",
+    "accountability must not become dehumanization",
+    "legitimate viability is constrained by the non-disposability of persons"
+  ],
+
+  "repository_connections": [
+    "Human Dignity as Safe Sovereign Participation",
+    "Resources Are Allocated Among Persons Principle",
+    "Atlas Protected Kernel Selection Principle",
+    "Future Stewardship Principle",
+    "Conservation of Burden Principle",
+    "Governance Primitives",
+    "Policy Evaluation Criteria",
+    "Dual Stewardship Criterion for Artificial Intelligence",
+    "Primitive Viability Kernel"
+  ],
+
+  "lock_statement": "Finite systems must make preservation selections, but personhood itself cannot be selected away. Persons are recoverable centers of safe, sovereign participation, not disposable variables within a viability optimization function. Legitimate governance may allocate resources, manage burdens, constrain harmful actions, and assess risks, but it may never preserve system viability by rendering persons non-persons."
+}
