@@ -1,0 +1,107 @@
+{
+  "artifact_id": "atlas_protected_kernel_selection_principle",
+
+  "title": "Atlas Protected Kernel Selection Principle",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Viability Geometry",
+
+  "type": "finite_burden_viability_selection",
+
+  "canonical_statement": "Finite maintenance capacity requires selective preservation of structures that maximize future recoverability.",
+
+  "deep_compression": "Finite systems must choose what they carry forward.",
+
+  "primitive_principle": {
+    "statement": "No finite system possesses unlimited capacity to preserve every existing structure, pathway, or future possibility. As maintenance burden increases and available regenerative capacity becomes constrained, systems must make selective preservation decisions.",
+    "interpretation": "The fundamental viability problem is not merely what can be preserved, but what must be preserved so that recoverable continuation remains possible."
+  },
+
+  "fundamental_viability_question": {
+    "question": "What must be preserved so that recoverable continuation remains possible?",
+    "interpretation": "Protected kernel selection is the process by which finite systems allocate maintenance capacity toward structures that preserve the greatest future viability."
+  },
+
+  "protected_kernel_selection_principle": {
+    "equation": "K*(B, Lambda) = argmax_K V(K, B, Lambda)",
+    "variables": {
+      "K": "candidate protected kernel geometry",
+      "B": "available maintenance and repair capacity",
+      "Lambda": "viability objective vector",
+      "V(K, B, Lambda)": "future recoverability utility of a protected kernel"
+    },
+    "interpretation": "The optimal protected kernel is the structure that maximizes recoverable future accessibility under finite maintenance capacity and specified viability objectives."
+  },
+
+  "finite_capacity_principle": {
+    "abundant_capacity_limit": {
+      "condition": "B -> infinity",
+      "consequence": "Omega -> 1",
+      "interpretation": "When maintenance capacity approaches abundance, distinctions between protected kernel strategies collapse because all accessible futures may be preserved."
+    },
+
+    "finite_capacity_condition": {
+      "condition": "B < infinity",
+      "consequence": "viability selection becomes necessary",
+      "interpretation": "Finite maintenance capacity forces systems to prioritize among different dimensions of future viability."
+    }
+  },
+
+  "viability_selection_principle": {
+    "statement": "There is no universally optimal protected structure.",
+    "selection_dependencies": [
+      "available maintenance capacity",
+      "environmental pressure",
+      "recoverability requirements",
+      "future accessibility priorities"
+    ],
+    "interpretation": "Different environments and viability objectives require different protected kernel geometries."
+  },
+
+  "relation_to_conservation_of_burden": {
+    "viability_chain": [
+      "difference",
+      "distinguishability",
+      "burden",
+      "finite maintenance capacity",
+      "protected kernel selection",
+      "recoverability",
+      "viability"
+    ],
+    "interpretation": "Every distinguishable structure requires maintenance. Maintenance creates burden. Because maintenance capacity is finite, systems must select which structures preserve the greatest capacity for future recovery."
+  },
+
+  "atlas_interpretation": {
+    "statement": "The Atlas is the decision surface relating finite maintenance capacity and viability objectives to optimal protected kernel geometry.",
+    "equation": "Atlas(B, Lambda) -> K*",
+    "interpretation": "The Atlas maps constraints and priorities to the preservation strategy that maximizes recoverable continuation."
+  },
+
+  "deep_consequences": [
+    "finite systems cannot preserve everything",
+    "maintenance capacity constrains preservation",
+    "burden creates the necessity of viability selection",
+    "protected kernels represent selective preservation strategies",
+    "different viability objectives produce different optimal kernel geometries",
+    "there is no universally optimal protected structure",
+    "abundant maintenance capacity reduces the necessity of selective preservation",
+    "finite systems must preserve what maintains future recoverability",
+    "the optimal kernel depends on both constraints and desired future accessibility",
+    "protected kernel geometry is the organizational response to finite burden"
+  ],
+
+  "repository_connections": [
+    "The Atlas of Protected Kernel Geometry",
+    "Conservation of Burden Principle",
+    "Recoverable Continuation Principle",
+    "Future Accessibility Horizon Geometry",
+    "Future Accessibility Percolation Principle",
+    "Refuge Emergence Principle",
+    "Phase Corridor Geometry",
+    "Corridor Recoverability Retention Principle",
+    "Viability Geometry"
+  ],
+
+  "lock_statement": "The Atlas of Protected Kernel Geometry studies how finite systems allocate limited maintenance capacity to preserve the structures that maximize recoverable future accessibility. Because distinguishable structures require maintenance, and maintenance capacity is finite, viability requires selective preservation. The optimal protected kernel is therefore not the structure that preserves the most, but the structure that preserves the greatest capacity for future recovery."
+}
