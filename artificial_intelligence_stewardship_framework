@@ -1,0 +1,177 @@
+{
+  "artifact_id": "artificial_intelligence_stewardship_framework",
+
+  "title": "Artificial Intelligence Stewardship Framework",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Portable Civic Core",
+
+  "type": "artificial_intelligence_governance_architecture",
+
+  "canonical_statement": "Artificial intelligence should be governed according to whether it carries informational and material burdens in ways that preserve and expand recoverable human futures and the human capacities required to steward them.",
+
+  "deep_compression": "The highest role of AI is stewardship.",
+
+  "core_governance_claim": {
+    "statement": "Artificial intelligence is not merely a capability system. It is a burden redistribution technology. AI governance must therefore evaluate not only what a system can do, but where burdens move, whom they affect, whether those burdens remain within recoverable capacity, and whether human capacities for future stewardship are preserved.",
+    "interpretation": "The value of artificial intelligence depends on whether increased informational capability preserves or consumes human future accessibility."
+  },
+
+  "foundational_constraints": {
+
+    "dual_stewardship_constraint": {
+      "statement": "An AI system is admissible only if it preserves both meaningful human participation and the physical conditions required for participation.",
+      "requirements": [
+        "preservation and expansion of meaningful human participation",
+        "preservation and expansion of ecological, energetic, infrastructural, biological, and social conditions supporting participation"
+      ],
+      "failure_condition": "A system that satisfies one stewardship obligation while degrading the other does not constitute a net stewardship gain."
+    },
+
+    "protected_human_kernel_principle": {
+      "statement": "A healthy AI civilization must preserve the human capacities necessary for future recoverability.",
+      "protected_capacities": [
+        "human agency and meaningful choice",
+        "judgment and practical wisdom",
+        "understanding and knowledge formation",
+        "creativity and imagination",
+        "care, empathy, and relationship",
+        "cultural transmission and meaning-making",
+        "local knowledge and contextual adaptation",
+        "individual and collective problem-solving",
+        "the capacity to modify, govern, maintain, and repair the systems upon which humans depend"
+      ],
+      "failure_condition": "An AI system that increases efficiency while degrading the human capacities required for future understanding, governance, adaptation, maintenance, or repair constitutes a loss of long-term viability.",
+      "interpretation": "Human beings are not merely beneficiaries of artificial intelligence systems. Humanity itself is a protected kernel of future recoverability. AI stewardship therefore requires preserving not only human survival, but the human capacities that allow present and future generations to understand, participate in, maintain, and transform their world."
+    },
+
+    "conservation_of_burden_constraint": {
+      "statement": "AI systems may reduce, transform, distribute, defer, or transfer burdens. They may not be evaluated as though burdens disappear.",
+      "governance_questions": [
+        "What burden is reduced?",
+        "What burden is created?",
+        "Where does the burden move?",
+        "Who carries the burden?",
+        "When is the burden paid?",
+        "Can the receiving system recover?"
+      ],
+      "interpretation": "AI governance requires visible accounting of burden movement across individuals, institutions, ecosystems, and generations."
+    },
+
+    "unconditional_personhood_constraint": {
+      "statement": "No artificial intelligence system may optimize an objective by treating human personhood as conditional, disposable, or selectable.",
+      "equation": "maximize(V_system) subject to P_i > 0 for all persons",
+      "interpretation": "Persons are not optimization variables. Persons are boundary conditions on legitimate optimization."
+    }
+  },
+
+  "prohibited_governance_zone": {
+    "definition": "AI applications that violate foundational stewardship constraints and are therefore categorically inadmissible.",
+    "examples": [
+      "autonomous selection of human beings as lethal targets",
+      "defining human beings as disposable burdens",
+      "removing meaningful accountability from decisions affecting life, liberty, or personhood",
+      "optimizing institutional efficiency by excluding vulnerable participants",
+      "concealing burden transfers to workers, communities, ecosystems, or future generations",
+      "increasing informational capability by degrading physical viability",
+      "creating dependency while reducing human understanding, agency, or recoverability"
+    ]
+  },
+
+  "restricted_governance_zone": {
+    "definition": "AI applications requiring heightened stewardship review due to potential impact on participation, dignity, or long-term viability.",
+    "domains": [
+      "bodily safety",
+      "legal rights",
+      "housing",
+      "healthcare",
+      "education",
+      "employment",
+      "public services",
+      "military and policing decisions",
+      "children and vulnerable populations",
+      "ecological systems",
+      "critical infrastructure",
+      "democratic participation",
+      "public knowledge and information integrity"
+    ],
+    "constraint": "AI may support human judgment in these domains but may not eliminate accountable human responsibility."
+  },
+
+  "permitted_stewardship_zone": {
+    "definition": "AI applications that are presumptively admissible because they expand recoverable participation.",
+    "examples": [
+      "reducing unnecessary informational burden",
+      "increasing human understanding",
+      "expanding accessibility",
+      "supporting care work",
+      "improving coordination without removing participation",
+      "making hidden burdens visible",
+      "strengthening recoverability after disruption",
+      "preserving and expanding human capability",
+      "reducing ecological or infrastructural strain",
+      "supporting future stewardship"
+    ]
+  },
+
+  "stewardship_review_test": {
+    "questions": [
+      "Participation: Does the system preserve or expand meaningful human participation?",
+      "Human Kernel: Does the system preserve the human capacities necessary for future stewardship, understanding, repair, and governance?",
+      "Capability: Does it increase human understanding, agency, or recoverability?",
+      "Burden Transfer: What burdens move, and can the receiving systems recover?",
+      "Physical Viability: Does it preserve the ecological, energetic, infrastructural, and social conditions required for participation?",
+      "Personhood: Does it treat persons as protected participants rather than selectable losses?",
+      "Accountability: Is a human or institution answerable for the consequences?",
+      "Future Accessibility: Does the system preserve or expand the range of meaningful futures available to present and future participants?"
+    ],
+    "failure_rules": {
+      "personhood_failure": "categorically disqualifying",
+      "human_kernel_failure": "requires redesign or rejection",
+      "physical_viability_failure": "requires redesign or rejection",
+      "participation_failure": "requires redesign or rejection",
+      "unresolved_burden_transfer": "requires further review",
+      "future_accessibility_loss": "requires justification, mitigation, or redesign"
+    }
+  },
+
+  "autonomous_weapons_constraint": {
+    "statement": "No autonomous optimization system may classify a human being as a removable solution to an optimization problem.",
+    "interpretation": "Artificial intelligence may assist with protection, evacuation, medical response, logistics, de-escalation, and harm reduction, but it may not independently determine which human beings should be eliminated."
+  },
+
+  "governance_purpose": {
+    "statement": "The purpose of AI governance is not to restrict technology for its own sake. The purpose is to ensure that increased informational capability does not reduce recoverable human futures.",
+    "interpretation": "A good AI system carries informational burdens in ways that preserve human capacity for care, judgment, relationship, creativity, stewardship, and participation."
+  },
+
+  "deep_consequences": [
+    "AI is a burden redistribution technology",
+    "capability without stewardship is insufficient",
+    "informational gains do not justify physical viability loss",
+    "burdens must be traced across people, institutions, ecosystems, and generations",
+    "human personhood is a constraint on optimization rather than a variable within it",
+    "humanity is a protected kernel of long-term recoverability",
+    "preserving human survival is insufficient if human capacities for future stewardship are degraded",
+    "human understanding, agency, and repair capacity are critical forms of participation",
+    "the purpose of AI is to expand human capability rather than replace the conditions that make human capability possible",
+    "AI governance must preserve recoverable human futures"
+  ],
+
+  "repository_connections": [
+    "Dual Stewardship Criterion for Artificial Intelligence",
+    "Protected Kernel Selection Principle",
+    "Atlas of Protected Kernel Geometry",
+    "Unconditional Personhood Principle",
+    "Human Dignity as Safe Sovereign Participation",
+    "Future Stewardship Principle",
+    "Conservation of Burden Principle",
+    "Resources Are Allocated Among Persons Principle",
+    "Policy Evaluation Criteria",
+    "Governance Primitives",
+    "Viability Geometry"
+  ],
+
+  "lock_statement": "The measure of artificial intelligence is not how much humanity can be removed from a system. The measure of artificial intelligence is how much viable human participation can be preserved and expanded within it. AI is a stewardship technology only when it carries burdens in ways that preserve human dignity, future accessibility, physical viability, and the human capacities required for future stewardship across generations."
+}
