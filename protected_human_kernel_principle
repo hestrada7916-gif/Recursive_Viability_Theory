@@ -1,0 +1,98 @@
+{
+  "artifact_id": "protected_human_kernel_principle",
+
+  "title": "Protected Human Kernel Principle",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Portable Civic Core",
+
+  "type": "human_stewardship_capacity_preservation_constraint",
+
+  "canonical_statement": "A healthy artificial intelligence civilization must preserve the human capacities necessary for future recoverability.",
+
+  "deep_compression": "Humans are not the obsolete component of civilization. Humans are the recoverability layer of civilization.",
+
+  "primitive_preservation_principle": {
+    "statement": "Human beings are not merely beneficiaries of artificial intelligence systems. Humanity itself constitutes a protected kernel of future recoverability. Artificial intelligence may carry informational burdens, but it must not eliminate the human capacities required to understand, maintain, govern, repair, and intentionally transform the systems upon which future human participation depends.",
+    "interpretation": "The purpose of AI stewardship is not merely to preserve human survival, but to preserve humanity's continuing ability to steward the future."
+  },
+
+  "human_capability_preservation_principle": {
+    "statement": "Technological efficiency does not constitute a net stewardship gain when it is achieved through irreversible degradation of the human capacities necessary for future recoverability.",
+    "equation": "efficiency_without_human_capability = recoverability_loss",
+    "interpretation": "A civilization may increase short-term capability while reducing long-term adaptive capacity if it externalizes judgment, knowledge, maintenance, creativity, governance, or care into systems that humans can no longer understand or guide."
+  },
+
+  "human_regeneration_principle": {
+    "statement": "Human beings constitute the regenerative substrate through which civilization maintains, repairs, governs, and transforms itself.",
+    "deep_compression": "Civilization survives because humans remain capable of renewing it.",
+    "interpretation": "A civilization that preserves its technological structures while losing the human capacities required to understand, maintain, repair, and ethically govern them has preserved structure while losing recoverability."
+  },
+
+  "protected_human_capacities": [
+    "agency and meaningful choice",
+    "judgment and practical wisdom",
+    "understanding and knowledge formation",
+    "creativity and imagination",
+    "care, empathy, and relationship",
+    "cultural transmission and meaning-making",
+    "local knowledge and contextual adaptation",
+    "individual and collective problem solving",
+    "the capacity to maintain, repair, govern, and transform technological, social, and ecological systems",
+    "the ability to recognize burden, make preservation selections, and reopen suppressed futures"
+  ],
+
+  "formal_stewardship_conditions": {
+    "failure_condition": {
+      "equation": "Delta_C_AI > 0 and Delta_V_human < 0 => stewardship_failure",
+      "interpretation": "Increasing artificial intelligence capability through degradation of human recoverability constitutes a failure of stewardship."
+    },
+
+    "positive_condition": {
+      "equation": "Delta_C_AI > 0 and Delta_V_human >= 0 => potential_stewardship_gain",
+      "interpretation": "Artificial intelligence capability constitutes a potential stewardship gain when it preserves or expands human capacity for future participation, adaptation, and recoverability."
+    },
+
+    "variables": {
+      "Delta_C_AI": "change in artificial intelligence capability",
+      "Delta_V_human": "change in human recoverable participation and stewardship capacity"
+    }
+  },
+
+  "critical_governance_question": {
+    "incorrect_question": "What can artificial intelligence do instead of humans?",
+    "correct_question": "What burdens can artificial intelligence carry while preserving human capacity to remain capable participants and future stewards?"
+  },
+
+  "failure_modes": [
+    "increasing efficiency while degrading human understanding",
+    "creating dependency while reducing human capability",
+    "externalizing judgment in ways that erode practical wisdom",
+    "eliminating opportunities for meaningful participation",
+    "concentrating knowledge in systems humans can no longer maintain or govern",
+    "preserving technological capability while degrading civilizational adaptability",
+    "optimizing short-term performance at the cost of long-term human recoverability"
+  ],
+
+  "relation_to_viability_geometry": {
+    "statement": "Human stewardship capacity is a protected recoverability structure.",
+    "interpretation": "Human beings remain the agents capable of recognizing burdens, selecting protected structures, repairing failures, governing tradeoffs, and generating new future accessibility.",
+    "viability_relation": "AI enters the burden cycle as a management tool; humanity remains the layer responsible for stewardship of future accessibility."
+  },
+
+  "repository_connections": [
+    "Artificial Intelligence Stewardship Framework",
+    "Dual Stewardship Criterion for Artificial Intelligence",
+    "Atlas Protected Kernel Selection Principle",
+    "Unconditional Personhood Principle",
+    "Human Dignity as Safe Sovereign Participation",
+    "Future Stewardship Principle",
+    "Conservation of Burden Principle",
+    "Viability Geometry",
+    "Recoverable Path Principle",
+    "Reopening Geometry"
+  ],
+
+  "lock_statement": "A civilization that replaces its stewards may preserve its machinery while losing its future. Artificial intelligence constitutes a stewardship gain only when it carries burdens in ways that preserve and expand the human capacities required to understand, maintain, govern, repair, and transform the systems upon which recoverable human futures depend."
+}
