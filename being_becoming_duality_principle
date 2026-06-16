@@ -1,0 +1,144 @@
+{
+  "artifact_id": "being_becoming_duality_principle",
+
+  "title": "The Being–Becoming Duality",
+
+  "status": "repository_lock_v1",
+
+  "framework": "Viability Geometry",
+
+  "type": "primitive_ontological_bifurcation",
+
+  "canonical_statement":
+  "Difference gives rise simultaneously to the possibility of becoming and the burden of being.",
+
+  "deep_compression":
+  "To become is to inherit the burden of being.",
+
+  "primitive_ontology": {
+
+    "existence": {
+      "statement":
+      "Existence is difference.",
+      "interpretation":
+      "A system exists only insofar as it possesses distinguishable structure. Without difference, there is no identifiable state, boundary, relation, or organization."
+    },
+
+    "becoming": {
+      "statement":
+      "Becoming is ordered difference.",
+      "interpretation":
+      "Transformation arises when differences are related through admissible sequences. Ordered difference generates histories, trajectories, and possible futures."
+    },
+
+    "being": {
+      "statement":
+      "Being is stable difference.",
+      "interpretation":
+      "A persistent entity is a distinction that maintains itself across time. The continued existence of any structure therefore requires maintenance."
+    },
+
+    "viability": {
+      "statement":
+      "Viability is recoverable ordered difference.",
+      "interpretation":
+      "A system remains viable when its transformations preserve sufficient accessibility to continue becoming after disturbance."
+    },
+
+    "agency": {
+      "statement":
+      "Agency is the preservation of recoverable ordered difference.",
+      "interpretation":
+      "An agent actively participates in maintaining the conditions necessary for continued viable transformation."
+    },
+
+    "life": {
+      "statement":
+      "Life is self-preserving recoverable ordered difference.",
+      "interpretation":
+      "Living systems close the maintenance loop upon themselves and continuously regulate their own continued viability."
+    }
+  },
+
+  "difference_bifurcation": {
+
+    "principle":
+    "The moment a difference exists, two fundamental questions emerge: What can this difference become, and what must this difference preserve in order to continue being?",
+
+    "formation_branch": {
+
+      "question":
+      "What can difference become?",
+
+      "flow":
+      "Difference → Field → Interaction → Transport → Network",
+
+      "interpretation":
+      "The formation branch describes the emergence of increasingly coordinated organization. Difference generates gradients, gradients generate interactions, interactions generate transport, and repeated transport creates networks capable of coordinated function."
+    },
+
+    "maintenance_branch": {
+
+      "question":
+      "What must difference preserve in order to remain?",
+
+      "flow":
+      "Difference → Distinguishability → Burden → Recoverability",
+
+      "interpretation":
+      "The maintenance branch describes the cost of persistence. Distinction creates identity, identity requires maintenance, maintenance creates burden, and burden must remain recoverable for continued existence."
+    }
+  },
+
+  "viability_intersection": {
+
+    "formal_relation":
+    "V = G ∩ M",
+
+    "where": {
+
+      "G":
+      "generative accessibility and capacity for becoming",
+
+      "M":
+      "maintenance recoverability and capacity for continued being"
+
+    },
+
+    "interpretation":
+    "Viability occurs only when a system possesses both the capacity to generate new organization and the capacity to preserve itself across transformation."
+  },
+
+  "transport_and_transition_geometry": {
+
+    "percolation":
+    "Percolation determines whether accessibility can propagate through a system. It is the transport layer of becoming.",
+
+    "corridors":
+    "Corridors determine whether phase transitions can be traversed. They are the transition layer of becoming.",
+
+    "retention":
+    "Retention determines whether recoverable structure survives transformation. It is the survivability layer of becoming."
+  },
+
+  "relation_to_conservation_of_burden": {
+
+    "principle":
+    "The maintenance burden of a distinguishable structure cannot be eliminated. It can only be carried, transformed, transferred, deferred, or redistributed.",
+
+    "interpretation":
+    "The cost of existence is maintenance. Every act of becoming inherits the obligation of being."
+  },
+
+  "universal_viability_question": {
+
+    "question":
+    "Can a system carry the burden of being while preserving the possibility of future becoming?",
+
+    "interpretation":
+    "This is the universal viability problem shared by stars, ecosystems, living organisms, minds, societies, and civilizations."
+  },
+
+  "lock_statement":
+  "Difference is the primitive condition of existence. The emergence of difference simultaneously creates two irreversible realities: the possibility of becoming and the burden of being. Formation dynamics govern how differences generate increasingly coordinated structures, while maintenance dynamics govern whether those structures can survive across time. Viability exists at their intersection. A system must be able to become without destroying its capacity to continue being, and it must continue being without eliminating its capacity for future becoming. Thus, the universal problem of viability is whether a system can carry the burden of being while preserving the possibility of becoming."
+}
