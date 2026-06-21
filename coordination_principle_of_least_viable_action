@@ -1,0 +1,102 @@
+{
+"artifact_id": "coordination_principle_of_least_viable_action",
+
+"title": "Coordination Principle of Least Viable Action",
+
+"status": "repository_lock_v1",
+
+"framework": "Spectral Coordination Theory",
+
+"type": "variational_coordination_principle",
+
+"canonical_statement": "Coordination emerges through the minimization of total maintenance burden subject to the preservation of viability.",
+
+"deep_compression": "Coordination selects the cheapest future that still exists.",
+
+"primitive_principle": {
+"statement": "Adaptive systems cannot maximize every objective simultaneously. Coordination therefore emerges not through unconstrained optimization, but through the minimization of total maintenance burden while preserving the possibility of continued coordination.",
+"interpretation": "The optimal configuration is the least costly state that remains viable."
+},
+
+"coordination_action": {
+"definition": "The coordination action measures total maintenance burden relative to generated asymmetry.",
+"equation": "E(l) = l + chi(l) - log(E(1-E))",
+"equivalent_relation": "E(l) = -R(l)",
+"variables": {
+"l": "structural scale",
+"chi(l)": "accumulated transport cost",
+"R(l)": "coordination residual",
+"E": "asymmetry parameter"
+}
+},
+
+"variational_principle": {
+"statement": "Coordination is realized by minimizing action subject to viability.",
+"equation": "l* = argmin_{R(l) >= 0} E(l)",
+"interpretation": "The realized coordination state minimizes maintenance burden while remaining viable."
+},
+
+"boundary_formulation": {
+"statement": "The optimum occurs at the maximal admissible scale.",
+"equation": "l* = sup{ l : R(l) >= 0 }",
+"boundary_condition": "R(l*) = 0",
+"interpretation": "Coordination is realized on the viability boundary."
+},
+
+"statistical_realization": {
+"statement": "The variational optimum becomes statistically realized under sufficient coordination potential.",
+"gibbs_measure": "p_i = (1/Z) exp(Phi * R_i)",
+"selection_condition": "Phi > Phi_c",
+"realization_limit": "p_i -> delta(i,i*)",
+"optimal_state": "i* = argmin_{R >= 0} E = argmax R",
+"interpretation": "Sufficient coupling concentrates probability on the least viable action state."
+},
+
+"equivalence_principle": {
+"statement": "Variational optimality, boundary realization, and Gibbs concentration are equivalent descriptions of coordination.",
+"equivalence_chain": [
+"argmin_{R >= 0} E",
+"R(l*) = 0",
+"p -> delta(l*)"
+]
+},
+
+"relation_to_coordination_phase_law": {
+"statement": "The Coordination Principle of Least Viable Action determines the realized state within the admissible coordination phase.",
+"admissibility_condition": "R > 0",
+"selection_condition": "Phi > Phi_c",
+"result": "Ground coordination phase"
+},
+
+"relation_to_coordination_realization_law": {
+"statement": "The Coordination Realization Law provides the statistical mechanism through which the least viable action state becomes realized.",
+"realization_condition": "R > 0 and Phi > Phi_c"
+},
+
+"relation_to_generative_preservation": {
+"statement": "Under scarcity, least viable action increasingly favors preservation of generative structures because they maximize recoverability per unit maintenance burden.",
+"interpretation": "Generative preservation is the protected-kernel manifestation of least viable action."
+},
+
+"universal_interpretation": {
+"statement": "The principle appears wherever finite systems must allocate maintenance resources.",
+"domains": {
+"biology": "Preserve regenerative capacity rather than maximum tissue volume.",
+"ecology": "Preserve reproductive populations rather than maximum biomass.",
+"cognition": "Preserve learning capacity rather than maximum stored information.",
+"communities": "Preserve caregiving and trust networks rather than maximum institutional complexity.",
+"civilizations": "Preserve stewardship capacity rather than maximum accumulated infrastructure."
+}
+},
+
+"central_insight": {
+"statement": "Viable systems select the minimum burden compatible with continuation."
+},
+
+"signature_equation": {
+"equation": "l* = argmin_{R >= 0} E <=> R(l*) = 0 <=> p -> delta(l*)",
+"interpretation": "Least viable action, boundary realization, and Gibbs concentration are equivalent descriptions of realized coordination."
+},
+
+"lock_statement": "Coordination emerges through the minimization of total maintenance burden subject to the preservation of viability. The realized coordination state is the least costly configuration that remains viable, occurring at the viability boundary where generated asymmetry exactly balances accumulated structural and transport costs. Under sufficient coordination potential, probability concentrates on this least viable action state, making variational optimality, boundary realization, and statistical realization equivalent descriptions of coordination."
+}
