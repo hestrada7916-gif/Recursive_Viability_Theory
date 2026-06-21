@@ -1,0 +1,128 @@
+{
+"artifact_id": "viability_selection_cascade",
+
+"title": "Viability Selection Cascade",
+
+"status": "repository_lock_v1",
+
+"framework": "Viability Geometry",
+
+"type": "finite_burden_selection_dynamics",
+
+"canonical_statement": "Finite maintenance capacity creates scarcity, scarcity creates selection pressure, and selection pressure drives systems toward protected kernels that preserve recoverability and viability.",
+
+"deep_compression": "Scarcity reveals what must survive.",
+
+"primitive_flow": [
+"Maintenance Burden",
+"Scarcity",
+"Selection Pressure",
+"Least Viable Action",
+"Protected Kernel Selection",
+"Generative Preservation",
+"Recoverability",
+"Viability"
+],
+
+"cascade": {
+"maintenance_burden": {
+"statement": "Every distinguishable structure requires maintenance.",
+"interpretation": "As maintenance burden accumulates, preservation capacity becomes constrained."
+},
+
+"scarcity": {
+  "statement": "Finite maintenance capacity creates scarcity.",
+  "interpretation": "Not everything can be preserved."
+},
+
+"selection_pressure": {
+  "statement": "Scarcity forces prioritization.",
+  "interpretation": "Preservation choices become increasingly consequential."
+},
+
+"least_viable_action": {
+  "statement": "Systems preferentially select the lowest-maintenance configuration capable of preserving continuation.",
+  "interpretation": "Coordination emerges through minimization of maintenance burden subject to viability."
+},
+
+"protected_kernel_selection": {
+  "statement": "Selection pressure reveals which structures possess the highest recoverability leverage.",
+  "interpretation": "These structures become protected kernels."
+},
+
+"generative_preservation": {
+  "statement": "Under severe scarcity, preservation shifts from maximizing retained structure toward preserving structures capable of regenerating structure.",
+  "interpretation": "Generative capacity increasingly dominates structural volume."
+},
+
+"recoverability": {
+  "statement": "Protected kernels preserve the ability to restore future accessibility following disruption.",
+  "interpretation": "Recoverability preserves the capacity to reopen viable futures."
+},
+
+"viability": {
+  "statement": "Recoverability preserves recoverable continuation.",
+  "interpretation": "Viability emerges as the final consequence of successful kernel preservation."
+}
+
+},
+
+"formal_cascade": {
+"relation": [
+"Maintenance Burden",
+"Scarcity",
+"Selection Pressure",
+"Least Viable Action",
+"Protected Kernel Selection",
+"Generative Preservation",
+"Recoverability",
+"Viability"
+],
+
+"compressed_relation": "Burden -> Scarcity -> Selection -> CPLVA -> Kernel Selection -> Generative Preservation -> Recoverability -> Viability"
+
+},
+
+"relation_to_coordination_principle_of_least_viable_action": {
+"statement": "The Coordination Principle of Least Viable Action provides the variational mechanism through which scarcity-induced selection pressure identifies protected kernels.",
+"interpretation": "Kernel selection emerges from constrained minimization of maintenance burden."
+},
+
+"relation_to_protected_kernel_selection": {
+"question": "What must be preserved?",
+"answer": "The structures with the highest recoverability leverage under finite maintenance capacity."
+},
+
+"relation_to_generative_preservation": {
+"statement": "Under increasing scarcity, optimal kernels become progressively enriched in generative structures.",
+"interpretation": "Generative preservation is the scarcity-limit behavior of kernel optimization."
+},
+
+"central_insight": {
+"statement": "The path from burden to viability runs through scarcity. Finite systems do not preserve everything. They preserve what allows recovery."
+},
+
+"universal_interpretation": {
+"statement": "The cascade appears across scales. The substrate changes. The cascade remains.",
+
+"examples": {
+  "biology": "Burden -> Scarcity -> Stem Cells -> Regeneration",
+  "ecology": "Burden -> Scarcity -> Keystone Species -> Recovery",
+  "communities": "Burden -> Scarcity -> Care Networks -> Resilience",
+  "civilizations": "Burden -> Scarcity -> Stewardship Capacity -> Continuation"
+}
+
+},
+
+"research_predictions": {
+"predictions": [
+"Increasing maintenance burden should produce kernel contraction.",
+"Increasing scarcity should increase selection pressure.",
+"Optimal kernels should become progressively enriched in generative structures.",
+"Recoverability should correlate more strongly with generative capacity than with preserved structural volume under severe scarcity.",
+"Systems preserving generative kernels should exhibit superior post-disruption recovery."
+]
+},
+
+"lock_statement": "Finite maintenance capacity creates scarcity. Scarcity generates selection pressure, forcing systems toward least-burden viable configurations. These pressures reveal protected kernels, and under severe scarcity optimal kernels increasingly preserve generative structures rather than accumulated structure. Generative preservation maintains recoverability, and recoverability preserves viability. The resulting cascade describes how finite systems transform maintenance constraints into recoverable continuation."
+}
