@@ -1,0 +1,116 @@
+{
+"artifact_id": "generative_preservation_principle",
+
+"title": "Generative Preservation Principle",
+
+"status": "repository_lock_v1",
+
+"framework": "Viability Geometry",
+
+"type": "scarcity_constrained_recoverability_preservation",
+
+"canonical_statement": "Under severe repair constraints, future recoverability depends more on preserved generative capacity than preserved structural volume.",
+
+"deep_compression": "When repair capacity is low, preserve the structures that can regenerate structure.",
+
+"primitive_principle": {
+"statement": "Finite systems facing severe maintenance constraints cannot preserve all existing structures simultaneously. As available repair capacity decreases, preservation strategies that maximize retained structural volume become progressively less effective than strategies that preserve the mechanisms capable of generating new recoverable structure. Consequently, viability increasingly depends upon preserving generative capacity rather than accumulated structure.",
+"interpretation": "Under severe scarcity, regeneration becomes more important than accumulation."
+},
+
+"ontological_position": {
+"statement": "Scarcity creates selection pressure. Selection pressure contracts protected kernels. Protected kernels preserve recoverability. Under severe scarcity, recoverability depends increasingly upon regeneration.",
+"cascade": [
+"Scarcity",
+"Kernel Contraction",
+"Generative Preservation",
+"Recoverability",
+"Viability"
+]
+},
+
+"formal_relation": {
+"statement": "As repair capacity decreases, preservation priority shifts from structural volume toward regenerative leverage.",
+"relation": "B ↓ ⇒ Protect generators rather than aggregates.",
+"variables": {
+"B": "available repair capacity"
+}
+},
+
+"protected_kernel_selection_relation": {
+"question": "What must be preserved?",
+"answer_under_scarcity": "Preserve the structures capable of recreating future structure.",
+"interpretation": "Generative Preservation provides a scarcity-constrained criterion for protected kernel selection."
+},
+
+"kernel_optimization_relation": {
+"statement": "Kernel optimization seeks maximal recoverability per unit maintenance burden.",
+"interpretation": "Generative structures frequently possess exceptionally high recoverability leverage because they can recreate capabilities that are temporarily lost.",
+"consequence": "As scarcity increases, optimal kernels become increasingly biased toward generative structures."
+},
+
+"recoverability_relation": {
+"statement": "Recoverability requires more than persistence.",
+"interpretation": "Recoverability requires the ability to regenerate accessibility following disruption.",
+"consequence": "Generative structures contribute disproportionately to future recovery capacity."
+},
+
+"future_accessibility_relation": {
+"statement": "Future accessibility is often preserved more effectively by maintaining generators of possibility than by preserving existing realized possibilities.",
+"interpretation": "Generative capacity functions as a future-accessibility multiplier."
+},
+
+"structural_volume_vs_generative_capacity": {
+"volume_preservation": {
+"definition": "Preserve the largest quantity of existing structure."
+},
+"generative_preservation": {
+"definition": "Preserve the smallest set of structures capable of recreating future structure."
+},
+"comparison": {
+"abundant_resources": "Both strategies may succeed.",
+"severe_scarcity": "Generative preservation frequently dominates."
+}
+},
+
+"universal_interpretation": {
+"statement": "The principle appears across scales. The substrate changes. The generative logic remains.",
+"domains": {
+"biology": [
+"stem cells",
+"reproductive systems",
+"regenerative pathways"
+],
+"ecology": [
+"keystone species",
+"reproductive populations"
+],
+"cognition": [
+"learning capacity",
+"adaptive reasoning"
+],
+"communities": [
+"caregivers",
+"teachers",
+"organizers",
+"trust networks"
+],
+"civilizations": [
+"stewardship capacity",
+"knowledge generation",
+"adaptive institutions"
+]
+}
+},
+
+"research_prediction": {
+"prediction": "As scarcity increases, protected kernels shrink, structural volume decreases, and generative structures become increasingly represented within optimal kernels.",
+"expected_observation": "The final protected kernel should contain disproportionately high generative capacity."
+},
+
+"central_insight": {
+"statement": "The most valuable structure is not the one that survives. It is the one capable of recreating what does not survive."
+},
+
+"lock_statement": "Under severe repair constraints, future recoverability depends more on preserved generative capacity than preserved structural volume. As maintenance resources become scarce, optimal preservation strategies shift from protecting the greatest quantity of existing structure toward protecting the mechanisms capable of generating new recoverable structure. Consequently, the most important structures under severe scarcity are not those that contain the most organization, but those capable of regenerating organization following loss."
+}
