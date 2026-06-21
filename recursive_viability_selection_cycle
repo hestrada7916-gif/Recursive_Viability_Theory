@@ -1,0 +1,59 @@
+{
+"artifact_id": "recursive_viability_selection_cycle",
+
+"title": "Recursive Viability Selection Cycle",
+
+"status": "repository_lock_v1",
+
+"framework": "Recursive Viability Theory",
+
+"type": "finite_burden_recursive_selection_dynamics",
+
+"canonical_statement": "Finite maintenance capacity creates scarcity, scarcity creates selection pressure, selection pressure preserves recoverability, recoverability preserves viability, and viability recreates the conditions that generate future maintenance burden.",
+
+"deep_compression": "Scarcity reveals what must survive, and survival recreates the conditions for scarcity.",
+
+"cycle": [
+"Maintenance Burden",
+"Scarcity",
+"Selection Pressure",
+"Least Viable Action",
+"Protected Kernel Selection",
+"Generative Preservation",
+"Recoverability",
+"Viability",
+"Accumulated Structure",
+"Maintenance Burden"
+],
+
+"primitive_principle": {
+"statement": "Every successful act of preservation creates future maintenance obligations. Consequently, viability does not terminate selection dynamics. It recursively regenerates them.",
+"interpretation": "Survival recreates the conditions that make future selection necessary."
+},
+
+"recursive_relation": {
+"statement": "Recoverable continuation generates new distinguishable structure. Distinguishable structure requires maintenance. Maintenance burden recreates scarcity.",
+"relation": "Viability -> Structure -> Maintenance Burden -> Scarcity"
+},
+
+"formal_cycle": {
+"relation": [
+"Maintenance Burden",
+"Scarcity",
+"Selection Pressure",
+"Least Viable Action",
+"Protected Kernel Selection",
+"Generative Preservation",
+"Recoverability",
+"Viability",
+"Accumulated Structure",
+"Maintenance Burden"
+]
+},
+
+"central_insight": {
+"statement": "Viability is not the end of selection. Viability recursively regenerates the conditions under which selection becomes necessary."
+},
+
+"lock_statement": "Finite maintenance capacity creates scarcity. Scarcity generates selection pressure, forcing systems toward least-burden viable configurations. These pressures reveal protected kernels and increasingly favor generative preservation under severe constraints. Generative preservation maintains recoverability, recoverability preserves viability, and viability recreates future maintenance obligations. The resulting cycle recursively regenerates the conditions that make selection necessary."
+}
