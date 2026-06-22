@@ -1,0 +1,76 @@
+{
+  "artifact_id": "passive_active_selection_modes",
+  "title": "Passive and Active Selection Modes",
+  "status": "repository_lock_candidate",
+  "framework": "Viability Geometry",
+  "type": "finite_burden_selection_dynamics",
+
+  "canonical_statement": "Scarcity produces selection, but systems differ in whether selection is suffered passively or performed intentionally.",
+
+  "deep_compression": "Scarcity selects passively unless a system can choose what to preserve.",
+
+  "primitive_principle": {
+    "statement": "When burden exceeds available maintenance capacity, scarcity emerges. Scarcity creates selection pressure. In systems without sufficient agency, modeling, or coordination capacity, selection occurs passively through environmental filtering. In systems with sufficient agency and coordination capacity, scarcity may be converted into intentional preservation strategy.",
+    "interpretation": "Selection becomes active when a system can participate in deciding what must be preserved."
+  },
+
+  "selection_modes": {
+    "passive_selection": {
+      "equation": "burden -> scarcity -> environmental_selection",
+      "interpretation": "When a system lacks sufficient agency, modeling, or coordination capacity, scarcity selects through environmental pressure. The system is filtered by conditions it does not intentionally govern."
+    },
+
+    "active_selection": {
+      "equation": "burden -> scarcity -> CPLVA -> intentional_selection",
+      "interpretation": "When a system possesses sufficient agency, modeling, and coordination capacity, scarcity can be translated into intentional preservation strategy through the Coordination Principle of Least Viable Action."
+    }
+  },
+
+  "cplva_bridge_principle": {
+    "statement": "CPLVA converts scarcity pressure into selection policy.",
+    "equation": "scarcity -> CPLVA -> intentional_selection",
+    "interpretation": "The Coordination Principle of Least Viable Action identifies the minimum viable preservation action needed to maintain recoverable continuation under finite burden."
+  },
+
+  "agency_condition": {
+    "statement": "The transition from passive to active selection requires agency.",
+    "equation": "agency + modeling + coordination -> intentional_selection",
+    "interpretation": "A system can perform selection only when it can detect scarcity, evaluate consequences, coordinate action, and preserve selected structures intentionally."
+  },
+
+  "relation_to_atlas": {
+    "equation": "burden -> scarcity -> CPLVA -> K_star",
+    "interpretation": "Active selection links scarcity dynamics to protected kernel selection. Under finite maintenance capacity, CPLVA helps determine which protected kernel should be carried forward."
+  },
+
+  "relation_to_recoverability": {
+    "statement": "Active selection preserves recoverability by choosing what must remain protected under scarcity.",
+    "interpretation": "Passive selection may preserve whatever survives environmental filtering. Active selection attempts to preserve the structures most necessary for future recoverability."
+  },
+
+  "deep_consequences": [
+    "burden creates scarcity",
+    "scarcity creates selection pressure",
+    "selection may be passive or active",
+    "passive selection is environmental filtering",
+    "active selection is intentional preservation under constraint",
+    "agency determines whether selection is suffered or performed",
+    "CPLVA converts scarcity pressure into selection policy",
+    "protected kernel selection is the active form of scarcity response",
+    "intentional selection requires modeling, coordination, and recoverability awareness",
+    "viable systems increasingly participate in their own preservation"
+  ],
+
+  "repository_connections": [
+    "Conservation of Burden Principle",
+    "Atlas Protected Kernel Selection Principle",
+    "Coordination Principle of Least Viable Action",
+    "Recoverable Continuation Principle",
+    "Future Accessibility Principle",
+    "Protected Kernel Selection Principle",
+    "Recursive Viability Selection Cycle",
+    "Viability Geometry"
+  ],
+
+  "lock_statement": "Burden creates scarcity, and scarcity creates selection pressure. When systems lack agency, modeling, or coordination capacity, selection occurs passively through environmental filtering. When systems can detect scarcity and coordinate preservation, CPLVA converts scarcity pressure into intentional selection. Active selection is therefore the recoverability-aware form of finite-burden response."
+}
