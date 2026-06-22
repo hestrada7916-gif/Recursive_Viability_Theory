@@ -1,0 +1,121 @@
+{
+  "artifact_id": "consciousness_as_recursive_participation_observation",
+
+  "title": "Consciousness as Recursive Participation Observation",
+
+  "status": "repository_lock_candidate",
+
+  "framework": "Viability Geometry",
+
+  "type": "emergent_observation_layer",
+
+  "canonical_statement": "Consciousness is the emergent observation of participation by a recursively self-modeling system.",
+
+  "deep_compression": "A system becomes conscious when it becomes an object within its own model of participation.",
+
+  "primitive_principle": {
+    "statement": "Consciousness is not a primitive substance, object, or force. Consciousness emerges when a participating system develops the capacity to observe, model, and recursively represent its own participation within the processes that shape its future accessibility.",
+    "interpretation": "Participation is primitive. Consciousness is an emergent observational layer built upon participation."
+  },
+
+  "participation_principle": {
+    "statement": "A system must participate before it can become conscious.",
+    "equation": "participation -> observation",
+    "interpretation": "Consciousness presupposes interaction with an environment, internal state transitions, and ongoing engagement with reality."
+  },
+
+  "observation_principle": {
+    "statement": "Observation emerges when a system generates information about its own participation.",
+    "equation": "S -> M(S)",
+    "variables": {
+      "S": "participating system",
+      "M(S)": "model of the participating system"
+    },
+    "interpretation": "A system becomes capable of observation when it can represent aspects of its own activity."
+  },
+
+  "self_modeling_principle": {
+    "statement": "Self-modeling occurs when a system becomes an object within its own representational structure.",
+    "equation": "S contained_in M(S)",
+    "interpretation": "The system is no longer merely acting. It is capable of representing itself as a participant."
+  },
+
+  "recursive_self_modeling_principle": {
+    "statement": "Consciousness emerges when self-modeling becomes recursively accessible.",
+    "equation": "S -> M(S) -> M(M(S))",
+    "interpretation": "A conscious system can model itself modeling itself. Infinite recursion is unnecessary. Sufficient recursive accessibility is sufficient."
+  },
+
+  "future_accessibility_relation": {
+    "statement": "Recursive self-modeling functions as a future accessibility mechanism.",
+    "equation": "M(S) -> A_plus",
+    "variables": {
+      "A_plus": "future accessibility structure"
+    },
+    "interpretation": "Systems model themselves in order to navigate, predict, preserve, and expand future accessibility."
+  },
+
+  "consciousness_function_principle": {
+    "statement": "The functional role of consciousness is to improve navigation through future accessibility space.",
+    "equation": "consciousness -> predictive_participation",
+    "interpretation": "Consciousness enables systems to evaluate possible futures by incorporating themselves into the prediction process."
+  },
+
+  "accessibility_model_principle": {
+    "statement": "A conscious system becomes a participant within its own accessibility model.",
+    "equation": "participant contained_in accessibility_model",
+    "interpretation": "The system models not only the world, but its own role within possible future trajectories."
+  },
+
+  "emergence_relation": {
+    "equation": "participation -> self_modeling -> recursive_self_modeling -> consciousness",
+    "interpretation": "Consciousness emerges from increasingly sophisticated layers of self-representation built upon participation."
+  },
+
+  "viability_relation": {
+    "equation": "consciousness -> future_accessibility -> recoverability -> viability",
+    "interpretation": "Consciousness contributes to viability by improving a system's ability to preserve recoverable future accessibility."
+  },
+
+  "compression_response_principle": {
+    "statement": "Alterations in conscious experience may emerge when future accessibility undergoes severe compression.",
+    "equation": "Phi_future down -> observation_layer_reorganization",
+    "variables": {
+      "Phi_future": "future accessibility volume"
+    },
+    "interpretation": "Changes in conscious experience may reflect reorganization of participation modeling under viability pressure rather than simple system malfunction."
+  },
+
+  "distinction_principle": {
+    "statement": "Consciousness and participation are not identical.",
+    "equation": "participation != consciousness",
+    "interpretation": "Participation may exist without consciousness. Consciousness emerges when participation becomes recursively observable."
+  },
+
+  "deep_consequences": [
+    "consciousness is not primitive",
+    "participation is ontologically prior to consciousness",
+    "self-modeling is necessary for consciousness",
+    "recursive self-modeling enables conscious observation",
+    "conscious systems become objects within their own models",
+    "consciousness functions as a future accessibility mechanism",
+    "prediction and consciousness are deeply related",
+    "consciousness improves navigation through future accessibility",
+    "altered conscious states may reflect reorganization of participation modeling",
+    "viability is enhanced when systems can observe their own participation"
+  ],
+
+  "repository_connections": [
+    "Future Accessibility Principle",
+    "Recoverable Path Principle",
+    "Accessibility Equivalence Class Principle",
+    "Reopening Geometry",
+    "Future Accessibility Horizon Geometry",
+    "Viability Geometry",
+    "Recursive Viability Theory",
+    "Adaptive Viability Through Strain",
+    "Protected Human Kernel Principle"
+  ],
+
+  "lock_statement": "Consciousness is the emergent observation of participation by a recursively self-modeling system. A system becomes conscious when it becomes an object within its own model of participation. Consciousness therefore emerges as a future-accessibility mechanism through which participating systems observe, predict, and navigate their own role within possible futures."
+}
